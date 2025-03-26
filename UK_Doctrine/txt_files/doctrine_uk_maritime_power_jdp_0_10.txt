@@ -1,0 +1,2432 @@
+Development, Concepts and Doctrine Centre
+UK Maritime Power
+Joint Doctrine Publication 0-10 
+Fifth Edition
+
+[Page 2: No extractable text]
+
+Joint Doctrine Publication 0-10
+UK Maritime Power
+Joint Doctrine Publication 0-10 (JDP 0-10) (5th Edition),
+dated October 2017 , 
+is promulgated 
+as directed by the Chiefs of Staff
+Director Concepts and Doctrine
+i
+Conditions of release
+1.  This information is Crown copyright.  The Ministry of Defence (MOD) exclusively 
+owns the intellectual property rights for this publication.  You are not to forward, 
+reprint, copy, distribute, reproduce, store in a retrieval system, or transmit its 
+information outside the MOD without VCDS’ permission.
+2.  This information may be subject to privately owned rights.
+
+ii
+JDP 0-10 (5th Edition)
+Authorisation
+ 
+The Development, Concepts and Doctrine Centre (DCDC) is responsible for publishing 
+strategic trends, joint concepts and doctrine.  If you wish to quote our publications 
+as reference material in other work, you should confirm with our editors whether the 
+particular publication and amendment state remains authoritative.  We welcome your 
+comments on factual accuracy or amendment proposals.  Please send them to:
+The Development, Concepts and Doctrine Centre
+Ministry of Defence Shrivenham 
+SWINDON 
+Wiltshire 
+SN6 8RF 
+Telephone:                  01793 31 4216/4217/4220  
+Military network:      96161 4216/4217/4220  
+E-mail:       DCDC-DocEds@mod.gov.uk 
+All images, or otherwise stated are: © Crown copyright/MOD 2017. 
+Distribution
+ 
+Distributing Joint Doctrine Publication (JDP) 0-10 (5th Edition) is managed by the 
+Forms and Publications Section, LCSLS Headquarters and Operations Centre, C16 Site, 
+Ploughley Road, Arncott, Bicester, OX25 1LP .  All of our other publications, including 
+a regularly updated DCDC Publications Disk, can also be demanded from the LCSLS 
+Operations Centre. 
+LCSLS Help Desk:    01869 256197
+Military Network: 94240 2197
+Our publications are available to view and download on the Defence Intranet (RLI) at: 
+http://defenceintranet.diif.r.mil.uk/Organisations/Orgs/JFC/Organisations/Orgs/DCDC  
+This publication is also available on the Internet at: www.gov.uk/mod/dcdc
+
+JDP 0-10 (5th Edition)
+iii
+Foreword
+We are living through an era of almost unprecedented change characterised by 
+complexity, instability, uncertainty and the pervasiveness of information.  The 
+distinction between war and peace has blurred and adversaries, both state and  
+non-state, will continue to threaten the stability of the rules-based order as the basis 
+for peace and prosperity in the world.  Reflecting this complexity and instability, we 
+are witness to greater challenges at sea; ranging from smuggling, piracy and terrorism 
+in the arteries of world trade to disputes over the sovereignty of international waters.  
+As an island nation, and a trading power, our future continues to depend on our 
+ability to freely use the sea within the boundaries of international law.
+The growing complexity of these challenges calls for us to work ever more closely 
+with our sister Services and with our international partners.  As mariners, we in the 
+Royal Navy, the Royal Marines and the Royal Fleet Auxiliary instinctively appreciate 
+the importance of our ability to use the sea to protect, project and promote our 
+national interest.  The sea provides us with the ability to project forward a war 
+fighting presence without commitment.  We must be ever vigilant, whether 
+protecting our home waters, meeting our international commitments or promoting 
+our nation’s interests far from our home shores.  In each case, the need to deter is 
+constant – and when deterrence fails, we must be ready to fight and win.       
+This keystone environmental doctrine explores the requirement, roles and purpose 
+of UK maritime power.  It builds on the collective experience of previous editions 
+and provides a corporate knowledge that defines the Naval Service.  In preparing 
+ourselves for the challenges of the future we must be masters of our current 
+profession but have an awareness of what has gone before.  History and experience 
+have a place in forming our plans for the future but as a guide not a constraint.  This 
+doctrine exists to help us understand, to learn from history but more importantly to 
+think about and prepare for the challenges of the future.  It has been written primarily 
+for joint staffs, officials, allies and partners in industry.  I encourage you to read it 
+as a framework for understanding how maritime forces perform their vital role in 
+protecting our nation.
+Chief of Naval Staff/First Sea Lord
+
+
+iv
+JDP 0-10 (5th Edition)
+
+
+JDP 0-10 (5th Edition)
+v
+Preface
+Purpose
+1.  Joint Doctrine Publication (JDP) 0-10, UK Maritime Power is the keystone maritime 
+environment publication.  Drawing authority from JDP 0-01, UK Defence Doctrine , 
+which provides a broad philosophy on how Defence is employed, UK Maritime 
+Power brings together higher-level doctrine and Government policy, with enduring 
+maritime knowledge and experience.  It provides a basis of understanding of the 
+attributes and roles of maritime forces, and principally is designed to explain the 
+strategic requirement for maritime forces, and how they contribute to national power.
+Context
+2. The UK is an island nation and with that comes a maritime heritage that is 
+woven into our national history.  While this means that there is an inherent reliance 
+on the sea it also provides opportunities to use the sea in the pursuit of national 
+objectives.  The critical importance of the maritime environment to the UK’s economy 
+is addressed in detail later.  As the National Security Strategy and Strategic Defence and 
+Security Review 2015 noted, our economic security depends on our national security, 
+and vice versa, clearly indicating that any national strategy must pay due regard to the 
+importance of the maritime environment to the UK’s enduring prosperity.
+Scope
+3.  This fifth edition of JDP 0-10 draws on previous versions for enduring concepts 
+but looks to continue the joint theme initiated in the fourth edition.  Supporting this 
+joint approach it seeks to generate consistency across its sister publications; JDP 0-20, 
+UK Land Power and JDP 0-30, UK Air and Space Power , which has led to developing a 
+revised structure.  In addition, advice from numerous stakeholders has led us to revise 
+and develop some of the traditional themes.  Specifically, this edition:
+• provides a new broader definition for maritime power and discusses military 
+maritime power as a subset of this wider concept;
+• continues the joint nature of the maritime environment, namely it is not just 
+the preserve of navies;
+
+
+vi
+JDP 0-10 (5th Edition)
+• re-examines the traditional attributes and roles in the maritime environment; 
+and
+• demonstrates how maritime forces contribute to joint action.
+To ensure consistency across the maritime, land, air and space environments, the 
+content has been collated and verified from a wide range of sources.  The results have 
+then been rigorously peer reviewed and validated, and endorsed by all three Services 
+and Joint Forces Command.
+Audience
+4. This edition of JDP 0-10 seeks to inform a wide audience.  It should be of particular 
+value to the Joint Services Command and Staff College, joint commanders and staffs, 
+the broader Defence community and our allies, as well as elected representatives and 
+other government departments. 
+Structure
+5. JDP 0-10 is divided into four chapters.
+a. Chapter 1 – An introduction to maritime power.  Chapter 1 introduces the 
+maritime environment and explains why maritime power is important to the 
+UK.  It introduces and defines maritime power, provides an overview of the wider 
+maritime environment and the enduring utility of maritime forces.
+b. Chapter 2 – Maritime power in context.  Chapter 2 introduces the dimensions 
+of the maritime environment and explains why the maritime environment is 
+globally important.  It then focuses on national considerations and discusses how 
+maritime forces contribute to national security objectives. 
+c. Chapter 3 – The foundations of maritime power.  Chapter 3 builds on the 
+military dimension of maritime power.  Initially presenting the aspects of fighting 
+power provided in JDP 0-01, UK Defence Doctrine, it then introduces the inherent 
+attributes of maritime forces, while also highlighting some of the limitations 
+of operating in the maritime environment.  Finally, Chapter 3 describes the 
+principles that underpin the way maritime forces operate to project national 
+maritime power.
+
+
+JDP 0-10 (5th Edition)
+vii
+d. Chapter 4 – Employing maritime power.  Chapter 4 examines the three 
+roles of UK maritime forces – war fighting, maritime security and Defence 
+Engagement – and how they come together with the other elements of military 
+power to deliver joint action and the roles they undertake to support national 
+objectives.
+Linkages
+6. JDP 0-10, UK Maritime Power provides keystone maritime environment doctrine 
+within the UK Joint Doctrine Architecture, drawing from JDP 0-01, UK Defence 
+Doctrine (5th Edition) and sitting alongside existing joint environmental doctrine, JDP 
+0-20, UK Land Power and JDP 0-30, UK Air and Space Power .  It is also founded upon 
+an understanding of current policy, in particular the National Security Strategy and 
+Strategic Defence and Security Review 2015 and The UK National Strategy for Maritime 
+Security.  JDP 0-10 is coherent with North Atlantic Treaty Organization (NATO) 
+capstone doctrine, Allied Joint Publication (AJP)-01, Allied Joint Doctrine  and AJP 3.1, 
+Allied Joint Maritime Operations.  JDP 0-10 also complements the Royal Navy’s Book of 
+Reference (digital) 4487 , The Fighting Instructions series.
+
+
+JDP 0-10 (5th Edition)
+viii
+
+JDP 0-10 (5th Edition)
+ix
+Contents
+Foreword   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . iii
+Preface  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . v
+Chapter 1 – An introduction to maritime power  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1
+Chapter 2 – Maritime power in context   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  9
+Chapter 3 – The foundations of maritime power  .  .  .  .  .  .  .  .  .  .  .  .  .  27
+Chapter 4 – Employing maritime power  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  49
+Lexicon .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  67
+
+
+JDP 0-10 (5th Edition)
+x
+
+
+An introduction to 
+maritime power
+Chapter 1 introduces the maritime environment and 
+explains why maritime power is important to the UK.  It 
+introduces and defines maritime power, provides an 
+overview of the wider maritime environment and the 
+enduring utility of maritime forces.
+Chapter 1
+1
+JDP 0-10 (5th Edition)
+1
+
+
+2
+JDP 0-10 (5th Edition)
+12
+An introduction to maritime power
+“
+”
+...2017 is the start of a new era of 
+maritime power, projecting Britain’s 
+influence globally and delivering 
+security at home.
+ 
+Sir Michael Fallon, 
+Defence Secretary 
+
+JDP 0-10 (5th Edition)
+3
+13
+1.1.  UK maritime forces are deployed 365 days a year across the world to provide 
+a forward national presence that projects influence to safeguard our interests.  This 
+is a tempo and pattern of operational deployments that has persisted since before 
+the Royal Navy was formally established in 1660.  Although often obscured by an 
+apparently shrinking, but increasingly interconnected, complex and uncertain 
+globalised world, the UK was, and remains, a maritime state.1  The UK National Strategy 
+for Maritime Security2 acknowledges this and reinforces that as a nation we continue to 
+depend on the sea for our prosperity and security to a high degree, relative to other 
+states, and that it is critical to sustaining our way of life.  Supporting this, the National 
+Security Strategy and Strategic Defence and Security Review 2015, while painting a world 
+of persistent competition, emphasises that our national security depends on our 
+economic security, and vice versa. 3  Combined, these factors highlight the national 
+requirement to influence and shape the maritime environment in pursuit of the UK’s 
+national objectives.
+Maritime power
+1.2.  Maritime power is an inherently broad concept, founded on a state’s maritime 
+tradition and dependency.  It encompasses a number of economic, political, military 
+and influence elements, realised through the ability of a state to use the sea.4  As  
+such it straddles the three levers of national power – diplomatic, economic and 
+1 Department of Transport, Our Maritime Nation: Achievements and Challenges , March 2015, available 
+at https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/410714/150309_
+Maritime_Lflt-ACCESSIBLE__1_.PDF
+2 Her Majesty’s Government (HMG), The UK National Strategy for Maritime Security , May 2014, available at 
+https://www.gov.uk/government/publications/national-strategy-for-maritime-security
+3 National Security Strategy and Strategic Defence and Security Review 2015, A Secure and Prosperous United 
+Kingdom, available at https://www.gov.uk/government/publications/national-security-strategy-and-
+strategic-defence-and-security-review-2015
+4 Ian Speller, Understanding Naval Warfare , 2014.
+Chapter 1 – An introduction 
+to maritime power
+‘The sea is the lifeblood of our economy.’
+The UK National Strategy for Maritime Security
+An introduction to maritime power
+
+4
+JDP 0-10 (5th Edition)
+14
+military – underpinned by information.5  Maritime power is therefore a measure of 
+the total national engagement with the sea, the capacity to operate there and the 
+ability to exploit it.  It cannot be accurately calculated because it includes intangible 
+elements such as culture, identity and mythology.6  Maritime power, therefore, is not 
+solely a military calculation as it includes, but is not limited to:
+•  the value of maritime trade as a percentage of national economic output;
+• dependence on overseas resource supply;
+• total manpower engaged in shipping;
+• offshore economic interests – including oil and gas, fishing, renewable energy 
+installations;
+• shipyards, docks and ports; and
+• all other sea-related economic activity ashore.
+Military maritime power 
+1.3. Consistent with North Atlantic Treaty Organization (NATO) maritime doctrine,7 
+this publication will refer to military maritime power as maritime power and is 
+concerned specifically with the utility of military power at and from the sea.  Maritime 
+power is defined as: the ability to apply maritime military capabilities at and from the 
+sea to influence the behaviour of actors and the course of events.8
+Maritime forces
+1.4. Maritime forces are those operating at or from the sea.9  While the Naval Service 
+is the principal actor in the maritime environment, maritime power is delivered by all 
+of the UK military; the Royal Navy and Royal Marines, the British Army, the Royal Air 
+Force (RAF) and Joint Forces Command.  Maritime power could therefore be delivered 
+through British Army aviation assets operating from amphibious shipping, with Royal 
+Marines and Army Commando personnel embarked, or Fleet Air Arm (FAA) and RAF 
+fixed-wing aircraft operating from an aircraft carrier, delivering the carrier strike 
+capability of Carrier Enabled Power Projection (CEPP). 
+1.5. Similarly, land power, air and space power and cyber and electromagnetic 
+activities (CEMA) also influence events in the maritime environment.  For example, 
+5 Joint Doctrine Publication (JDP) 0-01, UK Defence Doctrine,  5th Edition.
+6 Professor Andrew Lambert, The Future of Maritime Power .
+7 Allied Joint Publication (AJP)-3.1, Allied Joint Doctrine for Maritime Operations , paragraph 1.3.
+8 This is a new definition of maritime power and it will be added to the UK’s terminology glossary  
+JDP 0-01.1, UK Supplement to the NATO Terminology Database, on promulgation.
+9 UK maritime forces are deemed to be: the Naval Service which includes the Royal Navy (which 
+includes the Surface Fleet, Submarine Service, Fleet Air Arm) and the Royal Marines, the Royal Fleet 
+Auxiliary and also elements of the British Army and Royal Air Force operating from the maritime 
+environment.  
+An introduction to maritime power
+While the 
+Naval Service 
+is the principal 
+actor in the 
+maritime 
+environment, 
+maritime power 
+is delivered 
+by all of the UK 
+military.
+”
+“
+
+JDP 0-10 (5th Edition)
+5
+15
+aircraft such as maritime patrol aircraft operating from land bases over the sea 
+to protect UK waters, land-based shore batteries guarding littoral regions or the 
+interdiction of navigation satellites in space all have the ability to influence activities 
+in the maritime environment.  
+Maritime environment
+1.6.  In the physical sense the maritime environment comprises the high seas, 
+exclusive economic zones and territorial seas.  Within this description it is important 
+to recognise that the maritime environment is multidimensional as maritime forces 
+operate above,10 on and below the surface of the sea.  In addition, to fully appreciate 
+the utility of maritime power it is also necessary to understand the littoral, particularly 
+when considering how maritime power can be projected onto land from the sea.  
+The littoral region is defined as: those land areas (and their adjacent areas and 
+associated air space) that are susceptible to engagement and influence from the sea.11  
+Conversely, it also includes those areas of the sea susceptible to engagement from the 
+land, from both land and air forces.
+10 AJP-3.1, Allied Joint Doctrine for Maritime Operations , paragraph 1.20.
+11 This is a modified definition proposed by this publication to replace the definition currently included 
+in JDP 0-01.1, UK Supplement to the NATO Terminology Database, 8th Edition.
+A Type 23 frigate ploughs through rough seas towards a United States tanker for replenishment
+An introduction to maritime power
+
+6
+JDP 0-10 (5th Edition)
+16
+The enduring utility of maritime power
+1.7. Maritime forces provide a national global presence through three classical 
+roles – war fighting, maritime security12 and Defence Engagement.  The unique 
+attributes of the maritime environment allow maritime forces to provide a persistent 
+and versatile military capability free of the liability of extensive host-nation support.  
+The long-standing principle of freedom of navigation in international waters allows 
+maritime forces to poise without commitment, to project national influence and 
+develop understanding,13 while remaining highly mobile to exploit opportunities or 
+to counter emerging threats.  Ultimately maritime forces provide a mobile, responsive 
+and persistent basis for military capabilities, which can rapidly move up and down a 
+spectrum of soft and hard power14 options to support national objectives.
+12 Maritime security operations includes activities such as humanitarian assistance and disaster relief 
+(HADR), constabulary operations, counter piracy, counter-drug, counter people trafficking and  
+non-combatant evacuation operations (NEO).
+13 Understanding is defined as: the perception and interpretation of a particular situation in order to 
+provide the context, insight and foresight required for effective decision-making.  JDP 04, Understanding 
+and Decision-making, 2nd Edition.
+14 Hard power is defined as: the threat or use of military or economic coercion or physical effect to 
+achieve influence.   Soft power is defined as: the ability to persuade or encourage others to adopt an 
+alternative approach.  The combination of hard and soft power is referred to as ‘smart power’.  JDP 04, 
+Understanding and Decision-making, 2nd Edition.
+HMS Ocean on operations in the Middle East in 2017
+An introduction to maritime power
+
+JDP 0-10 (5th Edition)
+7
+17
+ 
+Key points  
+• UK maritime forces are deployed 365 days a year across the world to provide a 
+forward national presence that projects influence to safeguard our interests. 
+• As an island nation the sea is the lifeblood of the UK’s economy. 
+• Maritime power straddles the three levers of national power – diplomatic, 
+economic and military – underpinned by information.
+• Military maritime power is defined as: the ability to apply maritime military 
+capabilities at and from the sea to influence the behaviour of actors and the 
+course of events.
+• Maritime power is not only applied in the maritime environment but also across 
+the other environments as well.
+• Maritime forces are those operating at or from the sea.
+• Land power, air and space power, and cyber and electromagnetic activities also 
+influence events in the maritime environment.
+• In the physical sense the maritime environment comprises the high seas, 
+exclusive economic zones and territorial seas.
+• The three classical roles of maritime forces are: war fighting, maritime security 
+and Defence Engagement.
+• The long-standing principle of freedom of navigation in international waters 
+allows maritime forces to poise without commitment, to project national 
+influence and develop understanding.
+An introduction to maritime power
+
+[Page 20: No extractable text]
+
+JDP 0-10 (5th Edition)
+9
+JDP X-XX (X Edition)
+Maritime power  
+in context
+Chapter 2 introduces the dimensions of the maritime 
+environment and explains why the maritime environment 
+is globally important.  It then focuses on national 
+considerations and discusses how maritime forces 
+contribute to the national security objectives.
+Chapter 2
+2
+JDP 0-10 (5th Edition)
+Section 1 – The maritime environment   . . . . . . . . 11
+Section 2 – The national context  . . . . . . . . . . . . 19
+
+10
+JDP 0-10 (5th Edition)
+210
+Maritime power in context
+Section 1 – The maritime environment
+The history of sea power is largely, 
+though by no means solely, a narrative 
+of contests between nations, of 
+mutual rivalries, of violence frequently 
+culminating in war. 
+Alfred Thayer Mahan
+“
+”
+
+JDP 0-10 (5th Edition)
+11
+2
+Maritime power in context
+Chapter 2 – Maritime 
+power in context
+2.1.  The volume of total trade that travels by sea supports the premise that the 
+world’s economy is reliant upon a safe and secure maritime environment.  Nationally, 
+as an island nation that views the sea as the lifeblood of its economy and therefore 
+prosperity, it is important that we understand the vital role a safe, secure and reliable 
+maritime environment plays in our economic and national security.  This chapter 
+will explain: the ways in which the maritime environment is of significant global 
+importance; why it is strategically vital for the UK; and that any complacency towards 
+changes within it could have significant consequences for the UK’s prosperity.
+2.2.  The National Security Strategy (NSS)  and Strategic Defence and Security Review 
+(SDSR)  2015 recognises that the UK sits at the heart of the global rules-based 
+international order that has provided stability to the world’s political and economic 
+landscape since the end of World War II. 15  This stability is of common interest to all 
+trading nations, with the maritime environment acting as the principal means of 
+movement for over 80% of the world’s trade by volume, and over 70% by value.16  
+Uncontested access to the world’s oceans is therefore a paramount concern to all the 
+major economies.
+2.3.  The importance of the sea is not only economic.  It is: a defensive barrier; a 
+medium for transporting people as well as goods; a source of generating power 
+in terms of both fossil fuels and renewable energy; a source of food; an area of 
+recreation; and a huge proportion of the Earth’s surface that possesses areas that are 
+yet to be fully explored.  Its importance can be viewed through economic, physical, 
+legal, political and military dimensions as shown at Figure 2.1, each of which applies 
+equally in the land, air and space and cyber environments.
+15 National Security Strategy and Strategic Defence and Security Review 2015, A Secure and Prosperous 
+United Kingdom (NSS and SDSR 2015), available at https://www.gov.uk/government/publications/national-
+security-strategy-and-strategic-defence-and-security-review-2015
+16  For more information see http://unctad.org
+Section 1 – The maritime environment
+
+12
+JDP 0-10 (5th Edition)
+212
+Maritime power in context
+Figure 2.1 – The dimensions of the maritime environment
+The economic dimension
+2.4. Notwithstanding the reliance of the global economy on the sea for the 
+movement of goods, there are further factors within the economic dimension that 
+offer benefit but also present areas of potential conflict.  Importantly, the world is in a 
+stage of economic transition with many forecasting the long-term shift of economic 
+wealth to South-East Asia, and the relative decline of the established powers of the 
+West.17  While this is disputed by some it does highlight the importance of the sea as 
+the dominant medium for trade between the West and South-East Asia.
+2.5. Fossil fuels and minerals are an important resource in the maritime environment.  
+New deposits of oil and gas, as well as mineral wealth, are discovered under the 
+seabed each year, and improvements in technology will facilitate future exploitation.  
+Access to these, whether found on the continental shelf or within an exclusive 
+economic zone, is likely to be contentious.  For example, Russia, Norway and Canada 
+have all laid competing claims to large areas of the resource-rich Arctic seabed.
+2.6. Over one billion members of the global population are reliant on fish as their 
+main source of protein.  Overfishing and unregulated fishing pose serious challenges 
+not only to the sustainability of this resource, but to the economies of small-island 
+and coastal states.  Somali piracy, for example, developed from fishermen defending 
+coastal waters from illegal fishing.  Managing situations like this is both a regional and 
+global concern.
+17 NSS and SDSR 2015.
+Economic
+LegalPolitical
+PhysicalMilitary
+99% of global 
+Internet traffic 
+is dependent 
+upon 
+submarine 
+cables rather 
+than satellite 
+transmission.
+”
+“
+
+JDP 0-10 (5th Edition)
+13
+2
+Maritime power in context
+2 .7.  It is a widely unknown fact that 99% of global Internet traffic is dependent upon 
+submarine cables rather than satellite transmission. 18  Disruption to it, intentional or 
+otherwise (as seen in Lagos (2009), 19 Egypt (2013) 20 and Singapore (2016) 21), can have 
+a major impact on essential services.  Internet hubs are also predominantly found 
+within the littoral zone and are susceptible to influence from the sea.
+The physical dimension
+2.8. The sea covers over 70% of the globe’s surface ranging from the deep waters 
+of the open oceans to the shallower littoral regions adjacent to the land.  Along with 
+space and cyberspace, the oceans outside of state authority make up the global 
+commons and no state may legitimately subject any part of the high seas to its 
+sovereignty.22  Geographic, oceanographic and meteorological conditions vary and 
+this results in large ranges in air and sea temperature, salinity and humidity.  The 
+weather generated by these conditions make the sea a difficult environment in which 
+to operate and affects the physical performance of individuals and equipment.  To 
+survive and operate at sea it is imperative to understand fully the challenges of the 
+physical environment.
+18  Further detail is available at http://europe.newsweek.com/undersea-cables-transport-99-percent-
+international-communications-319072?rm=eu
+19  Further detail is available at http://allafrica.com/stories/200908250150.html
+20  Further detail is available at https://www.theguardian.com/technology/2013/mar/28/egypt-undersea-
+cable-arrests
+21  Further detail is available at https://www.theregister.co.uk/2016/03/03/linode_says_several_cables_
+serving_singapore_cut/
+22  States may make continental shelf claims to 350 nautical miles, but the seabed of the high seas is 
+administered by the International Seabed Authority.
+Aircraft engineering technicians working off the coast of Scotland in force nine weather conditions
+
+14
+JDP 0-10 (5th Edition)
+214
+Maritime power in context
+2.9. One of the more significant physical characteristics of the sea is the importance 
+of maritime choke points, such as the Strait of Hormuz joining the Arabian Gulf 
+to the Indian Ocean, or the Dover Straits between the UK and mainland Europe.23  
+The graphic below demonstrates the way in which maritime choke points funnel 
+international shipping and restrict the freedom of navigation.  This increases the 
+risk of collision, piracy (particularly around the Horn of Africa off Somalia), but also 
+influence from the land in ways that the opens seas are not.  These areas are of prime 
+strategic importance to the global economy.
+23 Other choke points include the Suez Canal, the Panama Canal and the straits of Skagerrak, Malacca, 
+Gibraltar, Bosphorus, Bering, and Bab-el-Mandeb.
+The Bab-el-Mandeb strait is an area of the Red Sea leading 
+up to the Suez Canal where the distance between Yemen 
+and Djibouti reduces to 20 miles.  It is one of the world’s 
+busiest choke points.  From mid-2016 Houthi fighters in 
+Yemen have engaged maritime forces in the strait, and on 
+30 January 2017 attacked a Saudi Arabian warship with 
+missiles and suicide boat attacks killing two sailors and 
+wounding three others.
+© Grolltech
+Maritime choke points funnel international shipping and restrict freedom of navigation
+
+JDP 0-10 (5th Edition)
+15
+2
+Maritime power in context
+The legal dimension
+2.10.  The 1982 United Nations Convention on the Law of the Sea (UNCLOS) 24 is a 
+broad-ranging legal framework which defines many of the rights and responsibilities 
+of states in the use of the world’s oceans.  It establishes a framework for conducting 
+maritime commerce, protecting the environment, managing marine natural resources 
+and, critically, the entitlements of individual states in the various maritime areas 
+described in Table 2.1.  
+24  http://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+Zone/area Description
+Baseline
+Except where otherwise provided in the United Nations Convention on  
+the Law of the Sea (UNCLOS), the normal baseline for measuring the 
+breadth of the territorial sea is the low-water line along the coast as marked 
+on large-scale charts officially recognised by the coastal state.
+Internal 
+waters
+Covers all of the waters on the landward side of the baseline.  The state is 
+responsible for setting laws and governing their use.
+Territorial 
+seas/waters
+From the baseline to 12 nautical miles.  The state is responsible for setting 
+laws and governing their use, subject to the right of vessels from other 
+states exercising the right of innocent, or in international straits, transit 
+passage.
+Contiguous 
+zone
+A zone that may not exceed 24 nautical miles in which a state can intervene 
+to prevent potential offences which may otherwise occur inside territorial 
+waters, or to apprehend a vessel that has committed an offence inside 
+territorial waters and is attempting to escape.
+Exclusive 
+economic 
+zone (EEZ)
+This area extends up to 200 nautical miles from the baseline.  Within 
+this area a state has sole claim over all natural resources.  This includes 
+exploiting resources such as oil, gas and fishing.  Other states enjoy high 
+seas freedoms in the EEZ, provided these activities do not impact on the 
+coastal state’s rights and jurisdictions in the EEZ as set out in UNCLOS.
+Continental 
+shelf
+The continental shelf of a coastal state comprises the seabed and subsoil 
+of the submarine areas that extend beyond its territorial sea throughout 
+the natural prolongation of its land territory to the outer edge of the 
+continental margin, or to a distance of 200 nautical miles from the baseline.
+High seas
+The high seas are open to all states who may enjoy the freedom of the high 
+seas subject only to the conditions described in UNCLOS/customary law.  
+Vessels on the high seas are subject to the exclusive jurisdiction of their flag 
+states, with a few very important exceptions: for example, piracy is a crime 
+of universal jurisdiction.
+Table 2.1 – Sea zone descriptions
+
+16
+JDP 0-10 (5th Edition)
+216
+Maritime power in context
+2 .11. The UNCLOS legal framework divided the sea into a number of zones measured 
+from the baseline, normally the low water line along a nations coast, which set 
+geographical limits in which state authority diminishes as the distance from the 
+baseline increases.  Figure 2.2 highlights the principal zones.
+Figure 2.2 – United Nations Convention on the Law of the Sea zones
+2.12. Freedom of navigation is the term given to the rights and freedoms that apply 
+to all forms of transit on, over and under the high seas; it is vital to the security and 
+economic stability of the UK.  It facilitates global maritime trade and provides the UK 
+military with the legal landscape that allows it to respond to threats to security and 
+pursue national interests at range from the UK.25  
+2.13. Freedom of navigation operations provide an enduring strategic benefit 
+to UK security by protecting the UK’s maritime rights and freedoms, encouraging 
+lawful practice and preventing excessive geographical26 and/or jurisdictional27 claims 
+gaining legal traction in international law.  UK maritime operations will themselves 
+generate an audit trail of state practice.  Freedom of navigation operations influence 
+other states’ governments and therefore constitute a form of naval diplomacy; they 
+25 Her Majesty’s Government (HMG), The UK National Strategy for Maritime Security , May 2014, available at 
+https://www.gov.uk/government/publications/national-strategy-for-maritime-security
+26 For example a territorial sea claim of more than 12 nautical miles.
+27 For example an assertion that vessels must seek permission from, or notify the coastal state, before 
+entering its territorial seas.
+200 nm
+exclusive economic zone
+12 nm
+territorial 
+sea
+contiguous 
+zone
+continental shelf
+mainland high sea
+deep seabedcontinental rise
+continental 
+slope
+Note.  In some areas the continental shelf, slope or rise may 
+extend beyond the 200 nautical mile (nm) exclusive economic zone.   
+       
+12 nm
+baseline
+
+JDP 0-10 (5th Edition)
+17
+2
+Maritime power in context
+may be symbolic or coercive.  Freedom of navigation operations in peacetime are one 
+means by which maritime forces maintain the freedom of the seas for maritime trade, 
+ensuring that the UNCLOS provisions are respected.  
+The political dimension
+2.14.  The modern political dimension of the maritime environment took shape 
+largely during the 1970s.  Initially the extension of national sovereignty out to sea 
+was often a political act that happened to have some economic consequences; more 
+recently it is frequently undertaken for calculated economic benefit.  Many states, 
+especially, but by no means exclusively, small island territories, struggle to police 
+their maritime environments and to manage their maritime resources effectively.  
+The extension of coastal state jurisdiction may increase the likelihood of disputes 
+both between bordering states and also between coastal states and flag states 
+exercising freedom of navigation; maritime power plays a vital role in resisting further 
+restrictions on high seas freedoms.
+2.15.  This political dimension also has a diplomatic element.  States and people have 
+used the seas as a point of interaction for many centuries.  Bilateral and multilateral 
+maritime engagements are still very much a routine element of international affairs 
+with long-term benefits.  States use the freedom provided by the oceans as a 
+conduit for building relationships, strengthening ties and providing assistance and 
+reassurance to like-minded states.
+The military dimension
+2.16.  The seas have had a military dimension for well over 2,500 years.  This has 
+been dominated by naval forces, of which there are now in excess of 150 worldwide, 
+ranging from superpower navies at one end of the spectrum to small coastal policing 
+forces at the other.  Even relatively minor maritime powers, or non-state actors, 
+can pose a significant threat, especially in the context of restricting access through 
+maritime choke points by using land-based missiles and capabilities such as sea 
+mines, which are widely available and relatively cheap.
+2 .17.  States or other actors may seek to exploit the sea to exert influence upon 
+those they wish to persuade, deter and, if necessary, compel.  Equally, maritime 
+forces can offer reassurance to allies through a military presence which may also 
+be a useful lever to help prevent conflict.  Maritime forces can also provide support 
+to humanitarian and disaster relief operations, which has the added benefit of 
+building global political relationships and influence.  Many states are therefore opting 
+to develop their maritime power, equipping themselves with modern warships 
+and submarines and developing expeditionary capabilities, while also acquiring 
+The seas have 
+had a military 
+dimension for  
+well over 2,500 
+years.
+”
+“
+
+18
+JDP 0-10 (5th Edition)
+218
+Maritime power in context
+sophisticated land-based anti-access and area denial capabilities to deter other states’ 
+maritime forces.  They are also seeking to exploit cyber and electromagnetic activities 
+(CEMA) that can influence the maritime environment.
+2.18. The NSS and SDSR 2015 painted a picture of a changed world, not a changing 
+one.  These changes challenge the rules-based order that the UK seeks to uphold to 
+safeguard our prosperity and security, providing an era of strategic state-on-state 
+competition, but one dominated by sub-state conflict.28  Within this there are likely 
+to be challenges for the maritime environment resulting from population growth, 
+migration, greater demand for energy, climate change, continuing globalisation, 
+rapid urbanisation and the exponential rate of change in some readily-available 
+technologies.
+2.19. In addition to the traditional factors, new developments such as the pervasive 
+nature of information, the increasing importance of space, hybrid tactics and a 
+potential network of combat-experienced terrorists, will influence the future in which 
+maritime forces operate.  Within these, it is the pervasive nature of information that is 
+potentially paramount.  When attempting to generate or project influence it is likely 
+that the prevailing narrative and not necessarily the facts that will prove decisive in 
+determining success or failure.  The ability to control and/or shape the information 
+environment may prove pivotal in future operations.
+Col S G Chekinov and Lt Gen S A Bogdanov (retired)29
+2.20. In acknowledging the vital value of the sea to the UK and global economy, 
+we must also recognise that this makes the sea an area worth fighting to control.30  
+Therefore we must be able to push back against any potential challenge to the 
+‘freedom of navigation’.  Only by doing so will we be able to deliver against the 
+principal tasks of the continuous at sea deterrent and providing maritime security for 
+our island nation, while remaining international and meeting these threats to the UK 
+at distance from our shores.31 
+ 
+28 Chief of the Defence Staff’s (CDS’) speech to Royal United Services Institute (RUSI), 14 December 2016.
+29 Extract from ‘The Nature and Content of a New Generation War’ article in the Russian Journal of 
+Military Theory and Strategy 2013.
+30 Professor Andrew Lambert, The Future of Maritime Power.
+31 CDS’ speech to RUSI, 14 December 2016.
+‘Decisive battles in new-generation wars will rage in the information 
+environment.’
+
+JDP 0-10 (5th Edition)
+19
+2
+Maritime power in context
+The influence of the sea on the UK
+2.21.  As an island nation the dimensions of the maritime environment impact the 
+UK more acutely than our continental allies.  The UK’s history reflects that.  From the 
+earliest days of recorded history, people and states have sought to be powerful at 
+sea as they recognised that those who were able to exploit the environment enjoyed 
+enormous advantages over those who did not.  The UK benefited significantly from 
+this realisation, making us for a time the wealthiest and most powerful of all states.32  
+Today the UK is well positioned to influence what happens within the maritime 
+environment.  It benefits from London being a global hub for finance, commerce 
+and law; being a permanent member of the United Nations Security Council, the G8 
+and G20 international forums and North Atlantic Treaty Organization (NATO); and 
+although leaving the European Union (EU), a key European state with close trade, 
+defence and cultural links across the continent.  
+32  Professor Geoffrey Till, Seapower: A Guide for the Twenty-First Century , 3rd Edition, 2013.
+Section 2 – The national context
+Royal Marines operating alongside Polish tanks taking part in NATO Exercise SABRE STRIKE
+
+20
+JDP 0-10 (5th Edition)
+220
+Maritime power in context
+A maritime nation
+2.22. Our Maritime Nation: Achievements and Challenges published by the 
+Department of Transport in 2015 states that where maritime industries may have 
+shaped our past they will also shape our future.  They remain an engine for growth, 
+and are a vibrant, dynamic and indispensable element of our economy.  While other 
+factors will also shape our national future, it should not be overlooked that globally 
+80% of trade by volume transits by sea, and for the UK this figure rises to in excess of 
+95%; almost everything that we import comes by sea.33 
+2.23. A study commissioned by the Department of Transport in 2015 predicts 
+the doubling of global sea trade by 2030.  Current estimates suggest that the 
+direct contribution to the UK economy from the maritime sector, including marine 
+industries, was at least £1 1 billion in 2012.34 
+2.24. In appreciating the role of the maritime sector the NSS and SDSR 2015 
+announced that the Government would publish a new national ship building 
+strategy35 to lay the foundations for a modern and efficient sector capable of 
+meeting the country’s future defence and security needs.  An independent report 
+commissioned to inform the strategy made a number of recommendations to 
+improve the way in which the MOD procures and designs warships, and exploit the 
+‘renaissance in shipbuilding’ in UK regional shipyards.
+The UK National Strategy for Maritime Security
+2.25. The UK Government recognises the role that the sea plays in supporting the 
+country’s security and prosperity.  The UK National Strategy for Maritime Security 2014 
+highlights that the maritime environment is a complicated international system in 
+which the UK, as a leading player, uses diplomatic, military and law enforcement 
+levers to drive international cooperation and build capacity.  To manage a security 
+environment which incorporates numerous overlapping interests, both domestically 
+and internationally, the UK has adopted two key principles – integration and 
+collaboration.  These principles bring together the full range of instruments of 
+government, driving cooperation and efficiency and emphasising that maritime 
+power is not the sole preserve of navies.
+33 HMG, The UK National Strategy for Maritime Security , May 2014.
+34 This is a similar order of magnitude to other important high-value industries like the manufacture 
+of pharmaceutical products (£13.3 billion gross value added (GVA) in 2013), the aerospace industry (£6.8 
+billion GVA in 2013) and the road freight industry (£9.4 billion GVA in 2013).  Department of Transport, 
+Maritime Growth Study: keeping the UK competitive in a global market, 2015, available at https://www.gov.
+uk/government/publications/maritime-growth-study-report
+35 MOD, National Shipbuilding Strategy: The Future of Naval Shipbuilding in the UK , 2017, available at 
+https://www.gov.uk/government/publications/national-shipbuilding-strategy
+...almost 
+everything that 
+we [UK] import 
+comes by sea.
+”
+“
+
+JDP 0-10 (5th Edition)
+21
+2
+Maritime power in context
+National security objectives
+2.26.  The NSS and SDSR 2015 provides a national vision of a ‘secure and prosperous 
+United Kingdom, with global reach and influence’, with three national security 
+objectives that emphasise the enduring requirement to protect our people and our 
+economy. 
+a. National Security Objective 1 is to protect our people – at home, in 
+our Overseas Territories and abroad, and to protect our territory, economic 
+security, infrastructure and way of life.
+b.  National Security Objective 2 is to project our global influence – reducing 
+the likelihood of threats materialising and affecting the UK, our interests, and 
+those of our allies and partners.
+c. National Security Objective 3 is to promote our prosperity – seizing 
+opportunities, harnessing innovation to strengthen our national security, 
+and working with industry to ensure we have the capabilities and equipment 
+that we need.  Our economic and national security go hand-in-hand.  Our 
+strong economy 
+provides more 
+opportunities 
+at home and 
+overseas for us 
+to increase our 
+prosperity.  A 
+growing global 
+economy helps 
+to reduce 
+poverty and 
+build security 
+for all.
+‘We are man-marking these vessels every step of the way around 
+the UK as part of our steadfast commitment to keep Britain safe.’
+Defence Secretary Sir Michael Fallon
+HMS St Albans and Typhoon jets escorting the Russian Aircraft Carrier Admiral 
+Kuznetsov and the nuclear-powered guided missile cruiser Petr Velikiy
+
+22
+JDP 0-10 (5th Edition)
+222
+Maritime power in context
+2 . 27. The core roles of UK maritime forces – war fighting, maritime security and 
+Defence Engagement – contribute to the National Security Objectives.  In doing so 
+maritime forces operate close to the UK to uphold the integrity of our territorial waters 
+and protect national trade, project globally to support the UK Overseas Territories and, 
+in cooperation with other like minded nations, promote the free movement of global 
+trade.  Concurrently, UK maritime forces support the ‘international by design’ approach 
+and play a leading role in generating influence and combat power; which contributes 
+to effective conflict prevention through diplomacy and deterrence.
+International by design
+2.28. The UK has worldwide interests and responsibilities; including responsibility for 
+the security of 14 Overseas Territories (12 of which are islands),36 with over five million 
+UK nationals living overseas.37  To support the integration and collaboration agenda set 
+out by The UK National Strategy for Maritime Security, the military instrument of national 
+power intends to be ‘international by design’.  This theme strengthens the international 
+dimension of UK Defence policy and planning as a way of enabling Defence to deliver 
+against each of the National Security Objectives set out above.  Our international 
+approach aims to deliver against these outcomes through developing strong strategic 
+relationships; bilateral and multilateral, which in turn are based on the pillars of 
+Defence Engagement, combined formations and capability collaboration, all of which 
+is underpinned by a persistently engaged global Defence network.  The tempo and 
+pattern of maritime deployments is a key enabler to this intent.
+36 Anguilla; Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; 
+Cayman Islands;Falkland Islands; Gibraltar; Montserrat; Pitcairn Islands; Saint Helena, Ascension and Tristan 
+da Cunha; South Georgia and South Sandwich Islands; Sovereign Base areas of Cyprus; and Turks and Caicos 
+Islands; along with the UK and dependencies, have a combined exclusive economic zone of over 2.5 million 
+square miles, the fifth largest in the world.
+37 HMG, The UK National Strategy for Maritime Security , May 2014.
+HMS Ocean with allied and partner forces during Exercise BALTOPS in 2015
+
+JDP 0-10 (5th Edition)
+23
+2
+‘We will protect our people, territories, values and interests, at home and overseas, 
+through strong armed forces and in partnership with allies, to ensure our security  
+and safeguard our prosperity.’
+Maritime power in context
+2.29.  We cannot address all risks on our own.  It is essential that where practicable 
+our UK Armed Forces train and exercise to operate alongside allies and partners, 
+keeping NATO at the very heart of UK Defence. 38
+Maritime support to the Defence Tasks
+Defence Strategic Direction 2016
+2.30.  The Defence Strategic Direction 2016 defined the above vision for Defence 
+policy.  To deliver this the Ministry of Defence has taken the key themes from the 
+SDSR and distilled them into eight Defence Tasks that support the National Security 
+Objectives.  The UK’s maritime forces contribute directly to all eight of the Defence 
+Tasks, and are inherently ‘international by design’.  The Defence Tasks are listed below 
+in Table 2.2 with an indication of which national security objective they fall under.  
+Defence Task 1 Defence, Security and Resilience of the Homeland and Overseas 
+Territories (National Security Objective (NSO) 1)
+Defence Task 2 Nuclear Deterrence and the Defence Nuclear Enterprise (NSO 1)
+Defence Task 3 Understanding (NSO 2)
+Defence Task 4 Influence through International Defence Engagement (NSO 2)
+Defence Task 5 Overseas Defence Activity (NSO 1)
+Defence Task 6 UK Prosperity and Civil Society (NSO 3)
+Defence Task 7 Direct Defence
+Defence Task 8 Strategic Base and Enabling Functions
+Table 2.2 – The Defence Tasks
+38  Defence Strategic Direction 2016.
+
+24
+JDP 0-10 (5th Edition)
+224
+Maritime power in context
+2.31. The Naval Service force elements constitute the principal components of UK 
+maritime forces.  These are apportioned to the Defence Tasks in the Naval Plan, a 
+classified document.  However, the breadth of activity conducted by maritime forces 
+at distance from the UK means that virtually all ships at sea on either task group 
+operations or operating indepe
+ndently are contributing to a Defence Task, or multiple 
+tasks, concurrently.  In particular, maritime forces play a unique and pivotal role in the 
+fir
+st two.
+Deterrence
+2.32. At the heart of the UK’s defence posture is the principle of deterrence; its 
+purpose is to dissuade a potential opponent from adopting a course of action that 
+threatens national interests.  Deterrence is
+ a simple idea arising from enduring 
+facts about human behaviour: that in decision-making, all people take account 
+of the probable consequences of their actions.  It can be based on denial or 
+punishment.  It may be broadly preventative or immediately focused to address 
+specific threats.  Within the UK’s maritime forces there are two modes of deterrence; 
+n
+uclear (supporting Defence Task 2) and conventional (supporting Defence Task 1).  
+Underpinned by understanding, the effect of deterrence depends on four areas, the:
+• c
+apability of the system;
+• c
+redibility of the intent to use it;
+• c
+ommunication of these to any potential aggressors; and
+• c
+omprehension of the effect of deterrence on our adversaries.
+Nuclear deterrence
+2.33. T he maintenance and operation of the UK’s minimum credible independent 
+nuclear deterrent is Defence’s priority task.  To be credible, a deterrent must be able 
+to function regardless of any pre-emptive action.  For the UK the nuclear deterrent is 
+delivered by the submarine enabled continuous at sea deterrent (CASD), known as 
+Operation RELENTLESS.
+Conventional deterrence
+2.34. C onventional deterrence has a number of elements.  Jointly, the non-nuclear 
+components of the UK’s maritime, land and air forces, provide the collective capability 
+that underpins conventional deterrence.  It is based upon the potential and the 
+actual use of hard power.  Here the attribute of poise means that maritime forces are 
+particularly well-suited to creating a conventional deterrent effect at distance from 
+the UK.  Maritime forces play a key deterrent role in maintaining the security of UK 
+territorial waters and those of the Overseas Territories. 
+The 
+maintenance 
+and operation 
+of the UK’s 
+minimum 
+credible 
+independent 
+nuclear 
+deterrent 
+is Defence’s 
+priority task. 
+”
+“
+
+JDP 0-10 (5th Edition)
+25
+2
+Maritime power in context
+ 
+Key points  
+• The National Security Strategy and Strategic Defence and Security Review 2015 
+recognises that the UK sits at the heart of the global rules-based international order 
+that has provided stability to the world’s political and economic landscape since 
+the end of World War II.
+• Stategically there are five dimensions to the maritime environment.
+a.  Economic.  Uncontested access to a safe and secure maritime environment is a 
+principal requirement for all the world’s trading nations.
+b. Physical.  The sea provides access to almost all parts of the earth’s surface and 
+outside of legal jurisdiction is called the global commons.  
+c. Legal.  The United Nations Convention on the Law of the Sea (UNCLOS) defines 
+many of the rights and responsibilities of states in the use of the world’s oceans.
+d. Political.  Bilateral and multilateral cooperation at sea are still very much a 
+routine element of international affairs with long-term benefits. 
+e. Military.  While the character of conflict is changing, the developing nations of 
+the world are increasing their maritime strength due to the vital value of the sea to 
+national and the global economy.  This makes the ability to exert sea control, secure 
+freedom of navigation or simply to influence events in the maritime an important 
+aspect of a countries military.
+• Our future prosperity depends on our continued ability to safeguard national and 
+global trade; most of which moves by sea.
+• The UK’s maritime forces contribute directly to all eight of the Defence Tasks and 
+the three National Security Objectives.
+• UK maritime forces train and operate alongside numerous allies and partners, and 
+keep NATO at the very heart of UK Defence. 
+• Deterrence is at the heart of the UK’s defence posture and maintenance of the 
+continuous at sea deterrent (CASD) is the defence priority and predominately 
+delivered by the Naval Service.:
+
+[Page 38: No extractable text]
+
+JDP 0-10 (5th Edition)
+27
+JDP X-XX (X Edition)
+The foundations of 
+maritime power
+Chapter 3 builds on the military dimension of maritime 
+power.  Initially presenting the aspects of fighting power, 
+it then introduces the inherent attributes, or capabilities, 
+of maritime forces, while also highlighting some of the 
+limitations of operating in the maritime environment.  
+Finally, Chapter 3 describes the principles that underpin the 
+way maritime forces operate to project national maritime 
+power.
+Chapter 3
+3
+JDP 0-10 (5th Edition)
+Section 1 – Fighting power . . . . . . . . . . . . . . . . 29
+Section 2 – The attributes of maritime forces  . . . . 36
+Section 3 – Adaptability of maritime forces . . . . . . 40
+Section 4 – Principles and applications of  
+                       maritime power . . . . . . . . . . . . . . . 42
+
+28
+JDP 0-10 (5th Edition)
+328
+“
+”
+Almost every aspect of our national 
+life depends on our connections to 
+the wider world, and most of these 
+connections are provided by the sea.
+ 
+The UK National Strategy for  
+Maritime Security 
+The foundations of maritime power
+
+JDP 0-10 (5th Edition)
+29
+3
+The foundations of maritime power
+Chapter 3 – The 
+foundations of maritime 
+power
+3.1.  Fighting power is at the core of every military Service as it defines the ability to 
+conduct successful operations. 39  It is not simply a calculation of the number of people 
+and equipment, it is also the ability to maximise the potential of such equipment 
+and the ability to motivate people to fight.  While these aspects are common across 
+all environments, the different attributes and roles of maritime power offer a unique 
+contribution to military power and therefore a unique perspective on fighting power.
+3.2.  Applying fighting power must be considered in context.  It should take  
+account of:
+• the character of the situation;
+• the physical environment;
+• the opponent;
+• allies, partners and other agencies; and
+• culture and history.
+3.3.  Fighting power is made up of three interrelated components outlined at  
+Figure 3.1.  They are:
+• conceptual component  – the thought processes providing the intellectual  
+basis and theoretical justification for providing and employing our Armed 
+Forces;
+• moral component  – the ability to get people to fight, individually and 
+collectively; and
+• physical component – the means to fight – balanced, agile forces at readiness, 
+with war fighting at their core.
+39  Further detail can be found in Joint Doctrine Publication (JDP) 0-01, UK Defence Doctrine, 5th Edition .
+Section 1 – Fighting power
+
+30
+JDP 0-10 (5th Edition)
+330
+‘Ideas matter, sometimes fundamentally.’
+The foundations of maritime power
+Figure 3.1 – The components of fighting power
+3.4. The single-Service Chiefs of Staff are responsible, through the Chief of the 
+Defence Staff, for delivering fighting power to the Secretary of State.  While the 
+Royal Navy will deliver the greater part of UK maritime power, the British Army, the 
+Royal Air Force and Joint Forces Command have to ensure that elements of their own 
+forces can operate effectively in the maritime environment as part of a joint force, 
+just as maritime forces have to be able to operate in the air and land environments.  
+This requires dedicated joint training along with common education to generate 
+understanding and effectiveness.
+The conceptual component
+General J Mattis, United States Marine Corps
+3.5. The elements of the conceptual component are: the principles of war;40 
+doctrine; and conceptual innovation.  Together these provide an intellectual 
+framework within which maritime military personnel can develop an understanding 
+about the specifics of both their profession and the activities they may have to 
+undertake.  The conceptual component reflects accumulated experience, ideas for 
+improvements to existing practice and analysis of the future security environment.  
+This provides commanders with the ability to understand the context within which 
+they operate and serves as the foundation upon which creativity, ingenuity and 
+initiative may be exercised in complex situations.
+40 The UK principles of war are: selection and maintenance of the aim; maintenance of morale; 
+offensive action; security; surprise; concentration of force; economy of effort; flexibility; cooperation; and 
+sustainability.
+•  Manpower
+•  Equipment
+•  Collective performance
+•  Sustainability
+•  Readiness
+Physical component
+•  Moral cohesion
+•  Motivation
+•  Leadership
+Moral component
+•  Principles of war
+•  Doctrine
+•  Conceptual innovation
+Conceptual component
+
+JDP 0-10 (5th Edition)
+31
+3
+The foundations of maritime power
+3.6.  To assist commanders in planning and executing operations the maritime forces 
+use three core functions to support this aspect of the conceptual component. 41 
+a. Understand.   A detailed understanding of the problem and the situation is 
+required to enable effective decision-making.
+b.  Fight.  Fight is used to describe those effects, offensive and defensive, hard 
+and soft, that relate to action against an enemy or adversary.
+(1) Shape  – manipulating the operational environment for own 
+advantage, and to disadvantage the enemy.
+(2) Engage  – the decisive element of an operation will usually involve 
+some form of offensive action against the will and cohesion of the enemy.
+(3) Exploit – seize and retain the initiative.  Using manoeuvre and 
+offensive action is fundamental to seizing and holding the initiative.
+(4) Protect  – a comprehensive and coordinated approach to force 
+protection is required and must allow maintenance of the operational 
+narrative.
+c. Sustain.   Freedom of action is underpinned by sustainment.
+ 
+41  Royal Navy’s Book of Reference (digital) 4487, Volume 3.2, Conduct of Maritime Operations.
+Royal Marines operating in extreme environments present  
+a significant logistic sustainability challenge
+
+32
+JDP 0-10 (5th Edition)
+332
+‘The enduring spirit derived from our people’s loyalty to their ship, unit or team 
+sustained by high professional standards and strong leadership, that gives us courage 
+in adversity and the determination to fight and win.’
+The foundations of maritime power
+The moral component
+3.7. It is fundamental to operational effectiveness that the components of the 
+moral component are understood, upheld and passed on, since once they have been 
+lost they are difficult to recover.  As the principal UK military actor in the maritime 
+environment the Naval Service core values encapsulate the moral component.  These 
+are represented in Figure 3.2.
+Figure 3.2 – Naval Service core values
+3.8. Ethos is also a key aspect of the moral component.  Ethos is the distinctive 
+character, spirit and attitudes of a community, people, culture or group; it defines 
+and motivates the shared ideas, understandings and customs.  It is of fundamental 
+importance to continued success in future operations and armed conflict. 
+Royal Navy ethos
+Commitment
+DisciplineRespect for 
+others
+CourageIntegrity
+
+JDP 0-10 (5th Edition)
+33
+3
+Admiral A B Cunningham – evacuation of Crete 1941
+The rapid German advance through Greece required an exhausted Royal Navy to 
+evacuate 50,000 troops from the next target, Crete.  Badly organised and short of heavy 
+equipment, the land forces and limited air forces were ill-prepared for the German 
+invasion of Crete, which began on 20 May 1941.  Five days later the battle for the island 
+was lost.  Forced to withdraw his two damaged aircraft carriers (HMS Formidable and 
+HMS Illustrious), Admiral Cunningham began the evacuation without any form of air 
+cover.  Most of the troops 
+were taken off a shallow 
+beach on the south coast by 
+worn-out destroyers with 
+fragile crews.  Suffering 
+heavy losses on the passage 
+to Egypt, the Admiralty 
+questioned the wisdom 
+of carrying on without air 
+cover (Crete cost the Royal 
+Navy 1,828 casualties and 
+significant damage and loss of equipment including three cruisers and six destroyers).  
+Despite the serious losses, Admiral Cunningham refused to give up insisting that the 
+Navy return one more night – ‘the Navy had never yet failed the Army in such a situation, 
+and was not going to do so now’.  As he told his staff when they advised him to call off 
+the operation, ‘you can build a new ship in three years but you can’t rebuild a reputation 
+in under 300 years’.
+The foundations of maritime power
+Leadership
+3.9.  Military leadership is characterised by projecting personality and purpose to 
+influence subordinates to do what is required of them and to engender within them 
+the confidence that breeds initiative and the acceptance of risk and responsibility.  
+Leadership starts with self-discipline.  It is a continuous process throughout training 
+and daily life.  Leaders promote this amongst their subordinates through: decisive 
+action; clear direction and guidance; rules and example; advice, encouragement and 
+discipline; and by giving subordinates every opportunity to contribute to mission 
+success by delegating responsibility sensibly.
+3.10.  The commanding officer, be that of a ship, a submarine, a commando, a Fleet 
+Air Arm unit or higher headquarters, sets the benchmark.  They are responsible for 
+inspiring their people to do their job to the best of their ability during peace, through 
+adversity and in war.
+
+34
+JDP 0-10 (5th Edition)
+334
+Leadership – Chief Petty Officer Jonathan ‘Buck’ Rogers
+Jonathan ‘Buck’ Rogers enlisted in the Royal Navy in 1938, later being awarded the 
+Distinguished Service Medal for his ‘coolness and leadership’ under enemy fire during 
+an action off Dunkirk in 1944.  At the end of the war he was discharged from the Royal 
+Navy and in 1950 he applied to join the Royal Australian Navy.  In 1963 Chief Petty Officer 
+Rogers was embarked as the senior sailor on board the destroyer Voyager where he was 
+responsible for the ‘good order and discipline’ of the ship’s company.  On 10 February 
+1964 Voyager took part in exercises with the aircraft carrier Melbourne off the south 
+coast of New South Wales.  That evening Voyager collided with Melbourne and was cut 
+in two.  Voyager’s severed forward section immediately heeled sharply to starboard, 
+turning upside down in minutes and sinking within five minutes.  Rogers was one of the 
+82 men who died.  Sailors who escaped later told how Rogers had taken charge of the 
+situation.  He had calmed terrified shipmates, attempted to control the flooding, tried to 
+free a jammed escape hatch, and organised men to move into other compartments with 
+functioning emergency exits.  When it was obvious that some of his comrades would 
+not get out in time, he led them in prayer and a hymn, ‘encouraging them to meet death’ 
+beside him ‘with dignity and honour’.  His wife remarked, ‘It was typical of him – he never 
+thought of himself’.  He was posthumously awarded the George Cross.
+The foundations of maritime power
+The physical component
+3.11. The physical component of fighting power provides the means to fight. 
+Broadly this consists of manpower, training, collective performance, equipment and 
+sustainability, at readiness including effective deployment and recovery. 
+3.12. Readiness, deployability and recovery.  Fighting power can only be effective 
+if it is applied at the right time and at the right place.  In this regard maritime forces 
+are unique as they are able to deploy independently, provide a persistent forward 
+presence and then self-recover to the UK on completion of an operation.  Within 
+the UK they are brought to a material state to be safe to, and capable of, deploying, 
+with suitable material enhancements as required.  In addition the collective training 
+provided by the Flag Officer Sea Training organisation ensures ships of the Royal Navy 
+(and many foreign navies that the UK helps to train) deploy at readiness.  In practice 
+this means that maritime forces are able to move from peacetime operations to a 
+state of war in a matter of hours.
+3.13. Sustainability.  Sustainability enables ships, submarines, aviation and 
+commando units to deploy to an area of operations, remaining fully mission capable 
+for a variety of roles.  This provides the commander with the flexibility to remain 
+on task and operationally capable for as long as necessary.  Sustainability depends 
+
+JDP 0-10 (5th Edition)
+35
+3
+The foundations of maritime power
+upon the provision of a variety of logistic functions and is a complex, dynamic and 
+wide ranging series of disciplines which, on a task group scale, often dictates the 
+operational tempo.  Logistics encompasses the delivery of organic medical functions, 
+the supply chain and a considerable portion of engineering output.  Together these 
+are equal partners in the maintenance of task group or single ship sustainability.  
+Sustainability is defined as: the ability of a force to maintain the necessary level of 
+combat power for the duration required to achieve its objectives. 42  Sustainability is:
+• one of the ten principles of war;
+• the responsibility of commanders at every level of command;
+• an integral part of the planning, preparing and executing of, and 
+withdrawal and recovery from, every operation; and
+• must be fully exercised in peacetime to be effective in war.
+3.14.  Deployed maritime forces.  
+Deployed maritime forces aim to be 
+as self-sufficient as possible.  Maritime 
+first line sustainability is provided by 
+the units’ on-board stocks,43 including 
+food, the ability to make potable water 
+and engineering spares.44  Second 
+line support, particularly for fuel, is 
+provided by the support shipping 
+of the Royal Fleet Auxiliary (RFA).45  
+If external support is required it is 
+provided through the Defence Support 
+Network, which could include host-
+nation support, potentially through 
+a deployed forward logistic site; or 
+resupply from the UK strategic base.  
+This logistic capability provides the 
+UK with ‘blue water’46 maritime forces 
+which are able to operate at distance 
+from the UK.
+42  NATOTerm.
+43  On-board stocks are referred to as classes of supply.  These are: Class 1 – provisions (including 
+potable water); Class 2 – scaled stores items (principally this includes marine engineering spares, weapon 
+engineering supplies); Class 3 – petrols, oils and lubricants; Class 4 – non-scaled items; Class 5 – munitions.
+44  Where stocks are not routinely held on-board (for example, to support an aviation asset) a deployable 
+spare pack is embarked.
+45  Reciprocal agreements exist where maritime forces share logistic support shipping capabilities.
+46  In this context ‘blue water’ refers to maritime forces able to operate on the open oceans or high seas.  
+Green and brown water refers to maritime forces that are limited in their operations to a state’s coastal 
+waters, ports and harbours, and inland rivers and estuaries, respectively.
+Replenishment at sea
+
+36
+JDP 0-10 (5th Edition)
+336
+The foundations of maritime power
+3.15. Every military force has distinctive attributes brought about by the 
+characteristics of the environment in which it operates.  It is these attributes that 
+provide the foundations for the military power that assists political  
+decision-makers in supporting national objectives.
+3.16. In this fifth edition of Joint Doctrine 
+Publication (JDP) 0-10, UK Maritime Power 
+the range of attributes has been refined.  In 
+addition, as the purpose of maritime power 
+is to exert national influence, the purpose 
+of each attribute is to generate influence.47 
+3.17. Influence is defined as: the capacity to have an effect on the character or 
+behaviour of someone or something, or the effect itself. 48   The ability to influence is 
+intrinsically related to the ability to project military power.  Therefore the shape and 
+nature of a maritime force should be carefully considered before deploying from the 
+UK.  Figure 3.3 highlights the attributes of maritime forces. 
+Figure 3.3 – The attributes of maritime forces
+47 Previously the summation of the attributes had been designated as ‘leverage’.
+48 Concise Oxford English Dictionary , 12th Edition, 2011.
+Access
+MobilityPersistence
+PoiseVersatillity
+In/f_luence
+Section 2 – The attributes of maritime forces
+‘The ... greatest value [of the Navy] 
+will be found in events that fail to 
+occur because of its influence.’
+Professor Colin Gray
+
+JDP 0-10 (5th Edition)
+37
+3
+The foundations of maritime power
+Section 2 – The attributes of maritime forces
+Access
+3.18.  The long-standing principle of freedom of navigation in international waters 
+allows maritime forces to access areas of national interest and potential threat.  This 
+access guarantees freedom of navigation for maritime forces up to 12 nautical miles 
+from a coastline to allow options for intervention at a time and place of national 
+choosing.  This enables forces to poise in or near areas of interest, covertly or overtly 
+as circumstances require.  By having an expeditionary stance and a forward presence, 
+maritime forces are often closest to crises as they develop and are able to respond 
+accordingly.  While adversaries may use anti-access and area denial methods such 
+as mines and shore-based missiles, alternative approaches such as cyber and 
+electromagnetic activities (CEMA) can be used to attack navigation systems or 
+exploit cognitive methods such as social media messaging in an attempt to restrict 
+or deny access.  Maritime forces can use their mobility and freedom of navigation to 
+attempt to counter these activities, but these threats will require consideration when 
+generating a maritime force. 
+Poise
+3.19.  Poise is the ability of maritime forces to loiter in international waters 
+demonstrating a forward military presence at readiness without the political and 
+military complications and risks of deploying forces ashore or projecting from a  
+third-party location.  The forward presence of credible maritime forces also 
+demonstrates commitment to allies without requiring a military footprint ashore.  
+Maritime forces poised in this manner have great utility in deterring or resolving 
+potential or emerging conflict. 49
+Mobility
+3.20.  Exploiting the access and freedom of navigation afforded by the sea, provides 
+maritime forces with a high degree of mobility.  These rights facilitate maritime 
+manoeuvre and provide a deployable force that can reposition quickly or cover 
+49  Gerson M and Whiteneck D, Deterrence and Influence: The Navy’s Role in Preventing War , CRM D0019315.
+A4/1Rev, March 2009.
+‘The fact that naval forces can ‘loiter’ and be minimally intrusive is an important and 
+unique contribution to deterrence.  The Army can loiter, but it cannot be minimally 
+intrusive; the Air Force can be minimally intrusive (although, because it still needs some 
+land-based infrastructure, it is more intrusive than maritime forces), but it cannot loiter.  
+Only naval forces can do both simultaneously.’49
+
+38
+JDP 0-10 (5th Edition)
+338
+The foundations of maritime power
+significant distances to respond to situations.  While shipping lacks the speed of 
+aircraft, unless maritime-based aircraft are available to respond, maritime platforms 
+are continuously mobile while having the ability to carry significantly more payload.  
+This provides huge flexibility at both the tactical and operational levels.  Sealift, either 
+through Defence-owned shipping or hired commercial shipping is the most  
+cost-effective means and only real practicable method of deploying at scale to even 
+land locked countries.
+Persistence 
+3.21. Maritime forces are able to offer a unique persistence providing the UK with 
+a sovereign capability that can be established with minimal political and logistic 
+commitment and easily withdrawn.  The endurance provided by on-board stocks, the 
+ability to replenish at sea and operate at range from host-nation support provides 
+a sustained presence unlike that provided by any other military force.  However, 
+persistence is tempered by the nature of the environment, the range of engineering 
+spares held on-board and the inability to replenish some weapon systems while 
+at sea.  The sea is unforgiving and takes its toll on people as well as equipment.  In 
+addition the weather can also be a challenge to maritime operations, although 
+maritime forces can use their mobility to counteract this.  While persistence is 
+achievable, if maritime operations are being conducted at significant range from 
+the UK or another supporting base, operations can be constrained or limited in their 
+duration.
+HMS Defender with the French aircraft carrier Charles de Gaulle supporting operations against Daesh
+
+JDP 0-10 (5th Edition)
+39
+3
+Versatility – Operation VERITAS
+From 2001 to 2002 HMS Illustrious was deployed on the large UK and Omani exercise, Saif 
+Sareea II.  During the exercise, the terrorist attacks on the World Trade Centre took place.  
+HMS Illustrious remained in theatre while other elements of the task force returned to 
+the UK.  Overnight and while still at sea HMS Illustrious converted from the carrier strike 
+to the commando role.  HMS Illustrious had elements of the special forces and Royal 
+Marines on board, ready for possible combat operations in Afghanistan.  In November 
+2001 a Special Boat Service unit and then Royal Marines were lifted by helicopter 
+from HMS Illustrious to capture Bagram air base and pave the way for deploying the 
+International Security Assistance Force (ISAF).  In addition, Special Air Services troops 
+operated with Chinooks from the carrier.  This capability played an important part in the 
+UK’s effort in the fighting in Afghanistan as it provided the ability to get a small number 
+of high-quality forces on the ground at a really early stage which played a hugely 
+significant part in the fall of Kabul.   
+”
+“Maritime forces are uniquely versatile , easily changing their 
+military posture, while undertaking several tasks concurrently 
+and remaining available for rapid re-tasking .
+The foundations of maritime power
+Versatility
+3.22.  Maritime forces are uniquely versatile, easily changing their military posture, 
+while undertaking several tasks concurrently and remaining available for rapid  
+re-tasking.  Deploying with inherently high levels of readiness, a warship can 
+transition from a peacetime state to a combat ready one in a matter of hours.  This 
+capability offers opportunities to coordinate maritime activity with diplomacy and 
+supports the ‘international by design’ approach.  Designed and trained to operate 
+in a multinational context, UK maritime forces are capable of being deployed 
+independently, with a partner nation under a bilateral agreement, or as a part of 
+a wider coalition, such as North Atlantic Treaty Organisation (NATO), in pursuit of 
+common goals.
+
+40
+JDP 0-10 (5th Edition)
+340
+The foundations of maritime power
+3.23. Although all maritime forces can take advantage of the five inherent attributes 
+it does not follow that they will succeed on operations.  To achieve the necessary 
+influence required to fulfil national objectives it is highly likely that maritime power 
+will need to be adjusted to the prevailing context within which it is employed.  
+The adaptability of maritime forces is the pre-eminent quality which ensures that 
+maritime power remains relevant in new and changing situations.
+3.24. While maritime forces are inherently versatile, they require adaptability to be 
+able to learn quickly and alter plans to respond to changing situations.  The character 
+of future conflict cannot be predicted accurately, so a maritime force must prepare for 
+the most complex and demanding operations but also maintain the agility to adapt 
+rapidly to specific operational requirements.  Adaptable maritime forces are able to 
+recognise and understand new challenges, experiment with solutions and implement 
+effective responses at a higher tempo than the enemy.  This allows them to seize 
+and maintain the initiative and exploit opportunities.  Our command philosophy 
+of mission command embraces decentralised execution, providing the freedom of 
+action to adapt to circumstances within the commander’s intent.  Adaptability is 
+further enabled by investment in developing experience, education, training and 
+equipment.
+Section 3 – Adaptability of maritime forces
+A United States Marine Corps V-22 Osprey operates from HMS Illustrious during Operation PATWIN
+
+JDP 0-10 (5th Edition)
+41
+3
+Adapting for disaster relief operations – Operation PATWIN 
+In the autumn of 2013 Typhoon Haiyan struck the Philippines causing widespread damage.  
+Almost 300 miles wide it was one of the most intense tropical storms to ever make landfall 
+and it ripped through the south east of the country killing, injuring and leaving thousands of 
+people homeless.  
+As part of the joint UK response – Operation PATWIN, HMS Daring was detached from an 
+air defence exercise with the Australian, New Zealand, Singaporean and Malaysian navies, 
+and was on station within five days.  Prior to deploying HMS Daring’s ships company had 
+undertaken intensive disaster relief training meaning that the ships company were able to 
+adapt from an air defence posture overnight.  When on station HMS Daring spent ten days 
+providing support to some 10,000 people in isolated and devastated areas on remote islands 
+around the Visayan Sea.  Concurrently HMS Illustrious was in Oman on the return leg of the 
+Exercise COUGAR 13.  Operating in the landing platform helicopter (LPH) role Illustrious 
+was detached from the task group and dashed 6,000 miles from the Horn of Africa to the 
+Philippines via Singapore.  In Singapore, HMS Illustrious offloaded equipment embarked for 
+the Exercise COUGAR deployment and working closely with a team of logistics experts from 
+the Department for International Development (DFID) loaded over 500 tonnes of disaster 
+relief stores.  In addition further Royal Marines, medical teams, personnel from 24 Commando 
+Royal Engineers and additional carrier air group personnel were all embarked.  
+Upon arrival in the Philippines the carrier relieved HMS Daring and spent three weeks 
+providing humanitarian assistance as part of the international effort.  Like HMS Daring, HMS 
+Illustrious’ ships company had undertaken disaster relief training at the Flag Officer Sea 
+Training organisation and were therefore able to adapt quickly to the requirements of the 
+mission.  In addition to HMS Illustrious’s seven helicopters, a United States Marine Corps V-22 
+Osprey was embarked.  The ship was able to access remote areas quickly and the sea-based 
+helicopters were able to survey large areas and then deliver aid that simply could not be 
+accessed by any other means. 
+An estimated 50,000 people were helped by the efforts of the men and women of HMS 
+Daring and HMS Illustrious in the Philippines.  Vital infrastructure was repaired and shelters 
+erected to help the large number of people whose homes had been destroyed.  In addition 
+over 300 tonnes of food and aid, 16,000 litres of water were delivered by the two warships.  
+The embarked helicopters flew 431 hours of relief missions, with their effect maximised by 
+the proximity of the ship.
+While Operation PATWIN demonstrates the inherent versatility, mobility, access and 
+persistence of maritime forces it also demonstrates the adaptability of the personnel.  The 
+investment in disaster relief training prior to deployment enhanced the forces’ ability to 
+adapt to the prevailing conditions and successfully achieve the mission.
+The foundations of maritime power
+Section 3 – Adaptability of maritime forces
+
+42
+JDP 0-10 (5th Edition)
+342
+The level of 
+sea control 
+required, 
+and indeed 
+achievable, will 
+depend upon 
+the threat and 
+the mission. 
+”
+“
+The foundations of maritime power
+3.25. The strategic use of maritime power is made possible through the concept of 
+sea control and underpinned by the principles of maritime manoeuvre and maritime 
+power projection.  These are supported by a number of operational approaches.
+Sea control
+3.26. Previously the total control of the sea was referred to as command of the sea.   
+In the modern context the worldwide growth in navies has tempered ‘command of the 
+sea’ to the concept of ‘sea control’, where a maritime force establishes the conditions 
+to allow freedom of action in a particular part of the sea, at a particular time, to the 
+required degree and, if necessary, deny its use to an opponent.  Sea control requires 
+control of the surface and subsurface environments (including the seabed), the air 
+above the area in which sea control is required,50 the electromagnetic environment 
+and potentially areas of the land where that part of the land dominates the sea. 
+3. 27. The level of sea control required, and indeed achievable, will depend upon the 
+threat and the mission.  Where sea control is not contested the force has achieved 
+it by default and can focus on delivering maritime manoeuvre or maritime power 
+projection.  If there is any risk to freedom of action, sea control is necessary; however, 
+if the risk is small, the capabilities required can be correspondingly modest.  Gaining 
+the necessary level of sea control early, and retaining it, will be a major component 
+of any maritime or expeditionary operation.  In addition control of the air above 
+the sea, across the shoreline and some distance inshore may also be a fundamental 
+requirement.  This will need to be achieved by a combination of sea-based, land-based 
+and CEMA capabilities. 
+3.28. Where sea control is necessary it can be achieved through one of a number of 
+operational approaches.
+a. Decisive battle.  While a successful decisive battle at sea, where maritime 
+forces classically oppose each other is exceedingly rare in the modern era, 
+a decisive engagement is not.  A singular act can provide sea control.  What 
+is more common is a process of cumulative attrition or the concentration of 
+military effect at a singular point rather than the concentration of maritime 
+assets.
+50  Allied Joint Publication (AJP)-3.3.3, Allied Joint Doctrine for Air Maritime Coordination , Edition A, 
+Version 1, page 3.4.
+Section 4 – Principles and applications of  
+maritime power
+
+JDP 0-10 (5th Edition)
+43
+3
+Fleet-in-being – German Navy, 1941
+After the sinking of the Bismarck in May 1941, the German Navy was wary of the threat 
+posed by the combination of Royal Navy battleships and carriers.  Seeking to preserve 
+its capital ships, it stationed them in Norwegian fjords.  From here, they represented a 
+potential threat to convoys to Russia, as well as to Atlantic shipping if they could break 
+out, and therefore tied down several British capital ships for an extended period.  While 
+this represented something of a success for a fleet-in-being approach, they might have 
+achieved more if they had been used in a more positive and active way, in combination 
+with other units of the German Navy and Air Force: fleet-in-being has potential but risks 
+becoming passive.
+The foundations of maritime power
+b.  Sea denial.   Sea denial is a form of anti-access and area denial exercised 
+when one party prevents an adversary from controlling a maritime area 
+without being able to control that area oneself.  It can be a tool for a superior 
+maritime force, either in a secondary area of operations, or for one phase of 
+a larger campaign.  Classic means of achieving sea denial include laying a 
+minefield or deploying submarines to threaten enemy surface forces.  A more 
+recent method, particularly appropriate in littoral operations, is to project land 
+assets such as surface-to-surface missile batteries along the coast to pose an 
+unacceptable level of risk to maritime units.  In addition, non-lethal effects 
+such as control of the electromagnetic environment and other passive means 
+can be used to support sea denial activities.
+c. Fleet-in-being.   A state deprived of maritime superiority might choose, or 
+be forced, to adopt a strategy of fleet-in-being.  By avoiding confrontation with 
+a superior enemy a state can hold back its own maritime forces but continue 
+to threaten those of the enemy or their ability to carry out their mission.  The 
+submarine provides an excellent contemporary example of a fleet-in-being, as 
+it could be held covertly in reserve but could also be operating undetected in 
+an area vital to the superior force.  
+Decisive battle – Falklands War, 1982
+The Argentine Navy was strong enough to pose a serious threat to the British task force 
+during the Falklands War, even seeking to launch a two-pronged attack against it on  
+1 May.  The following day, however, the nuclear submarine HMS Conqueror torpedoed 
+and sank the cruiser General Belgrano.  While the British still faced submarine and air 
+threats, as a result of this single engagement, the Argentine surface fleet, including a 
+carrier and several missile-armed destroyers and corvettes, pulled back into territorial 
+waters and played no further part in the conflict.
+Section 4 – Principles and applications of  
+maritime power
+
+44
+JDP 0-10 (5th Edition)
+344
+Maritime manoeuvre – The Battle of Magagascar, 1942
+In early 1942, the British Government became worried that Japan might seek to capture 
+the naval and air base at Diego Suarez in Vichy French Madagascar.  A landing directly 
+into the town was too risky due to the well-defended, narrow channel leading to it.  The 
+British force therefore exploited the mobility of sea power to land on the other, less 
+well-defended side of the isthmus – at night, when the French believed navigation to 
+be impossible.  This allowed the amphibious landing to avoid most of the defending 
+forces, and to surprise and capture the few gun batteries facing them, while the Fleet Air 
+Arm knocked out the defending air force in its base.  The land forces were then able to 
+advance on the objective from an unexpected direction.
+The foundations of maritime power
+d. Blockade.  This allows the presence of a stronger maritime power to 
+contain an adversary reluctant to fight, or force a decisive battle on them.
+3.29. Sea control is unlikely to be an end in itself.  It provides the necessary baseline 
+condition to allow use of the sea for further purposes such as maritime manoeuvre 
+and maritime power projection. 
+Julian Corbett, Some Principles of Naval Strategy
+Maritime manoeuvre
+3.30. Sea control and the legal framework which allows unrestricted access and 
+presence no closer than 12 nautical miles from the baseline in peacetime is a key 
+enabler for maritime manoeuvre.  The ability to operate, particularly in littoral areas, 
+is of crucial importance, either as the main effort or as the staging area for deploying 
+and sustaining ground forces.  Therefore, as well as the central requirement to be 
+capable of controlling events at sea, UK maritime power must also be capable of 
+influencing events on land from the sea.
+3.31. Tactically the sea offers a hiding place for submarines; and even surface ships 
+are hard to locate and identify if they are not radiating a significant electromagnetic 
+or acoustic signature.  Mobility and the ability to relocate a large maritime force can 
+gain the initiative and allow an adversary’s vulnerabilities to be exploited at a time 
+‘Since men live upon the land and not upon the sea, great issues between nations at war 
+have always been decided – except in the rarest cases – either by what your army can do 
+against your enemy’s territory and national life or else by the fear of what the fleet makes it 
+possible for your army to do.’
+
+JDP 0-10 (5th Edition)
+45
+3
+The foundations of maritime power
+of choosing to demonstrate political will, apply influence or, if required, use force.  In 
+international armed conflict, only the national waters of neutrals are not available to 
+belligerents.
+Maritime power projection
+3.32.  Maritime power projection is the threat, or use, of national power from the 
+sea to influence events.  It exploits sea control and maritime manoeuvre to achieve 
+access to threaten or project force ashore using a combination of amphibious forces, 
+embarked aircraft, land attack weapons, cyber capabilities, electronic warfare and 
+special forces.
+3.33.  There are numerous ways in which maritime power projection can contribute 
+to a joint operation.
+a. Shape.   The sea is, in most cases, a highway free from boundaries 
+and frontiers that provides a valuable arena for joint force manoeuvre.  In 
+preparation for subsequent operations, maritime forces can, for example, be 
+employed to gather intelligence and/or mount non-combatant evacuation 
+operations, withdrawing civilians from a potential combat zone.  Equally they 
+may be used to insert special operations forces or to conduct amphibious 
+operations.
+b.  Reassure.   Before the build-up of friendly joint forces in theatre, the 
+presence of maritime forces can be used to reassure a friendly state.  A state 
+reassured by the presence of maritime forces is more likely to provide access, 
+basing and overflight.
+Naval gunfire is a method of projecting maritime power at sea or from the sea
+
+46
+JDP 0-10 (5th Edition)
+346
+Alliance 
+maritime forces 
+can guard the 
+maritime flanks 
+of an operating 
+area and by 
+doing so, limit 
+the freedom of 
+manoeuvre of an 
+enemy.  
+”
+“
+The foundations of maritime power
+c. Deter.  Maritime forces can be used to deter an aggressor by deploying 
+into a region at an early stage, at relatively low political risk and, if necessary, in 
+considerable strength.
+d. Coerce.  As maritime forces build up in theatre, they can demonstrate 
+further resolve by launching discrete amounts of mixed land, air, or maritime 
+power against key adversary targets to force an adversary away from one 
+course of action or to compel them to take another.  Importantly, they can do 
+this while having some measure of control over escalation.
+e. Disrupt.  Prior to the main offensive, maritime forces can help to shift the 
+emphasis from defensive to offensive operations by disrupting enemy activity 
+through the use of amphibious raids into enemy territory.
+f. Project.  Land manoeuvre seeks a position of advantage with respect to the 
+enemy from which force can be threatened or applied.  An important role of 
+maritime power projection forces, particularly amphibious forces, is to provide 
+manoeuvre from the sea.  Speed of manoeuvre at sea will often surprise 
+opponents ashore; a maritime force can move up to 400 nautical miles in a day.
+g. Support.  During the execution of an operation, the maritime component’s 
+full range of capabilities, in particular its ability to engage in precision attack, 
+can support friendly forces ashore or in the air.  Additionally, the sea base may 
+be used to flexibly and securely hold a reserve force or serve as a command 
+platform; these functions have equal utility at both the start and the end of a 
+conflict or crisis.
+h. Limit.  Alliance maritime forces can guard the maritime flanks of an 
+operating area and by doing so, limit the freedom of manoeuvre of an enemy.  
+This also has the added advantage of greatly reducing the need for land forces 
+to guard vulnerable coastal areas that are being protected by these same 
+forces at sea.
+i. Recover.  Finally, when it comes to withdrawal, the ability of maritime forces 
+to transport large numbers of personnel and heavy items of equipment out 
+of theatre, and protect them in the process, has often been a vital function.  
+Equally, the sea base may be used to recover and reconstitute land forces but 
+remain in theatre, acting as a strategic reserve.
+
+JDP 0-10 (5th Edition)
+47
+3
+The foundations of maritime power
+ 
+Key points  
+• Fighting power is at the core of every military service as it defines the ability to 
+conduct successful operations.  It comprises three interrealated components – 
+conceptual, moral and physical.
+• Three core functions are employed to assist maritime commanders in planning 
+and executing operations: understand; fight (shape, engage, exploit and protect); 
+and sustain.
+• Ethos is a key aspect of the Naval Service.  The core values comprise: 
+commitment; courage; discipline; respect for others; and integrity.
+• UK maritime forces globally deploy at readiness and can transition from 
+peacetime operations to a state of war in a matter of hours.
+• Sustainability is a key aspect of maritime forces.  A high level of self-sustainability 
+and provisioning allows UK maritime forces to operate at distance from the UK 
+for prolonged periods.
+• Maritime forces have inherent attributes that all serve the purpose of providing 
+national influence.  The attributes are: access; poise; persistence; mobility; and 
+versatility.
+• The adaptability of maritime forces is the pre-eminent quality which ensures that 
+maritime power remains relevant in new and changing situations.
+• The strategic use of maritime power is made possible through the concept of sea 
+control and underpinned by the principles of maritime manoeuvre and maritime 
+power projection.  These are supported by a number of operational approaches – 
+decisive battle, sea denial and fleet-in-being.
+• Maritime power projection is the threat, or use, of national power from the sea to 
+influence events.
+
+[Page 60: No extractable text]
+
+JDP 0-10 (5th Edition)
+49
+Employing maritime 
+power
+Chapter 4 examines the three roles of maritime forces – 
+war fighting, Defence Engagement and maritime security 
+– how they come together with the other elements of 
+military power to conduct joint action and the roles they 
+undertake to support national objectives.
+Chapter 4
+4
+JDP 0-10 (5th Edition)
+Section 1 – Roles of maritime forces . . . . . . . . . . 51
+Section 2 – The maritime contribution  
+                       to military power  . . . . . . . . . . . . . . 54
+Section 3 – Joint and multinational operations   . . . 61
+
+50
+JDP 0-10 (5th Edition)
+450
+“
+”
+A good navy is not a provocation to war.  
+It is the surest guarantee of peace.
+ 
+Theodore Roosevelt
+Employing maritime power
+
+JDP 0-10 (5th Edition)
+51
+4
+Employing maritime power
+Chapter 4 – Employing 
+maritime power
+4.1.  Traditionally maritime forces have been used by states for a wide variety of 
+tasks.  The accepted consensus is that there is a ‘trinity’ of ‘three characteristic modes 
+of action by which maritime forces operate: namely military, diplomatic and policing 
+functions’.51  These functions have evolved to war fighting, maritime security and 
+Defence Engagement as shown in Figure 4.1. 
+Figure 4.1 – The three roles of UK maritime forces
+4.2.  The primary objective of maritime power is to assist in preventing conflict 
+through deterrence; conscious of the need to escalate if deterrence fails.  The ability 
+to conduct each of the three roles contributes towards conflict prevention.  Ultimately 
+the product of each role is more than simply preventing conflict; it is to support 
+national objectives in helping shape a more stable international community.  The 
+51 Ian Speller, Understanding Naval Warfare , 2014.
+Defence Engagement
+Maritime security 
+War /f_ighting
+The use 
+of the sea
+Section 1 – Roles of maritime forces
+
+52
+JDP 0-10 (5th Edition)
+452
+‘Soft power flows to the owner of hard power.’
+Employing maritime power
+three roles, collectively or individually, depending upon the specific circumstances, 
+seek to stabilise the strategic maritime environment as well as help to ensure a secure 
+and resilient UK.
+4.3. In practice, most operations undertaken by maritime forces will incorporate 
+aspects of each of these three roles.  They are interrelated and may be conducted 
+concurrently or consecutively with little or no physical change to the force structure.  
+Often the boundaries between maritime security and war fighting operations may be 
+difficult to distinguish and will invariably involve Defence Engagement as well.  This 
+versatility is one of the most valuable features of maritime forces; they offer options to 
+decision-makers for escalation or de-escalation simply by altering posture.
+Role 1 – war fighting
+        Joseph Nye52 
+4.4. A credible hard power capability provides the foundations on which the softer 
+roles of maritime security and Defence Engagement are built.  Therefore, at its core 
+UK maritime forces must be able to deter potential aggressive acts against the UK, 
+and where this fails, conduct successful combat operations in pursuit of the national 
+interest.  In this role maritime forces will generally be configured into a maritime 
+task group,53 able to project maritime power through either carrier strike54 or littoral 
+manoeuvre,55 which provides the capability of projecting a landing force ashore.
+Role 2 – maritime security
+4.5. Exploiting powers under international, national and cooperating partner states 
+law, maritime security operations are conducted against a wide range of activities.  
+Principally the focus is on the support to trade, including fisheries, to safeguard 
+national prosperity.  However, other activities include: defence (short of war fighting); 
+humanitarian assistance and disaster relief; non-combatant evacuation operations; 
+and countering piracy, slavery, people smuggling, illegal immigration, drug smuggling, 
+arms smuggling, terrorism and the proliferation of weapons of mass destruction.
+52 Joseph Nye, Hard, Soft and Smart Power, 2013. 
+53 A maritime task group or force is a group of maritime military assets assigned together for a specific 
+purpose.
+54 Carrier strike is the ability to use fixed-wing aircraft from a maritime base to project military power 
+from the sea.
+55 Littoral manoeuvre is exploiting the access and freedom provided by the sea as a basis for operational 
+manoeuvre.
+
+JDP 0-10 (5th Edition)
+53
+4
+‘…navies have shown themselves to be uniquely useful as instruments for the conduct of 
+foreign policy for time immemorial.  As such, they express the foreign policy objectives of 
+the state.  Depending on the nature of those objectives, naval diplomacy can be used in a 
+competitive or collaborative way, or, more usually, some mixture of the two.’
+Employing maritime power
+Role 3 – Defence Engagement
+Professor Geoffrey Till 56 
+4.6.  The versatility and mobility of maritime forces provides a means for political 
+and diplomatic influence in international relations.  Conflict prevention is a key tenet 
+of the UK’s overall security strategy.  Such influence requires an investment in  
+long-term habitual engagement that creates worthwhile connections that engender 
+trust.  When executed effectively, conflict prevention promotes, develops and 
+maintains stable relationships between states and encourages cooperation and 
+conciliation in managing international affairs.  It is a gradual and deliberate process 
+that takes time, effort and persistence.  Relationships need to be nurtured and 
+encouraged through regular dialogue and demonstrations of national intent 
+involving all levers of national power.  In addition, the Government acknowledges 
+that Royal Navy ships’ visits are an important way of projecting the UK’s soft power 
+globally,57 and it is a clear demonstration of the ‘international by design’ intent.  The 
+added benefit is that greater stability leads to greater trade and prosperity. 
+56  Professor Geoffrey Till, Seapower: A Guide for the Twenty-First Century, 3rd Edition, 2013, page 221.
+57  National Security Strategy and Strategic Defence and Security Review 2015, A Secure and Prosperous 
+United Kingdom (NSS and SDSR 2015), available at https://www.gov.uk/government/publications/national-
+security-strategy-and-strategic-defence-and-security-review-2015
+A type 23 frigate provides maritime security in the Northern Arabian Gulf
+
+54
+JDP 0-10 (5th Edition)
+454
+Employing maritime power
+4.7. While all Services contribute to maritime forces, the principal actor is the Naval 
+Service.  There are four fighting arms of the Naval Service, supported by the Royal Fleet 
+Auxiliary.
+a. The surface fleet. 58  The various platforms of the surface fleet promote and 
+protect UK national interest at home and abroad.
+(1) Aircraft Carriers.  Aircraft carriers have been a core capability of the 
+Naval Service since the First World War.  The introduction of HMS Queen 
+Elizabeth followed by HMS Prince of Wales will see the resumption of carrier 
+operations able to provide a maritime power projection capability for fixed-
+wing carrier strike, rotary wing strike and littoral manoeuvre operations.  The 
+two Queen Elizabeth Class carriers will provide the focus for UK task group 
+operations for the next 50 years. 
+(2) Frigates and destroyers.  Frigates and destroyers are multipurpose 
+combatants with an emphasis on anti-submarine warfare and anti-air warfare 
+respectively, but with capabilities in many disciplines, including the ability 
+to provide fire support and air defence to forces ashore.  They are able to 
+deploy autonomously for extended periods and their versatility allows them 
+to cover a wide range of tasks across all three maritime roles, in particular 
+establishing presence.  They are essential elements of any task group.
+(3) Amphibious shipping.  The UK’s amphibious shipping constitutes ships 
+of the Royal Navy, the Royal Fleet Auxiliary and, when necessary, chartered 
+merchant vessels.  These platforms provide the littoral manoeuvre capability 
+that enables the maritime power projection of a land force as part of an 
+amphibious task group.
+(4) Mine countermeasures vessels.  Mine countermeasures vessels operate 
+in the approaches to harbours and choke points where they are used to 
+maintain the flow of both commercial and naval shipping.  They are also 
+tasked with ensuring access to the open ocean for the nuclear deterrent and 
+an important element of task groups, particularly in advanced sea control 
+operations or to clear the amphibious operating areas prior to a landing.
+58 http://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/surface-fleet
+Section 2 – The maritime contribution  
+to military power
+
+JDP 0-10 (5th Edition)
+55
+4
+Employing maritime power
+Section 2 – The maritime contribution  
+to military power
+(5) Hydrographic and oceanographic survey vessels.   Hydrographic and 
+oceanographic survey vessels provide a specialist military data gathering 
+capability in support of safety of navigation, the production of charts, 
+and maritime and joint operations, including the nuclear deterrent. 
+Hydrographic, oceanographic and meteorological information is used to 
+inform campaign planning and to provide situational understanding.  It is 
+a vital precursor to theatre entry and littoral manoeuvre.  Survey vessels 
+require a measure of forward support and appropriate force protection 
+when operating in a sub-surface, surface or air threat environment. 
+(6)  Patrol vessels.   Specialised vessels are deployed routinely on patrol 
+around the UK and Overseas Territories, chiefly on maritime security 
+operations undertaking constabulary tasks, to protect sovereignty, 
+economic interests and ensuring good order and security of the maritime 
+environment.  Their capabilities extend to the full extent of the UK’s fishing 
+and energy zones.  For fishery protection, the ships are an integrated 
+capability operated under contract to the Department for Environment, 
+Food and Rural Affairs (DEFRA).  They patrol UK waters protecting UK fishing 
+vessels and enforcing fisheries regulations but may be more widely tasked 
+to support government departments contributing to maritime security.  
+HMS Protector (the Royal Navy’s ice patrol ship) makes annual deployments 
+to Antarctic waters to demonstrate the national commitment to the 
+Antarctic Treaty, exercise sovereignty over the British Antarctic Territories 
+and to provide assistance to the British Antarctic Survey; it also concurrently 
+undertakes hydrographic survey and meteorological work.
+HMS Protector on annual deployment in Antarctic waters
+
+56
+JDP 0-10 (5th Edition)
+456
+Employing maritime power
+b. The Submarine Service.59  The Royal Navy operates a mix of ballistic missile 
+and conventionally armed submarines – all are nuclear powered to give them 
+global reach.
+(1) Providing nuclear deterrence (Operation RELENTLESS) is a Defence Task 
+in its own right and the Defence priority.  A force of four Vanguard-class 
+nuclear powered submarines (ship submersible ballistic nuclear (SSBN)) 
+with nuclear armed ballistic missiles is operated such that at least one is 
+continually on deterrent patrol; known as the ‘continuous at sea deterrent’ 
+(CASD). 
+(2) Nuclear powered attack submarines (ship submersible nuclear (SSN)) 
+provide the principal sea denial capability due to having both anti-submarine 
+and anti-ship systems.  When combined with an appropriate land attack 
+missile, such as the Tomahawk, SSNs have a power projection capability of 
+considerable range and penetrability, with important uses for deterrence and 
+coercion.  SSNs can also covertly gather intelligence, and insert and recover 
+special forces.  They can operate independently or in conjunction with 
+surface and air forces and contribute to protecting the nuclear deterrent.
+59 http://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/submarine-service
+For the UK the nuclear deterrent is delivered by the submarine enabled continuous at sea deterrent
+
+JDP 0-10 (5th Edition)
+57
+4
+Employing maritime power
+c. The Fleet Air Arm. 60  The Fleet Air Arm is the Naval Service’s maritime 
+aviation capability and consists of specialist anti-submarine, anti-surface, 
+airborne surveillance, reconnaissance and battlefield support helicopters.  
+However, their versatility enables them to carry out a number of secondary roles 
+such as search and rescue.  In addition the Fleet Air Arm 809 Naval Air Squadron 
+will operate the F-35B Lightning II aircraft alongside the Royal Air Force (RAF) 
+and will be able to deliver carrier strike, control of the air, and intelligence, 
+surveillance and reconnaissance when full operating capability is achieved.  
+When operating in a maritime task group aviation assets will be integrated into 
+an embarked tailored air group.  A tailored air group is configured to provide 
+the aircraft to meet the operational requirement and will vary depending on 
+whether supporting carrier strike or littoral manoeuvre.  Along with Fleet Air 
+Arm aircraft it is likely to include aviation assets such as battlefield attack and 
+support helicopters from the Joint Helicopter Command of the British Army and 
+fixed wing aircraft from the RAF.
+d. The Royal Marines. 61  The Corps of the Royal Marines are a light infantry force 
+who are highly specialised in amphibious warfare.  Held at very high readiness 
+and optimised for worldwide rapid response they are fully integrated with the 
+Royal Navy’s amphibious ships.  They can be deployed globally without host 
+nation support and can be projected from the sea to conduct operations on 
+land.   
+These operations range from raids to full assaults as the spearhead of littoral 
+manoeuvre operations.  In addition, the Royal Marines conduct the specialist 
+role of security for the nuclear deterrent.
+e.  The Royal Fleet Auxiliary. 62  Although not officially classed as a fighting 
+arm by the Queens Regulations for the Royal Navy, the ships of the Royal Fleet 
+Auxiliary are of vital importance to maritime forces.  Primarily they provide the 
+sustainability through fuel, food, stores and ordnance that can be transferred at 
+sea to enable persistence, which sits at the heart of maritime operations.  With 
+the ability to embark helicopters and significant elements of a landing force, 
+the Royal Fleet Auxiliary is a vital asset in supporting operations.  They are also 
+capable of undertaking activities such as anti-piracy and disaster relief in their 
+own right.  
+4.8.  Elements of land forces.  British Army forces play a significant role in the 
+maritime environment.  As well as those members of the British Army integrated 
+into 3 Commando Brigade in artillery, engineering and logistic functions, army 
+personnel based at sea as part of a landing group are classed as part of that maritime 
+60  http://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/fleet-air-arm
+61  http://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/royal-marines
+62  http://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/royal-fleet-auxiliary
+British Army 
+forces play a 
+significant  
+role in the 
+maritime 
+environment.
+”
+“
+
+58
+JDP 0-10 (5th Edition)
+458
+Employing maritime power
+force.  In addition, 17 Port and Maritime Regiment provides the UK Armed Forces’ 
+only specialist port and maritime component designed to facilitate the loading and 
+offloading of military equipment at ports across the globe.  The Joint Helicopter 
+Command63 is the principal contributor of support helicopters to provide the 
+lift capability required to enable littoral manoeuvre and battlefield attack and 
+reconnaissance helicopters to a tailored air group.
+4.9. Elements of air forces.  Embarked aircraft project maritime power from the sea 
+as part of a maritime force, although the command and control of joint assets may be 
+invested elsewhere within the joint force.  Air force personnel are also an integral part 
+of a maritime force providing specialist air knowledge.  In addition, land-based aircraft 
+can also influence the maritime environment through providing force protection, 
+battlespace management, reconnaissance, surveillance, targeting, air-to air refuelling, 
+air defence, attack and logistics resupply to the maritime force.  The speed of transit, 
+wide sensor and communications fit, ability to cover large areas and substantial 
+capacity for weapons, make maritime patrol aircraft such as the P-8A Poseidon, 
+important contributors to both anti-surface and anti-submarine warfare.  They are 
+optimised for area anti-submarine operations, surveillance and reconnaissance and 
+search and rescue, and may be well placed to provide some command and control 
+capabilities. 
+4.10. Chartered shipping.  An amphibious force will normally include chartered 
+shipping to complement the lift provided by specialist amphibious shipping.  
+Chartered shipping may include transport for personnel (passenger vessels), vehicles 
+(roll-on/roll-off ferries), hospital ships, container ships, water ships, tankers and 
+specialist lift shipping, such as semi-submersibles to transport additional landing 
+craft.  All with the purpose of projecting a land force from the sea.
+Maritime task group operations
+4.11. The maritime component to a joint force will be provided through a maritime 
+task group able to deliver sea control and maritime power projection.  This task group 
+will generally be comprised of a capital ship such as an aircraft carrier or amphibious 
+vessel accompanied by frigates, destroyers, submarines, mine clearance vessels and 
+support shipping; plus fixed- and rotary-wing aircraft and potentially a landing force 
+from across the three Services, providing a truly joint maritime power projection 
+capability. 
+4.12. The Carrier Enabled Power Projection (CEPP) programme will deliver an 
+integrated and sustainable joint capability, interoperable with our North Atlantic 
+Treaty Organization (NATO) Allies and other coalition partners.  CEPP coordinates the 
+63 In the UK’s Armed Forces structure Joint Helicopter Command is part of the British Army.
+Air force 
+personnel 
+are also an 
+integral part of a 
+maritime force 
+providing 
+specialist air 
+knowledge.
+”
+“
+
+JDP 0-10 (5th Edition)
+59
+4
+The value of Carrier Enabled Power Projection
+‘The delivery of the Carrier Enabled Power Projection (CEPP) programme will offer a step 
+change in the UK’s ability to globally project decisive military power and influence, either 
+independently or as part of a coalition operation. It will exploit the attributes of maritime, 
+air and land forces to deter, coerce or deliver action across the 3 environments.’
+CEPP concept of employment, 2014
+‘CEPP provides the UK with increased freedom of action and policy choice, including 
+when responding to crises.  It projects our national power and influence, and reassures 
+our allies and partners.  It is an important element of our modern deterrence posture and 
+will contribute to all three of national security objectives set out in the National Security 
+Strategy 2015.’
+CEPP Policy Statement, November 2016
+Employing maritime power
+delivery of the Queen Elizabeth Class aircraft carriers, F-35B Lightning II aircraft, Merlin 
+CROWSNEST, battlefield helicopters and enabling capabilities to:
+• deliver carrier strike;
+• support littoral manoeuvre; and
+• deliver humanitarian assistance and other Defence Engagement operations.
+4.13.  Carrier strike  allows the maritime task group to strike targets from anywhere 
+in the world.  The UK will operate a mix of aircraft from its Queen Elizabeth Class 
+aircraft carriers – secure, sovereign and well-found airbases which can move freely 
+through the world’s oceans.64  In the carrier strike role the ships will routinely carry 
+and fully support the F-35B Lightning II aircraft.  They will also embark the multi-role 
+Merlin Mark 2 helicopter which will be used to deliver intelligence, surveillance, target 
+acquisition and reconnaissance, and air-space management. 
+4.14.  When required this tailored air group can be shaped to provide either a strike 
+focus with the ship routinely carrying F-35B Lightning II aircraft, with the capacity to 
+surge to a maximum of 36, or when supporting littoral manoeuvre to embark greater 
+numbers of support and attack helicopters.  Transition between roles can be achieved 
+when the ship is deployed. 
+64  https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/62491/Factsheet9-
+Carrier-Strike.pdf
+
+60
+JDP 0-10 (5th Edition)
+460
+Employing maritime power
+4.15. Littoral manoeuvre is exploiting the access and freedom provided by the sea 
+as a basis for operational manoeuvre from which a sea-based amphibious force can 
+influence situations, decisions and events in the littoral regions of the world.  The 
+ability to deploy a land force from a sea base is a key capability of the maritime force. 
+4.16. The UK’s specialist amphibious forces represent a comprehensive range of 
+capabilities, fully able to operate independently or alongside allies and partners.  They 
+comprise three essential components:
+• the landing force;
+• specialist amphibious shipping; and
+• the tailored air group.
+4.17. The landing force is provided by 3 Commando Brigade Royal Marines in the 
+form of the lead commando group.  The lead commando group comprises personnel 
+from the Royal Marines and British Army, who can be landed and sustained from the 
+sea.  This may be supporting a larger land campaign, exploiting the maritime flank, 
+or conducting discreet operations (such as a raid), a non-combatant evacuation 
+operation or limited theatre entry.  The lead commando group aims to be established 
+ashore within six hours, using both landing craft and helicopters.  Aviation assets 
+and landing craft can be regrouped to the landing force during ongoing operations 
+enabling the amphibious shipping to be tasked elsewhere.
+An Apache attack helicopter on the deck of HMS Ocean
+Section 3 – Joint and multinational operations
+
+JDP 0-10 (5th Edition)
+61
+4
+Employing maritime power
+4.18.  The Royal Navy’s specialist amphibious shipping can tactically offload, sustain 
+and recover the landing force without recourse to harbours or airfields, in hostile, or 
+potentially hostile environments.  They provide the launch platforms for assaults and 
+raids by landing craft and helicopters.  The amphibious shipping65 has the necessary 
+command and control facilities for up to a brigade size operation, and are capable 
+of landing a company group surface assault, heavy equipment (such as armour) and 
+landing force vehicles and equipment. 
+Command and control
+4.19.  The scale and type of mission will determine the command and control of an 
+operation.  When conducting joint operations the command and control construct 
+will be detailed within the Chief of the Defence Staff’s Directive.  This will invest 
+command and control functions in the Permanent Joint Headquarters (PJHQ) based at 
+Northwood, who will delegate command and control to the appropriate operational 
+component commander.  Otherwise the operational command and control of 
+maritime forces will rest through the Royal Navy’s 2* Commander Operations  based 
+at Northwood.  The local command of a task group is usually conducted at the 1* 
+level, but can be scaled up to a 2* battle staff dependent on the size and complexity 
+of the operation. 
+4.20.  UK maritime forces routinely include capabilities of the Royal Navy and 
+components of the British Army and RAF to support the military instrument to 
+national power, particularly when operating in a task group.  Maritime forces 
+are therefore predominately a joint force.66  These forces, along with all other 
+government departments, should be integrated behind a common national goal, 
+and synchronised to create best effect.  In the UK this is known as the full spectrum 
+approach, with the military component of this referred to as joint action.
+4.21.  NATO is at the heart of UK Defence, therefore a UK national approach will 
+generally be framed within a broader multinational response including allies, 
+international organisations and non-governmental organisations.  This multinational 
+approach creates greater opportunities and capabilities, but can also generate 
+frictions, where national objectives differ.  Developing coherence on areas such as risk 
+65  Currently provided by HMS Albion and HMS Bulwark landing platform dock (LPD) ships.
+66  Joint force is defined as: a force composed of significant elements of two or more Services operating 
+under a single commander authorised to exercise operational command and control.  Joint Doctrine 
+Publication (JDP) 0-01.1, UK Supplement to the NATO Terminology Database , 8th Edition.
+Section 3 – Joint and multinational operations
+
+62
+JDP 0-10 (5th Edition)
+462
+Employing maritime power
+and identifying priorities can be challenging, with the adversary able to exploit these 
+potential differences.67 
+Joint action
+4.22. Joint action is the orchestration of national military capabilities and activities 
+to achieve influence in pursuit of national objectives.  It is the combination of attack 
+and defensive capabilities, information activities and the ability to outreach and 
+manoeuvre to affect an actor’s will, capability or understanding.  Maritime forces 
+are a key contributor to joint action.  In recognising the primacy of influence as 
+an objective, maritime power is highly capable of providing influence without 
+commitment.  By using the attributes of the maritime environment, maritime forces 
+can use maritime manoeuvre and maritime power projection to affect an actor’s will, 
+understanding or capabilities.  Often this presence can act as a method of conflict 
+prevention.
+Admiral Sir Mark Stanhope68
+4.23. Joint action coordinates and synchronises:
+• fires (military power effect through both physical and virtual means);
+• information activities (including regional and key leader engagement);
+• manoeuvre (the ability to remain mobile to gain advantage in time and 
+space); and
+• outreach (including stabilisation, support to governance and capacity 
+building).
+Joint operations
+4.24. A joint operation is one where two or more of the Royal Navy, British Army 
+and RAF operate as a single military force, under a single command structure, to 
+67 JDP 01, UK Joint Operations Doctrine , covers multi-agency planning in greater detail and is available at 
+https://www.gov.uk/government/publications/campaigning-a-joint-doctrine-publication
+68 Speaking when First Sea Lord at the International Institute for Strategic Studies, 24 February 2010.
+‘Our presence in the first place: engagement without entanglement may be a 
+sufficient demonstration of intent and deterrence to prevent the need for final 
+engagement.’
+
+JDP 0-10 (5th Edition)
+63
+4
+Employing maritime power
+accomplish a specific mission. 69  Maritime forces are often joint but when constructed 
+of only the Naval Service will often contain an air power (Fleet Air arm) and land 
+power component (Royal Marines).  Maritime power therefore offers policy-makers 
+with a broad range of military options to achieve specific national objectives.  
+Maritime power enhances the scale of options for the joint force.  Through access 
+and mobility, maritime power projection in the form of carrier strike can reach almost 
+any battlespace and provide a persistent presence.  In addition, support shipping can 
+provide vital deployment, sustainment and recovery capabilities.  
+4.25.  As a maritime force is likely to be joint, it can be used independently or in 
+conjunction with coordinated air and land operations to create a larger joint force.  A 
+sole maritime force does not have the same capacity as a joint operation.  Therefore, 
+for enduring operations, UK maritime forces will operate within a joint approach.
+4.26.  Although the effects of joint action are primarily targeted at an adversary, 
+it has an impact on a wide range of other actors that also need to be influenced.  
+This can include civilian partners, such as non-governmental organisations, the UK 
+population, allies and regional audiences.  Such engagement and influence helps 
+preserve freedom of action for military operations.  Therefore, joint action requires 
+coordination or integration with the activities of other government departments in a 
+full spectrum approach.70
+69  In most instances the maritime component to joint action will be coordinated through the Permanent 
+Joint Headquarters (PJHQ).
+70  The full spectrum approach develops the integrated approach (described in JDP 0-01, UK Defence 
+Doctrine, 5th Edition) by widening it to include all parts of Government.  For further information see Her 
+Majesty’s Government (HMG), Full Spectrum Approach Primer, 2017.
+Joint Helicopter Command Chinook helicopters from  
+the RAF operating as part of a joint maritime force
+
+64
+JDP 0-10 (5th Edition)
+464
+Employing maritime power
+Full spectrum approach
+4. 27. Effective crisis management requires active cross-government and  
+multi-agency cooperation, to develop, employ and sustain a comprehensive and 
+successful response.  The full spectrum approach to national power is therefore an 
+approach which deals with a wide variety of challenges by creating and managing 
+strategies to address complex problems.   It employs diplomatic, economic and 
+military instruments of national power to achieve desired political and strategic 
+objectives.  The coordination and synchronisation of these capabilities reduces 
+duplication of effort, creates synergies and leads to more effective use of resources.  
+UK maritime power is a key component of the full spectrum approach, as part of the 
+broader Defence input.  Figure 4.2 highlights the relationship between joint action 
+and the full spectrum approach.
+Figure 4.2 – The relationship between joint action and the full spectrum approach
+The Joint Expeditionary Force
+4.28. One of the principal ways in which joint action will be demonstrated is 
+through the Joint Expeditionary Force (JEF).  Whilst not a standing force, the UK 
+components of the JEF are a pool of high readiness and contingent forces that 
+provide a flexible expeditionary intervention capability across maritime, land, air and 
+     Information   
+            Information   
+Information
+activities Outreach
+Fires
+Joint
+action
+Manoeuvre
+Diplomatic
+Military
+Economic
+Full
+spectrum
+approach
+                                                                                                                                                                                                           Strategic narrative                                                                                                                                                                                                           Strategic narrative
+UK maritime 
+power is a 
+key component 
+of the full 
+spectrum 
+approach...
+”
+“
+
+JDP 0-10 (5th Edition)
+65
+4
+Employing maritime power
+joint environments that can operate alongside key allies and partners.   For example, 
+it can be developed as:
+• a UK-led framework for partner nations; 71
+• the Combined Joint Expeditionary Force (CJEF) with France, or
+• part of a broader coalition effort.
+4.29.  The maritime component of the JEF is referred to as the Joint Expeditionary 
+Force (Maritime) (JEF(M)).  The JEF (M) will demonstrate the ability to project a highly 
+effective UK maritime component anywhere in the world, whilst reassuring our allies.  
+It will be capable of conducting a wide range of operations, including conventional 
+deterrence, combat operations and humanitarian assistance.  The JEF(M) will be 
+organised around a single maritime task group consisting of capital ships,72 frigates 
+and destroyers, afloat support and, potentially, a landing force, aviation, mine 
+countermeasures vessels and nuclear powered attack submarines.  The two central 
+capabilities that the JEF(M) will offer are carrier strike and littoral manoeuvre.  Both 
+capabilities seek to create considerable land effect from the maritime environment.  
+Until carrier strike reaches its initial operating capability, the primary output of the 
+JEF(M) is littoral manoeuvre at commando group level.
+4.30.  In a JEF(M) context the Commander UK Task Group, working closely with the 
+landing force commander, will likely command the JEF(M) at sea, before becoming 
+the supporting commander once the landing force is ashore and established.  Due 
+to its joint nature the JEF(M) relies upon elements of all three Services to function 
+appropriately.
+71  In April 2016, the Joint Expeditionary Force (JEF) partner nations comprised Denmark, Estonia, 
+Finland, Latvia, Lithuania, the Netherlands, Norway, Sweden and the UK, although there are aspirations to 
+expand the JEF regional membership into the High North.
+72  HMS Albion and HMS Bulwark LPDs, with HMS Ocean landing platform helicopter (LPH) (out of service 
+in 2018), the Queen Elizabeth Class aircraft carriers will perform this central function.
+
+66
+JDP 0-10 (5th Edition)
+466
+Employing maritime power
+ 
+Key points  
+• The accepted consensus is that there is a ‘trinity’ of ‘three characteristic modes 
+of action by which maritime forces operate: namely military, diplomatic and 
+policing functions’.  These functions have evolved to war fighting, maritime 
+security and Defence Engagement.
+• The ability to conduct war fighting is the essential aspect for a military force as 
+soft power flows to the owner of hard power.
+• The Naval Service is the main actor within the maritime environment.  It 
+comprises of four fighting arms supported by the Royal Fleet Auxiliary.  The 
+fighting arms are: the surface fleet; the Submarine Service; the Fleet Air Arm; and 
+the Royal Marines.
+• UK maritime forces routinely include capabilities of the Royal Navy and 
+components of the British Army and Royal Air Force to support the military 
+instrument to national power, particularly when operating in a task group.  
+Maritime forces are therefore predominately a joint force. 
+• Multinational (predominantly through NATO) and bilateral operations and 
+exercises are common place within the maritime environment.   
+• The Maritime component of the UK Joint Expeditionary Force is referred to as the 
+Joint Expeditionary Force (Maritime) JEF(M).  
+• Carrier Enabled Power Project (CEPP) is the programme that will deliver the 
+UK a carrier strike capability and support littoral manoeuvre which will be the 
+cornerstone of the JEF(M) capability, and the maritime’s contribution to joint 
+action.
+
+JDP 0-10 (5th Edition)
+67
+Lexicon
+Part 1 – Acronyms and abbreviations
+AAP   Allied administrative publication  
+AJP  Allied joint publication
+CASD   continuous at sea deterrence  
+CEMA  cyber and electromagnetic activities 
+CEPP   Carrier Enabled Power Projection  
+CDS  Chief of the Defence Staff 
+CJEF  Combined Joint Expeditionary Force
+DEFRA  Department for Environment, Food and Rural Affairs 
+DFID   Department for International Development
+EEZ   exclusive economic zone  
+EU   European Union
+FAA  Fleet Air Arm
+GVA   gross value added
+HADR   humanitarian assistance and disaster relief  
+HMG   Her Majesty’s Government
+ISAF   International Security Assistance Force
+JDP  joint doctrine publication 
+JEF  Joint Expeditionary Force 
+JEF(M)  Joint Expeditionary Force (Maritime)
+ 
+LPD   landing platform dock  
+LPH  landing platform helicopter 
+LSD(A)   landing ship dock (auxiliary)
+NATO  North Atlantic Treaty Organization 
+NEO   non-combatant evacuation operation  
+Lexicon
+
+68
+JDP 0-10 (5th Edition)68
+NSO  national security objectives 
+NSS  National Security Strategy
+PJHQ  Permanent Joint Headquarters
+RAF  Royal Air Force 
+RFA  Royal Fleet Auxiliary 
+RUSI  Royal United Services Institute
+SDSR  Strategic Defence and Security Review 
+SSBN  ship submersible ballistic nuclear 
+SSN  ship submersible nuclear
+UNCLOS  United Nations Convention on the Law of the Sea
+Lexicon
+
+JDP 0-10 (5th Edition)
+69
+Lexicon
+Part 2 – Terms and definitions
+This section is divided into three areas.  First, we list new terms proposed by this 
+publication.  We then list modified definitions proposed by this publication and finally 
+we list endorsed terms and their definitions.
+maritime power 
+The ability to apply maritime military capabilities at and from the sea to influence the 
+behaviour of actors and the course of events.  (JDP 0-10, 5th Edition)
+littoral region  
+Those land areas (and their adjacent areas and associated air space) that are 
+susceptible to engagement and influence from the sea.  (JDP 0-10, 5th Edition) 
+hard power  
+The threat or use of military or economic coercion or physical effect to achieve 
+influence.  (JDP 04, 2nd Edition)
+influence  
+The capacity to have an effect on the character or behaviour of someone or 
+something, or the effect itself.  ( Concise Oxford English Dictionary)
+joint force 
+A force composed of significant elements of two or more Services operating under a 
+single commander authorised to exercise operational command or control.  (JDP 01)
+Endorsed definitions
+New definitions
+Modified definitions
+
+70
+JDP 0-10 (5th Edition)70
+Lexicon
+soft power 
+The ability to persuade or encourage others to adopt an alternative approach.   
+(JDP 04, 2nd Edition)
+sustainability 
+The ability of a force to maintain the necessary level of combat power for the duration 
+required to achieve its objectives.  (NATOTerm)
+understanding 
+The perception and interpretation of a particular situation in order to provide the 
+context, insight and foresight required for effective decision-making.   
+(JDP 04, 2nd Edition) 
+
+[Page 83: No extractable text]
+
+Designed by the Development, Concepts and Doctrine Centre
+Crown copyright 10/17
+Published by the Ministry of Defence
+This publication is also available at www.gov.uk/mod/dcdc
+
+

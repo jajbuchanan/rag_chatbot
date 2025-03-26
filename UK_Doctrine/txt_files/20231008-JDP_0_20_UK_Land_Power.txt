@@ -1,0 +1,1868 @@
+Joint Doctrine Publication 0-20UK Land PowerSixth Edition
+Joint Doctrine Publication 0-20 
+UK Land Power
+Sixth Edition
+
+[Page 2: No extractable text]
+
+i
+JDP 0-20 (6th Edition)
+Conditions of release
+This publication is UK Ministry of Defence (MOD) Crown copyright. Material 
+and information contained in this publication may be reproduced, stored in 
+a retrieval system and transmitted for UK government and MOD use only, 
+except where authority for use by other organisations or individuals has been 
+authorised by a Patent Officer of the Defence Intellectual Property Rights. 
+Joint Doctrine Publication 0-20
+UK Land Power
+Joint Doctrine Publication 0-20 (JDP 0-20) (6th Edition),  
+dated October 2023, is promulgated as directed 
+by the Chiefs of Staff
+Director Development, Concepts and Doctrine Centre
+
+ii
+JDP 0-20 (6th Edition)  
+Authorisation
+The Development, Concepts and Doctrine Centre (DCDC) is responsible for 
+publishing strategic trends, joint concepts and doctrine. If you wish to quote 
+our publications as reference material in other work, you should confirm with 
+our editors whether the particular publication and amendment state remains 
+authoritative. We welcome your comments on factual accuracy or amendment 
+proposals. Please contact us via email at: DCDC-DocEds@mod.gov.uk 
+Copyright
+This publication is UK Ministry of Defence © Crown copyright (2023) including 
+all images (unless otherwise stated).
+If contacting Defence Intellectual Property Rights for authority to release 
+outside of the UK government and MOD, the Patent Officer should be 
+informed of any third party copyright within the publication.
+Crown copyright and Merchandise Licensing, Defence Intellectual Property 
+Rights, Central Legal Services, MOD Abbey Wood South, Poplar 2 #2214, 
+Bristol, BS34 8JH. Email: DIPR-CC@mod.gov.uk 
+Distribution
+All DCDC publications can be demanded from the LCSLS Headquarters and 
+Operations Centre. 
+LCSLS Help Desk: 01869 256197 Military Network: 94240 2197
+Our publications are available to view and download on defnet (RLI) at:  
+https://modgovuk.sharepoint.com/sites/IntranetUKStratCom/SitePages/
+development-concepts-and-doctrine-centre-dcdc.aspx
+This publication is also available on the Internet at: www.gov.uk/mod/dcdc
+
+iii
+JDP 0-20 (6th Edition)
+Foreword
+ 
+Competition between peoples has been a consistent theme of human 
+experience. Since it is on the land that people live, and where political decisions 
+are made, the ability to exert decisive control and influence on land is of central 
+importance to the resolution of differences. Land power is thus an indispensable 
+component of military and national power, offering policy-makers scalable and 
+responsive options with which to protect national interests and, if deterrence 
+fails, to fight adversaries. The defining role of land forces is, therefore, to fight 
+on land in support of national policy. As a disciplined and adaptable workforce, 
+land forces can also be used for other purposes, but these are subsidiary to 
+their prime purpose – preparing for and fighting wars.
+‘Armies are of paramount importance in warfare because they are the main 
+military instrument for conquering and controlling land, which is the supreme 
+political objective in a world of territorial states.’
+      Professor John Mearsheimer
+The British Army is the chief Service advocate for military activity on land, but 
+warfighting on land is not purely the business of the Army. The conduct of 
+armed conflict presents a number of enduring problems which, throughout 
+history, have found temporary solutions by the exploitation of technology. 
+Indeed, from the late 18th Century onwards, land warfare has experienced 
+the effects of relatively rapid technological advances in the military use of the 
+sea, air, the electromagnetic spectrum, space, and cyberspace. Today, military 
+activity on land is increasingly, and critically, dependent on the capabilities of 
+the other operational domains.
+The Army must, therefore, both advocate for warfighting capability on, and 
+from, the land and cohere the effects created by the other domains in pursuit 
+of military strategy in the land environment. The first task demands integration, 
+creating a common understanding of adversary strengths and weaknesses, 
+so that the whole force can converge capabilities to a common purpose; the 
+second demands orchestration – cohering tactical activities to meet strategic 
+aims. This combination of integration and orchestration in the land domain is 
+called convergence: coordinating effects in support of land tactical activities, 
+wheresoever those effects are created.
+
+iv
+JDP 0-20 (6th Edition)  
+Joint Doctrine Publication (JDP) 0-20, UK Land Power, describes the context, 
+utility, and application of land power in terms of joint and multinational 
+operations. It recognises that the nature of war remains constant: it is friction, 
+political, human and violent. As doctrine, JDP 0-20 captures a set of principles 
+that underpin how land forces practice their profession. It has been written 
+primarily for joint staffs, officials, allies and partners in industry. I encourage 
+you to read it as a framework for understanding how land forces perform their 
+vital role in protecting our nation.
+ 
+Chief of the General Staff
+
+v
+JDP 0-20 (6th Edition)
+Preface
+Purpose
+1. Joint Doctrine Publication (JDP) 0-20, UK Land Power is the UK’s keystone 
+land doctrine. Whilst JDP 0-01, UK Defence Doctrine, provides the broad 
+philosophy and principles underpinning the use of our Armed Forces as a 
+whole, JDP 0-20 is focused specifically on UK land power. It provides an 
+understanding of land power, placing it in its appropriate context. JDP 0-20 
+also explores land power’s increasing reliance on capabilities that enable land 
+forces to operate on land and its interdependence with the other elements 
+of national and military power, as well as multinational and private sector 
+partners. Finally, JDP 0-20 also considers, in broad terms, those factors that 
+enable the effective employment of land power.  
+Context
+2. JDP 0-20 describes the nature and application of UK land power. The land 
+environment is distinguished by the fact that it is where people predominantly 
+live. As a result, it is in the land environment that the roots of conflict are most 
+usually found and tends to be where conflicts and disputes are finally decided. 
+Underpinned by this approach, the employment of UK land power is highly 
+significant to national security and prosperity.
+Audience
+3. We commend JDP 0-20, UK Land Power to all our partners as a simple 
+and concise explanation of UK land power. JDP 0-20 should be of value 
+to joint commanders and staffs, single-Service warfare branches, other 
+government departments, partners and allies.
+Structure
+4. JDP 0-20 is divided into four chapters with a supporting lexicon. 
+a. Chapter 1 – An introduction to UK land power. Chapter 1 defines 
+and explains land power, describing how UK land power is adapted to 
+provide wide-ranging strategic utility.
+
+vi
+JDP 0-20 (6th Edition)  
+b. Chapter 2 – Land power in context. Chapter 2 provides an overview 
+of the context in which UK land power is employed. The chapter outlines 
+the factors that shape the land environment, as well as explaining the 
+concept of the enduring nature and changing character of conflict. It 
+also describes the key aspects that shape the contemporary operating 
+environment.
+c. Chapter 3 – The foundations of land power. Chapter 3 outlines the 
+enduring attributes, required qualities and philosophy of land forces. It 
+also explains the concept of fighting power and the three tenets of land 
+doctrine: the manoeuvrist approach, mission command and combined 
+arms.
+d. Chapter 4 – Employing UK land power. Chapter 4 examines 
+the operational themes of UK land power, their application in the 
+contemporary operating environment, as well as its integration with the 
+other operational  domains.
+Linkages
+5. JDP 0-20, UK Land Power provides keystone land domain doctrine 
+within the joint doctrine architecture, sitting below the capstone JDP 0-01, 
+UK Defence Doctrine and alongside other joint operational domain doctrine, 
+JDP 0-10, UK Maritime Power, JDP 0-30, UK Air Power, JDP 0-40, UK Space 
+Power and JDP 0-50, UK Defence Cyber and Electromagnetic Doctrine. JDP 
+0-20 is coherent with North Atlantic Treaty Organization capstone doctrine 
+– Allied Joint Publication (AJP)-01, Allied Joint Doctrine and AJP-3.2, Allied 
+Joint Doctrine for Land Operations. While reflecting the joint context, JDP 0-20 
+remains consistent with the British Army’s single-Service capstone doctrine, 
+Army Doctrine Publication, Land Operations Part One: Competition and 
+Conflict and Part Two: The Application of Land Power.
+
+vii
+JDP 0-20 (6th Edition)
+Contents
+Foreword  . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+Preface  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v
+Chapter 1 – An introduction to UK land power. . . . . . . . . . 1
+Chapter 2 – Land power in context  . . . . . . . . . . . . . . . 11
+Chapter 3 – The foundations of land power  . . . . . . . . . . . 29
+Chapter 4 – Employing UK land power  . . . . . . . . . . . . . 47
+Lexicon  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+
+[Page 10: No extractable text]
+
+1
+JDP 0-20 (6th Edition)
+Chapter 1
+Section 1 – Land power . . . . . . . . . . . . . . . . 3
+Section 2 – Land forces . . . . . . . . . . . . . . . . 4
+Section 3 – The enduring utility of land power . . . . . 5
+Key points . . . . . . . . . . . . . . . . . . . . . . . 8
+Chapter 1 defines and explains land power, describing how 
+UK land power is adapted to provide wide-ranging strategic 
+utility.
+
+2
+JDP 0-20 (6th Edition)  
+1
+An introduction to UK land power
+”
+“We need to ensure our warfighting 
+capabilities are robust and credible 
+to be able to deter threats from 
+manifesting in the first place, but also 
+to fight and win if they do.
+ 
+Defence’s response to a more 
+contested and volatile world, 
+July 2023
+
+3
+JDP 0-20 (6th Edition)
+1
+An introduction to UK land power
+Chapter 1
+An introduction to 
+UK land power
+Section 1 – Land power
+1.1. The land is where people live and compete, where most wars are fought 
+and decided, and where peace is usually concluded. The land is therefore an 
+important domain of war. Military activity is often controlled, and supported, 
+from the land and, ultimately, the results of most military actions have effect on 
+land. Fundamentally then, military activity helps create final decision in the land 
+domain.       
+1.2. Land power is defined as: the ability of land forces to exert decisive 
+control and influence on actors and the course of events.1 At the heart of UK 
+land power is the capacity of UK land forces to fight and win in combat on 
+land, as part of an integrated force. Land forces can take physical possession 
+of terrain, or physically defend and secure it, often delivering the enduring 
+physical presence which can influence political outcomes. Land forces also 
+deter aggression by altering an adversary’s cost-benefit analysis and can 
+bolster an ally’s will and capacity to resist coercion.
+1.3. The UK’s national strategy coordinates the instruments of national 
+power.2 UK land power, along with maritime power, air power, space power 
+and cyber power (including wide-ranging activity across the electromagnetic 
+spectrum) form the interdependent levers of the military instrument of national 
+power. The absence of any one of these levers can create vulnerabilities that 
+adversaries could exploit. The military instrument’s unique contribution is to 
+threaten, or apply, legitimate force in pursuit of national policy objectives.
+1.4. Land power is generated and applied by our land forces.3 Within 
+this context, land power offers scalable and responsive options to the UK 
+1 Joint Doctrine Publication (JDP) 0-01.1, UK Terminology Supplement to NATOTerm.
+2 The instruments of national power are: diplomatic, information, military and economic. 
+See JDP 0-01, UK Defence Doctrine  for further detail.
+3 The term land forces refers to all those elements of UK Armed Forces that operate 
+primarily within the land environment. This largely encompasses the British Army, but also 
+embraces elements of the other Services, for example, the Royal Marines and the Royal Air 
+Force (RAF) Regiment.
+
+4
+JDP 0-20 (6th Edition)  
+1
+An introduction to UK land power
+government for affecting the international security environment. Our land forces 
+undertake a variety of operational themes, within which sit a broad range of 
+activities, primarily combat operations, but also stability operations and, when 
+appropriate, humanitarian assistance and disaster relief and the provision of 
+military aid to the civil authorities. To fulfil these tasks, our land forces are held 
+at the appropriate readiness so that they can be properly prepared and applied 
+at the right time and place, overseas and at home. 
+1.5. Land power, however, is not employed in isolation. Instead, a combination 
+of components – maritime, land, air, space, cyber or special forces – are 
+cohered within a single force to converge capabilities to create an integrated 
+effect. Strong alliances and partnerships worldwide are also important because 
+the size and complexity of the threats cannot be dealt with in isolation, rather 
+they require multinational and multi-agency responses. Furthermore, effective 
+crisis management requires active cross-government and multi-agency 
+cooperation to develop and sustain a comprehensive response.
+Section 2 – Land forces
+1.6. The distinguishing characteristic of the land domain is the presence of 
+humans in large numbers. Land forces can engage directly with friendly, neutral 
+and adversarial actors, potentially seizing and holding terrain for extended 
+periods and creating the conditions in which a favourable political outcome can 
+be reached.
+1.7. Taken together, soldiers,4 presence, persistence and adaptability form 
+the attributes of land forces. These attributes are explored further in Chapter 3. 
+In a domain shaped by human dynamics, soldiers remain at the heart of our 
+land forces. Land forces depend on the abilities of professional, innovative 
+4 The term soldier refers specifically to personnel serving in an army. It is acknowledged 
+that those elements of our UK Armed Forces that operate primarily within the land 
+environment, but belong to the other Services, use different terminology to describe their 
+Service personnel. For example, the marines and gunners of the Royal Marines and RAF 
+Regiment respectively.
+Epidemics, financial crashes – all can be very frightening and 
+disruptive. But war is still the most terrifying and destructive 
+experience known to man … Deterring wars and being in a position 
+to win wars that are forced upon one, are two sides of the same coin. 
+ 
+          Baroness Thatcher, Statecraft
+“
+
+5
+JDP 0-20 (6th Edition)
+1
+An introduction to UK land power
+Perceived potency deters adversaries and reassures allies and partners
+and adaptable individuals, moulded by training, education and discipline into 
+cohesive teams, to react quickly to changing conditions. Land forces not 
+only seize, occupy and defend areas of land, they also have the persistence 
+and durability to remain in a region until long-term strategic objectives have 
+been achieved. Land forces are a highly adaptable element of the wider force, 
+fulfilling multiple functions in contact with human actors across the breadth of 
+strategic requirements. 
+Section 3 – The enduring utility of land 
+power
+1.8. Land forces are ideally placed to influence human activity by their 
+physical presence. Across the broad range of activities they undertake, land 
+forces can coerce, deter or reassure, depending on the mission context. 
+Adaptable land forces can also transition rapidly between tasks, offering a 
+nuanced, tailored response to evolving strategy and circumstances.
+1.9. Underpinning all that our land forces do is the ability to fight and win 
+in combat against our adversaries. Thinking, adaptive adversaries cannot 
+be wholly defeated at range, final decision is usually achieved through close 
+battle. Soldiers possessing the unique capability to find, fix, close with and 
+defeat our adversaries are therefore required to achieve sustainable strategic 
+outcomes. Perceptions of our combat power are also important because 
+perceived potency deters adversaries and reassures allies and partners. 
+
+6
+JDP 0-20 (6th Edition)  
+1
+An introduction to UK land power
+1.10. Credible and capable land forces (usually framed within a wider 
+multinational and multi-agency response) can deter potential adversaries from 
+aggression. The reality, and perception, of our fighting power is therefore 
+key, as is the placement of the force. Our land forces’ central contribution 
+to deterrence is the ability of a credible force, designed to exploit adversary 
+vulnerabilities, to be projected where its presence can have greatest deterrent 
+effect. To increase the effect, land forces can be permanently positioned in the 
+territory of an ally or partner to directly counter adversary interests and threat. 
+The benefits of such persistent overseas engagement are to:
+• demonstrate a tangible level of political commitment;
+• contribute to conflict prevention by fostering mutual understanding 
+through military-to-military contacts; and 
+• help partners to build the capacity to operate more effectively.
+1.11. Such activities strengthen alliances and partnerships and provide the 
+security and stability which benefits UK prosperity. Persistent engagement 
+overseas provides our forces with the insight and understanding that enables 
+them to operate with agility and precision in a context of uncertainty. It 
+also facilitates regional access and enables the contextual understanding 
+necessary for the success of potential subsequent operations.
+1.12. Our land forces, enabled by air and maritime strategic lift, can also 
+support and assist domestic and international communities as they recover 
+from natural and humanitarian disasters. This usually occurs as part of a 
+wider military response that provides the speed, personnel, equipment and 
+experience required to respond effectively to a given crisis.
+1.13. The successful employment of UK land power is predicated on sound 
+strategic thinking by Defence. A flexible and agile approach to strategy and 
+warfare allows the development of a campaign plan based on achievable 
+objectives, which can respond to unexpected events and crises. Such an 
+approach, which focuses on restricting our opponent’s courses of action, 
+whilst preserving our freedom of action through the exploitation of advantage, 
+underpins the effective employment of land power. This approach is based on 
+an intimate knowledge and understanding of the tasks at hand, including:
+• what is required to achieve those tasks;
+• any impediments and obstacles;
+
+7
+JDP 0-20 (6th Edition)
+1
+An introduction to UK land power
+• the alternatives;
+• the resources required; and
+• the consequences of various courses of action.
+1.14. Within the integrated approach, described in Chapter 4, a common 
+national narrative is the foundation for employing UK land power, outlining why 
+the UK is engaged and its strategic objectives.5  
+5 Strategic narrative is described as the compelling storylines designed to resonate in the 
+mind of its audiences that helps explain the campaign strategy and operation plan.  
+JDP 01, UK Joint Operations Doctrine .
+
+8
+JDP 0-20 (6th Edition)  
+1
+An introduction to UK land power
+Key points
+• Land power is defined as: the ability of land forces to exert decisive 
+control and influence on actors and the course of events.
+• UK land power, along with maritime, air, space, and cyber and 
+electromagnetic power, form the interdependent levers of the military 
+instrument of national power.
+• Land power is generated and applied by our land forces to protect the UK 
+and UK interests, fight our enemies, prevent future conflict and deal with 
+disaster, both at home and overseas.
+• Our land forces are held at the appropriate readiness so that they can be 
+prepared appropriately and applied at the right time and place to fulfil the 
+tasks required.
+• Land power is underpinned by joint, cross-government, multinational and 
+private sector partnerships. These relationships integrate capabilities and 
+provide powerful synergies.
+• Land forces are ideally placed to influence human activity in the 
+environment where humans live and can coerce, deter or reassure. 
+• The ability of land forces to seize and hold ground enables the physical 
+control of territory and signifies the highest levels of political commitment.
+• Underpinning all that our land forces do is the ability to fight and succeed 
+in combat against our adversaries.
+• Persistent engagement overseas provides our land forces with the insight 
+and understanding that enable them to act with agility and precision.
+• The successful employment of land power is predicated on sound 
+strategic thinking.
+
+9
+JDP 0-20 (6th Edition)
+1
+An introduction to UK land power
+Notes
+
+[Page 20: No extractable text]
+
+11
+JDP 0-20 (6th Edition)
+Chapter 2
+Chapter 2 provides an overview of the context in which UK 
+land power is employed. It outlines the factors that shape 
+the land environment, describing the enduring nature of 
+war and the changing character of conflict, as well as the 
+principal factors that shape contemporary operations.
+Section 1 – Introduction . . . . . . . . . . . . . . . . 13
+Section 2 – The land environment . . . . . . . . . . . 17
+Section 3 – The nature of war and the character 
+                   of conflict . . . . . . . . . . . . . . . . . 21
+Key points . . . . . . . . . . . . . . . . . . . . . . . 26
+
+12
+JDP 0-20 (6th Edition)  
+2
+Land power in context
+Only by understanding a  
+competitor’s worldview, decision 
+making, and behavioural proclivities 
+can one outmanoeuvre that 
+competitor; only by grasping a rival’s 
+weaknesses and fears can one 
+exploit them. Such understanding 
+requires sustained intellectual 
+investment.
+ 
+Professor Hal Brands 
+”
+“
+
+13
+JDP 0-20 (6th Edition)
+2
+Land power in context
+Chapter 2
+Land power in context
+Section 1 – Introduction
+2.1. The effectiveness of land power varies according to how well we tailor 
+its use to a particular context. The particular land environment in which our 
+forces are to operate, the capacity of our force, and that of the adversary must 
+be clearly understood. This understanding is a process; the environment and 
+actors will alter as events change perceptions. But, the character of every 
+conflict also varies – political objectives differ between conflicts; the capacity 
+and capabilities of adversaries relative to our own will never be the same 
+and those we seek to influence through our actions will change. Land power 
+must be adapted to successfully meet the requirements of every context, 
+balancing a readiness for those elements that remain constant with an ability 
+to react rapidly to changing circumstances. An effective political strategy 
+must underpin this approach, founded upon an adaptable land force able to 
+integrate the full range of lethal and non-lethal capabilities from all operational 
+domains. 
+2.2. A clear understanding of the threat posed by the adversary, updated 
+and maintained over time, and across the continuum of competition, creates 
+opportunities for advantage.6 The point at which deployment begins is too 
+late to begin preparing to fight. Instead, using a clear understanding of the 
+adversary, a plethora of activities and opportunities can be used to shape the 
+adversary to fulfil our will.7 At the same time, focusing on the adversary allows 
+us to develop capabilities and mission sets designed specifically to disrupt 
+and dislocate. A direct consequence of such an approach is the creation of a 
+credible conventional deterrent, one which threatens the critical vulnerabilities 
+of the adversary, and which the adversary fears.  
+6 The continuum of competition spans cooperation, through rivalry and confrontation, 
+to armed conflict. See Joint Doctrine Publication, 0-01, UK Defence Doctrine, 6th Edition, 
+Chapter 1.
+7 Including, but not limited to, active deterrence measures, information, operationally 
+focused training and exercising, and strategic communications.
+
+14
+JDP 0-20 (6th Edition)  
+2
+Land power in context
+Denial is a more reliable strategy than punishment because, if 
+the threats have to be implemented, it offers control rather than 
+continuing coercion. With punishment, the adversary is left to decide 
+how much more to take. With denial, the choice is removed.
+ 
+Sir Lawrence Freedman
+“
+Operation Red Sheet – The Israeli capture of the Sinai 
+Peninsula, June 1967
+By 1967 , it was clear to the Israelis that their Arab neighbours, armed and 
+prepared by the Soviet Union, were intent on a further attempt to destroy 
+the state of Israel. Israel launched a pre-emptive attack against its Arab 
+neighbours from 5 June 1967 . The first act of the war, Operation Focus, 
+attempted to deprive the enemy of air support by destroying the Arab air 
+forces on the ground. In the attack, the air forces of Egypt and Syria lost three 
+quarters of their frontline strength, the Jordanian air force ceased to exist, and 
+the Iraqi air force was severely damaged. The Israelis had established virtual 
+air supremacy in little more than 24 hours. 
+The Egyptian army had significantly reinforced its capabilities in the Sinai 
+Peninsula since its defeat by the Israelis in 1956. General Abdul Mortagy, the 
+Egyptian commander in Sinai, had established deep defensive belts across 
+the peninsula which he hoped would wear down any Israeli attack and 
+allow him to launch a counterstroke with his force of four infantry divisions 
+supported by 800 tanks and tank destroyers. The Israelis were outnumbered 
+and could not countenance an attritional battle, instead planning a precise 
+and lightning-fast assault by two tank divisions, with a third in reserve and 
+several independent tank brigades available to support. 
+2.3. Developing the force through the optimisation of our own capabilities 
+with specific reference to the capabilities of an adversary, or adversaries, is 
+the most appropriate approach to take when facing a peer threat. A clear 
+understanding of the enemy, leading to targeted developments in training, 
+equipment and doctrine, helps to create a force that is focused on both 
+attacking adversary vulnerabilities and negating adversary strengths, shaping 
+the adversary for defeat prior to engagement in armed conflict. History 
+and contemporary operations demonstrate that an intimate knowledge of 
+the adversary provides significant opportunities for advantage, leading to 
+operational freedom of action. 
+
+15
+JDP 0-20 (6th Edition)
+2
+Land power in context
+Using speed and infiltrating around Egyptian defensive positions, 
+General Tal’s division rapidly broke through the Egyptian defences 
+south of Gaza and moved along the Mediterranean coast, smashing 
+through defences in depth so quickly that the surprised Egyptians often did 
+not have time to take control of their weapons before being overwhelmed. 
+Further south, General Yoffe’s division, armed with the British-built Centurion 
+tanks broke through an area which the Egyptians felt unpassable, advancing 
+60 miles in ten hours, without meaningful opposition. The third Israeli tank 
+division, commanded by General Sharon, destroyed the Egyptian defensive 
+position at Abu Agheila and motored on at speed, overtaking the retreating 
+Egyptians.
+The Israeli invasion of the Sinai Peninsula 1967 
+© Wikipedia
+
+16
+JDP 0-20 (6th Edition)  
+2
+Land power in context
+An Egyptian force, under Major General Ghoul, attempted a 
+counterattack against Yoffe’s Centurions, but in advancing at speed 
+at dusk, they ran into Yoffe’s force (of which they were unaware), 
+which rapidly destroyed the Egyptian tank force (despite the Egyptian 
+advantage of Soviet night sights). By morning, the Egyptians were in full flight 
+pursued by Yoffe’s force and harassed by unopposed close air support from 
+the Israeli Air Force. Over the next few days, the Israelis reached the Suez 
+Canal capturing the passes out of Sinai and thousands of bemused Egyptian 
+stragglers for whom the concentration of combat power, speed and surprise 
+had been unanswerable.   
+ Analysis 
+The Israel Defense Forces (IDF) had carefully analysed the capabilities, 
+strengths and weaknesses of the Egyptian forces in the Sinai Peninsula in 
+the years leading up to the outbreak of war. They had amassed an intimate 
+understanding of Egyptian doctrine, Egyptian assumptions and the terrain 
+over which the battle would be fought. The IDF trained its force to specifically 
+dislocate the Egyptian force in being, integrating land, maritime and air power 
+to deliver a coordinated hammer blow at speed, thereby creating shock. This 
+action damaged Egyptian situational awareness and led to a series of errors 
+by the Egyptian command; Israeli preparation, boldness in execution, and 
+ruthless exploitation rapidly overwhelmed the Egyptians and ensured their 
+defeat.
+2.4. In the modern engagement space, orchestration – the coordination 
+and synchronisation of military activity – must be integrated. The Army is the 
+principal advocate for land power, but it is not alone; each of the Services 
+are dependent to varying degrees on the land for support and sustainment, 
+and vice versa. They can all create effects in the land domain in support of 
+operational ends. Therefore, it is insufficient to bring together representatives 
+from each of the operational domains only as operations demand – deployment 
+is too late a stage to discover incoherency. Instead, from concept and 
+capability development through to execution, representation, consultation and 
+command must be cross domain and cross government. By adopting this 
+approach, platforms and equipment, training and doctrine, and operational 
+outputs can be fully interoperable and complementary by design. Integration 
+demands that Defence thinks not in joint terms, but in terms of permanent 
+integration.
+
+17
+JDP 0-20 (6th Edition)
+2
+Land power in context
+2.5. To be effective, all human endeavour must be coordinated and 
+managed; warfare and wider operations are no exception. A multitude of 
+activities and actions occur simultaneously, which the commander must 
+attempt to understand and manage faster and with greater accuracy and 
+impact than the opposing commander to create decision advantage and 
+maintain focus on the strategic aim. Defence, cognisant of the impossibility 
+of the exercise of individual command by the commander in the modern 
+engagement space, adopted mission command to devolve decisions to the 
+person on the spot, working within the commander’s overall intent. Mission 
+command enables rapid decision-making and exploitation, especially when 
+levelled against more rigid command and control systems.
+Section 2 – The land environment
+2.6. The land environment is inherently complex and is shaped primarily 
+by physical, human and information aspects. Unlike the air or maritime 
+environments, it is distinguished by the fact that it is where people live. It is in 
+the land environment that the roots of conflict are usually found, since conflict 
+on land involves those things that people tend to value most: their lives, values, 
+property, resources and systems of governance. The emphasis on these 
+aspects changes with the character of the deployment; for example, in combat 
+the physical aspects are to the fore, whereas in humanitarian operations, 
+human and information aspects will be prioritised.  
+Physical aspects
+2.7. The land environment is varied and complex. It includes open grassland, 
+cultivated land, forests, mountains, deserts, jungles, rivers, swamps, urban 
+and littoral areas. Each creates constraints and freedoms, placing different 
+demands on the people and equipment that operate within them. Terrain 
+can block or enable communication, provide cover from detection or attack, 
+and obstruct or enable movement. Variations in elevation and vegetation limit 
+visibility and the effects of weapons, whilst movement on land is impeded 
+and channelled by obstacles that land forces must overcome. Climate 
+accentuates the demands of terrain, and may affect visibility, movement 
+and communication. Extremes of heat and cold can create hostile physical 
+and psychological conditions for land forces. Night operations can provide 
+cover and the element of surprise but challenge the ability to retain effective 
+command and control. 
+
+18
+JDP 0-20 (6th Edition)  
+2
+Land power in context
+2.8. The land itself can be altered by human activity. Obstacles can be 
+cleared and roads built to enable access. Ground can be fortified or provided 
+with physical defences, whilst certain types of pollution can amplify survival 
+challenges. Globally, urbanisation has created physically, culturally and 
+institutionally complex cities that are challenging for military forces operating 
+in them, not least due to the force ratios traditionally required for success 
+in urban operations on this scale. Where cities are located on the littoral – a 
+complex operating environment in its own right – these complexities are 
+amplified and even more dynamic. Land forces must be highly adaptable and 
+resilient to operate successfully in these different conditions.
+Human aspects
+2.9. Land has immense practical and symbolic significance for human 
+beings. Within the land environment, people inhabit towns, cities and 
+villages, whilst even apparently unpopulated space often contains resources 
+that support humans in some way. Control over land is consequently of 
+fundamental political, cultural and psychological importance, and has often 
+been regarded as decisive in conflict. Control of territory alone, however, 
+is rarely sufficient – our actions must be supported by people if they are to 
+contribute to successfully achieving desired outcomes.
+Audiences perception and interpretation of events, and subsequent behaviour  
+and decisions, determine how conflict is conducted and resolved
+© Jose HERNANDEZ Camera 51 / Shutterstock.com
+
+19
+JDP 0-20 (6th Edition)
+2
+Land power in context
+2.10. People exist in linguistic, cultural, social and political groups with 
+specific identities, usually associated with particular territories. Individually or 
+collectively, they form the audiences whose perception and interpretation of 
+events, and subsequent behaviour and decisions, determine how conflict is 
+conducted and resolved. These audiences may include those deployed, as 
+well as broader international audiences, including those in the conflict region. 
+They may be hostile, friendly or neutral to the actions of land forces, although 
+the boundaries between these groups are not fixed.
+Information aspects
+2.11. The land environment is shaped by the way that these populations 
+interact; it is the exchange of information between individuals, tribes, 
+ethnic and interest groups, and countries that lie at the heart of human 
+dynamics. This communication can be verbal, written or visual and it can 
+be conducted directly between people or through radio, television or online. 
+Human interaction is expanding and accelerating as information flows in the 
+virtual dimension increase, linking individuals, groups and societies globally, 
+unconfined by traditional state boundaries. The proximity of land forces to 
+local populations allows them to distinguish between different people and 
+groups, adjusting their interaction accordingly. Land forces therefore require 
+a broad set of ‘people skills’, including empathy, emotional intelligence, an 
+understanding of culture and history, and an ability to communicate in the local 
+language.
+2.12. It is through this exchange of information that individuals come to 
+understand their environment, to articulate purposes and to frame processes 
+of conflict and cooperation. As a means of influence, land forces must 
+therefore understand what information is relevant, to whom, how it is received 
+and how it might influence people’s decision-making and behaviours. We must 
+also understand how land forces and other actors compete for influence by 
+using information, in both the physical and virtual dimensions. 
+2.13. Land forces must maximise the opportunities and advantages 
+presented by the physical, human and information aspects of the land 
+environment and eliminate, reduce or mitigate the challenges that they pose. 
+Understanding this context at all levels, whether strategic, operational or 
+tactical, and adapting the use of land forces accordingly therefore underpins 
+the successful employment of land power.
+
+20
+JDP 0-20 (6th Edition)  
+2
+Land power in context
+Human security
+2.14. Human security is the requirement to consider the safety and well-being 
+of people caught up in armed conflict. It is an important cross-cutting theme 
+of British military activity on land involving physical, human and information 
+aspects. 
+2.15. Human security is closely associated with legitimacy, the visibility 
+of legitimacy, and the use of force. It is essential to create and maintain a 
+compelling narrative, thereby maintaining the UK, its allies and partners’ 
+campaign authority. In contrast, the absence of human security is a potential 
+vulnerability of many authoritarian states and non-state actors. 
+2.16. Human security describes several factors that, if ignored or 
+compromised, are drivers of instability. These considerations include the:
+• protection of civilians;
+• role of women in peace and security and conflict resolution;
+• effect of armed conflict on children and youth;
+• impact of conflict on modern slavery and human trafficking;
+• criticality of good governance – building integrity and countering 
+corruption in affected areas;
+• imperative to protect cultural property; and
+• importance of preventing and countering violent extremism.
+2.17. Addressing human security considerations in a coherent manner 
+contributes toward more sustainable security outcomes and supports mission 
+success. It requires the military to better understand how these factors affect 
+individuals, communities and other actors. This understanding allows the 
+military to plan operations that minimise harm to civilians, reduce human 
+rights violations and achieve conflict-sensitive outcomes. Defence must take 
+responsibility for coordinating human security in its areas of operations when 
+warfighting and operating in all five operational domains. Furthermore, it is UK 
+and North Atlantic Treaty Organization (NATO) policy for Allied and UK joint 
+doctrine to consider human security.
+
+21
+JDP 0-20 (6th Edition)
+2
+Land power in context
+War is a true chameleon that adapts its characteristics to the given 
+case.
+ 
+Carl Von Clausewitz
+“
+Section 3 – The nature of war and the 
+character of conflict
+2.18. The nature of war does not change. Armed conflict is an inherently 
+chaotic, visceral and violent contest, whose underlying nature is human, 
+adversarial and political.
+2.19. The character of conflict, however, shaped by the age and space 
+in which it is fought, continues to evolve. Human developments (such as 
+technology, laws, social attitudes, philosophy, religion and international 
+relationships) will affect the way that conflicts are prosecuted. In the 
+contemporary context, conflict is characterised by constant competition, with 
+traditional interpretations of peace and war being questioned.  
+2.20. The distinctions that we can make between the nature of war and the 
+character of conflict inform our approach to force development and design, 
+doctrine, education and training. Deductions regarding the nature of war inform 
+enduring principles and ideas, whilst deductions related to the character of 
+conflict allow us to prepare appropriately for the more detailed requirements of 
+contemporary operations. It is essential to draw on both in the right balance.
+The nature of war
+2.21. War has certain intrinsic attributes that transcend individual clashes 
+and disputes. The nature of war will continue to be influenced by, and 
+representative of, the entire spectrum of human behaviour, emotion and 
+capability. Human emotions, such as fear and anger, can shape why we fight 
+and what we fight for. Combat against an armed adversary is an intense, lethal 
+human activity. Armed conflict is marked by violence, danger, stress, fear, 
+exhaustion, isolation and privation that can adversely affect the will of all those 
+involved. The battlefield often teems with non-combatants and is crowded with 
+infrastructure. No matter how great the quantity of information available, a ‘fog 
+of war’ caused by limitations in our ability to understand the dynamics of a 
+situation will lead to uncertainty and chaos.
+
+22
+JDP 0-20 (6th Edition)  
+2
+Land power in context
+2.22. Human attributes also determine how we fight. Our physiology, 
+challenged by the arduous nature of the land environment, defines what we 
+can do physically. Land forces must be able to endure in the most hostile 
+conditions, requiring high levels of resilience in individuals, as well as command 
+and support structures and equipment. Our soldiers respond to effective 
+leadership. Amongst other qualities, commanders must be flexible, decisive, 
+resilient in the face of adversity, judicious and able to inspire others.
+2.23. War remains adversarial. It is a reciprocal contest of wills against 
+opponents that think, react and adapt. As the late strategist Colin Gray noted, 
+the adversarial nature of war means ‘that every cunning plan has to succeed 
+against, not blind nature, but rather an adversary with whom you conduct a 
+permanent tactical, operational, strategic and political-moral dialogue.’8 UK 
+land forces embrace a doctrinal tenet known as the manoeuvrist approach. 
+It is an indirect approach which advocates applying strength against enemy 
+vulnerabilities. It blends lethal and non-lethal actions to achieve objectives 
+which shape the enemy’s understanding, undermines their will and breaks 
+their cohesion. The manoeuvrist approach is explored further in Chapter 3.
+2.24. War is a means to an end, not an end in itself. These ends may be 
+clearly defined, or they may be ambiguous, and their legitimacy and utility may 
+be challenged within our democratic society. But the fact remains that, as 
+Clausewitz notes, war ‘is controlled by a political objective’, and this objective 
+‘will set its course, prescribe the scale of means and effort which is required, 
+and makes its influence felt throughout down to the smallest operational 
+8 Colin Gray, Modern Strategy, 1999, page 42.
+Land forces must be able to endure in the most hostile conditions,  
+requiring high levels of resilience in individuals
+
+23
+JDP 0-20 (6th Edition)
+2
+Land power in context
+detail.’9 Political contexts tend to alter over time: events may create new 
+realities; new domestic political dynamics can emerge; and balances of power 
+can change. In consequence, the purpose of a conflict, its value, the costs 
+and benefits, and the military and political constraints and imperatives may 
+all change in quite fundamental ways as a conflict develops. These changes 
+necessarily shape the way operations must be conducted by land forces.
+The character of conflict
+2.25. Unlike the nature of war, the character of conflict is subject to change. 
+Whilst predicting the precise character of future conflict is impossible, the 
+character of a particular conflict will be shaped by factors such as its geography, 
+participants and the type of tactics and technology that adversaries employ. 
+2.26. The pervasive nature of information has changed the character of 
+contemporary conflict. The increased availability and flow of information 
+enables messages and ideas to be rapidly communicated across physical 
+boundaries. In this interconnected operating environment, military activity is 
+often immediately visible to local, regional and global audiences. The local and 
+regional audience includes enemies, adversaries and a range of actors, from 
+allies and partners to the local population. The global audience is unbounded, 
+blurring previous operational and non-operational distinctions; even relatively 
+minor armed conflicts have potentially global consequences. Each of these 
+groups interprets our activity through their own lens, and each is influenced 
+by others. Critically, it is the perceptions of these audiences that determine the 
+success of military action.
+2.27 . Comparatively open access to the virtual dimension allows our 
+adversaries to:
+• communicate ideas;
+• develop and exploit recruitment opportunities;
+• influence audiences;
+9 Carl von Clausewitz, On War, 1976, pages 100 and 700.
+It is impossible to precisely anticipate the character of future conflict. 
+The key is to not be so far off the mark that it becomes impossible to 
+adjust once that character is revealed.
+ 
+Professor Sir Michael Howard
+“
+
+24
+JDP 0-20 (6th Edition)  
+2
+Land power in context
+• mobilise resources; and
+• identify targets.
+Many actors are adept at presenting military activity to the audience, 
+magnifying, mitigating or altering it to influence observers’ understanding of 
+what actually happened. Information and propaganda campaigns using ‘facts’ 
+– even if they are wrong or invented – to appeal to emotions more than logic 
+are hard to rebut. Indeed, now more than ever, no conflict has a purely military 
+solution. Instead, a compelling strategic narrative, reinforced at the operational 
+and tactical levels, and with enduring coherence between actions and words, 
+has the potential to be decisive in developing favourable consensus.
+2.28. The increased visibility of our actions and the way we conduct 
+operations has led to greater political, public and international scrutiny and 
+accountability. Recent operational experience has demonstrated that this 
+dynamic can potentially lead to policy constraints on the use of force, over and 
+above the requirements of domestic law, the law of armed conflict and general 
+international law. This, in turn, creates potential advantages, or perceptions of 
+advantage, for our adversaries who may not choose to be bound in the same 
+way.
+2.29. Potential adversaries, both state and non-state, are increasingly 
+demonstrating the will and capability to undermine Western operational 
+capability, resolve and legitimacy by blending conventional and irregular 
+forms of conflict, using both attributable and non-attributable methods. Our 
+opponents’ methods, which can be applied in ways that remain below  
+well-established military response thresholds, include posturing, provocation 
+and persuasion in the physical and virtual dimensions, subversion, economic 
+and cyberattack, with or without employing conventional military forces. This 
+‘hybrid’ threat to the rules-based international order can make assessments 
+as to whether any particular intervention crosses the threshold to become an 
+armed conflict difficult.
+Putin’s playbook combined disinformation with deniability, added 
+disruptive technologies and the use of cyberspace to exploit 
+weaknesses and enable conventional and irregular military 
+forces. Putin employs sophisticated strategies designed to achieve 
+objectives below the threshold that might elicit a concerted response 
+from either the targeted state or others, such as the NATO alliance.
+ 
+H.R. McMaster“
+
+25
+JDP 0-20 (6th Edition)
+2
+Land power in context
+2.30.  Battlefields are no longer fixed. Threats that manifest overseas are 
+also often blurred with those at home as our adversaries seek to exploit our 
+vulnerabilities. High impact terrorist attacks are designed to seize the initiative 
+and shape the political agenda, whilst both state and non-state adversaries 
+seek to influence the perceptions of our domestic population. This complexity 
+places even greater requirements on leadership at junior levels by demanding 
+that they operate with autonomy and lead dispersed, agile units that can 
+rapidly concentrate.
+2.31. The proliferation of commercially available technology also increases  
+the potential capability and effectiveness of our adversaries, both state and 
+non-state. Secure communications, space-derived products and services, 
+cyber capabilities and surveillance systems, including uncrewed aircraft 
+systems, are affordable and can be easily acquired or improvised. Chemical 
+weapons have been used, whilst biological, nuclear and radiological weapons 
+remain a threat. Cyber and electromagnetic activities present significant 
+opportunities and threats. From the use of digital communication systems 
+through to global positioning systems, precision timing and weapon guidance 
+systems, cyberspace and the electromagnetic environment routinely provide 
+the medium through which operations are planned by land forces and make an 
+increasingly important contribution to their execution. Hostile actors constantly 
+probe our systems to seek vulnerabilities, intelligence and advantage, and 
+yet these actions are often difficult to attribute to any state or group, creating 
+unique challenges when formulating an appropriate response. 
+Cyber and electromagnetic activities present significant opportunities and threats
+
+26
+JDP 0-20 (6th Edition)  
+2
+Land power in context
+ Key points
+• The successful employment of land power requires force elements that 
+are able to adapt to meet the requirements of a specific context.
+• Central to successful employment is an iterative understanding of the 
+adversary which identifies their strengths and weaknesses. To tackle the 
+adversary in armed conflict, early and integrated preparation is essential.   
+• The land environment is shaped primarily by human, information and 
+physical aspects. It is varied and complex, creating constraints and 
+freedoms for the people and equipment that operate within it.
+• War has certain intrinsic attributes that transcend individual clashes and 
+disputes. In particular, the nature of war remains human, adversarial and 
+political.
+• The distinctions that we can make between the nature of war and the 
+character of conflict inform our approach to force development and 
+design, doctrine, education and training.
+• The pervasive nature of information has changed the character of 
+contemporary conflict.
+• In an interconnected operating environment, military activity is often 
+immediately visible to local, regional and global audiences.
+• Many actors are adept at presenting military activity to the audience and 
+magnifying, mitigating or altering it to influence observers’ understanding 
+of what actually happened.
+• Our opponents’ methods, which can be applied in ways that remain 
+below formal Western military response thresholds, complicate our 
+assessment as to whether any particular intervention crosses the 
+threshold to become an armed conflict.
+• Battlefields are no longer fixed. Threats that manifest overseas are also 
+often blurred with those at home as our adversaries seek to exploit our 
+vulnerabilities.
+
+27
+JDP 0-20 (6th Edition)
+2
+Land power in context
+Notes 
+
+[Page 38: No extractable text]
+
+29
+JDP 0-20 (6th Edition)
+Chapter 3
+Chapter 3 outlines the enduring attributes and required 
+qualities and philosophy of land forces. It also explains the 
+concept of fighting power and the tenets of land doctrine.
+Section 1 – The attributes of land forces. . . . . . . . 31
+Section 2 – Fighting power  . . . . . . . . . . . . . . 34
+Section 3 – The tenets of land doctrine  . . . . . . . . 37
+Key points . . . . . . . . . . . . . . . . . . . . . . . 41
+Annex 3A – Organisation of land forces  . . . . . . . . 42
+
+30
+JDP 0-20 (6th Edition)  
+3
+The foundations of land power
+You may fly over a land forever; you 
+may bomb it, atomize it, and wipe 
+it clean of life – but if you desire to 
+defend it, protect it, and keep it for 
+civilisation, you must do this on the 
+ground, the way the Roman Legions 
+did – by putting yoursoldiers 
+in the mud. 
+ 
+ 
+T.R. Fehrenbach, 
+This Kind of War: A Study in Unpreparedness ”
+“
+
+31
+JDP 0-20 (6th Edition)
+3
+The foundations of land power
+Chapter 3
+The foundations of land 
+power
+3.1. Every land force has inherent attributes which underpin their relative 
+strengths and limitations. As introduced in Chapter 1, the four attributes of 
+land forces are: soldiers, presence, persistence and adaptability. The overall 
+operational effectiveness of a force is captured by the concept of fighting 
+power. Fighting power consists of three components: conceptual, moral  
+and physical.
+Section 1 – The attributes of land forces
+3.2. The enduring attributes of land forces are shaped by the distinct 
+characteristics of the land environment, as well as the enduring nature of 
+war. These attributes create advantages and opportunities which enable the 
+broad utility of land power, although the employment of land forces must also 
+acknowledge the potential challenges they may generate.
+Soldiers
+3.3. The primary attribute of any land force is its soldiers. Land conflict is 
+a fundamentally human activity and, as such, it cannot be reduced solely to 
+scientific templates and principles, rather it relies on human initiative, enterprise 
+and intelligence. Land forces are therefore complicated organisations, requiring 
+moral and structural cohesion. This can make land forces difficult to direct, so 
+decentralised command systems tend to work best. Drills and standardised 
+practices can also help achieve common understanding and unity of effort. In 
+a land force, troops will always be the fundamental constituent of capability, 
+whether it be by applying extreme physical violence or moving among, 
+interacting with, and reassuring a population under stress. Our leaders and 
+soldiers are moulded by training, education and discipline into cohesive teams 
+with high morale and the will to win. A reliance on its people, however, also 
+means that the effectiveness of a land force is dependent on its ability to 
+recruit and effectively train the necessary number of personnel.
+3.4. UK land forces also embrace the whole force approach advocated 
+across Defence, which ensures unity of effort across outputs delivered by the 
+
+32
+JDP 0-20 (6th Edition)  
+3
+The foundations of land power
+right mix of capable and motivated people – Regular and Reserve Service 
+personnel, civil servants, contractors and industry partners. This means that 
+the land force will consist of diverse thinkers, all of whom must integrate to 
+deliver required outcomes.
+Presence
+3.5. Land forces’ presence on the ground means that they operate near 
+people and in complex terrain. First-hand interaction with different peoples, 
+places and cultures, as well as exposure to developing problems and threats, 
+provides land forces with the potential to develop a detailed understanding of 
+the physical, human and information aspects of the environment. They can 
+get close enough to distinguish between different people and groups and 
+communicate directly with them, adjusting their approach accordingly.
+3.6. Land forces present a particular kind of threat to adversaries, whilst their 
+presence also has the capacity to reassure neutral and friendly individuals and 
+groups. Land forces can manoeuvre over ground, or via air or water, to take 
+physical possession of terrain, or they can physically defend or secure it. The 
+forward presence of credible and capable land forces also forms an important 
+aspect of our ability to both deter adversary aggression, and to reassure our 
+allies and partners. In addition, it may be necessary for an intervening force 
+to stand between two or more hostile forces to stabilise the situation before 
+peace can become a possibility. The presence of land forces is therefore often 
+decisive.
+Persistence
+3.7. The attribute of persistence – the capacity of land forces to extend their 
+presence and endure in an area for long periods of time – gives land forces 
+the potential to broaden and deepen their understanding of the local context. 
+The sustained presence of land forces before, during and after a conflict also 
+allows them to engage with, influence and assist local populations and civil 
+authorities, varying their actions according to the situation to make permanent 
+the otherwise temporary gains achieved through combat. Together, the 
+presence and persistence of land forces may be necessary to achieve and 
+sustain a political outcome. Furthermore, persistent overseas engagement by 
+land forces not only builds up vital multinational partnerships, but also ensures 
+access to regional bases should land forces have to deploy to a particular 
+region. Forces deployed for extended periods also require sustainment and 
+protection commensurate with the threats and distance from the home base.
+
+33
+JDP 0-20 (6th Edition)
+3
+The foundations of land power
+ Adaptability
+3.8. Adaptability underpins the ability of a land force to perform many 
+functions; it lies at the heart of land power’s broad strategic utility. Land forces 
+have inherent adaptability because they consist largely of organised groups 
+with the ability to conduct a wide range of military and non-military tasks. So, 
+even when optimised for warfighting, land forces retain broader utility. Land 
+forces can perform a wide range of engagement, security and support tasks. 
+Such versatility requires balanced capabilities, organised appropriately for 
+specific tasks. However, no land force is infinitely adaptable. Factors such as 
+the size of a land force and its objectives, equipment, structure and training will 
+place practical limits on its ability to meet contingencies.
+3.9. Adaptability demands that land forces embrace the need to learn quickly 
+and to change plans accordingly. The character of future conflict cannot 
+be predicted accurately, so land forces must prepare for the most complex 
+and demanding operations but also maintain the agility to adapt rapidly to 
+specific operational requirements. Adaptable land forces can recognise and 
+understand new challenges, experiment with solutions and implement effective 
+responses at a higher tempo than the enemy. This allows them to seize and 
+maintain the initiative and exploit opportunities. Our land forces’ command 
+philosophy, mission command, embraces decentralised execution, providing 
+the freedom of action to adapt to circumstances on the ground whilst still 
+achieving the commander’s intent. Adaptability is further enabled by several 
+factors, including education, creativity and common doctrine.
+Dependencies and limitations
+3.10. Land power is critically  
+dependent on the other operational 
+domains for support. This dependency 
+limits the speed and scale of deployment 
+and the degree to which land forces are 
+strategically mobile. This can be offset 
+somewhat by persistent presence and 
+adaptability, but this approach is costly. 
+Policy-makers and strategists must take 
+these dependencies and limitations into 
+account when making decisions about 
+the employment and deployment of land 
+forces.    
+Land power is critically dependent on  
+the other operational domains
+
+34
+JDP 0-20 (6th Edition)  
+3
+The foundations of land power
+Section 2 – Fighting power
+3.11. Fighting power is a concept that describes the operational effectiveness 
+of armed forces, or any element of them.10 Fighting power recognises the fact 
+that forces do not simply consist of such tangibles as people and equipment, 
+they also have intangible conceptual and moral properties that can play a 
+decisive role in shaping their effective employment. The drive to achieve the 
+right balance of fighting power guides force development and preparation, 
+with each component adjusted as necessary to meet the needs of a specific 
+context. Fighting power is therefore intrinsically linked to the required quality of 
+adaptability. It consists of three components as described below and shown in 
+Figure 3.1.11 
+Figure 3.1 – The components of fighting power
+10 Fighting power is a common concept across Defence and the North Atlantic Treaty 
+Organization (NATO). See Allied Joint Publication (AJP)-01, Allied Joint Doctrine , AJP-3.2, 
+Allied Joint Doctrine for Land Operations  and Joint Doctrine Publication (JDP) 0-01, UK 
+Defence Doctrine.
+11 A detailed breakdown of each component can be found in Chapter 2 of JDP 0-01, UK 
+Defence Doctrine, 6th Edition.
+• Personnel
+• Equipment
+• Training and
+   collective performance
+• Sustainability
+• Readiness     
+Physical 
+•  Leadership
+•  Followership
+•  Culture
+•  Warﬁghting ethos
+•  Moral cohesion
+•  Motivation
+•  Moral integrity
+Moral
+‘the will’
+‘the means’  
+•  Strategic analysis
+    and assessment 
+•  Concept
+  development
+•  Doctrine
+Conceptual 
+‘the thought process’
+Generated by force development
+
+35
+JDP 0-20 (6th Edition)
+3
+The foundations of land power
+a. The conceptual component. The conceptual component of 
+fighting power rests on the development and application of doctrine, a 
+set of fundamental principles by which land forces guide their actions 
+in support of objectives. Agile, not dogmatic, doctrine takes past 
+experience and extracts guidance for dealing with future challenges, 
+providing a foundation from which initiative can be applied with 
+confidence. An understanding of relevant doctrine, as well as the 
+dynamics of any given situation, provides the context, insight and 
+foresight required for effective decision-making. The flexibility to adapt 
+to deal with dynamic challenges is another essential element of the 
+conceptual component. Realistic and demanding training to develop 
+core skills, along with organisational and technological flexibility, based 
+on doctrine and supported by effective lessons processes, underpin the 
+ability to adapt successfully.
+b. The moral component. The moral component concerns the human 
+aspect of fighting power. It supplies and sustains our land forces’ will to 
+fight. It has three mutually dependent elements.
+(1) High morale enables the land force to fight and overcome the 
+privations of conflict. This is largely dependent on confidence in 
+equipment, training, sustainment and leadership. Moral cohesion 
+contributes to this success, providing a sense of shared identity 
+and purpose that binds individuals into teams, and teams into 
+effective fighting forces. Moral cohesion is sustained by shared 
+values and standards, which guide the actions of every soldier.
+(2) Land forces rely on the strength of their leaders at all levels to 
+establish and sustain motivation, morale, moral cohesion and trust. 
+Their vision, intellect, communication and unceasing motivation 
+pave the path through chaos and confusion.
+(3) To be effective, a force’s actions must reflect a sound and 
+appropriate ethical, moral and legal foundation. These actions are 
+guided by their obligations as members of the UK Armed Forces 
+and an ethical foundation shared with that of UK society. The 
+values of courage, discipline, respect for others, integrity, loyalty 
+and selfless commitment together guide our actions. They demand 
+that the actions of our land forces are lawful, appropriate and totally 
+professional.12 
+12 Values and Standards of the British Army and The Army Leadership Code – An 
+Introductory Guid e provides a detailed and authoritative explanation.
+
+36
+JDP 0-20 (6th Edition)  
+3
+The foundations of land power
+c. The physical component. The physical component of fighting 
+power, sometimes referred to as combat power, provides the means 
+to fight. Our ability to attract, recruit and retain the right people, with 
+the right skills, in the right quantity and at the right time is critical to 
+fighting power. Workforce and equipment are converted into ready, 
+deployable and resilient forces through education and training. Training 
+must be realistic, providing the forcing function for wider innovation and 
+adaptation, as well as creating the conditions in which our land forces’ 
+fighting spirit can be developed. Training must therefore replicate the 
+challenge of combat so that it inculcates the confidence and tactical 
+innovation necessary to prevail in war. Sustainability is also essential; 
+even if the force is fully staffed and has all the necessary equipment, 
+if it cannot be sustained, it cannot be employed as intended. The 
+physical component is also reliant on wider resources; staffing, 
+equipping, training and sustaining armed forces costs money. The 
+physical component of land forces can be broken down into units and 
+formations, or by the function that they fulfil. These constituent parts are 
+detailed at Annex 3A.
+3.12. Fighting power can only be applied if it is held at the appropriate 
+readiness, can be deployed in time and then recovered for the next operation. 
+Readiness applies to all components of fighting power. The deployment and 
+recovery of land forces also requires organic and non-organic enablers. For 
+example, maritime and air forces enable the deployment of a land force to 
+High morale enables the land force to fight and overcome the privations of conflict
+
+37
+JDP 0-20 (6th Edition)
+3
+The foundations of land power
+a point of disembarkation from which it may need to project itself overland 
+for long distances. Fighting power also varies depending on the level of 
+interoperability that the force can achieve with other military formations and 
+with other actors. These factors must be accounted for when considering the 
+employment of land forces in a wider context based on their readiness state 
+and overall military utility in each situation.
+Section 3 – The tenets of land doctrine
+3.13. Land doctrine has three tenets which together present a cohesive 
+operational philosophy. The overarching idea is the orchestration of  
+task-organised capabilities in combination to target and exploit an opponent’s 
+vulnerabilities and achieve positions of advantage, which can be psychological, 
+temporal or physical, and which can be exploited to create freedom of action. 
+This idea includes ground, air, littoral and information manoeuvre conducted in 
+synchronised and simultaneous combination. 
+3.14. The manoeuvrist approach is a blend of disruptive manoeuvre and 
+destructive firepower (attrition and manoeuvre). It is derived from historical and 
+contemporary operational analysis of approaches to warfare and operations 
+that have delivered tactical and operational success disproportionately 
+greater than the resources applied. It is therefore an approach suited to a 
+small, professional force. It is an indirect approach that aims to out-think 
+and outmanoeuvre opponents and applies strength against identified 
+vulnerabilities. It employs lethal and non-lethal capabilities in combination to: 
+• seize and hold the initiative through firepower, pre-emption, surprise, 
+simultaneity, tempo and exploitation; 
+• shape understanding through deception and information activities; 
+• undermine will by convincing the opponent that their defeat is 
+inevitable; and   
+• fracture the cohesion of the opponent’s combined arms system 
+by defeating critical capabilities through targeting their critical 
+vulnerabilities and thereby setting the conditions and create 
+opportunities to bring our strengths to bear.  
+
+38
+JDP 0-20 (6th Edition)  
+3
+The foundations of land power
+It is important to bear in mind that the opponent will do their utmost to 
+undermine our will and fracture our cohesion; we therefore need to take active 
+measures to protect our own critical capabilities, morale and cohesion.
+3.15. The combined arms approach is the synchronised and simultaneous 
+application of tactical forces and capabilities across operational domains 
+to create an effect greater than if each element was used separately 
+or sequentially. Through task organisation, it reinforces strengths and 
+compensates for weaknesses through complementary grouping. It also 
+imposes dilemmas on opponents by confronting them with multiple threats; 
+forces are task-organised so that if the opponent attempts to protect against 
+one threat, they become vulnerable to another.
+3.16. Mission command is a philosophy of decentralised command that 
+promotes the use of initiative and freedom of action to achieve the higher 
+commander’s intent. It tells subordinates what to achieve and why, but not 
+how. It is not, however, an absence of command and control, commanders 
+must express a clear intent and main effort, provide adequate resource 
+and give firm direction when necessary. Subordinates are expected to take 
+determined action to achieve them. Trust and mutual understanding underpin 
+mission command. 
+Mission command promotes the use of initiative and freedom of action
+
+39
+JDP 0-20 (6th Edition)
+3
+The foundations of land power
+The Second Nagorno-Karabakh War 
+September – November 2020
+The collapse of the Soviet Union unleashed ethnic and cultural tensions  
+in several of its constituent republics. Between 1988 and 1994, the former 
+republics of Armenia and Azerbaijan fought over the Azeri region of  
+Nagorno-Karabakh, the population of which was majority Armenian. By 1994, 
+when a ceasefire was agreed, the Armenians, with the help of their Russian 
+allies, had taken significant Azeri territory, indeed ethnic Armenians had 
+established an autonomous republic, Artsakh, in the centre of  
+Nagorno-Karabakh.  
+Over the next 26 years an uneasy peace held. Using wealth earned from its 
+petrochemical industry, Azerbaijan invested heavily in sophisticated uncrewed 
+aircraft systems purchased from Israel and Turkey. Both countries operated 
+effective multilayered air defence systems and modern combined arms 
+formations. The Azeris recognised the need to gain control of the air domain 
+as a critical element of successful land manoeuvre.   
+In September 2020, the Azeris launched an operation using a complex 
+deception plan designed to force the Armenians to unmask their  
+ground-based air defence network. The Azeris created a chaotic picture, 
+blinding the Armenians to their intentions and deceiving them into emitting 
+radar that revealed their location. This allowed the targeting and destruction 
+of the Armenian air defence system ceding initiative, momentum and freedom 
+of manoeuvre to the Azeris.   
+
+
+40
+JDP 0-20 (6th Edition)  
+3
+The foundations of land power
+Next, the Azeris launched a ground offensive, advancing rapidly 
+into Nagorno-Karabakh from the north and south while sealing 
+the province from reinforcement with long-range fires and 
+loitering munitions, enabled by surveillance and target acquisition from 
+reconnaissance drones. Although the Armenians inflicted severe losses 
+on the Azeris, they could not reverse the momentum; steadily, the isolated 
+Armenian strongpoints were reduced by fires delivered by artillery, loitering 
+munitions and armed uncrewed aircraft systems. Simultaneously, the Azeris 
+infiltrated light infantry and special forces between the strongpoints, attacking 
+into depth to seize key terrain objectives.   
+In the final phase of the operation, the Azeris sought to cut the Lachin  
+corridor from Armenia into Nagorno-Karabakh and threaten the capital of the 
+self-declared Republic of Artsakh, Stepanakert. Relentless pressure on the 
+Lachin corridor in October 2020 strangled the Armenian supply network and 
+led to the capture of the city of Shusha in November 2020, only 15 kilometres 
+from Stepanakert. Unable to respond effectively and facing imminent defeat, 
+the Armenians agreed to a ceasefire. The subsequent peace agreement 
+restored much of the territory lost by Azerbaijan in 1994.      
+Analysis  
+Although the Second Nagorno-Karabakh War was heralded at the time as 
+new and different, in essence the Azeris were repeating tactics used by 
+other armies throughout the ages when faced with a seemingly impenetrable 
+defence. These tactics were to: understand the terrain and the enemy’s 
+strengths and weaknesses; gain control of the air domain; fracture the 
+cohesion of the defence by destroying critical capabilities; exploit gaps and 
+weaknesses at speed; destroy the key elements of the defence; bypass the 
+enemy’s strongpoints; and ruthlessly exploit opportunities to achieve decisive 
+success. 
+
+41
+JDP 0-20 (6th Edition)
+3
+The foundations of land power
+ 
+Key points
+• Every land force has inherent attributes – soldiers, presence, persistence 
+and versatility – which underpin their relative strengths and limitations.
+• The primary attribute of any land force is its soldiers. Land forces rely on 
+human initiative, enterprise and intelligence.
+• Land forces’ presence on the ground means that they operate near people 
+and terrain, enabling them to physically defend or secure objectives.
+• The presence and persistence of land forces may be necessary to achieve 
+and sustain a political outcome.
+• Adaptability underpins the ability of a land force to perform many functions; 
+it lies at the heart of land power’s broad strategic utility.
+• Land forces must be adaptable to deal with new and changing situations, 
+embracing the need to learn quickly and to change plans accordingly.
+• Fighting power is a concept that describes the operational effectiveness of 
+armed forces, or any element of them. It consists of three components – 
+conceptual, moral and physical.
+• Fighting power can only be applied if it is held at the appropriate readiness, 
+can be deployed in time, and then recovered for the next operation.
+• The way land forces operate is articulated through an overarching 
+philosophy established by the three tenets of land doctrine in combination: 
+the manoeuvrist approach, combined arms approach and mission 
+command. 
+
+42
+JDP 0-20 (6th Edition)  
+3A
+The foundations of land power
+Annex 3A
+Organisation of land 
+forces
+3A.1. Land forces are generally structured hierarchically into formations, units 
+and sub-units and categorised by function and type. They are organised on 
+operations by combining arms to form a cohesive and versatile whole.
+3A.2. Table 3A.1 shows the typical hierarchy that flows down from corps, 
+division,13 brigade, unit14 and sub-unit.15 Formations and units are designed to 
+be modular and scalable, so that elements can be easily added or taken away, 
+and they can be expanded or contracted.
+Corps
+A corps commands a number of divisions, functional brigades 
+and task forces, comprising all types of force elements. It can 
+command through the operational function (as a joint task force 
+headquarters for a land-centric operation or as a land component 
+headquarters) or as a corps at the higher tactical level. In 
+the British Army, the corps is the highest level of deployable 
+headquarters and is assigned to the North Atlantic Treaty 
+Organization (NATO) as the Allied Rapid Reaction Corps, usually 
+employed in line with the demands of NATO’s Concept for the 
+Deterrence and Defence in the Euro-Atlantic Area  but which can 
+also deploy on national or multinational missions. It is resourced 
+and structured to operate in a joint, inter-agency and multinational 
+context and can execute large-scale, complex, tactical operations 
+simultaneously.
+Division
+A division is a combined arms tactical formation that commands 
+brigades within a corps, joint task force or theatre framework. 
+It is the lowest level formation that routinely commands all 
+types of force elements, capable of planning and executing 
+simultaneously, but can also command through the operational 
+function as a land component headquarters. As a result, the 
+division is the lowest level of command capable of routinely 
+interacting with joint, inter-agency and multinational actors.
+13 A division is defined as: a major administrative and tactical unit/formation which 
+combines in itself the necessary arms and services required for sustained combat, larger 
+than a regiment/brigade and smaller than a corps.  NATOTerm.
+14 Units of the British Army are called regiments or battalions. A Royal Marine unit is called 
+a commando.
+15 British Army sub-units are called squadrons, companies or batteries.
+
+43
+JDP 0-20 (6th Edition)
+3A
+The foundations of land power
+Brigade
+A brigade is a combined arms tactical formation with intelligence, 
+surveillance and reconnaissance, combat support and combat 
+service support force elements. Its primary focus is creating 
+tactical effects.
+Unit
+A unit is the smallest grouping capable of independent operations 
+with organic capability over long periods. It contains integral 
+combat service support and limited combat support elements.
+Sub-unit A unit contains a number of sub-units, usually three to five.  
+Sub-units are usually grouped into battlegroups or task forces.
+ 
+Table 3A.1 – Land force formations, units and sub-units
+3A.3. Land forces are categorised functionally as combat, combat support 
+or combat service support force elements, as described in table 3A.2. 16 In 
+addition, the UK also has specialist forces trained for: capacity building tasks; 
+air and amphibious manoeuvre; force protection tasks; and intelligence and 
+reconnaissance tasks.
+Combat
+Combat force elements are those that engage the enemy 
+directly. They manoeuvre and fight, typically employing direct fire 
+weapons, to gain ground, find and defeat the enemy, or acquire 
+information. They include armoured, reconnaissance, infantry, 
+and attack and reconnaissance aviation units.
+Combat 
+support
+Combat support force elements provide operational assistance, 
+including fire and manoeuvre support to combat force elements. 
+They include support helicopters, artillery, combat engineers, 
+intelligence, communications, command support and information 
+activity specialists.
+Combat 
+service 
+support
+Combat service support is the organisational support provided to 
+the whole force, primarily administration and logistics. It includes 
+logistic, health service and equipment support, personnel, welfare 
+and administration force elements. Certain combat service 
+support functions are also provided by combat engineers, such 
+as providing water and electrical power supply or infrastructure.
+ 
+Table 3A.2 – Functional categorisation of land forces 
+3A.4. Complementary to functional categorisation, land forces are also 
+distinguished by their force type, described by NATO as heavy, medium or light 
+16 Traditionally the major combat and combat support functional branches of the British 
+Army were known as arms (leading to the expression ‘combined arms’) and the combat 
+service support branches were known as services.
+
+44
+JDP 0-20 (6th Edition)  
+3A
+The foundations of land power
+depending on the vehicles and equipment they use. These force types are 
+brought together (task organised) for specific roles or tasks – with force design 
+having to make trade-offs between protection, firepower, operational and 
+tactical mobility, and logistic demand.
+3A.5. The combination of capabilities provided by different force elements 
+and types, when they have sufficiently high levels of interoperability, produces 
+extremely powerful combined arms forces.17  A battlegroup is a combined arms 
+force commanded by a combat unit headquarters made up of a combination 
+of sub-units drawn from across the functional areas. A task force refers to 
+a combined arms force created for a specific purpose. It is based on the 
+headquarters of any type of force, at unit and formation level, and is not limited 
+to a combat arm.18  
+3A.6. Task organisation is the process by which combined arms forces 
+are formed. Task organisation during operations increases flexibility. Task 
+organisation may take place at any level within UK land forces and can, with 
+some limitations, occur within a multinational context. It is enabled by clearly 
+defined command relationships between formations, units and sub-units.
+17 There are three levels of interoperability. Integrated means that forces are able to 
+merge seamlessly and are interchangeable. Compatible means that forces can interact 
+with each other in the same geographical engagement space in pursuit of a common goal. 
+Deconflicted means that forces can coexist but not interact with each other. Derived from 
+AJP-01, Allied Joint Doctrine .
+18 An example would be an engineer unit allocated an infantry sub-unit for local 
+protection.
+
+45
+JDP 0-20 (6th Edition)
+3A
+The foundations of land power
+Notes
+
+[Page 56: No extractable text]
+
+47
+JDP 0-20 (6th Edition)
+Chapter 4
+Chapter 4 examines how UK land power is employed. It 
+explores its functions in support of national strategy, its 
+application in the contemporary operating environment, as 
+well as its essential integration with joint, cross-government, 
+multi-agency and multinational partners.
+Section 1 – Applying UK land power. . . . . . . . . . 49
+Section 2 – Working together  . . . . . . . . . . . . . 54
+Key points . . . . . . . . . . . . . . . . . . . . . . . 57
+
+48
+JDP 0-20 (6th Edition)  
+4
+Employing UK land power
+In the modern engagement space, 
+where critical enablers of land power 
+such as air power, cyber, and space 
+are outside the control of the Army, 
+orchestration must be integrated.
+ 
+ 
+Army Doctrine Note 22/02, 
+Freedom of Action in the Application of Land Power ”
+“
+
+49
+JDP 0-20 (6th Edition)
+4
+Employing UK land power
+Chapter 4
+Employing UK land power
+4.1. Land power encompasses the employment of UK land forces – in 
+conjunction with the other Services and multi-agency, multinational and private 
+sector partners – to achieve a broad range of political objectives. In a domain 
+defined by complexity and uncertainty, our land forces are capable of exerting 
+land power for strategic effect across a range of tasks, whether deterring 
+adversaries, defeating our enemies, building partnerships or improving stability. 
+Section 1 – Applying UK land power
+4.2.  The ability of our land forces to fulfil the functions of land power cannot 
+be taken for granted. Instead, the way in which UK land power is applied 
+must be adapted according to context. Land forces are employed across 
+the continuum of competition to provide a range of options that support the 
+achievement of foreign policy and security objectives. The way they operate is 
+determined by the circumstances in which they are to act. Operational themes 
+describe these types of deployments. There are six land operational themes:  
+• conventional warfare;
+• irregular warfare;
+• stability and peace support operations;
+• engagement;
+• humanitarian assistance and disaster relief; and
+• homeland resilience.
+Conventional warfare
+4.3. The potential for conflict to occur under geographically and politically 
+limited conditions means that forces able to credibly conduct conventional 
+warfare have continued relevance. Conventional warfare focuses on defeating 
+enemy armed forces and securing terrain objectives and populations; tactical 
+activity involves a sequence of battles and engagements in a campaign. Nation 
+states, or coalitions and alliances of states, are generally the principal actors 
+involved, but well-organised and resourced non-state actors are also capable 
+of conventional warfare.  
+
+50
+JDP 0-20 (6th Edition)  
+4
+Employing UK land power
+4.4. Land forces are primarily organised, trained and equipped for 
+conventional warfare because the ability to deter conventional warfare drives 
+opponents to pursue their objectives through less costly forms of competition. 
+It is also easier to adapt land forces prepared for conventional warfare to other 
+forms of competition than it is to adapt a gendarmerie force to the unforgiving 
+demands of conventional warfare, no matter how infrequent the requirement. 
+Examples of conventional warfare include the Yom Kippur War (1973), the 
+liberation of Kuwait (1991), the invasion of Iraq (2003), the second  
+Nagorno-Karabakh war (2020) and Russia’s invasion of Ukraine (2022). 
+4.5. Conventional warfare may transition to irregular warfare, as defeated 
+enemies resort to pursuing their objectives in other ways. Land forces must 
+therefore plan for the transition to other forms of competition and operational 
+themes, such as irregular warfare and stability operations, during conventional 
+warfare.19   
+Irregular warfare
+4.6. The practice of irregular warfare does not seek to defeat an opponent’s 
+armed forces in battle but rather emphasises indirect and asymmetric 
+approaches to undermine and exhaust an opponent’s legitimacy, influence 
+and will. Historically, irregular warfare has often been adopted by weaker 
+actors to negate the conventional warfare superiority of state armed forces 
+that they cannot defeat militarily. Countering irregular warfare through 
+counterinsurgency, counterterrorism and stability operations has therefore 
+been a recurring commitment for land forces. The early 21st Century has 
+been dominated by operations that have sought either to deny sanctuaries to 
+specific irregular threats, principally violent extremist organisations, or to build 
+state authority to deny irregular forces the space to operate.20   
+4.7. It is important not to conflate irregular warfare with unconventional 
+operations. Unconventional operations target adversary critical vulnerabilities, 
+such as threat finance and corruption, while also applying leverage by novel 
+means to undermine an adversary’s will and cohesion. Whilst bounded 
+within legal and ethical norms, unconventional operations are supported by a 
+conceptual approach that seeks to exploit the vulnerabilities of an adversary 
+and could be part of any one of the operational themes. 
+19 Army Field Manual (AFM), Conventional Warfare  describes the tactical activities 
+employed in conventional warfare.
+20 AFM, Irregular Warfare  describes irregular warfare in greater depth.
+
+51
+JDP 0-20 (6th Edition)
+4
+Employing UK land power
+Stability and peace support operations
+4.8. The commitment of land forces to stability and peace support 
+operations is a way of supporting international peace and security, protecting 
+civilians, and containing and preventing conflict. Stability and peace support 
+operations are not usually peaceful; combat can be a defining feature, as it 
+was in the former Yugoslavia during the 1990s, requiring the employment 
+of forces normally associated with conventional warfare, such as tanks and 
+artillery. 
+4.9. The UK can work unilaterally to counter instability overseas to help 
+strengthen, uphold or restore peace and security, but it usually does so as part 
+of a wider response from the international community, often as part of a United 
+Nations mission. Commitment of land forces can range from individuals to 
+formed units and formations.  
+4.10. Stability operations focus on providing security and control that 
+establishes a safe and secure environment for other agencies and actors 
+to set the conditions for longer-term stability by addressing the primary 
+drivers of violence and conflict. Examples of stability and peace support 
+operations include Operation Newcombe in support of the United Nations 
+Multidimensional Integrated Stabilisation Mission in Mali and Operation Tosca 
+in Cyprus.21    
+21 AFM,  Stability and Peace Support Operations  provides further detail.
+The UK contributes to stability and peace support operations, usually  
+as part of a wider response from the international community
+
+52
+JDP 0-20 (6th Edition)  
+4
+Employing UK land power
+Engagement
+4.11. Engagement operations use land forces to gain insight, develop 
+understanding, exercise influence, shape perceptions, support allies and 
+partners, and deter and compete with adversaries. Its conduct involves 
+working alongside other government departments, and with international 
+allies and partners, and contributes towards preventing instability and 
+conflict. Engagement involves three types of activity:  
+• contribution to wider Defence engagement;
+• outreach (including military assistance operations and civil-military 
+cooperation); and 
+• information activities (including media operations and psychological 
+operations).   
+4.12. Engagement is a whole force activity. The land contribution can range 
+from deployments of specialists, specifically trained and assigned for limited 
+activities, through to generalists deployed as part of a broader multinational 
+operation or undertaking business as usual activities in home base locations. 
+Examples of engagement include military assistance to the armed forces of 
+Ukraine through Operations Interflex and Orbital, to the African Union Mission 
+in Somalia (AMISOM) force-contributing nations, and partnered collective 
+training at land regional hubs in Oman and Kenya.22  
+Humanitarian assistance and disaster relief
+4.13. The commitment of land forces to humanitarian assistance is a 
+way of relieving human suffering. It addresses the humanitarian needs of a 
+population. This often equates to saving lives, reducing suffering and restoring 
+basic services. Examples of humanitarian assistance and disaster relief 
+include Operation Gritrock (2015) to provide medical support against the Ebola 
+virus epidemic in West Africa and support to victims of Hurricane Irma in the 
+Caribbean (2017).23 
+22 AFM,  Engagement describes engagement  in greater depth.
+23 Joint Doctrine Publication (JDP) 3-52, Disaster Relief Operations Overseas: the Military 
+Contribution and AFM, Humanitarian Assistance and Disaster Relief  describe these matters 
+in greater depth.
+
+53
+JDP 0-20 (6th Edition)
+4
+Employing UK land power
+4.14. Non-combatant evacuation operations involve the relocation of 
+designated non-combatants, threatened in a foreign country, to a place 
+of safety. In the event of a crisis that requires the evacuation of eligible 
+persons, it will be the Foreign, Commonwealth and Development Office that 
+coordinates the evacuation and they may request support from the Ministry of 
+Defence. Land forces can be committed to provide security to the evacuation 
+operation. Examples include Operation Pitting in Kabul (2021), Operation 
+Highbrow in Beirut (2006) and Operation Palliser in Sierra Leone (2000).24   
+Homeland resilience
+4.15. Land forces contribute to homeland resilience and support the civil 
+authorities under military aid to the civil authorities. This is distinct from the 
+British Army’s contribution to operations to defend UK territorial integrity.    
+4.16. Resilience is the overarching term used to describe activities that 
+ensure the UK government can continue to deliver essential functions in times 
+of national crisis, including terrorist attack and industrial action, or in civil crises 
+such as flooding.  
+4.17. Support may be provided by land forces to other government 
+departments and devolved administrations for urgent work of national 
+importance, responding to emergencies or in maintaining essential supplies 
+and services. Military regional command structures, planning capability and 
+speed of response in emergency are highly valued by civil authorities.  
+4.18. Support may also be provided to civil law enforcement agencies, 
+such as the police or Border Force, for the maintenance of law, order 
+and public safety using specialist capabilities or equipment beyond that 
+of civil powers. Training and logistic assistance may also be provided to 
+civil authorities through the provision of the Defence estate or facilities for 
+either training or operational support to other agencies carrying out their 
+duties. Examples of homeland resilience operations include Operation Rescript 
+in response to the COVID-19 pandemic (2020–21), Operation Temperer in 
+response to terrorist attacks (2017), Operations Shaku (winter 2015–16) and 
+Pitchpole (winter 2013–14) in response to flooding and Operation Fresco in 
+response to industrial action by firefighters (2003).25  
+24 JDP 3-51, Non-combatant Evacuation Operations provides further detail.
+25 JDP 02, UK Operations: the Defence Contribution to Resilience and AFM, Homeland 
+Resilience describe this type of operation in greater depth.
+
+54
+JDP 0-20 (6th Edition)  
+4
+Employing UK land power
+Special operations  
+4.19. Special operations can occur across the six land operational themes. 
+Special operations are not operations conducted solely by special operations 
+forces, although such forces are most frequently involved. Rather it is the 
+operation itself that is ‘special’, conducted using capabilities and forces drawn 
+from across the whole force.  
+4.20. Special operations take place when risk is high and the profile needs 
+to be discreet or covert. The highest risk and lowest profile special operations 
+will be of strategic importance and executed through Strategic Command 
+capabilities, although land forces could be employed in support.  
+4.21. Special operations by their nature have high political, reputational 
+and physical risks. Risk mitigation is therefore central to their planning and 
+execution. To generate permissions and to demonstrate risk management, 
+significant risk mitigation measures will be necessary and bespoke to each 
+special operation. Special operations involve three broad tasks: 
+• military assistance;
+• special reconnaissance; and 
+• direct action.
+4.22. Land forces contribute to Defence special operations by providing 
+special operations-capable forces, including a combination of specialists and 
+vetted or compartmented generalists. Existing operations sometimes provide 
+a platform for the discreet and covert planning and execution of special 
+operations. 
+Section 2 – Working together
+The integrated approach and integrated action
+4.23. UK national policy mandates an integrated approach to national power. 
+The integrated approach, known as the comprehensive approach in the North 
+Atlantic Treaty Organization (NATO), formalises the requirement for government 
+departments to coordinate their responses to national policy challenges. In 
+turn, integrated action articulates Defence’s contribution to the integrated 
+approach. Joint Doctrine Publication 0-01, UK Defence Doctrine describes 
+it as the audience-centric orchestration of military activities, across all 
+
+55
+JDP 0-20 (6th Edition)
+4
+Employing UK land power
+operational domains, synchronised with non-military activities to influence the 
+attitude and behaviour of selected audiences necessary to achieve successful 
+outcomes. As with combined arms, it seeks to create effects that are greater 
+than the sum of the parts employed.   
+Multi-domain integration and convergence
+4.24. Multi-domain integration is the means whereby the different areas of 
+Defence work together seamlessly, and with government partners and allies, to 
+deliver a desired outcome. In multi-domain operations on land, effects created 
+in multiple operational domains are orchestrated through the operational 
+function; this process, and the resultant outcome, is called convergence. 
+Convergence is the concerted employment of effects created in multiple 
+operational domains and directed at decisive points, such as an adversary’s 
+systems, formations, commander or ground. 
+The operational function
+4.25. The operational function, which can be carried out by any appropriately 
+resourced formation headquarters, translates strategy into tactical activities and 
+ensures that tactical activities are coherent with strategy. In doing so, it ensures 
+that the tactical formations are sufficiently resourced to accomplish their 
+missions and that effects owned and created in other operational domains are 
+converged with tactical activities in the land domain to have decisive effect. 
+A Royal Air Force, CH-47 Chinook lands along with a Finnish NH90 helicopter  
+to drop off soldiers during Exercise Vigilant Fox in Finland
+
+56
+JDP 0-20 (6th Edition)  
+4
+Employing UK land power
+Multinational and multi-agency activities
+4.26. A national approach will usually be framed within a broader 
+multinational and multi-agency response, involving many actors including allies, 
+international organisations and non-governmental organisations.26 Alliances 
+and coalitions provide a range of options that most nations could not generate 
+independently, including unique capabilities or particular skills, as well as 
+potentially providing the required mass for favourable force ratios. Participation 
+in multinational operations can also enhance perceptions of legitimacy and 
+increase influence across the international community. Maintaining cohesion 
+across the international community is therefore a strategic priority in any 
+multinational operation.
+4.27 . The ability to successfully integrate militarily is highly dependent on 
+interoperability between forces.27 Our land forces face distinct challenges 
+to achieving interoperability, including differing objectives, cultures, 
+structures, equipment, laws and languages, as well as variations in doctrine, 
+tactics, techniques, procedures and sustainment. Achieving high levels of 
+interoperability takes time and resources to develop and maintain and must 
+be honed through training and by lessons identified during operations. Shared 
+understanding improves interoperability, fusing information from a diverse 
+range of organisations into a coherent whole.
+26 Multi-agency planning and crisis management is covered in detail in JDP 01, UK Joint 
+Operations Doctrine .
+27 Interoperability is defined as: the ability to act together coherently, effectively and 
+efficiently to achieve tactical, operational and strategic objectives.  NATOTerm.
+Multinational interoperability must be honed through training  
+and by lessons identified during operations
+
+57
+JDP 0-20 (6th Edition)
+4
+Employing UK land power
+ 
+Key points
+• Land forces have six operational themes: conventional warfare, irregular 
+warfare, stability and peace support operations, engagement, humanitarian 
+assistance and disaster relief, and homeland resilience. Special operations 
+are a cross-cutting capability.
+• The UK has adopted an integrated approach, as described in Global 
+Britain in a competitive age: The Integrated Review of Security, Defence, 
+Development and Foreign Policy and Integrated Review Refresh 2023. 
+Integrated action is Defence’s doctrinal tenet supporting the integrated 
+approach.
+• Multi-domain integration informs the way land forces fight and operate. 
+When conducting multi-domain operations, land forces integrate and 
+orchestrate multi-domain effects, through convergence, as part of the 
+operational function. 
+• The operational function translates strategy into tactics and converges  
+multi-domain effects to support tactical activities executed through 
+combined arms manoeuvre.
+
+58
+JDP 0-20 (6th Edition)  
+4
+Employing UK land power
+Notes
+
+59
+JDP 0-20 (6th Edition)
+Lexicon
+Lexicon
+Section 1 – Acronyms and abbreviations
+AFM   Army field manual 
+AJP   Allied joint publication 
+AMISOM  African Union Mission in Somalia
+DCDC   Development, Concepts and Doctrine Centre
+IDF   Israel Defense Forces
+JDP   joint doctrine publication
+MOD   Ministry of Defence
+NATO   North Atlantic Treaty Organization
+RAF   Royal Air Force
+UK   United Kingdom 
+
+60
+JDP 0-20 (6th Edition)  
+Lexicon
+Section 2 – Terms and definitions
+This section lists endorsed terms and definitions used in the publication.
+division 
+A major administrative and tactical unit/formation which combines in itself the 
+necessary arms and services required for sustained combat, larger than a 
+regiment/brigade and smaller than a corps. (NATOTerm)
+environment 
+The surroundings in which an organization operates, including air, water, land, 
+natural resources, flora, fauna, humans, and their interrelations. (NATOTerm)
+interoperability 
+The ability to act together coherently, effectively and efficiently to achieve 
+tactical, operational and strategic objectives. (NATOTerm)
+land power 
+The ability of land forces to exert decisive control and influence on actors and 
+the course of events. (JDP 0-01.1)
+
+[Page 71: No extractable text]
+
+Designed by the Development, Concepts and Doctrine CentreDesigned by the Development, Concepts and Doctrine Centre
+Crown copyright 2023Crown copyright 2023
+Published by the Ministry of DefencePublished by the Ministry of Defence
+This publication is also available at www.gov.uk/mod/dcdcThis publication is also available at www.gov.uk/mod/dcdc
+The material in this publication is certified as an FSC mixed resourced product, fully recyclable and biodegradable.The material in this publication is certified as an FSC mixed resourced product, fully recyclable and biodegradable.
+
+

@@ -1,0 +1,3299 @@
+Joint Doctrine Publication 0-30UK Air Power
+Joint Doctrine Publication 0-30 
+UK Air Power
+Third Edition
+
+[Page 2: No extractable text]
+
+i
+JDP 0-30 (3rd Edition)
+Joint Doctrine Publication 0-30
+UK Air Power
+Joint Doctrine Publication 0-30 (JDP 0-30) (3rd Edition),  
+dated September 2022, is promulgated as directed 
+by the Chiefs of Staff
+Head Doctrine
+Conditions of release
+This publication is UK Ministry of Defence (MOD) Crown copyright. Material 
+and information contained in this publication may be reproduced, stored in 
+a retrieval system and transmitted for UK government and MOD use only, 
+except where authority for use by other organisations or individuals has been 
+authorised by a Patent Officer of the Defence Intellectual Property Rights. 
+
+Authorisation
+The Development, Concepts and Doctrine Centre (DCDC) is responsible for 
+publishing strategic trends, joint concepts and doctrine. If you wish to quote 
+our publications as reference material in other work, you should confirm with 
+our editors whether the particular publication and amendment state remains 
+authoritative. We welcome your comments on factual accuracy or amendment 
+proposals. Please contact us via email at: DCDC-DocEds@mod.gov.uk
+Copyright
+This publication is UK Ministry of Defence © Crown copyright (2022) including 
+all images (unless otherwise stated). Front cover © Rich Cooper/COAP
+If contacting Defence Intellectual Property Rights for authority to release 
+outside of the UK government and MOD, the Patent Officer should be 
+informed of any third party copyright within the publication.
+Crown copyright and Merchandise Licensing, Defence Intellectual Property 
+Rights, Central Legal Services, MOD Abbeywood South, Poplar 2 #2214, 
+Bristol, BS34 8JH. Email: DIPR-CC@mod.gov.uk
+Distribution
+All DCDC publications can be demanded from the LCSLS Headquarters and 
+Operations Centre. 
+LCSLS Help Desk: 01869 256197 M ilitary Network: 94240 2197
+Our publications are available to view and download on defnet at:  
+https://modgovuk.sharepoint.com/sites/IntranetUKStratCom/SitePages/
+development-concepts-and-doctrine-centre-dcdc.aspx
+This publication is also available on the Internet at: www.gov.uk/mod/dcdc
+ii
+JDP 0-30 (3rd Edition) 
+
+iii
+JDP 0-30 (3rd Edition)
+Foreword
+The last decade has seen dramatic technological change set against a 
+backdrop of significant geopolitical challenge in a world in which information 
+and data have transformed the way we interact. Traditional distinctions 
+between peace and war have become dangerously blurred and the 
+competitive nature of international relations in this information age requires 
+us to evaluate rapidly and respond decisively to events. Air power, with its 
+ability to influence audiences through both hard and soft power, supports that 
+requirement unequivocally and offers flexible, timely, scalable, and responsive 
+options to the UK government in support of national security objectives. 
+It is critical that those charged with employing and directing the use of air 
+power do so from a position of knowledge and common understanding. 
+Doctrine provides us with an agreed upon and operationally relevant body of 
+best practices, principles and beliefs that articulates how we fight today. It is 
+our collective wisdom drawn at considerable cost from operations, training, 
+and experimentation. It must not be allowed to become dogma. 
+The UK maintains highly credible air power but cannot provide the full breadth 
+of air power capabilities and enablers to generate, coordinate and sustain the 
+mass required to conduct high-intensity operations alone. For that reason, we 
+must always be innovative in our development and application of air power, 
+and the way we integrate it across all operational domains and with our 
+international allies and partners. 
+While the enduring principles of air power remain constant, maintaining 
+relevance in a fast-changing world remains key. Our air power doctrine has to 
+evolve continually to meet the challenges of the current geopolitical context 
+and the increasingly complex joint and combined operating environment. 
+This latest edition of JDP 0-30, UK Air Power, should be considered essential 
+reading for a wide audience across Defence, and desirable reading for our 
+partners across government – I commend it to you. 
+Air Chief Marshal Sir Mike Wigston KCB CBE ADC 
+Chief of the Air Staff
+
+
+iv
+JDP 0-30 (3rd Edition) 
+
+v
+JDP 0-30 (3rd Edition)
+Preface
+ 
+Purpose
+1.   Joint Doctrine Publication (JDP) 0-30, UK Air Power is the UK’s keystone 
+air domain doctrine publication. Whilst JDP 0-01, UK Defence Doctrine 
+provides the broad principles and philosophy underpinning the use of UK 
+Armed Forces, and the North Atlantic Treaty Organization’s (NATO’s) Allied 
+Joint Publication (AJP)-3.3, Allied Joint Doctrine for Air and Space Operations  
+focuses on the application of NATO air power, JDP 0-30 is focused specifically 
+on UK air power. It brings together higher-level doctrine, government policy 
+and enduring air power knowledge and experience to provide a basis for 
+understanding the utility of the air domain. JDP 0-30 highlights the strengths 
+and discusses the limitations of air power and considers those factors which, 
+in broad terms, enable the effective employment of air power. It also explores 
+its relationship with the other operational domains and its interdependence 
+with the other elements of national and military power, as well as with 
+multinational and private sector partners.
+Context
+2. This third edition of JDP 0-30 continues the joint theme that runs 
+through the previous editions, whilst reflecting the UK’s adoption of an 
+integrated approach to operations. Previous versions of JDP 0-30 have 
+encompassed both air power and space power. For this version, due to the 
+increasing maturity of the space domain enterprise across UK Defence, it 
+has been decided to split air power and space power into separate doctrine 
+publications.1
+Audience
+3. This third edition of JDP 0-30 is a simple and concise explanation of air 
+power, which seeks to inform a wide audience. It is designed to highlight the 
+strategic utility of air power and its contribution to national power. JDP 0-30 
+should be of value to all departments of the Ministry of Defence (MOD), joint 
+commanders and staffs at all levels, the single Services, the broader defence 
+community and other government departments, as well as partners and allies 
+of the UK.
+1 For more information on space power, see JDP 0-40,  UK Space Power.
+
+vi
+JDP 0-30 (3rd Edition) 
+Structure
+4. JDP 0-30 is divided into four chapters with a supporting lexicon. An outline 
+of what is covered in these chapters is detailed below.
+a. Chapter 1 – An introduction to air power. This chapter provides 
+an overview of the basics of air power and introduces air capabilities. It 
+discusses influence and power from the air and places air power into a 
+strategic context.
+b. Chapter 2 – The roles of air power. This chapter discusses in detail 
+the enduring and fundamental roles of air power. It also introduces the 
+key and critical enablers of electromagnetic warfare and command and 
+control. 
+c. Chapter 3 – Command and control. This chapter provides more 
+detail on the command and control of air power. This includes discussing 
+the principles of command and control, UK capabilities and the planning 
+and tasking of air power.
+d. Chapter 4 – The employment of air power. This chapter considers 
+the application of UK air power in the context of joint operations, 
+cross-g overnment integration and integrated action. It provides an 
+overview of air power enablers and outlines air power’s utility.
+Linkages
+5. JDP 0-30, UK Air Power is the keystone air domain doctrine publication 
+within the joint doctrine architecture, sitting below JDP 0-01, UK Defence 
+Doctrine and alongside other joint domain-centric doctrine: JDP 0-10, UK 
+Maritime Power; JDP 0-20, UK Land Power; JDP 0-40, UK Space Power; and 
+JDP 0-50, UK Defence Cyber and Electromagnetic Doctrine . It reflects current 
+UK government and MOD policy, in particular the 2021 Global Britain in a 
+competitive age: The Integrated Review of Security, Defence, Development 
+and Foreign Policy. JDP 0-30 is coherent with AJP-3.3, Allied Joint Doctrine for 
+Air and Space Operations. Whilst reflecting the joint context, it is also coherent 
+with the Royal Air Force’s capstone doctrine, Air Publication (AP) 3002, Air and 
+Space Warfare, which provides more detail of air and space power.
+
+vii
+JDP 0-30 (3rd Edition)
+Contents
+Foreword  . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+Preface  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v
+Chapter 1 – An introduction to air power  . . . . . . . . . . . . 1
+Chapter 2 – The roles of air power   . . . . . . . . . . . . . . . 25
+Chapter 3 – Command and control  . . . . . . . . . . . . . . . 47
+Chapter 4 – The employment of air power   . . . . . . . . . . . 67
+Lexicon  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95
+
+[Page 10: No extractable text]
+
+1
+JDP 0-30 (3rd Edition)
+Chapter 1
+This chapter provides an overview of UK air power, outlining 
+its enduring utility in an era of persistent and complex 
+competition. It introduces the attributes and roles, and 
+provides a definition of UK air power. The chapter further 
+provides a brief introduction to air capabilities, discusses 
+influence and power from the air, and concludes by placing 
+air power into context. 
+Section 1 – The basics of air power .  .  .  .  .  .  .  .  .  . 3
+Section 2 – Air capabilities. . . . . . . . . . . . . . .  8
+Section 3 – Influence and power from the air  . . . . .  14
+Section 4 – Air power in context . . . . . . . . . . . .  18
+
+”
+“The fundamental purpose of 
+military air power is achieving 
+mastery of the air.
+ 
+Air Publication 3002, Air and Space Warfare 
+ 
+2
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+
+Chapter 1
+An introduction to air 
+power
+Section 1 – The basics of air power
+1.1. The UK government uses four instruments of power in pursuit of national 
+policy goals; these are the diplomatic, information, military and economic 
+instruments.1 The military instrument of national power spans the operational 
+domains2 of maritime, land, air, space, and cyber and electromagnetic. 
+Since its inception, air power has made a vital contribution to the UK military 
+instrument, helping to maintain the freedom of the nation and to project 
+national influence when called upon.
+1.2. In the UK, the Royal Air Force (RAF) has the conceptual lead for 
+warfare across the air domain, thus the structure of the UK Armed Forces 
+predominantly focuses the generation and employment of air power around 
+the RAF. However, the Fleet Air Arm of the Royal Navy and the Army Air Corps 
+and other aviation elements of the British Army also contribute significantly to 
+the delivery of UK air power.
+Air power is defined as:
+The ability to use air capabilities in and from the air, to influence the 
+behaviour of actors and the course of events.3
+1.3. By the end of World War 1, the impact of air power was beginning to 
+be felt across all forms of warfare. The enduring characteristics of height, 
+speed and reach had been established and the fundamental roles of air 
+power codified. By World War 2, no military activity could overlook the 
+significance of air power; when properly targeted and coordinated, it proved 
+influential – often decisive – in all theatres of the war. During and after World 
+1 S ee Joint Doctrine Publication (JDP) 0-01, UK Defence Doctrine for a full explanation of 
+national power, national security, the national interest and national strategy.
+2 A n operational domain is defined as: a specified sphere of capabilities and activities 
+that can be applied within an engagement space . NATOTerm.
+3 J DP 0-01.1, UK Terminology Supplement to NATOTerm.
+3
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+A –Z
+
+War 2, the technological development of air power accelerated dramatically, 
+with investment in airframe, engine, sensor and weapon technologies, which 
+enabled operational and tactical developments across all operational domains. 
+Air power is now recognised as an extremely responsive and scalable element 
+of the military instrument of national power.
+The characteristics of air power
+1.4. At the heart of air power are its characteristics. The hard-earned 
+experience of over a century of military air power has confirmed these to be: 
+height, speed and reach. 
+a. Height enables the observation, and delivery, of activities in the land 
+and maritime environments. Three-dimensional manoeuvre, facilitated by 
+height, is also an important survivability factor. 
+b. Speed enables the rapid and responsive projection of power, 
+which permits missions to be completed quickly, generating tempo and 
+offering the potential to exploit time. At the tactical level, high speed flight 
+reduces exposure to hostile fire and increases survivability, whilst the 
+ability to fly at low speed allows extended loiter time.
+c. Reach enables audiences, actors, adversaries and enemies to be 
+influenced, regardless of their location. Whilst 70% of the world’s surface 
+is covered by water, 100% of it is covered by air. This provides air power 
+with unrivalled reach, usually unimpeded by terrain, enabling distant 
+or isolated targets to be prosecuted and potential restrictions to be 
+circumvented.
+1.5. While height, speed and reach represent fundamental air power 
+characteristics in their own right, they also act together synergistically to 
+produce additional characteristics. These additional characteristics are: agility, 
+ubiquity4 and concentration. 
+a. Agility. Agility is a blend of responsiveness, adaptability, flexibility 
+and resilience. Air power is inherently agile, a characteristic amplified 
+by the multi-role capability of many platforms. Agility permits aircraft 
+to move quickly and decisively between the strategic, operational 
+and tactical levels of operations, and to move across and between 
+4 U biquity is defined as: present, appearing, or found everywhere. Concise Oxford 
+English Dictionary  (COED).
+4
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+
+operational theatres, sometimes during the same mission, and to act as 
+a manoeuvre force in its own right.
+b. Ubiquity. Height, speed and reach, combined with the agility of 
+air capabilities, provide air power with ubiquity. This is because threats 
+can be posed or countered across a wide area, with significantly fewer 
+constraints than exist in the land and maritime environments. 
+c. Concentration. Speed, reach and agility allow air power to 
+concentrate military force in time and space, when and where it is 
+required. Precision weaponry means that effects can be concentrated 
+without the requirement for combat mass. The psychological and 
+physical shock imposed by the concentration of effects is often crucial in 
+achieving successful operational outcomes.
+1.6. In combination, air power’s characteristics enable the delivery of 
+significant combat power. Speed, reach and height, coupled with modern 
+sensor technology, precision weaponry and, for a number of aircraft, the 
+ability to remain aloft for extended periods, provide the capability to shape 
+and influence the operational environment. Moreover, the agility and ubiquity 
+of air power mean that it can be used to revisit points of interest within short 
+response times or cover multiple joint operations areas in one sortie, thereby 
+delivering an additional degree of persistence. Equally, air power can be used 
+fleetingly and with a very small footprint to offer covertness, discretion and 
+deniability, should these be required.
+5
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+Atlas C-1 (A400M) takes off from RAF Akrotiri
+
+1.7. These characteristics mean that air power is ideally suited to create 
+effects across the entire spectrum of operations. It can, for example: 
+• enable freedom of movement; 
+• deliver humanitarian aid; 
+• deliver deliberate interventions through attack operations; 
+• reassure allies; and 
+• deny and/or deter adversary activity.
+The air environment
+1.8. The air environment is an unforgiving one and, thus, aircraft are designed 
+to meet the challenges of operating at a variety of altitudes, temperature 
+extremes and speed ranges. The physics and aerodynamic principles 
+associated with the air environment also complicate the design process for 
+aircraft.
+1.9. Most crewed aircraft are able to withstand or avoid the extreme weather 
+that can occur in the air, but as the majority of uncrewed aircraft tend, 
+currently, to be lighter, slower and less robust than their crewed counterparts 
+they can be more susceptible to such conditions. The laws of physics dictate 
+that the performance of some aircraft, sensors and weapon systems are 
+also adversely affected by extremes of poor weather. However, the versatility 
+offered by an array of sensors across the electromagnetic and acoustic 
+spectra provides an acceptable level of resilience and enables agility.
+6
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+Voyager KC Mk2, in VIP livery, refuelling F-35B Lightnings and a Typhoon FGR4
+
+Limitations of air power
+1.10. Air power does have its limitations. But, like its strengths, these are 
+relative rather than absolute and need to be understood in that context. Some 
+of the limitations are explored below.
+a. Impermanence. Aircraft cannot yet stay airborne indefinitely, 
+although some uncrewed platforms are now capable of long  
+loiter/mission times. Although the use of air-to-air refuelling can extend 
+the range and endurance of aircraft, no means have yet been found 
+to rearm or service an aircraft in flight. To that extent, air power is 
+an impermanent form of military force; the influence it creates may 
+be transient and activities may have to be repeated to sustain the 
+desired degree of influence or effect. Whilst multiple aircraft cycling 
+through the same task can provide a degree of permanence, in certain 
+circumstances impermanence may be an advantage; for example, it 
+may avert the potential military and political liabilities that result from an 
+extended land-based presence in a foreign country.
+b. Limited payload. The payloads that can be carried by aircraft may 
+be limited in comparison with ships or land vehicles. However, air power 
+trades off load-carrying capability against speed and reach, as well as 
+the ability to access areas that surface forces cannot physically access. 
+A small payload delivered quickly may be of far more value in influencing 
+a critical situation than a larger one deployed much later. Air power 
+often provides the only means of creating effects at a point of crisis 
+rapidly enough to meet policy objectives.5 
+c. Fragility. Structurally, aircraft are highly stressed and built to be 
+as light as practicable, carrying little or no armour protection; thus, 
+relatively low levels of battle damage may have a catastrophic effect. 
+However, structural fragility must not be confused with vulnerability 
+in the air, where survivability is achieved by the exploitation of speed, 
+height and manoeuvrability. 
+d. Cost. Many military aircraft use cutting-edge technology, which, 
+inevitably, comes at significant financial cost. This cost must be 
+balanced against the multiple and adaptive capabilities delivered; 
+indeed, low-cost uncrewed aircraft may offer an expendable capability. 
+5 T hese effects could be delivering personnel, equipment or humanitarian aid, or 
+dropping munitions.
+7
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+
+Moreover, air power can, in certain situations, offer alternative policy 
+options to the large-scale commitment of land forces, with the heavy 
+financial and human consequences that this frequently entails.
+e. Basing and overflight. All forms of military power depend on 
+basing, support and protection; aircraft are no exception. Air power’s 
+requirements for access, basing and overflight rights are often cited as 
+a weakness; however, the UK uses its diplomatic influence to mitigate 
+this weakness. Consequently, gaining the support of allies, partners and 
+friendly nations has rarely proved to be a significant problem. The use 
+of carrier-enabled power projection also mitigates the reliance on land 
+basing of some air assets.
+f. Weather. Historically, air power was constrained by night and poor 
+weather. Poor weather may still create some difficulties, but modern 
+technology means that the majority of military aircraft can now operate 
+in all light conditions, day and night, regardless of weather conditions. 
+Indeed, advanced navigation equipment, sensors, targeting systems 
+and weaponry mean that night and poor weather may give UK air power 
+distinct advantages when facing an adversary lacking these capabilities.6 
+Section 2 – Air capabilities
+1.11. Air capabilities naturally centre on aircraft, which the North Atlantic 
+Treaty Organization (NATO) defines as: any machine that can derive support 
+in the atmosphere from the reactions of the air other than the reactions of the 
+air against the earth’s surface.7 This definition therefore includes fixed-wing, 
+rotary wing and tilt-rotor aircraft, both crewed and uncrewed. Whilst the overall 
+number of UK military aircraft has decreased over the past two decades, the 
+capabilities of individual aircraft types have developed significantly, notably 
+in regard to enhanced precision attack capabilities, intelligence, surveillance 
+and reconnaissance (ISR) sensors, low-observable technology and data link 
+connectivity. Consequently, more aircraft types are now capable of conducting 
+multiple air power roles during a sortie, often simultaneously. This enhances 
+the inherent flexibility of air power and offers the operational commander a 
+tailored response to evolving circumstances and an array of capabilities that 
+can rapidly transition between tasks.
+6 T his paragraph refers to terrestrial weather, for the impact of space weather on air 
+operations see JDP 0-40, UK Space Power.
+7 NATOTerm.
+8
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+
+Crewed aircraft  
+1.12. Crewed aircraft continue to provide the bulk of UK air power capabilities. 
+Whilst uncrewed aircraft technology continues to develop at a rapid pace, 
+the presence of an on board crew currently remains essential to successfully 
+execute the majority of core air missions; this is especially the case within a 
+contested environment where command and control will be limited, high energy 
+combat manoeuvring may be necessary or close tactical coordination between 
+a large number of aircraft may be required to achieve the necessary combat 
+mass. Below the threshold of armed conflict, the use of crewed aircraft in the 
+air mobility role ensures regulatory requirements concerning passenger safety 
+are met whilst larger ISR aircraft such as the UK’s RC-135 Joint Rivet carry a 
+multidiscipline crew able to exploit the information gathered in real time. Whilst 
+crewed aircraft carry with them an inherent risk to the crew that cannot be 
+eliminated, particularly within high-threat environments, currently they represent 
+the most flexible method of delivering decentralised execution of air tasks across 
+the broadest set of probable scenarios.
+1.13. Crewed combat aircraft are generally categorised according to 
+their ‘generation’, which broadly reflects their capabilities. A generational 
+shift in combat aircraft occurs when a technological innovation cannot be 
+incorporated into an existing aircraft through upgrades and retrofits. There are 
+9
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+Puma HC2 formation as part of celebrations marking 50 years of Puma service  
+with the RAF
+
+currently five broadly accepted generations, although most NATO air forces are 
+now equipped with fourth and fifth generation aircraft.
+a. Fourth generation. Fourth generation aircraft are those designed 
+to bridge the gap between the developments of the 1960s and 1970s 
+and those entering service after 2000. Key characteristics include: high 
+manoeuvrability and supersonic dash performance; fly-by-wire controls; 
+mechanically scanned radar; and a look-down, shoot-down air-to-air 
+capability. There are over 46 individual types of fourth generation aircraft 
+in the world, including the RAF’s Typhoon aircraft.8   
+b. Fifth generation. Fifth generation aircraft combine new 
+developments such as thrust vectoring, composite materials, 
+supercruise (the ability to cruise at supersonic speeds efficiently), 
+low-o bservable technology, advanced electronically scanned radars 
+and sensors, and integrated avionics to greatly improve crew situational 
+awareness. There are only five operational fifth generation aircraft types 
+in the world, including the UK’s F-35B Lightning II. 
+Uncrewed aircraft
+1.14. There is, after over a century of crewed flight, a broad understanding 
+of the variety, operation and regulation of crewed aircraft; however, the 
+past couple of decades have seen an almost exponential increase in the 
+development, capability and use of uncrewed aircraft. Whilst this publication 
+seeks to reflect the normalisation of the operation of uncrewed aircraft, there 
+are some areas in which uncrewed aircraft differ from crewed that merit 
+inclusion. These areas are classification, terminology and legal aspects, which 
+are discussed below.
+1.15. Due to the lack of a requirement to accommodate a human being, 
+uncrewed aircraft can be significantly smaller than crewed aircraft, thus 
+the range of sizes can be greater than that of crewed aircraft. This led to a 
+requirement to categorise uncrewed aircraft to provide a reference tool for the 
+procurement, regulation and operation of them. The UK uses both NATO9 and 
+UK Military Aviation Authority10 classifications of uncrewed aircraft.11
+8 A lthough designed as a fourth generation aircraft, the Typhoon has been enhanced 
+over recent years with upgrades to avionics and weapons and is now referred to as a 
+4.5 generation aircraft.
+9 AJP-3.3, Allied Joint Doctrine for Air and Space Operations , Edition B, Version 1, 
+Figure 4.2.
+10 M ilitary Aviation Authority Regulatory Article 1600.
+11 N ATO uses the terms ‘unmanned aircraft’ and ‘unmanned aircraft system’.
+10
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+
+Terminology relating to uncrewed aircraft
+The UK uses the following definitions. The UK definitions are new but aligned 
+as closely as possible with the NATO Agreed definitions. 
+uncrewed aircraft 
+An aircraft that does not carry a human operator and is operated remotely using 
+varying levels of automated functions. 
+Notes 1. Uncrewed aircraft can be expendable or recoverable. 
+           2. Uncrewed aircraft may carry a lethal or non-lethal payload. 
+           3. Cruise missiles are not considered uncrewed aircraft.  
+(Joint Doctrine Publication (JDP) 0-01.1)
+uncrewed aircraft system 
+A system whose components include the uncrewed aircraft, the supporting 
+network and all equipment and personnel necessary to control the uncrewed 
+aircraft. (JDP 0-01.1)
+remotely piloted aircraft 
+An uncrewed aircraft that is controlled from a remote pilot station by a pilot who 
+has been trained and certified to the same standards as a pilot of a crewed 
+aircraft. (JDP 0-01.1)
+remotely piloted aircraft system 
+A remotely piloted aircraft, its associated remote pilot station(s), the required 
+command and control links and any other components as specified in the type 
+design. (NATOTerm)
+The terms automated and autonomous are often used and discussed in relation to 
+uncrewed aircraft, therefore it is important to understand these terms and how they 
+relate to uncrewed aircraft systems. The NATO Agreed definitions are as follows.
+automated 
+Pertaining to a system that, in response to inputs, follows a predetermined set of 
+rules to provide a predictable outcome. (NATOTerm)
+autonomous 
+Pertaining to a system that decides and acts to accomplish desired goals, within 
+defined parameters, based on acquired knowledge and an evolving situational 
+awareness, following an optimal but potentially unpredictable course of action. 
+(NATOTerm)
+11
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+A –Z
+
+1.16. Whilst definitions can vary, the key difference is that an automated 
+system is capable of carrying out complicated tasks but is incapable of 
+complex decision-making, whereas an autonomous system is capable of 
+deciding a course of action without depending on human oversight and 
+control. There is no doubt that automated systems are becoming more 
+complex and sophisticated.
+1.17. There is much public and academic debate around the definitions 
+of automated and autonomous when applied to weapons systems. Lethal 
+autonomous weapons systems are the subject of discussion at the United 
+Nations (UN) under the Convention on Certain Conventional Weapons; 
+however, there is no international agreement over the definitions or 
+characteristics of these systems.
+1.18. Fully autonomous weapons systems – systems with no human 
+involvement at all – currently do not exist. Due to the inherent unpredictability 
+of a fully automated system’s decision-making, it is unlikely that rational 
+commanders and politicians will want to employ such systems as this 
+unpredictability could impede and limit their decision-making across the levels 
+of operations. The growing recognition that narratives and information are of 
+increasing importance further underlines this reluctance to hand control of 
+lethal force to fully autonomous systems – no matter how sophisticated they 
+may become. 
+1.19. All UK uncrewed aircraft and associated systems are automated 
+to varying degrees, but none of them are fully autonomous. The UK does 
+not possess armed autonomous aircraft systems, and has no intention of 
+developing them. The UK government’s policy is clear that the operation of 
+UK weapons will always be under human control as an absolute guarantee 
+of human oversight, authority and accountability. Whilst weapon systems 
+may operate in automatic modes, there is always a person involved in setting 
+appropriate parameters.
+12
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+
+Legal, moral and ethical aspects of uncrewed aircraft 
+operations
+1.20. Arguments against using uncrewed aircraft are centred on concerns 
+that they will be misused or used illegally. Such concerns are not unique to 
+uncrewed air systems. All such systems are subject to the same requirement 
+for legal review12 before their entry into service and any use of armed force by 
+such systems will always be consistent with the applicable law; for example, 
+the law of armed conflict that applies in the context of an armed conflict. All 
+missions, including attack, are conducted under exactly the same rules of 
+engagement and legal authority as crewed missions.
+1.21. There are frequently voiced concerns about using military uncrewed 
+aircraft for attack missions, specifically focusing on the morality and ethics of 
+a human not being present in the platform that is creating a destructive and 
+potentially lethal effect. These concerns are that the range and relative safety 
+of the remote operators will in some way reduce their awareness, empathy, 
+humanity and observance of legal and political constraints. However, it has 
+been noted that removing the physical and mental challenges of crewed flight, 
+particularly the high workload associated with single-seat aircraft, increases 
+the operator’s capacity to make informed decisions. Operators have access to 
+12 I n accordance with Article 36 of Additional Protocol I to the Geneva Conventions.
+13
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+SkyGuardian (MQ-9B), due to enter RAF service in 2024 as the Protector RG Mk1,  
+during a visit to its future operating base at RAF Waddington
+
+legal and political advisers during armed missions to ensure that their activities 
+comply with the law of armed conflict, published rules of engagement and with 
+policy and political intent. 
+1.22. Uncrewed aircraft increase the utility of air power. This is because they 
+expand the range of options available for action due to the reduced risk to 
+personnel compared to the personnel survivability concerns when employing a 
+crewed aircraft in a high threat environment.
+Section 3 – Influence and power from 
+the air
+1.23. Political, military and economic credibility, together with a coherent 
+diplomatic agenda, play a large part in the UK’s ability to influence.13 Power is 
+the capacity to influence the behaviour of people or the course of events and it 
+underpins the ability to influence. The UK applies power across the instruments 
+of national power to achieve policy goals by using smart power, which is a 
+blend of ‘hard’ and ‘soft’ power. These are described below. 
+a. Hard power. Hard power employs military capability and economic 
+strength to achieve the desired behaviours of states, groups or 
+individuals, or to directly change the course of events. Those using hard 
+power seek to coerce opponents to adopt a course of action that they 
+would not otherwise choose themselves. The military and economic 
+instruments are important sources of hard power and deterrence, 
+supported by the diplomatic and information instruments. The difference 
+between deterrence and coercion is important. Both are aspects of 
+hard power but deterrence aims to dissuade a course of action whilst 
+coercion aims to encourage a course of action. An air power contribution 
+to hard power activity could be the delivery of a precision-g uided 
+weapon by a combat aircraft employed in the attack role.
+13 J DP 04, Understanding and Decision-making .
+The key to understanding air power is recognising its ability to influence 
+a wide variety of audiences, through both hard and soft power.
+“
+14
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+
+b. Soft power. Soft power is the ability to persuade or encourage 
+others to adopt an alternative approach primarily through cultural and 
+ideological means or by encouraging emulation. Soft power is generally 
+slower and more difficult to employ in a targeted way. Much soft power 
+lies outside a democratic government’s control, presenting a challenge 
+to its generation. Therefore, applying soft power demands: investment 
+over time; clear, consistent communication strategies and measures 
+of effectiveness; and a developed understanding of the intended 
+audience and their societal codes, beliefs and cultures. Diplomatic and 
+informational capabilities underpin the effectiveness of soft power. Soft 
+power is important to the UK. The UK’s soft power, the size and depth 
+of its global connections and the trust we enjoy, has a direct impact 
+on our prosperity and security. The military is generally considered the 
+quintessential instrument of hard power, but it has important soft power 
+uses, for instance, air power can contribute to soft power activities 
+through, among other things, delivering training to another nation as 
+part of Defence engagement or participating in multinational exercises.
+1.24. A variety of military options can be used to influence the behaviour 
+of audiences and the course of events, and although air power can be used 
+independently, it primarily seeks to create effects and exert an influence in other 
+operational domains. It is therefore inherently integrated and manoeuvrist14 
+across all levels of operations, and the desired effects must be synchronised 
+across the operational domains, not just within the air domain. Similarly, 
+operations in the maritime, land, space, and cyber and electromagnetic 
+domains all have the ability to influence events in the air domain.
+Political aspects
+1.25. Air power offers policymakers an agile, timely and focused capability 
+that can be highly effective in resolving or averting a developing crisis. It 
+can also potentially negate the requirement to deploy a larger force over a 
+broader timescale by land or sea. By minimising or removing the requirement 
+for land forces, air power can make it easier to commit militarily in politically 
+challenging circumstances. Its speed, mobility and precision combine to make 
+it an attractive element of the military instrument of national power. Speed is a 
+particularly attractive feature because it enables air power to rapidly accomplish 
+political and military objectives, for example, by striking at an adversary’s 
+vulnerabilities or by delivering humanitarian aid in support of an ally.
+14 T he three tenets of UK military doctrine are: integrated action, the manoeuvrist 
+approach and mission command. JDP 0-01, UK Defence Doctrine , 6th Edition.
+15
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+
+Air support to humanitarian relief activity – Operation 
+Ruman
+Operation Ruman was the UK’s military contribution to the international 
+relief effort in the Caribbean Islands, which were left devastated by 
+Hurricane Irma in 2017 . RAF Voyager, C-17 and A-400M aircraft departed 
+the UK within hours of the incident to provide immediate relief to people 
+who had seen their homes destroyed. They carried over 300 UK military 
+personnel, including 200 Royal Marines, engineers and specialist 
+personnel from all three Services. Urgently needed medical supplies, 
+emergency shelter kits, rations and clean water were also flown to the 
+area. Puma helicopters were transported to the region to allow hub and 
+spoke operations to be conducted from the UK joint task force base in 
+Barbados. In addition, embarked in Royal Fleet Auxiliary Mounts Bay was a 
+Royal Navy Wildcat helicopter, which was used to conduct reconnaissance 
+flights of the area and more air power arrived within days, including RAF 
+Chinooks, on board HMS Ocean. As well as satisfying the humane and 
+moral requirement to help those in need, Operation Ruman signalled the 
+UK’s support for the region through a rapid response that was largely 
+enabled by air power.
+16
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+
+1.26. Air power’s agility means the scale and scope of operations can be 
+rapidly escalated or de-escalated in response to a change in political guidance 
+or political strategic objectives, from delivering humanitarian aid at one end of 
+the spectrum to full-scale warfighting at the other.15 It can also be an effective 
+means of achieving objectives by avoiding the military and political liabilities 
+that can arise from an extended land-based presence in a foreign country. 
+Consequently, since the end of the Cold War, air power has played a major 
+role in state responses to conflict.
+Legal aspects
+1.27 . Each nation state has sovereignty over the airspace above their territory.16 
+Therefore, although the attributes of air power provide it with the theoretical 
+ability to reach any point on Earth, the permission of sovereign territories is 
+required to operate within their airspace. Exceptions to this requirement do 
+exist, for example, if measures involving armed force are permitted by a UN 
+Security Council resolution or when acting in self-defence in accordance with 
+Article 51 of the UN Charter. The UK will always operate in accordance with its 
+legal obligations, including the law of armed conflict when applicable.17
+1.28. All UK military aircraft are operated in accordance with domestic and 
+international law. As detailed above, uncrewed aircraft system missions will be 
+planned and conducted in accordance with the same rules of engagement 
+and other legal requirements as applies to crewed aircraft. 
+Economic aspects
+1.29. Freedom of navigation in the air environment enables international trade 
+and helps to secure international safety. As our national security depends on 
+our economic security, the ability to influence and shape what happens in the 
+air environment is of fundamental importance to not only our national security 
+but also our continued prosperity. As an island nation, the UK relies on its air 
+lines of communication for this prosperity, just as it does its sea and land lines 
+of communication. The air environment must therefore be secured to allow 
+the freedom of movement, which bolsters the economy and supports the 
+prosperity of the nation.
+15 T he mere deployment of combat aircraft to a location in close proximity to a potential 
+adversary can achieve influence, such as deterrence.
+16 A s recognised under Article 1 of the Convention on International Civil Aviation (Chicago 
+Convention) 1944.
+17 Se e Joint Service Publication 383, Joint Service Manual of the Law of Armed Conflict 
+and the Attorney General’s speech at the International Institute for Strategic Studies,  
+11 January 2017.
+17
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+
+1.30. Although this publication focuses on the military elements of air power, 
+there are aspects of broader UK air power that bolster the UK economy, 
+and ultimately reinforce national security. These include, for example: UK 
+international airports, airlines and freight carriers; the ability to control and 
+support international air traffic through the existence of the Civil Aviation 
+Authority and civilian air traffic control; and the domestic aircraft industry.
+Section 4 – Air power in context
+The strategic context
+1.31. The strategic context within which UK air power is employed is 
+unstable, complex and uncertain. It is characterised by a continuum of 
+competition between an increasingly wide range of actors, both state and 
+non-s tate, which has blurred the traditional distinctions between war and 
+peace.
+18
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+A Reaper (MQ-9A) prepares for take off
+
+1.32. It is within this uncertain, changeable global socio-economic context 
+that air power offers flexible, timely, scalable and responsive options to the 
+UK government in support of national security objectives. It contributes to a 
+wide variety of tasks, ranging from high-end warfighting, through to deterrence 
+and Defence engagement. Within these tasks sit a broad range of activities, 
+including counterterrorism, delivering humanitarian assistance and providing 
+military aid to the civil authorities. 
+1.33. The increasing proliferation of commercially available technology has 
+the potential to increase the capability and effectiveness of our adversaries. 
+Secure communications, surveillance systems and uncrewed aircraft are now 
+more affordable and can be easily acquired and adapted to perform a variety 
+of functions, including kinetic attacks.
+1.34. Surface-to-air missile technology has advanced rapidly and the 
+proliferation of such systems is spreading, particularly those developed in 
+Russia and China. Some have significant lethal engagement ranges and can 
+travel at hypersonic speeds, and they are therefore able to threaten aircraft 
+and bases previously viewed as being beyond the range of adversaries. Such 
+capabilities offer potential adversaries the option to adopt anti-access and 
+area denial strategies, which could have a significant negative impact on the 
+ability of the UK and its allies and partners to gain control of the air. We must 
+continue to develop counters to such threats across all operational domains to 
+ensure control of the air and freedom of manoeuvre. 
+1.35. Being agile, adaptable and capable, UK air power has significant utility 
+as it can offer a tailored response to evolving circumstances and an array of 
+capabilities that can rapidly transition between tasks. To fulfil these tasks, UK 
+air capabilities are held at the appropriate readiness to be applied at the right 
+time and place, both at home and overseas.
+1.36. Air power is truly global in nature because it theoretically enables 
+access to any point on Earth, be it over land or sea. Air power thus has 
+strategic agility as it can hold multiple regions, theatres and operations at risk 
+from a single location because of its reach and speed. To maximise the utility 
+of air power, the key aspects of the air domain, the surrounding context and 
+the contemporary operating environment must all be clearly understood.
+19
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+
+Global alliances and partnerships
+1.37. The globalised nature of international security encourages the UK 
+to form alliances and partnerships, which help ensure security and protect 
+national interests. Such relationships are increasingly important because the 
+complex nature of potential threats often requires a multifaceted response. 
+Interoperability between air forces also enhances alliances and coalitions 
+by generating greater combat mass, resilience and access to an array of 
+capabilities. For the UK, NATO is our principal alliance.
+Defence engagement
+1.38. The UK’s dependence on multinational cooperation means it must take 
+every opportunity to promote interoperability and engage with a broad range 
+of potential partners, regardless of their level of technological sophistication or 
+capability. As part of an integrated, cross-government approach to Defence 
+engagement,18 both the RAF and the air arms of the other single Services 
+regularly conduct multinational training and exercises, and participate in 
+overseas exchange and Defence attaché programmes. 
+18 S ee Joint Doctrine Note 1/15, Defence Engagement  for more detail.
+20
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+The Red Arrows fly over the Golden Gate Bridge, San Francisco, during their  
+North American Tour 2019
+
+1.39. Defence engagement also contributes to the prosperity agenda through 
+support to sales campaigns. Examples of this are the overseas tours by the 
+RAF Aerobatic Team, the Red Arrows, which have generated significant inward 
+investment to the UK,19 and the creation of the joint RAF/Qatar Emiri Air Force 
+Typhoon and Hawk squadrons.
+UK Security, Defence, Development and Foreign Policy 
+Strategic Framework
+1.40. The Defence contribution to the four overarching objectives of the 
+Strategic Framework is set out in the 2021 Global Britain in a competitive age: 
+Integrated Review of Security, Defence, Development and Foreign Policy. Air 
+power supports these objectives as follows.
+a. Strengthening security and defence at home and overseas.  The 
+core purpose of air power activity is providing military capability in 
+the air domain to deter and, if required, defeat threats to the UK and 
+Overseas Territories. The most visible and persistent example of this 
+is the RAF combat aircraft, air-to-air refuelling aircraft and control and 
+reporting centres, which provide the permanently available airborne 
+quick reaction alert capability.20
+b. Building resilience at home and overseas. The attributes of 
+air power make it a valuable tool for supporting resilience activities, 
+be that rapidly delivering humanitarian aid to the Caribbean in 2017 
+following a hurricane, supporting activity to prevent the Whaley Bridge 
+dam collapsing during flooding in the UK in 2019 or rapidly delivering 
+vaccines and moving patients by air during the response to the 
+COVID-19 pandemic in 2020–21.
+c. Shaping the open international order of the future. UK air power 
+acts in support of this objective by demonstrating adherence to the 
+laws, rules and conventions that underpin the rules-based international 
+order whilst conducting all activities, and encouraging allies and 
+partners and other air arms with whom we operate to act in a similar 
+fashion. Other activities such as mentoring and building the capacity of 
+friendly or non-aligned nations also assists.
+19 T he Red Arrows 2017 tour of the Asia Pacific and Middle East regions generated inward 
+investment of approximately £4.2 billion.
+20 A ir power activity such as the quick reaction alert can provide a highly effective means 
+of messaging within information operations activity that forms a part of deterrence.
+21
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+
+d. Sustaining strategic advantage through science and 
+technology. Air power has always been at the cutting edge of 
+technology and the UK’s continued investment and involvement in the 
+plethora of technological developments linked to air power continues to 
+support this objective. The work being done by Team Tempest, linking 
+national and commercial scientific and technological development 
+with operational requirements, to develop the RAF’s sixth generation 
+combat aircraft is a prime example of this.
+22
+JDP 0-30 (3rd Edition) 
+1
+An introduction to air power
+
+ 
+Key points
+• Air power is defined as: the ability to use air capabilities in and from the air, 
+to influence the behaviour of actors and the course of events.
+• UK air power is persistently active, domestically and globally, protecting UK 
+national interests at home and overseas.
+• Although air power can be used independently of the other operational 
+domains, it seeks to create effects and exert influence within them.
+• Conversely, maritime, land, space and cyber forces all have the ability to 
+influence events in the air environment.
+• Being agile, adaptable and capable, UK air power has significant utility 
+because it possesses an array of capabilities that can offer a tailored 
+response to evolving circumstances.
+• Air power is truly global in nature because it theoretically enables access to 
+any point on Earth, be it over land or sea.
+• Air power offers policymakers an agile, timely and focused capability that 
+can be highly effective in resolving or averting a developing crisis.
+23
+JDP 0-30 (3rd Edition)
+1
+An introduction to air power
+
+[Page 34: No extractable text]
+
+25
+JDP 0-30 (3rd Edition)
+Chapter 2
+This chapter discusses the roles of air power. It also 
+introduces air command and control as a critical enabler and 
+electromagnetic warfare as a key enabler.
+Section 1 – Control of the air  . . . . . . . . . . . . .  28
+Section 2 – Attack . . . . . . . . . . . . . . . . . . .  32
+Section 3 – Intelligence, surveillance and  
+                   reconnaissance. . . . . . . . . . . . . .  35
+Section 4 – Air mobility  . . . . . . . . . . . . . . . .  39
+Section 5 – Key enablers  . . . . . . . . . . . . . . .  42
+
+For good or for ill, air mastery is 
+today the supreme expression of 
+military power and fleets and armies, 
+however vital and important, must 
+accept a subordinate rank.
+ 
+ 
+Sir Winston Churchill”
+“
+26
+JDP 0-30 (3rd Edition) 
+2
+The roles of air power
+
+Chapter 2
+The roles of air power
+2.1. There are four fundamental roles of air power: control of the air; attack; 
+intelligence, surveillance and reconnaissance (ISR); and air mobility. These four 
+roles are shown in Figure 2.1. When conducted in isolation, combined or, more 
+usually, as part of multi-domain operations within an integrated approach, 
+these roles contribute to persistent influence and deterrence activities as well 
+as to the direct task assigned.
+Figure 2.1 – The roles of air power
+Control
+of the air
+Attack
+Intelligence, surveillance
+and reconnaissance
+Air mobility
+Air power roles
+27
+JDP 0-30 (3rd Edition)
+2
+The roles of air power
+
+Section 1 – Control of the air
+2.2. Control of the air underpins all air operations because it secures freedom 
+of action in the air domain, while limiting or denying its use by an adversary. It 
+is this role that protects the UK, Overseas Territories and deployed forces from 
+attack. It also enables freedom of manoeuvre across the maritime and land 
+domains and safeguards space and cyber fixed infrastructure, enabling forces 
+to dominate the engagement space21 and seize the initiative. The breakdown of 
+control of the air is depicted in Figure 2.2.
+Figure 2.2 – Breakdown of the control of the air role
+Offensive counter-air missions
+Surface attack Active air and
+missile defence
+Detection
+Identiﬁcation
+and assessment
+Interception
+and engagement
+Passive air and
+missile defence
+Detection and warning
+Camouﬂage, concealment
+and deception
+Chemical, biological,
+radiological and nuclear
+Hardening, dispersal
+and recuperation
+Redundancy
+Mobility
+Fighter sweep/escort
+Suppression of enemy air defences
+High-value airborne asset attack
+Air and missile defence
+(defensive counter-air missions)
+Control
+of the air
+28
+JDP 0-30 (3rd Edition) 
+2
+The roles of air power
+2.3. Control of the air is a relative condition and depends on available 
+resources, an adversary’s capability and will, and the risk that a commander 
+21 The North Atlantic Treaty Organization (NATO) has agreed that engagement space and 
+battlespace are synonyms. The UK uses engagement space as it better describes the 
+contemporary operating environment.
+
+is prepared to accept. Maritime and land operations can be conducted without 
+achieving control of the air in advance, but the associated risks could be 
+significant. There are three degrees of control of the air.22
+a. Air parity. Air parity exists where no force enjoys decisive control of 
+the air in either time or space. Consequently, both friendly and adversary 
+land, maritime and air forces may encounter significant interference by the 
+opposing force. Parity is not a ‘stand-off’, nor does it mean that air operations 
+have halted. On the contrary, parity may be typified by high-i ntensity air 
+operations with maximum effort exerted between belligerents to achieve 
+some level of favourable control. This condition is a major resource drain and 
+losses due to an adversary’s air power can be anticipated.
+b. Air superiority. Air superiority is that degree of dominance in the air battle 
+of one force over another, which permits the conduct of operations by the 
+former, and its related maritime, land and air forces, at a given time and place, 
+without prohibitive interference by the opposing force.
+c. Air supremacy. Air supremacy is the degree of air superiority where the 
+opposing air force is incapable of effective interference. It is important to note 
+that even air supremacy cannot guarantee that an adversary will not inflict 
+some damage or losses, particularly given the extensive proliferation of small 
+arms weapons and man-portable air defence systems. This is normally the 
+highest level of control of the air that a joint force can achieve.
+2.4. Control of the air is not a permanent state and constant activity is required to 
+achieve it. To gain and maintain the required degree of control of the air, counter-a ir 
+operations are conducted to disrupt, degrade, deny or destroy an adversary’s 
+ability to challenge such control. Counter-air operations comprise two key missions: 
+offensive counter-air (OCA) and defensive counter-a ir (DCA) missions.
+a. Offensive counter-air missions. OCA missions target enemy air 
+capabilities as close to their source as possible. They are generally 
+proactive in nature and seek to dominate an adversary’s airspace to prevent 
+them launching threats against our forces by affecting them on the ground, 
+along with their supporting systems. Although primarily conducted by 
+aircraft, they can also be conducted by naval surface or sub-surface fire, 
+land artillery or special forces direct action targeted against adversary air 
+capabilities.23
+22 A llied Joint Publication (AJP)-3.3.1, Allied Joint Doctrine for Counter-Air Operations .
+23 S ee Air Publication (AP) 3002, Air and Space Warfare, Edition 4, Chapter 5 for more detail 
+on individual OCA missions.
+29
+JDP 0-30 (3rd Edition)
+2
+The roles of air power
+
+b. Defensive counter-air missions. DCA missions, otherwise known 
+as air and missile defence operations, are generally reactive in nature 
+and seek to nullify or reduce the effectiveness of enemy air and missile 
+threats through active or passive measures. Active measures include 
+methods of detection, interception and engagement. These measures 
+are usually achieved via a system of layered defence-in-depth using 
+reactive air-t o-a ir fighters, surface-to-air missile (SAM) systems and 
+additional aircraft placed on ground or airborne alert. 24 Such a system is 
+termed an integrated air and missile defence system. Passive measures 
+for the defence and protection of friendly forces include: early warning; 
+camouflage, concealment and deception; hardening; recuperation; 
+redundancy; dispersal; mobility; and the use of chemical, biological, 
+radiological and nuclear (CBRN) protective equipment and facilities.25 
+2.5. Challenges to control of the air. Western air power has dominated 
+conflicts in which it has been involved over the past 40 years, ensuring a 
+high degree of control of the air and thereby helping to lower the risk to 
+operations in other operational domains. However, to achieve a similar 
+degree of control of the air in future will require focused, tailored, aggressive 
+24 S ee AJP-3.3.1, Allied Joint Doctrine for Counter-Air Operations , for more details.
+25 S ee AP3002, Air and Space Warfare, Edition 4, Chapter 5, for more detail on individual 
+DCA missions and Allied Tactical Publication-3.3.6, Force Protection for Air Operations and 
+AP3241, RAF Force Protection for Air Operations for the links between passive DCA and 
+passive force protection measures.
+30
+JDP 0-30 (3rd Edition) 
+2
+The roles of air power
+Somewhere off the UK, a Typhoon FGR4 intercepts and escorts a  
+Russian Tupolev TU-95 Bear
+
+and innovative counter-a ir campaigns. This is due to the threats posed by 
+increasingly sophisticated anti-a ccess and area denial (A2AD) capabilities, 
+including electromagnetic warfare, cyber operations, SAM systems, and ballistic, 
+hypersonic and counter-carrier missiles. Such capabilities are designed to 
+prevent deployment to a theatre of operations or deny air operations in theatre. 
+The emerging threat from hostile uncrewed aircraft also challenges control 
+of lower airspace, threatening land and maritime forces. We must therefore 
+continue to develop counter-A2AD and uncrewed aircraft system technologies 
+to ensure freedom of action in a contested, degraded and operationally limited 
+domain. The challenge to control of the air may also be increasingly contested 
+in the home environment. It is likely that this will initially be through cyber 
+and electromagnetic asymmetric actions, but peer adversaries do have the 
+capability to challenge our domestic control of the air with capabilities across all 
+operational domains.
+31
+JDP 0-30 (3rd Edition)
+2
+The roles of air power
+Operation Granby versus Operation Corporate
+Operation Granby was the UK’s military contribution to the United States-l ed 
+coalition that freed Kuwait from Iraqi occupation in 1991. The Iraqi Army was 
+the fifth largest in the world and President Saddam Hussein intended to inflict 
+an unacceptable level of casualties on the coalition. However, the coalition 
+exploited their comparative advantage – air power – to avoid fighting on his 
+terms. Control of the air was quickly achieved, enabling coalition air forces to 
+switch the main effort to counter-land operations against Iraqi ground forces. 
+This was so successful that the Iraqi Army’s combat capability was vastly 
+reduced by the time the coalition launched the land offensive and helped 
+ensure a decisive victory with only a few coalition casualties.
+In comparison, it was difficult to secure control of the air with the limited 
+carrier-borne capabilities available for Operation Corporate, the UK’s 1982 
+campaign to retake the Falkland Islands. The continuing Argentinean air threat 
+meant that the carrier group had to remain east of the Islands after landing the 
+task force at San Carlos. The range to the combat zone also limited the time 
+that fighters could spend on task. With only partial air cover available, some 
+Argentinean aircraft penetrated the defensive screen provided by the Royal 
+Navy’s frigates and destroyers, inflicting significant losses on the task force. 
+Sufficient control of the air was attained to ensure that the campaign was 
+successful, but the margins were fine. The Falklands conflict highlights  
+the potential risks if a campaign is mounted without the assurance of control  
+of the air.
+
+32
+JDP 0-30 (3rd Edition) 
+2
+The roles of air power
+Section 2 – Attack
+2.6. The use of overwhelming force through an attack from the air lies at the 
+heart of the ability of air power to influence the behaviour of actors and the 
+course of events. Air attack can deter adversaries, disrupt their activities or 
+ultimately defeat them by destroying their resources and capabilities. UK air 
+power is equipped with a broad spectrum of precise weapon technologies, 
+both lethal and non-lethal, offering the ability to decisively shape the 
+engagement space, in any weather conditions, day or night. The attack role 
+consists of three mission types: strategic attack; counter-land operations; and 
+counter-maritime operations. Figure 2.3 illustrates this breakdown.
+ Figure 2.3 – The breakdown of the attack role
+Strategic attack Counter-land operations
+Attack
+Counter-maritime operations
+Air interdiction
+Close air support
+Anti-submarine warfare
+Surface warfare
+2.7. Strategic attack.  These operations are aimed at an adversary’s 
+fundamental ability to wage war by attacking their structures or organisations. 
+Targets may include centres of gravity, such as national leadership and 
+command elements, war production resources or critical national infrastructure 
+and resources. In this context, ‘strategic’ describes the effect, not the location 
+or distance to the target, or type of weapon system or delivery platform. 
+It can be at its most effective when a wide array of targets are attacked 
+simultaneously, causing maximum shock effect and placing significant stress 
+on an adversary’s processes, thereby limiting their ability to adapt and react. 
+
+Because of its independence of surface limitations and its superior 
+speed the airplane is the offensive weapon par excellence.
+Giulio Douhet
+“
+33
+JDP 0-30 (3rd Edition)
+2
+The roles of air power
+2.8. Counter-land operations. These operations are conducted to defeat 
+an adversary’s fielded forces, destroy their supporting infrastructure or create 
+psychological effects to shatter their cohesion or will to fight. Counter-land 
+operations are also a force multiplier because they enhance the potency of 
+friendly land forces, allowing them to achieve their objectives while minimising 
+the risk of casualties. They consist of two broad mission types: air interdiction 
+and close air support (CAS).
+a. Air interdiction. Air interdiction is the activities conducted to disrupt, 
+degrade, deny or destroy an adversary’s capabilities before they can 
+be used against friendly forces. Air interdiction targets elements such 
+as enemy personnel, lines of communication, command and control 
+nodes, logistics and supporting systems at ranges beyond which an 
+adversary can engage friendly land forces. It can be conducted in 
+support of friendly land force operations but since it is normally carried 
+out at significant distance from their location, detailed integration is not 
+routinely required. However, when air interdiction is conducted between 
+the forward line of own troops (FLOT)26 and the fire support coordination 
+line (FSCL),27 in airspace controlled by the land commander and thus 
+requiring coordination between air and land forces, these missions are 
+categorised as battlefield air interdiction (BAI).28 There are two main 
+employment options for air interdiction, which are pre-planned and 
+immediate. The most efficient option is pre-planned because this allows 
+planning to take into account the multitude of variables that will affect 
+the probability of target destruction. Immediate air interdiction, attacking 
+mobile or short-notice targets, may appear to offer a more flexible 
+response, but the trade-off may be a reduction in the planning and 
+26 T he forward line of own troops is defined as: a line which indicates the most forward 
+positions of friendly forces in any kind of military operation at a specific time.  NATOTerm.
+27 T he fire support coordination line is defined as: within an assigned area of operations, 
+a line established by a land or amphibious force commander to denote coordination 
+requirements for fires by other force elements which may affect the commander’s current 
+and planned operations. NATOTerm. (See lexicon for full definition.)
+28 I ncreases in the range of land rocket artillery systems means that battlefield air 
+interdiction is likely to be more prevalent in the future as the distance between the FLOT 
+and the FSCL is expected to increase.
+
+34
+JDP 0-30 (3rd Edition) 
+2
+The roles of air power
+coordination time, which in turn can reduce the probability of success. 
+The increasing sophistication and utility of data link communication 
+between ground units and aircraft does mitigate the impact of reduced 
+formal planning and coordination time. Where the exact location of the 
+enemy is unknown, kill box interdiction (KBI), strike coordination and 
+reconnaissance (SCAR) and armed reconnaissance may be tasked to 
+attack targets of opportunity.29
+b. Close air support. CAS is the action taken to disrupt, degrade, deny 
+or destroy enemy activity or capabilities that are in close proximity to 
+friendly land forces. It complements land force ground attack capabilities 
+with significant firepower to coerce adversary forces. Consequently, 
+intensive air-land integration and coordination is critical to accurately 
+identify targets and minimise the risk of fratricide. CAS can be crucial to 
+the success or survival of land forces, as has been proven during recent 
+operations in Iraq and Afghanistan.
+2.9. Counter-maritime operations. Air power can be used to conduct 
+direct action in the maritime domain or to enable and enhance surface and 
+sub-surface capabilities. Counter-maritime operations are the employment 
+of air attack in the maritime domain and consist of two mission types: 
+anti-s ubmarine warfare and surface warfare. 30
+a. Anti-submarine warfare. These are operations which search for, 
+locate, track and attack submarines and their support assets. Sensors 
+can be used to detect submarines, including radar, electro-optical 
+sensors, magnetic anomaly detection devices, and active or passive 
+acoustic sensors.
+b. Surface warfare. These are operations which detect and engage 
+adversary maritime surface forces. The type of support provided by 
+aircraft depends on operational requirements and on their capabilities, 
+but it can include detection, location, identification, tracking and, 
+ultimately, attack. 
+29 F or more detail see AP3002, Air and Space Warfare, Edition 4, Chapter 6.
+30 I n maritime doctrine anti-submarine warfare and surface warfare are sub-sets of 
+underwater warfare and above-water warfare respectively; but for the purposes of 
+air attack doctrine they are considered in isolation. The term surface warfare is being 
+incorporated into Royal Navy doctrine, it is also used by the United States Navy, and is 
+increasingly being adopted across NATO; however, officially, NATO still uses anti-surface 
+warfare.
+
+35
+JDP 0-30 (3rd Edition)
+2
+The roles of air power
+2.10. Challenges to attack.  The success of an air attack is largely dependent 
+on the ability of aircraft or weapons to penetrate or counter adversary air 
+defences, and these have become increasingly capable. There are also 
+practical limits to the number of weapons that aircraft can carry. However, 
+this challenge has been mitigated by the development of precision-guided 
+weapons and electronic attack technology, which has led to the same or 
+even greater effect being created with a fewer weapons. Poor weather can 
+also hinder attack operations but the development of a wide range of weapon 
+guidance options, such as laser, Global Positioning System (GPS) or radar 
+guidance, have mitigated this challenge and provide significant operational and 
+tactical flexibility. Air attacks can therefore be conducted by day or night and 
+in adverse weather conditions, which can provide a distinct advantage if an 
+adversary lacks such capabilities.
+Section 3 – Intelligence, surveillance 
+and reconnaissance
+2.11. The use of aircraft changed how the battlespace, as it was then termed, 
+was viewed, as they provided an alternative perspective to that offered by 
+maritime or land platforms. The ISR role, illustrated in Figure 2.4, develops 
+situational awareness and enhances understanding, thereby helping shape the 
+conduct of operations. 
+Poseidon MRA1 maritime patrol aircraft launches a Mk 54 torpedo
+
+36
+JDP 0-30 (3rd Edition) 
+2
+The roles of air power
+Figure 2.4 – The breakdown of the intelligence, surveillance and 
+reconnaissance role
+2.12. The synchronisation of information collected from aircraft and the 
+subsequent processing, exploitation and dissemination (PED) identifies trends, 
+linkages and threats. It supports decision-making by enabling the identification 
+of an adversary’s dependencies, vulnerabilities and strengths. ISR consists of 
+three linked ‘inform’ functions.
+a. Intelligence.  Aircraft do not directly deliver intelligence but 
+provide timely, accurate and relevant information that is processed 
+and disseminated, and potentially combined with other sources of 
+information to provide intelligence. Intelligence informs political and 
+military decision-making processes and makes a major contribution to 
+the assessment of when and how specific objectives might be achieved 
+or an end state attained.
+b. Surveillance. Surveillance is the continuing and systematic 
+observation of a wide area of interest. The area of interest can be in any 
+Intelligence, surveillance
+and reconnaissance
+Intelligence Surveillance Reconnaissance
+Traditional
+Non-traditional
+Tasking
+Collection
+Processing
+Exploitation
+Visual
+Aural
+Electronic
+Photographic
+Dissemination
+
+“
+37
+JDP 0-30 (3rd Edition)
+2
+The roles of air power
+one of the air, surface or sub-surface environments, observed by visual, 
+aural, electronic, photographic or other means. It is not orientated 
+towards a specific target but designed to provide warning of broad 
+adversarial initiatives and to detect potential threats.
+c. Reconnaissance. Reconnaissance complements surveillance 
+by observing a specific area of interest to gain specific information 
+about specific activities. Intelligence that is critical to the prosecution 
+of current operations is often derived from reconnaissance operations, 
+so it should be evaluated and transmitted with minimum delay to those 
+elements that need the information.
+Find the enemy. Don’t let the enemy find you. Reconnaissance! 
+Reconnaissance! Reconnaissance!
+Tom Clancy
+2.13. Speed and wide area surveillance capabilities make aircraft among the 
+most responsive of ISR platforms and their reach gives them the ability to fly long 
+distances and cover vast areas, collecting information from a variety of sensors. 
+Radar, acoustic, imagery and signals intelligence sensors have varying but 
+complementary operating characteristics, offering a spread of options. Crews 
+are trained to recognise and respond to changing conditions by modifying 
+missions whilst they are in progress, and share information gained from onboard 
+systems through voice or data links.31 Uncrewed aircraft, whilst not, currently, 
+being as fast as crewed aircraft, do tend to have greater endurance and can 
+provide significant persistence when compared with crewed aircraft.
+2.14. The effectiveness of individual ISR capabilities can be increased by 
+networking them into a system. For example, a surveillance sensor on a given 
+ISR aircraft can observe a wide area before cueing higher resolution sensors 
+with a narrower field of view to conduct reconnaissance on a specific point of 
+interest. Secure network systems also enable multiple platforms to benefit from 
+the ISR capabilities generated and shared by a single aircraft.
+2.15. Historically, large ISR aircraft provided the majority of air-enabled 
+ISR but this role is no longer limited to those aircraft or sensors that were 
+31 Short-notice modification of missions can be enhanced by near real time processing, 
+exploitation and dissemination support.
+
+38
+JDP 0-30 (3rd Edition) 
+2
+The roles of air power
+specifically designed for this role. The increasing sophistication of airborne 
+sensors has resulted in many aircraft being able to conduct ISR, even if it is 
+not their primary mission. Combat aircraft and helicopters provide significant 
+input to the ISR enterprise. However, unlike large, multi-crew ISR aircraft, 
+non-d edicated ISR aircraft do not always have an associated analytical 
+capability, or the means to effectively disseminate information.
+2.16. Challenges to intelligence, surveillance and reconnaissance. The 
+main challenges to air ISR centre on data volume, impermanence and threat. 
+These challenges are explored below.
+a. Data volume.  There are significant PED demands associated 
+with collecting large volumes of data by a number of multi-spectral 
+sensors. This presents the challenge of providing decision-makers with 
+fused intelligence that they can act on, rather than proliferating data 
+from a multitude of systems that may swamp decision-makers with 
+unactionable information. Some ISR sensors can also be negatively 
+impacted by poor weather conditions and the use of camouflage 
+and concealment techniques. However, by using a broad spectrum 
+of sensors on a variety of aircraft, some of these challenges can be 
+overcome.
+b. Impermanence.  The impermanence of air power has historically 
+and justifiably been recognised as a limitation of air power and it is 
+one that particularly affects the ISR role. However, although aircraft 
+are not able to remain airborne indefinitely, despite the benefits of 
+air-to-a ir refuelling, the increased loiter time of uncrewed aircraft has 
+brought significant benefits as points of interest can, potentially, be 
+persistently monitored. The Ministry of Defence is expanding airborne 
+ISR capabilities by harnessing emerging technologies to overcome the 
+challenge of impermanence, as demonstrated by the acquisition of 
+high-altitude pseudo satellites, such as Zephyr, and further mitigating 
+the impermanence of aircraft by enhancing the space-based ISR suite. 32
+c. Threat. Traditional airborne ISR is increasingly threatened by 
+long-ra nge SAMs, air-to-air missiles and targeted jamming. These 
+threats force ISR aircraft to operate further away from their areas of 
+interest, thus reducing their effectiveness.
+32 M ore detail on space-based ISR is contained in Joint Doctrine Publication (JDP) 0-40, 
+UK Space Power.
+
+39
+JDP 0-30 (3rd Edition)
+2
+The roles of air power
+Section 4 – Air mobility
+2.17. Air mobility provides the ability to deploy, sustain and recover personnel 
+and equipment, often over significant distance. The speed and reach of air 
+power offers the ability to create rapid strategic influence in support of UK 
+national objectives or in support of allies, such as through the insertion of 
+special forces or delivering humanitarian aid due to a natural disaster. At the 
+operational and tactical levels, air mobility supports land operations by enabling 
+manoeuvre when movement on land is particularly difficult due to poor terrain, 
+poor roads or unacceptable threats to land forces. Air mobility consists of three 
+mission types: air-to-air refuelling; airlift; and personnel recovery. These are 
+illustrated in Figure 2.5.
+Figure 2.5 – The breakdown of the air mobility role
+Air-to-air refuelling Airlift Personnel recovery
+Search and rescue operations
+Combat recovery
+Hub and spoke
+Airborne operations
+Aeromedical evacuation
+Special forces air operations
+Air mobility
+2.18. Air-to-air refuelling.  Air-to-air refuelling significantly increases the reach, 
+endurance and flexibility of air power and is therefore a crucial capability. It 
+enhances strategic and operational mobility by helping to mitigate access 
+issues caused by a lack of basing options, overflight limitations or A2AD 
+threats that may otherwise constrain air operations. It also improves the 
+
+40
+JDP 0-30 (3rd Edition) 
+2
+The roles of air power
+persistence, availability and responsiveness of tactical air operations by 
+maximising the endurance of combat aircraft.33
+2.19. Airlift. Airlift is the ability to transport personnel and materiel through the 
+air; they can be either inter- or intra-theatre and are subdivided into: hub and 
+spoke operations; airborne operations; aeromedical evacuation; and special 
+forces air operations.
+a. Hub and spoke operations. Hub and spoke operations consist of 
+inter- and intra-theatre airlift and are the cornerstone of airlift operations 
+to operational theatres, delivering personnel and/or equipment as 
+required. Inter-theatre airlift provides the air bridge that links the UK to 
+airfields in, or near, theatres of operations, known as hubs. It is provided 
+by air transport aircraft operating in the strategic role, supplemented 
+by chartered civilian airlift. The hub is the focal point for subsequent 
+intra-theatre airlift to spoke airfields located throughout the theatre 
+of operations. Intra-theatre airlift is normally fulfilled by fixed-w ing air 
+transport aircraft operating in the tactical role or support helicopters, 
+both of which are capable of operating under a wide range of 
+conditions, including small, remote field operations. It should be noted 
+that not all airlift tasks will require the use of hub and spoke operations; 
+routine national or global movement of cargo and passengers frequently 
+operate directly between military air bases and civil airports with no 
+requirement for the onward movement of payload by air. 
+b. Airborne operations. Airborne operations are the transportation of 
+land forces and their equipment directly to, or close to, their objective 
+and subsequently sustaining or extracting them, when required. This 
+can be done by either air-land or air-drop operations. Air-land delivery 
+is when an aircraft lands directly at its objective to unload, whereas 
+air-d rop is delivery from an aircraft in flight, using parachutes.
+33 B y increasing the flight time of combat aircraft, they can extend their combat air patrols 
+in support of a control of the air mission, remain airborne to attack more targets in an air 
+interdiction mission, provide longer support to land forces in a close air support mission, or 
+gather time-critical reconnaissance information in the ISR role.
+During World War 2 some dogs were trained to parachute alongside 
+British paratroopers. ‘Para Dogs’ went into action on D-Day, when 
+a dog, called ‘Bing’, landed in a tree where he remained until his handler 
+could rescue him the next morning!
+
+41
+JDP 0-30 (3rd Edition)
+2
+The roles of air power
+c. Aeromedical evacuation. Aeromedical evacuation is a specialist 
+form of airlift that transports injured or seriously ill personnel under 
+medical supervision. Forward aeromedical evacuation is moving 
+injured personnel from the battlefield to appropriate medical treatment 
+facilities. Tactical aeromedical evacuation is moving patients between 
+medical facilities in, or close to, theatre. Strategic aeromedical 
+evacuation operations involve repatriating ill or wounded personnel 
+from in-theatre medical facilities, primarily in specially equipped and 
+staffed aircraft.34
+d. Special forces air operations. Special forces air operations are air 
+operations conducted by specialist aircraft and personnel that enable 
+the insertion, sustainment and extraction of special forces. Although 
+all four air power roles could be used to support special forces 
+operations, having the ability to rapidly move specialist personnel in 
+support of high priority political objectives is a critical capability.
+2.20. Personnel recovery.  Personnel recovery operations frequently use 
+air mobility capabilities to rescue captured, isolated or missing personnel 
+during combat or peacetime operations. Personnel recovery is subdivided into 
+34 F or more detail on aeromedical evacuation operations, see AJP-4.10, Allied Joint 
+Medical Doctrine for Medical Support  (with UK national elements) and AP3002, Air and 
+Space Warfare, Edition 4, Chapter 8.
+Pathfinder personnel practise high altitude low opening insertion from a Globemaster C-17
+
+42
+JDP 0-30 (3rd Edition) 
+2
+The roles of air power
+peacetime recovery and combat recovery.35  Peacetime recovery operations 
+are undertaken to recover personnel where no threat is posed by hostile 
+interference, such as search and rescue operations or military assistance to 
+the civil authorities. A combat recovery operation is the extraction of isolated 
+personnel from a situation where hostile interference is expected; it is therefore 
+amongst the most time-sensitive of air operations.
+2.21. Challenges to air mobility. There are practical limits to the payload that 
+aircraft can carry, but this limitation needs to be offset against the advantages 
+offered by speed and reach. Maritime platforms can move significantly more 
+personnel and equipment in support of military operations but at significantly 
+slower speeds. Also, movement on the ground is relatively time consuming 
+and can be hindered by terrain or contested by a threat. Air mobility therefore 
+balances the challenge of a limited payload with the military advantages 
+offered by speed of action. Air mobility aircraft can also be more vulnerable 
+to air and ground launched threats due to their size, relatively slow speed and 
+limited manoeuvrability. However, by understanding the threats posed before 
+employing air mobility aircraft, and ensuring that the aircraft are equipped with 
+appropriate platform protection capabilities, actions can be taken to mitigate 
+the risk posed. 
+Section 5 – Key enablers
+2.22. Air command and control. The four fundamental roles of air power, 
+conceptually and doctrinally endorsed and operationally validated throughout 
+the history of British air power, and mirrored in the doctrine of the North 
+Atlantic Treaty Organization (NATO) and wider allies and partners, do not, 
+in themselves, fully describe why air power can be so effective. The four 
+fundamental roles explain what air power can deliver, but there has to be 
+something that enables the synergy, both across the roles and to integrate 
+air power with the other operational domains. This critical enabler, driven 
+by information, is command and control, which provides the where, when, 
+why, how, what and with what of air power. Without it, air activities would be 
+incoherent and ineffective. Command and control is not a role in its own right 
+but, as can be seen in Figure 2.6, it envelops all air activities and, in turn, is 
+cocooned by the sphere of information, whilst air activities are delivered by 
+the fundamental roles. The criticality of air command and control has only 
+35 F or more detail on personnel recovery operations, see AJP-3.7, Allied Joint Doctrine 
+for the Recovery of Personnel in a Hostile Environment , Allied Personnel Recovery 
+Publication-3.3.7 .5, The NATO Survival, Escape/Evasion, Resistance and Extraction 
+Training Standard and AP3002, Air and Space Warfare , Edition 4, Chapter 8.
+
+43
+JDP 0-30 (3rd Edition)
+2
+The roles of air power
+increased as air activities are now delivered within multi-domain operations as 
+part of integrated action. Air command and control is discussed in more detail 
+in Chapter 3.
+Figure 2.6 – The air power model
+Info rm atio n
+C om m and  and  control
+Control
+of the air
+AttackAir mobility
+Intelligence, surveillance
+and reconnaissance
+2.23. Electromagnetic warfare.  Access to the electromagnetic environment 
+(EME) is a key enabler across all the roles of air power. Electromagnetic 
+activities aim to assure freedom of action across the electromagnetic spectrum 
+whilst denying an adversary such freedoms. It includes: electronic defence to 
+assure freedom of action for friendly forces; electronic surveillance to enable us 
+to understand the threat systems, communication and navigation limitations, 
+or exploitable opportunities throughout the EME; and electronic attack, which 
+can increase the scope of available strike options, including that of non-kinetic 
+action. When considered in the context of the pervasiveness of information 
+and the political risk of collateral damage caused by kinetic weapons, 
+electronic attack may be more politically acceptable.
+
+44
+JDP 0-30 (3rd Edition) 
+2
+The roles of air power
+Chinook deploying self-protection infrared flares
+Summary of the roles of air power 
+2.24. Although the four roles of air power are treated as being distinct, 
+there is also overlap. Modern, multi-role aircraft afford a significant degree of 
+simultaneity, whereby a single aircraft can perform more than one role, even 
+during the same mission if necessary. For example, a Lightning II can conduct 
+ISR tasks whilst engaged in a counter-maritime attack mission. As technology 
+advances and multi-role aircraft continue to be developed, there is potential 
+for the overlap between roles to increase further. This is a key strength of air 
+power, as simultaneity bolsters its agility, flexibility and adaptability.
+I believe that the first and great principle of war is that you must first 
+win your air battle before you fight your land and sea battle. 
+Field Marshal Bernard Montgomery
+“
+
+ 
+Key points 
+• The four core roles of air power are: control of the air; attack; ISR; and air 
+mobility.
+• Control of the air underpins all air operations because it secures freedom 
+of action in the air domain, while limiting or denying its use by an 
+adversary.
+• The use of overwhelming force through an attack from the air lies at the 
+heart of the ability of air power to influence the behaviour of actors and 
+the course of events.
+• The speed of aircraft enables highly responsive ISR solutions; their reach 
+gives them the ability to fly long distances and cover vast areas, collecting 
+information from a variety of sensors.
+• Air mobility provides the ability to deploy, sustain and recover personnel 
+and equipment, often over significant distance.
+• Modern, multi-role aircraft afford a significant degree of simultaneity, 
+whereby a single aircraft can perform more than one role during the same 
+mission.
+• Command and control envelopes all four air power roles and it is critical 
+for the effective delivery of air power.
+• Access to the electromagnetic spectrum is a key enabler for all air 
+activity; it is required for effective communication and data exchange 
+across all force elements and is relied upon for platform navigation as well 
+as numerous attack and defence activities.
+45
+JDP 0-30 (3rd Edition)
+2
+The roles of air power
+
+[Page 56: No extractable text]
+
+47
+JDP 0-30 (3rd Edition)
+Chapter 3
+Chapter 3 outlines the principles of air command and control 
+and provides an overview of the capabilities the UK uses 
+to deliver air command and control across the continuum 
+of competition. It also describes in broad terms how air 
+power is planned and tasked at the operational level and the 
+associated air operations tasking cycle. 
+Section 1 – Principles  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 49
+Section 2 – UK air command and control capabilities  . 57
+Section 3 – Planning and tasking  . . . . . . . . . . .  59
+
+An air force commander must 
+exploit the extreme flexibility, 
+the high tactical mobility, and 
+the supreme offensive quality 
+inherent in air forces, to mystify 
+and mislead his enemy, and 
+so to threaten his various vital 
+centres as to compel him to be 
+dangerously weak at the point 
+which is really decisive at the time.
+ 
+Marshal of the RAF Sir John C. Slessor ”
+“
+48
+JDP 0-30 (3rd Edition) 
+3
+Command and control
+
+49
+JDP 0-30 (3rd Edition)
+3
+Command and control
+Chapter 3
+Command and control
+3.1. Effective command and control underpins the successful employment of 
+all elements of the military instrument; it is not unique to air power. However, 
+air power, by the very nature of its work, can be extremely sensitive to any 
+misdirection and operational experience has highlighted that air power has 
+to be underpinned by a fast decision cycle if it is to be employed effectively. 
+Additionally, air power’s ubiquity means that it can be applied across multiple 
+theatres, joint operations areas or even globally with competing demands 
+placed upon limited resources. Consequently, air command and control is 
+the key enabler without which the four fundamental air power roles cannot be 
+delivered effectively, irrespective of the size or nature of an operation.
+Section 1 – Principles
+Unity of command
+3.2. Unity of command ensures the concentration of effort for every objective 
+is placed under one responsible commander. This is particularly important 
+for air operations, irrespective of where on the continuum of competition they 
+take place. Air assets are highly sought after because they are able to pursue 
+strategic, operational and tactical objectives simultaneously. However, they 
+can be limited in numbers or availability, so there is significant potential for 
+fragmentation of the air effort. A component request for tactical air support 
+could compete with the allocation of the same air resource for operational or 
+strategic objectives. Consequently, centralised command of air forces under a 
+single air commander is a fundamental tenet of air command and control.
+3.3. Competing demands must be prioritised and apportioned accordingly; 
+the enduring principle of centralised control ensures that aircraft are used 
+as efficiently as possible to achieve military objectives. It prevents them from 
+being inappropriately tasked by uncoordinated users against impractical 
+objectives or being divided into small packages of air power that would 
+inhibit flexibility and hinder any requirement for a rapid concentration of force. 
+In addition, air operations can take place simultaneously across single or 
+multiple theatres of operation. However, no single person is likely to have the 
+level of situational awareness required to manage all concurrent activities. 
+Decentralised execution delegates execution authority to subordinate or 
+
+50
+JDP 0-30 (3rd Edition) 
+3
+Command and control
+on-s cene commanders, thereby shortening the decision cycle and increasing 
+speed of action. It is also the only feasible option for complex air campaigns, 
+especially where communications or data links may be degraded or denied.  
+3.4. Aligned with the UK and North Atlantic Treaty Organization (NATO) joint 
+doctrine philosophy of mission command, the UK’s preferred method for air 
+command and control is centralised control and decentralised execution. That 
+said, depending on the operational context, two other options exist that can be 
+adopted to suit a specific operation or task.   
+a. Centralised control, centralised execution.  Centralised execution 
+authority may be necessary in certain operational circumstances 
+where the stakes are particularly high or where the highest-value 
+assets are being employed. It might also be appropriate when there is 
+a requirement to closely manage air activities that might have strategic 
+effects, even though this may adversely affect tactical efficiency. A 
+potential disadvantage of centralised execution authority is that it 
+can result in a rigid approach that lacks tactical flexibility and is not 
+responsive enough to local conditions. As a result, it may only be suited 
+to specific operations for short periods of time.
+b. Decentralised control, decentralised execution.  The decentralised 
+control and execution of air power may be allocated to subordinate 
+commanders for specific periods of time to improve responsiveness. 
+Nominated air units could integrate as specific task-focused and 
+organised joint teams for certain operations.
+Centralised control, centralised execution – Operation  
+Enduring Freedom
+Centralised control, centralised execution is necessary in certain 
+circumstances, but it can also increase risk because it reduces operational 
+tempo. Operation Enduring Freedom was the response by the United 
+States (US) to global terrorism following the 11 September 2001 attacks in 
+New York. The following month, the operators of a US uncrewed aircraft 
+pinpointed the location of the supreme leader of the Taliban, Mullah 
+Muhammad Omar, as he fled Kabul amongst a convoy of cars. As neither 
+the uncrewed aircraft controllers nor the US Navy Fifth Fleet commander in 
+Bahrain could authorise a strike, approval had to be sought from US Central 
+Command in Tampa, Florida. The ensuing delay for strike approval allowed 
+Mullah Mohammed Omar to escape.
+
+51
+JDP 0-30 (3rd Edition)
+3
+Command and control
+Componency
+3.5. The organisational command and control framework employed for air 
+operations depends primarily upon the scale, size and complexity of the operating 
+area. Complex operations are traditionally served by a deployable, or permanent, 
+in-theatre command and control capability, especially when an operation is 
+NATO-l ed, UK-led within a NATO framework, multinational coalition or US-led. 
+However, the RAF’s new command and control model based around 11 Group 
+also allows for the command and control of air operations ‘at range’ from the UK 
+using robust and secure beyond line of sight voice and data communications.
+3.6. At the operational level, the UK and NATO use the concept of component 
+organisation36 to cohere multi-domain activity under a joint force commander 
+(JFC), particularly for a deployed joint force. The 2* Standing Joint Force 
+Headquarters provides this capability for the UK for small- and medium -s ized 
+operations. 
+3.7. A JFC may exercise command and control of joint air operations from 
+their own headquarters, augmented by air component subject matter experts. 
+However, it is more usual for the JFC to appoint a joint force air component 
+commander (JFACC),37 chosen from whichever component has the majority of 
+36 T he components are land, maritime, air, special forces and logistics. See Allied Joint 
+Publication (AJP)-3, Allied Joint Doctrine for the Conduct Of Operations .
+37 N ATO use the term commander joint force air component. Where an operation involves a 
+coalition the term combined force air component commander (CFACC) may be used.
+E-7 Wedgetail, the RAF’s future airborne early warning and control aircraft, which will  
+enter service in 2024
+
+52
+JDP 0-30 (3rd Edition) 
+3
+Command and control
+air assets and the command and control capabilities required to plan, task and 
+execute air operations.38
+3.8. To efficiently employ the air capabilities available, the JFACC will normally 
+exercise operational control over their own component’s forces, and tactical 
+control over other components’ forces made available for tasking by the JFC. 
+The JFC may also establish support relationships between the JFACC and 
+other components to facilitate operations. For example, the JFACC will usually 
+be the supported commander for control of the air operations. Irrespective of 
+the size of the operation, there are four key responsibilities that normally fall to 
+the JFACC. 
+• Develop the overall air operations plan to support the desired 
+outcomes of the JFC; this is normally referred to as the joint air 
+operations plan (JAOP).
+• Recommend to the JFC how best to assign the overall joint air 
+capabilities available between the various lines of operation for a 
+period of time; this is termed apportionment.
+• Assign and task the joint air capabilities and forces made available 
+by the Service components based on the JFC’s air apportionment 
+decision.
+• Provide oversight and guidance during the execution phase and 
+evaluate the subsequent results.
+3.9. Within the complex contemporary operating environment, competing 
+demands for access to airspace from both military and civilian users are 
+inevitable. To integrate, coordinate or deconflict all airspace user requirements, 
+an airspace control authority (ACA) can be appointed, who will be responsible 
+for establishing and operating an appropriate airspace control system 
+promulgated through an airspace control plan. For operations where an 
+adversary has an offensive air or missile capability, an air and missile defence 
+commander (AMDC) will usually be appointed to integrate the air and missile 
+defence capabilities of all components. Given the interdependence of airspace 
+control and air and missile defence, ACA and AMDC responsibilities are 
+normally given to the JFACC.
+38 J oint air operations do not include those air operations that a component conducts as 
+an integral and organic part of its own operations.
+
+53
+JDP 0-30 (3rd Edition)
+3
+Command and control
+3.10. To fulfil their responsibilities, a JFACC is supported by a joint force air 
+component headquarters (JFAC HQ), usually with an embedded air operations 
+centre. This provides the critical interface between operational planning and 
+tactical execution. Whilst the size, internal composition, battle rhythm and 
+location of the JFAC HQ will vary according to the type and scope of mission, 
+five elements are common to most. These are:
+• a strategy division, which leads on long- and short-term air strategy 
+and produces the JAOP;
+• a combat plans division , which develops detailed execution plans;
+• a combat operations division , which monitors and executes daily 
+operations; 
+• an intelligence, surveillance and reconnaissance (ISR) division , 
+which provides predictive and actionable intelligence, as well as a 
+common threat and targeting picture; and 
+• a combat support division , which coordinates administrative, 
+communications, logistics, meteorology, information management 
+and media engagement activities.
+Merlin HM Mk2 airborne surveillance and control helicopters on board HMS Queen Elizabeth
+
+54
+JDP 0-30 (3rd Edition) 
+3
+Command and control
+3.11. Liaison between nations, components and non-military organisations 
+is a key factor in the success of air operations; without it, air power cannot be 
+employed effectively in support of multi-domain operations. This is illustrated 
+in Figure 3.1. Whilst liaison can be conducted remotely via electronic means, 
+all of the UK’s recent military operations have highlighted the value of personal 
+contact between senior commanders and the utility of liaison officers in 
+facilitating that contact. For liaison to work effectively, arrangements must span 
+the operational and tactical levels. At the highest level, senior liaison officers 
+must possess the authority to represent their commanders on critical issues; 
+at lower levels, subject matter experts provide planning, tasking and execution 
+expertise regarding their component or organisation’s activities.39  Where an 
+operation is multinational, participating nations will usually send a national 
+contingent commander to the JFAC HQ to ensure their assigned forces 
+operate within national rules of engagement.
+Combat
+operations
+Intelligence,
+surveillance and
+reconnaissance
+Joint force air
+component
+headquarters
+command group
+Combat
+plansStrategy
+Liaison elements
+Joint force air 
+component commander
+Combat
+support
+Figure 3.1 – A typical joint force air component headquarters structure
+3.12. Rarely, if ever, will air power be used in isolation as a response to a 
+crisis or to achieve a national objective; the UK’s approach to employing 
+the military instrument of national power is by design cross-government 
+and multi-agency, including working with non-governmental organisations 
+39 For more detail on liaison arrangements between components see Air Publication  
+(AP) 3002, Air and Space Warfare , Edition 4, Chapter 2.
+
+55
+JDP 0-30 (3rd Edition)
+3
+Command and control
+where appropriate. Consequently, liaison arrangements within the JFAC HQ 
+must take account of this. In addition, space services provide vital enabling 
+capabilities for the air component, such as ISR, positioning, navigation and 
+timing for aircraft and weapons, or voice and data communications. However, 
+space assets are generally considered strategic in nature and can be national, 
+military or privately owned and operated. Delegation of their command and 
+control is unusual. Therefore, the presence of space subject matter experts 
+within the JFAC HQ is key to ensuring effective air–space integration. To 
+ensure unity of effort across the whole force, the JFC can appoint a space 
+coordinating authority (SCA) to prioritise requirements and coordinate access. 
+SCA responsibilities are usually delegated to the JFACC due to historical 
+synergies between the air and space domains.  
+Air command and control system
+3.13. Air operations are controlled through an overarching air command and 
+control structure supported by a robust command, control, communication, 
+computers and information system (C4IS). Without the latter, the effective 
+employment of air power can be difficult, if not impossible, which places 
+significant emphasis on defensive cyber support. Operational experience has 
+shown that whilst the air command and control system used will invariably be 
+tailored to the task at hand, five broad design considerations need to be met 
+if air power is to be employed successfully, irrespective of the nature of the 
+operation. These are:  
+• flexibility , capable of responding to a changing operational situation 
+with minimum disruption or delay; 
+• responsiveness, able to provide the JFACC, or their key 
+subordinates, with the understanding required to make effective 
+decisions and to pass subsequent orders quickly; 
+• survivability , including protection from cyber and traditional threats 
+as well as redundancy for critical command and control facilities and 
+C4IS;
+• sustainability , capable of conducting continuous operations 
+throughout all phases of a campaign; and 
+• interoperability , with joint and coalition command and control 
+systems to enable unity of command.
+
+56
+JDP 0-30 (3rd Edition) 
+3
+Command and control
+3.14. In general, the JFAC HQ’s strategy, combat operations and ISR 
+divisions form the core of the air operations centre, which acts as the senior 
+element within the overall air command and control system.40  Tactical control 
+for forces executing air missions is provided by an array of units subordinate 
+to the air operations centre; these may be surface-based or airborne assets 
+provided by the air, land and maritime components. 
+3.15. Surface-based tactical command and control for air power provides a 
+robust capability that is best suited to a permanent task such as national air 
+policing or when a deployed presence in a theatre of operations is expected 
+to be enduring; for example, providing air defence in the Falkland Islands. In 
+addition, when a joint operations area is geographically large, sectorisation of 
+the overall area between a number of ground-based command and control 
+units can make the overall system more responsive, especially with regard to 
+air and missile defence operations where speed of response to short-notice 
+threats is critical. Control and reporting centres (CRCs) usually form the 
+backbone of Western surface-based air command and control systems, a role 
+performed by naval vessels such as the Royal Navy’s Type 45 destroyer in the 
+maritime domain.
+3.16. Airborne command and control can be either fixed-wing or rotary wing. 
+Usually tasked with air surveillance and the tactical control of air operations, 
+they enable the command and control of air assets operating beyond the radar 
+and communications range of surface-based command and control units. 
+Key to their effectiveness during combat operations is the placement of their 
+operating orbits, which must balance the aircraft’s radar and communications 
+range against the terrain and threat posed by an adversary’s counter-air 
+capabilities. Coalition operations within the Middle East over the past 20 years 
+have relied heavily upon aircraft such as the UK’s now retired E-3D Sentry 
+to provide the deep look, low-level radar capability to support offensive and 
+defensive air operations – most recently over Syria. Rapidly deployable from 
+the UK, they provided Defence with the ability to respond quickly to a crisis 
+or to conduct deterrence activity at range in support of allies. The continued 
+relevance of this capability has seen the UK procure E-7 Wedgetail to replace 
+the E-3D Sentry. 
+40 T he air operations centre may be called a joint air operations centre (JAOC) or a 
+combined air operations centre (CAOC) dependent upon whether the operation is US, 
+NATO or UK led.
+
+57
+JDP 0-30 (3rd Edition)
+3
+Command and control
+Section 2 – UK air command and 
+control capabilities
+3.17. UK air command and control capabilities are structured to support 
+the broadest possible range of tasks, from homeland defence and persistent 
+engagement activities such as the forward basing of air power assets, up to 
+large-scale combat operations, as part of a NATO Article 5 response. The 
+Royal Air Force (RAF) provides the core air command and control capability 
+for Defence, augmented on a case-by-case basis by the other two Services 
+to enable integration across the traditional warfighting domains. For deployed 
+operations, these capabilities are usually under the operational command 
+of the Chief of Joint Operations.41  Otherwise, the operational command and 
+control of air forces will most likely rest with the RAF’s 3* Deputy Commander 
+Operations, with delivery centred around 11 Group via either the National Air 
+and Space Operations Centre (NASOC) or the UK JFAC HQ. 
+The National Air and Space Operating Centre 
+3.18. The NASOC is located at Headquarters Air Command and provides 
+the UK with a permanent 24/7 air command and control capability to support 
+enduring homeland defence commitments. The Air Officer Commanding 
+41 F or more detail see Joint Doctrine Publication (JDP) 01, UK Joint Operations Doctrine .
+RAF air operations personnel engaged in air battlespace management
+
+58
+JDP 0-30 (3rd Edition) 
+3
+Command and control
+11 Group acts as the day-to-day 2* air commander. The NASOC has two core 
+air-r elated roles:
+• maintaining the integrity of UK airspace; and
+• providing support to NATO in the execution of its peacetime air 
+policing mission.
+3.19. To meet its national and NATO air policing responsibilities, the NASOC 
+uses the UK Air Surveillance and Control System (ASACS), which is a network 
+of ground-based military and civilian radars used to monitor, detect and 
+identify all aircraft in and around UK airspace. The resulting recognised air 
+picture is compiled by the NASOC’s subordinate CRC at RAF Boulmer,42 which 
+also exercises tactical control of quick reaction alert fighters and supporting 
+air-t o -a ir refuelling aircraft. Project Guardian is upgrading the ASACS to improve 
+information exchange and integration with allies.
+The UK Joint Force Air Component Headquarters
+3.20. As part of 11 Group, the UK JFAC HQ provides a full-time permanent, 
+fixed location air command and control capability collocated with the NASOC to 
+support global air operations conducted under the responsibility of the Air Officer 
+Commanding 11 Group.43 The UK JFAC HQ is structured in accordance with the 
+model outlined within Section 1 of this chapter and comprises a command group 
+with five subordinate divisions staffed by permanent personnel. The UK JFAC HQ 
+also provides a high-r eadiness deployable air command and control capability 
+with a permanently assigned 1* JFACC.44  
+3.21. The UK JFAC HQ can provide a full range of air command and control in 
+support of UK air operations, including up to medium-scale, within framework 
+nation status or augmentation of an alliance or multinational headquarters. The 
+unit is fully scalable and would operate in a configuration dependent upon the 
+requirements of the operation to be supported. Employment options include 
+the following. 
+a. A UK-only operation at component scale where the UK would 
+provide its own JFACC; all support and logistics functions would be 
+carried out by UK personnel. For a small-scale national operation, air 
+42 T he CRC also exchanges information via data links with neighbouring NATO partners, 
+maritime units and airborne surveillance aircraft to generate the recognised air picture.
+43 I n their role as the standing UK Global Air Component Commander.
+44 W ithin NATO only the UK, Germany, France, Italy, Spain, Turkey and the US have this 
+national capability.
+
+59
+JDP 0-30 (3rd Edition)
+3
+Command and control
+command and control can be provided by the JFAC HQ ‘at range’ from 
+its fixed location; alternatively, a small air command and control cell could 
+be deployed to embed within a joint force headquarters. 
+b. A UK-led coalition in which the UK would provide the JFACC and 
+elements of the command hierarchy with most key functions being 
+carried out by UK personnel. The expectation would be that the senior 
+coalition partner would provide a deputy JFACC. This option requires 
+the ability to fully embed coalition partners into the UK JFAC HQ 
+infrastructure and C4IS.  
+c. Augmentation of a coalition-led deployment, which would ideally 
+see the UK provide the deputy JFACC and some key elements of the 
+JFAC HQ structure. There would also be a requirement to deploy a 
+national coordination team to monitor UK-specific issues under a UK 
+air contingent commander who may dual-hat as the deputy JFACC.
+d. NATO reinforcement, which would see core JFAC HQ personnel 
+deployed to support or reinforce the NATO air command and control 
+system during times of crisis and conflict. Under current plans, 
+personnel would either be deployed to NATO Air Command to fill 
+specified augmentee positions within the NATO Command Structure 
+JFAC HQ or to a deployed NATO force structure JFAC HQ (which is 
+provided on a rotational basis by member states). The UK JFAC HQ 
+is certified for employment as a high readiness command and control 
+element of the NATO Response Force and as such could deploy in full.
+Section 3 – Planning and tasking
+3.22. Air planning is usually conducted in parallel with joint, operational -l evel 
+planning.45 Qualified and experienced air planners should engage early in the 
+development of the joint operational plan to ensure that it is coherent and 
+workable and that air options are fully considered and integrated from the 
+start. A sound understanding of the wide variety of aircraft and their associated 
+capabilities, as well as an understanding of the capabilities or operations that 
+air power is supporting, is critical to the success of the planning phase. This 
+section outlines the key steps in the planning and tasking process that are 
+common to UK, NATO and the US.
+45 S ee AJP-5, Allied Joint Doctrine for the Planning of Operations (with UK national 
+elements) for more details.
+
+60
+JDP 0-30 (3rd Edition) 
+3
+Command and control
+Air estimate
+3.23. Operational air planning begins when the need for military action 
+involving air activity is identified. The air estimate is intended to develop 
+the most effective air operations plan to meet the JFC’s intent and convey 
+this information to those who will execute it. The process is not dissimilar 
+to estimates carried out in other operational domains. The process is 
+command-led and involves the JFAC HQ planning staff exploring the full 
+range of probable and likely adversary and friendly courses of action before 
+analysing and comparing friendly air capabilities against the likely threats. The 
+air estimate is a continuous and iterative process with a number of key steps 
+involved.46 The final step of most air estimate methodologies, the commander’s 
+decision, is made by the JFC on which course of action to adopt as the 
+concept of air operations. The decision is based on the recommendation of 
+the air commander and the course of action becomes the basis for the JAOP .
+46 T hese steps usually include background analysis, mission analysis, evaluation of 
+factors, courses of action development, and the commander’s decision. However, the 
+actual methodology used may vary. For example, the UK JFAC HQ use the process 
+outlined within NATO’s Comprehensive Operations Planning Directive. See AJP-5, Allied 
+Joint Doctrine for the Planning of Operations (with UK national elements) for more details.
+Hercules C-130J refuelling from a Voyager KC3 above Ukraine in 2020
+
+61
+JDP 0-30 (3rd Edition)
+3
+Command and control
+Joint air operations plan
+3.24. The JAOP is the JFACC’s blueprint for integrating and coordinating 
+air activities. It provides the necessary link to the JFC’s operational plan and 
+outlines the phasing of the overall air campaign.47 A typical example of phasing 
+might start with counter-air operations to gain a degree of control of the air 
+over a specific area or at a specific time so that friendly forces can operate 
+without unacceptable risk from adversary attack. This could be followed by a 
+phase focusing on strategic attack, and then a phase of counter-land activity 
+featuring concurrent air interdiction to shape the battlefield for friendly ground 
+forces, and providing close air support. The JAOP will also usually include: 
+• objectives and tasks by priority, describing in which order they should 
+be actioned, the desired effects and the weight of effort required;
+• the measures or indicators of success that are to be used to 
+determine whether air operations are meeting assigned objectives; 
+• detail on what air assets are required to achieve the air objectives, 
+including force availability, deployment timing, basing availability and 
+sustainment requirements; and
+• specific procedures for allocating, tasking, exercising and 
+transitioning the command and control of air assets.
+The JAOP is implemented through the air tasking cycle, which provides 
+an iterative and cyclical process for planning, apportioning, allocating, 
+coordinating and tasking air assets.
+47 A p hase will only indicate what the main effort is for the air component at a given time; 
+however, air assets will almost certainly be conducting all roles of air power throughout a 
+campaign or operation.
+Before anything else, preparation is the key to success.
+Alexander Graham Bell
+“
+
+62
+JDP 0-30 (3rd Edition) 
+3
+Command and control
+The air tasking cycle
+3.25. The air tasking cycle allows for changing tactical situations or 
+commander’s guidance, as well as requests for support from other component 
+commands at any stage in the cycle. The cycle, outlined in Figure 3.2, matches 
+specific targets with capabilities made available to the JFACC for a given 
+tasking period. 
+Figure 3.2 – The standard air tasking cycle 
+Direction, guidance
+and objectives
+Air tasking order production
+and promulgation
+Target
+development
+Weaponeering
+Assessment
+Execution
+3.26. The air tasking cycle is built around a number of finite time phases set 
+to plan and conduct air operations. The full cycle from JFC guidance to the 
+completion of the execution period usually takes 72 hours. Detailed planning 
+normally begins 48 hours in advance of the execution period to enable the 
+integration of all component requirements. However, when appropriate, the 
+
+63
+JDP 0-30 (3rd Edition)
+3
+Command and control
+cycle can be compressed although this may come at the expense of achieving 
+the most efficient use of available assets. Six phases are common and are 
+outlined below. 
+a. Phase 1 starts with the JFC’s objectives and strategic direction 
+based on current operations. The JFACC uses that consultation, and 
+the JAOP , to produce an air operations directive (AOD)48 to guide the 
+subsequent planning and execution phases.
+b. Phase 2 develops targets through the guidance, apportionment 
+and targeting (GAT) process, which matches target development to 
+tasking. Target nominations from the components are screened and 
+prioritised.
+c. Phase 3 sees weapon-to-target matching conducted by targeting 
+personnel who match weapons capabilities to desired effects against 
+prioritised targets. The final prioritised targets are given to a master air 
+operations plan (MAOP) team who meld available air capabilities with 
+the GAT recommendations to allocate the total number of air sorties for 
+each objective or task.
+d. Phase 4 is where the AOD, target worksheets, MAOP , airspace 
+control plan and the requirements of other components are translated 
+into detailed operational and tactical direction and promulgated in the 
+air tasking order (ATO).  
+e. Phase 5 is the execution of the ATO. The JFAC HQ air operations 
+centre and subordinate air command and control elements execute the 
+plan, revising tasking as required, and coordinating or deconflicting any 
+changes.
+f. Phase 6 is the evaluation of the results of air operations. The 
+subsequent assessment of the effectiveness of air activity is fed back 
+into the air planning cycle to inform the process.
+48 T he AOD is effectively a ‘snapshot’ of the JAOP to be enacted during the tasking period 
+being planned.
+
+64
+JDP 0-30 (3rd Edition) 
+3
+Command and control
+The air tasking order 
+3.27 . The ATO articulates the tasking for air operations for a specific time 
+period, normally 24 hours. It enables all mission commanders to understand: 
+• what their responsibilities are for their missions; 
+• what tasks they are to conduct; 
+• where they are to conduct them; 
+• what support they are to expect or to provide; and 
+• what additional constraints or freedoms they may be operating under 
+during the mission. 
+In accordance with the philosophy of mission command, the ATO only covers the 
+‘ends’ and the ‘means’ of the mission; the tactical ‘ways’ are the responsibility of 
+the mission leaders. The ATO also allows other components to conduct their own 
+planning and operations based on the level of air support being provided. 
+3.28. At any time, there will be several ATOs in various stages of development:  
+the ATO being executed; the ATO being written; and the ATO being planned. During 
+execution, the ATO retains flexibility to respond to changing priorities, including 
+short-notice dynamic and time-sensitive targeting opportunities. Changes are 
+made on the authority of the JFACC through the air operations centre.
+Multinational air mission planning
+
+ 
+Key points
+• Command and control envelopes all four air power roles because it is 
+essential for the effective delivery of air power.
+• Centralised control and decentralised execution is the UK’s preferred 
+method for air command and control; it enables tactical flexibility whilst 
+ensuring unity of effort at the operational level. 
+• Air operations are best delivered under the command of a single air 
+commander, the JFACC.
+• All air operations require a tailored air command and control system, 
+centred around an air operations centre. 
+• UK air command and control capabilities are primarily delivered by the RAF 
+via 11 Group.
+• The UK JFAC HQ provides the UK with a scalable and deployable 
+command and control capability for UK, NATO and multinational air 
+operations.
+• Air power is best integrated with the other components of the military 
+instrument during joint operational-level planning.
+• The air tasking cycle is the iterative and cyclical process for planning, 
+apportioning, allocating, coordinating and tasking air assets.
+• The UK, NATO and US use an ATO to provide mission commanders with 
+the details required to plan and execute their missions.
+65
+JDP 0-30 (3rd Edition)
+3
+Command and control
+
+[Page 76: No extractable text]
+
+Chapter 4
+Chapter 4 considers the application of UK air power in the 
+context of an integrated cross-government approach and 
+highlights how it is integrated with other elements of  
+military power to conduct multi-domain operations. It 
+provides an overview of key air power enablers and  
+outlines air power’s utility.
+67
+JDP 0-30 (3rd Edition)
+Section 1 – Cross-government integration and  
+                   integrated action  . . . . . . . . . . . . .  69
+Section 2 – Joint operations   . . . . . . . . . . . . .  71
+Section 3 – Enabling air power  . . . . . . . . . . . .  77
+
+To commit troops to a campaign 
+in which they cannot be provided 
+with adequate air support is to 
+court disaster.
+ 
+Field Marshal Sir Claude Auchinleck
+”
+“
+68
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+
+69
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+Chapter 4
+The employment of air 
+power
+Section 1 – Cross-government 
+integration and integrated action
+4.1. Chapter 3 outlined how air power is planned, commanded and executed 
+at the operational level within the air component. However, air power is rarely, 
+if ever, employed on its own in response to a crisis or to achieve a national 
+security objective. Air power works most effectively when integrated with other 
+components of military power, benefiting from complementary capabilities 
+and exploiting synergies between the maritime, land, air, space, and cyber 
+and electromagnetic domains. This can be further enhanced by military forces 
+being integrated and synchronised with other government departments, 
+potentially alongside the use of other instruments of national power – 
+diplomatic, information and economic – behind a common national goal. 
+4.2. Effective crisis management requires active cross-government and 
+multi-agency cooperation to develop, employ and sustain a comprehensive 
+and successful response. The UK’s cross-governmental approach to 
+national security, similar to the North Atlantic Treaty Organization’s (NATO’s) 
+comprehensive approach,49 deals with a wide variety of challenges by creating 
+and managing strategies to address complex problems. It employs the 
+instruments of national power to achieve desired political and strategic 
+objectives. The coordination and synchronisation of these capabilities 
+reduces duplication of effort, creates synergies and leads to more effective 
+use of resources. The UK military contribution, of which air power is a key 
+component, to pan-governmental activity is delivered through integrated 
+action.
+49 See Allied Joint Publication (AJP)-01, Allied Joint Doctrine  for more details on NATO’s 
+comprehensive approach.
+
+70
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+Integrated action
+4.3. Integrated action can be described as the audience-centric orchestration 
+of military activities, across all operational domains, synchronised with 
+non-military activities to influence the attitude and behaviour of selected 
+audiences necessary to achieve successful outcomes.  
+4.4. Air power contributes to integrated action through the exploitation of its 
+attributes and roles. Using the freedom of manoeuvre provided by control of 
+the air, air power can use the attack or air mobility roles to conduct outreach, 
+kinetic and information activities, creating both lethal and non-lethal air effects. 
+It can affect an actor’s will, understanding or capabilities in ways informed by 
+intelligence, surveillance and reconnaissance (ISR). In addition, air power’s 
+ubiquity and agility enable it to be used to exert influence without significant 
+commitment; in effect, engagement without entanglement to pose or counter 
+threats at range. Integrated action coordinates and synchronises:
+• fires (military power effect through both physical and virtual means); 
+• information activities (including regional and key leader engagement); 
+• manoeuvre (the ability to remain mobile to gain advantage in time 
+and space); and
+• outreach (including stabilisation, support to governance and capacity 
+building).
+4.5. Although the effects of integrated action are primarily targeted at an 
+adversary, it also has an impact on a wide range of other actors who need to 
+be influenced. This can include civilian partners, such as non-governmental 
+organisations, the UK population, allies and regional audiences. Therefore, 
+although integrated action implies the sole use of military capabilities, it 
+invariably requires coordination or integration with the activities of other 
+government departments. 
+
+71
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+Section 2 – Joint operations 
+4.6. Operations in the modern world are rarely, if ever, conducted within 
+a single operational domain. Historically, maritime, land and air forces have 
+worked together to achieve agreed objectives.50  This joint approach to 
+operations continues to underpin the UK’s ability to deliver military power 
+across the continuum of competition. Joint operations conducted correctly are 
+extremely effective because the various capabilities across the single Services, 
+allied with non-military capabilities, can complement the strengths and 
+compensate for the limitations in each, thereby creating powerful synergies. 
+Air power enhances the scale of options for the joint force; through its flexibility 
+and the speed with which it can reach the engagement space, it provides vital 
+projection, sustainment and precision firepower, offering significant military 
+advantage to the joint commander.
+4.7. The emergence of the space, and cyber and electromagnetic domains 
+as operational domains, rather than simply enablers for the maritime, land and 
+air domains, has broadened the opportunities for the joint force to converge 
+effects across multiple domains, thereby presenting an adversary with multiple 
+dilemmas at a tempo that complicates or negates their response. Air power 
+is ideally placed to support this multi-domain operations approach due to its 
+ability to mass quickly, operate at range, target with precision and exploit an 
+50 This is described as a joint operation where two or more Services operate as a single 
+military force, under a single command structure, to accomplish a specific mission.
+Joint personnel deploying on operations on board a Globemaster C-17
+
+72
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+emerging opportunity rapidly. However, 
+to maximise the effectiveness of air 
+assets, they need to be efficiently 
+integrated along, and across, all of the 
+operational domains.
+4.8. Effective multi-domain 
+operations depend on mutual trust and 
+understanding, built on well-established 
+cooperation between the single 
+Services. This leads the way to genuine, 
+pan-domain integration, where an 
+integrated approach becomes intuitive. 
+The following paragraphs consider 
+the key aspects of how air currently 
+integrates with the other operational 
+domains on a domain-to-domain basis. 
+However, unlike recent operations in 
+Afghanistan where the engagement 
+space necessitated a focus upon 
+air-land integration, the ability to synchronise air activity and effects across 
+multiple operational domains simultaneously is key to deterring and countering 
+the threats posed by more capable adversaries.
+Air-land integration
+4.9. Air-land integration (ALI) maximises the combat power created by 
+coordinating and synchronising complementary capabilities from the air 
+and land domains. It encompasses all the processes that plan, coordinate, 
+control and deconflict the activities of the air and land components within 
+a given engagement space.51 Air power takes advantage of the strengths 
+of land forces, such as awareness of the land engagement space, whilst 
+compensating for their limitations, such as providing additional firepower to 
+help preserve freedom of action. Effective ALI requires an understanding of the 
+land domain within which such operations are planned.52
+51 See Air Publication (AP) 3002, Air and Space Warfare, Edition 4, for guidance on 
+air-land planning considerations.
+52 See Joint Doctrine Publication (JDP) 0-20, UK Land Power for more detail on UK land 
+power attributes and aspects.
+Apache AH1-D at low level over Norway
+
+73
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+4.10. Whilst control of the air affords 
+freedom of manoeuvre for land forces, 
+effective ALI is necessary to assure 
+timely air support in the ISR, attack 
+and air mobility roles. Aircraft in these 
+roles can be allocated to hold varying 
+degrees of readiness in support of land 
+forces, either on the ground or in the air 
+for urgent on-call tasking. The use of 
+attack in support of land forces, through 
+close air support or attack aviation call 
+for fire, requires a high degree of mutual 
+trust and understanding, particularly in 
+dynamic combat situations where there 
+is no clear delineation between enemy 
+and friendly land forces. Operations 
+in Iraq and Afghanistan reinforced the 
+need for suitably qualified air liaison staff 
+at every level and, more fundamentally, 
+suitably qualified joint terminal attack 
+controllers (JTACs) to act as an interface between the land force elements 
+and aircraft operators. The UK’s Air Support Operations Centre53  provides the 
+national capability for integrating air power into land and littoral operations at 
+the tactical level via three core functions: integration and synchronisation of 
+air activities with joint fires and the land scheme of manoeuvre; allocation of 
+allocated air assets; and joint battlespace management. 
+Air-maritime integration
+4.11. Air-maritime integration (AMI) is the understanding and combination of 
+air and maritime procedures, capabilities and limitations to increase operational 
+effectiveness. It enhances the combat potential of each. The air and maritime 
+domains have certain similarities, such as scale and strategic scope, and 
+sea control, like control of the air, is an essential prerequisite for freedom 
+of manoeuvre. AMI is required for many operations, particularly where the 
+anti-access and area denial (A2AD) threats that are faced cannot be countered 
+in a single operational domain.
+53 As part of the broader UK Air Support Operations Squadron.
+F-35B Lightning launching from HMS Queen Elizabeth
+
+74
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+4.12. Close coordination between ISR and combat air capabilities with 
+complementary maritime capabilities can lead to significant synergies. 54  
+Maritime air defence capabilities contribute to counter-air or air policing duties 
+by integrating their anti-air warfare capabilities with land-based aircraft, which 
+helps to establish and maintain control of the air.55  However, the effectiveness 
+of such integration depends on the interoperability of individual aircraft and the 
+overall combat system. Consequently, the ability to network information across 
+components and between platforms from separate operational domains is 
+critical to success.
+4.13. The successful integration of potent capabilities, such as those 
+provided by a carrier strike group (CSG), is highly dependent upon the 
+liaison structure between the two components. A critical element within this 
+structure for both NATO and the UK is the air operations coordination centre 
+(maritime) (AOCC(M)), which coordinates the planning and tasking of air assets 
+allocated in support of maritime operations and monitors their execution. 
+For UK-led, or national-only operations involving a CSG, the AOCC(M) will 
+usually be collocated with the maritime component commander as that is 
+where it can provide the best support to both the air and maritime component 
+commanders; this could be ashore or afloat.
+Air-space integration
+4.14. Space services provide vital 
+enabling capabilities for all of the 
+operational domains, the importance 
+of which has been reflected by 
+establishing a separate UK Space 
+Command. Air-space integration is 
+critical to successfully employ air 
+power. The effectiveness and potency 
+of aircraft operations is closely linked 
+to the effectiveness of enabling space 
+capabilities, such as positioning, 
+navigation and timing for aircraft 
+and weapons, or voice and data 
+communications. Equally, air power is 
+54 See Allied Tactical Publication (ATP)-3.3.3.1, Air Maritime Coordination Procedures  for 
+more details.
+55 Such as between the Royal Navy’s Type 45 Destroyer, through use of its air defence 
+radar, in support of Royal Air Force (RAF) Typhoon quick reaction alert operations.
+Ministry of Defence Carbonite-2 imaging satellite
+
+75
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+critical to space power, for example, by providing air defence of the ground 
+segment infrastructure.
+4.15. Effective air-space integration at the operational planning level can also 
+provide opportunities to make use of complementary capabilities. For example, 
+both the air and space domains offer significant ISR capabilities, which, when 
+effectively coordinated, can ensure a more complete understanding of the 
+engagement space and mitigate gaps in each other’s coverage. For deployed 
+operations involving a joint (or multinational) force, the nominated space 
+coordinating authority is responsible for coordinating, planning and executing 
+space capabilities in support of the other warfighting domains. The UK Space 
+Operations Centre located at Royal Air Force (RAF) High Wycombe acts as the 
+UK’s focal point for space support and integration across Defence. 
+Air-cyber integration
+4.16. Air-cyber integration is the use of air and cyber capabilities to create 
+effects in the relevant engagement space. Air-cyber integration can involve 
+cyber operations in support of air operations, or air operations in support 
+of cyber operations. Air platforms and systems have become increasingly 
+dependent on cyberspace and the people, processes, technology and data 
+within it. Without assured access to systems such as command and control, 
+maintenance, mission planning and communications, the ability of the air 
+component to conduct its operations would be degraded. Commanders at 
+all levels need to consider their reliance upon cyberspace and proactively 
+direct measures to increase their resilience. By understanding their cyber 
+risks, implementing cybersecurity measures and integrating with defensive 
+cyber operations, commanders can improve their overall mission assurance 
+on operations. Offensive cyber capabilities are generally considered to be 
+strategic in nature with permissions for their use held either at a high level 
+nationally, or outside the military chain of command. In addition, cyber effects 
+can be highly classified and compartmentalised due to the sensitivity of 
+techniques used and the nature and complexity of accesses. These factors are 
+just some of the challenges to integration at the operational level.56
+4.17. Offensive cyber operations in support of air operations target adversary 
+personnel, processes, technology and data through cyberspace to increase 
+the likelihood of successfully achieving air objectives.57 Data links could be 
+56 See JDP 0-50, UK Defence Cyber and Electromagnetic Doctrine  for more detail on UK 
+cyber power attributes and aspects.
+57 The National Cyber Force plans and conducts offensive cyber capabilities for the UK.
+
+76
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+attacked to degrade an integrated air defence system, reducing the risk to 
+otherwise vulnerable aircraft penetrating hostile airspace. Integrating such 
+cyber effects can help to disrupt and overcome A2AD threats, providing 
+the freedom to attack targets in enemy territory. However, offensive cyber 
+capabilities are likely to require tailoring to each specific target, which might not 
+match the timescales associated with an air power response. The potential use 
+of a cyber capability to create an effect in support of air power therefore needs 
+to be considered early in the planning phase with intelligence requirements set 
+as far in advance as possible.
+4.18. Air operations in support of cyber operations can include kinetic 
+attacks on selected computer nodes to deny an adversary a critical 
+capability or force them to use networks that can be attacked or exploited 
+using cyber capabilities. Such activities must be coordinated through a 
+full spectrum targeting process to ensure unintended consequences are 
+avoided or managed. For example, a tactical operation by attack aircraft to 
+destroy a bridge as part of an operational-level air interdiction campaign may 
+inadvertently undermine a higher-value, strategic cyber operation if the bridge 
+is carrying fibre optics which support the networks that are being exploited.
+Multinational operations
+4.19. NATO is at the heart of UK Defence and, therefore, a UK national 
+approach will generally be framed within a broader multinational response that 
+includes allies. Alliances and coalitions provide a range of options that most 
+nations could not generate independently, including unique capabilities, as 
+well as potentially providing the required mass for favourable force ratios in a 
+contested scenario. Whilst UK air power remains capable of delivering all four 
+air power roles independently, like most Western air forces the UK has seen 
+a reduction in front-line aircraft numbers over the past 20 years as the cost 
+of maintaining a technological edge over potential adversaries has increased. 
+Interoperability with allies, especially NATO and the United States (US), enables 
+air power to be massed at the operational level and delivered at the tactical 
+level via mission-specific packages of aircraft drawn from different nations; 
+this is a process that is facilitated greatly by the use of NATO air doctrine and 
+terminology wherever possible.  
+
+77
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+Coalition operations in action – Libya
+Operation Unified Protector was NATO’s response to a United 
+Nations Security Council resolution that authorised the use of ‘all means 
+necessary’ to protect Libyan civilians from the forces of the country’s 
+long-time national leader Muammar Gaddafi following a widespread 
+uprising in 2011. At the time, US air power was heavily engaged on 
+operations in Afghanistan and Iraq and politically the US did not want to 
+be seen to take a lead role in an intervention in another predominantly 
+Muslim country. Consequently, a broad coalition was required to ensure 
+both legitimacy in the eyes of the wider regional audience and provide 
+the necessary air power capabilities – particularly in the key areas of ISR, 
+air-to-air refuelling and suppression of enemy air defences, which NATO 
+traditionally relied upon the US to provide. Within days, a broad coalition 
+of 16 nations, including three Arab nations (the United Arab Emirates, 
+Qatar and Jordan) were conducting air operations across Libya. The UK’s 
+military contribution was significant and included Typhoon aircraft rapidly 
+modified to conduct air-to-ground attacks. Whilst the majority of air assets 
+were provided by the US, UK and France, the contribution of smaller air 
+forces was key to ensuring the required number of sorties were generated 
+to meet the joint task force commander’s strategy. For example, the 
+Danish Air Force’s detachment of six F-16s conducted nearly 1,300 sorties, 
+released 923 precision-guided munitions and cancelled no sorties due to 
+maintenance issues throughout the campaign. In just over seven months, 
+the Western-led air campaign allowed a group of poorly equipped rebels 
+to bring about the defeat of a well-armed military and the downfall of a 
+dictatorship that had spanned more than 40 years.
+Section 3 – Enabling air power
+4.20. The ability to deliver each of the four roles of air power is dependent on 
+four critical enablers: 
+• base; 
+• sustain; 
+• connect; and 
+• protect. 
+
+78
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+Various basing options enable rapid effect to be created across the globe: air 
+logistics enable the sustainment of operations; command, control, computers 
+communication and information system (C4IS) capabilities enable connectivity; 
+and force protection capabilities enable the protection of forces at home and 
+overseas. 
+Base
+A mile of highway will take you a mile. A mile of runway will take you 
+anywhere.
+Anon
+“
+4.21. Air power can operate from a range of basing options, providing 
+maximum agility for operations. Basing options include the UK mainland, 
+Overseas Territories, allied and partner bases, sea basing and forward land 
+basing. Each has different access constraints, in terms of staging, overflight, 
+force protection and sustainment, and each can provide different political 
+options when projecting power globally.
+a. UK mainland. UK basing enables air power to protect the UK 
+mainland and respond to crises almost immediately without the need 
+for deployed logistic or host-nation support. However, to project air 
+power outside the UK, permission may be required to overfly sovereign 
+territories. Even with air-to-air refuelling, the effective operational reach 
+of current combat air capabilities is limited to Middle Eastern and North 
+African regions and to project air power to any of these regions, prior 
+overflight permission from European allies will be required.
+b. Overseas Territories. UK Overseas Territories enable air power to 
+extend its reach to regions of strategic interest without the requirement 
+for host-nation support. For example, the UK base in Cyprus plays 
+a pivotal role in the ability to project power in support of national 
+objectives and this was most recently the case when providing UK 
+air power for coalition operations over Iraq and Syria against Islamic 
+terrorists. However, Overseas Territories can be particularly reliant on 
+force protection and on logistic support to sustain operations. Access 
+to Overseas Territories can also be reliant on overflight permissions 
+from other nations.
+
+79
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+c. Allies and partners.  Maintaining good relations with allies and 
+partners enables the potential to operate from their sovereign territories 
+in support of UK national or combined coalition objectives. Using 
+such bases can significantly expand global reach but is reliant on 
+maintaining good relations with the host nation. History has shown 
+that allied bases can provide a politically and operationally sustainable 
+means of enduring air operations.
+d. Sea basing.  The sea basing of aircraft enables global reach and 
+the ability to act unilaterally with reduced dependency on staging 
+or overflight permissions. Ships can be equipped with integrated 
+command and control facilities, capable of directing limited air 
+operations. Sea-based aircraft can integrate with land-based aircraft 
+to maximise their effectiveness. Ships are also able to loiter in areas of 
+tension, drawing on the maritime attribute of poise to deter adversaries, 
+react to events or reassure our allies.58
+e. Forward land basing. If access can be gained to, or near to, an 
+adversary’s territory and a basing option secured, it can enhance 
+speed of response, persistence and concentration of support for land 
+forces. Forward land basing can also be essential for force extraction. 
+However, it is dependent on the available infrastructure to support 
+58 See JDP 0-10, UK Maritime Power for more detail on maritime power attributes.
+An RAF air traffic controller at the Royal Air Force of Oman’s Thumrait Air Base  
+during Exercise Saif Sareea
+
+80
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+the aircraft type, force protection and the ability to maintain control 
+of the air in the vicinity of the base. It may also require a full suite of 
+deployable enablers to generate and sustain the deployed force.
+4.22. Since the end of the Cold War, most UK air operations have been 
+conducted from well-found facilities, whether main operating bases in the 
+UK or deployed operating bases such as those used in Afghanistan during 
+Operation Herrick. Provided the threat to the airbase from an adversary can 
+be mitigated, well-found bases remain the preferred choice for generating 
+air power, especially for participation in large, complex, multinational 
+air operations. However, the resurgence of state-based threats and the 
+proliferation of A2AD capabilities places a greater emphasis on an agile 
+basing approach. No single option can assure air power’s ability to achieve 
+global reach. Maintaining the ability to operate across a spectrum of basing 
+options, and move seamlessly between them, provides operational flexibility 
+in the contemporary operating environment. Selecting the most appropriate 
+operating location will be based on an assessment of the various basing 
+options available, taking into account the scenario and the overarching 
+context. This includes at the tactical level where the ability to temporarily 
+operate aircraft from austere or civilian locations on a mission-by-mission basis 
+can significantly limit an adversary’s capacity to interfere in our air operations. 
+Sustain
+4.23. Sustainability enables air power force elements to deploy to an 
+area of operations and remain fully mission capable for a variety of roles. It 
+provides the flexibility to remain on task and operationally capable for as long 
+as necessary. Sustainability is defined as: the ability of a force to maintain 
+the necessary level of combat power for the duration required to achieve its 
+objectives.59 Sustainability is:
+• one of the principles of war;
+• the responsibility of commanders at every level of command;
+• an integral part of the planning, preparing and executing of, and 
+withdrawal and recovery from, every operation; and
+• to be fully exercised in peacetime to be effective in war.
+59 NATOTerm.
+
+81
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+4.24. Air logistics is the ability to plan and execute the movement, 
+maintenance and sustainment of air power. Providing a variety of logistic 
+functions is a complex, dynamic and wide-ranging series of disciplines that 
+can often dictate the operational tempo. It is part of the standard Defence 
+Support Network, but it has a particular dependency on reachback for the 
+repair and replacement of high value, complex aircraft. This generates a need 
+for an efficient supply chain and sufficient stocks for contingency operations, 
+which links into UK and partner nation industry.
+4.25. Air logistics operations are conducted in line with the nine logistics 
+principles which were adopted from NATO. These principles are: 
+• authority; 
+• primacy of operational requirements; 
+• coordination and cooperation; 
+• assured provision; 
+• sufficiency; 
+• efficiency; 
+• simplicity; 
+The RAF’s Mobile Catering Squadron provides catering support to  
+exercises and operations
+
+82
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+• flexibility; and 
+• visibility.60
+In general, responsive engineering and supply offsets aircraft fragility, high 
+levels of equipment availability counters the cost of massing air assets, and 
+rapid mobility and enabling can offer new basing options and the ability to 
+rapidly enact air operations at reach. However, air logistics can also form a 
+vulnerability due to its inherent complexity and the wide-spread supply base 
+that is susceptible to physical, cyber, commercial and even political disruption.
+Connect
+4.26. Air C4IS is a key enabler for air power due to the reliance on robust 
+lines of communication between a multitude of home locations and overseas 
+operational theatres. Indeed, generating aircraft for air operations invariably 
+depends upon the collaborative working, in near real time, of geographically 
+disparate users. Moreover, effective air command and control cannot 
+be delivered without a robust C4IS solution, irrespective of where the air 
+commander and their staff are located. Information exchange enabled through 
+data links at the tactical and operational levels enables force survivability, 
+shared situational awareness and, ultimately, information advantage; all of 
+these are critical to mission success in any complex, contested engagement 
+space.
+4.27 . The successful sharing of information and data gathered on operations 
+requires a high degree of reliable connectivity and interoperability between 
+participating units and platforms. Some aircraft systems also require 
+connectivity to the Internet to operate effectively. The overall C4IS solution 
+must enable seamless integration of information whilst ensuring only those 
+who should have access can get access (confidentiality), that the information 
+is accessible when it is required (availability) and that the data can be 
+assured to have not been tampered with (integrity). In addition, enabling 
+C4IS capabilities must be capable of being held at a readiness that matches 
+the readiness of the air assets, irrespective of the number of aircraft that are 
+ultimately employed. This drives a requirement for a C4IS capability that is air 
+transportable, agile61  and scalable.62
+60 See JDP 4-00, Logistics for Joint Operations  for more details.
+61 Agile – meaning that the information system can be reconfigured to accommodate 
+unforeseen changes in basing strategy, command and control arrangements, coalition 
+partners and their requirements, and differing aircraft requirements.
+62 Scalable – meaning they can be expanded incrementally as the user community grows.
+
+83
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+4.28. The criticality of C4IS to generating and 
+delivering air power provides an opportunity 
+for adversaries and other actors to disrupt air 
+operations via cyberattack. As has been seen 
+with recent cyberattacks on civilian networks,63  
+such methods are difficult to attribute64  and can 
+be executed by malicious individuals, highly 
+capable threat organisations or states. The rapid 
+development of offensive cyber capabilities offers 
+adversaries the potential of targeting our C4IS 
+systems, which could have a significant effect on 
+air power employment. Understanding the threat 
+to, and vulnerability of, these systems will allow 
+an evaluation of the associated risks. Identifying 
+and understanding such capabilities provides 
+the opportunity to develop means of protection 
+through defensive cyber operations.
+Protect
+4.29. Air power projection relies on the protection of a network of operating 
+bases, people, aircraft, C4IS networks and logistical nodes in the UK and 
+around the world. Aircraft are scarce, expensive and fragile, and either operate 
+from relatively large, static bases that are difficult to disguise, or from small, 
+remote forward operating bases or forward arming and refuelling points. Force 
+protection is required to ensure the freedom of action to operate from such 
+bases and to help mitigate the strategic consequences that could arise from 
+the loss of highly capable aircraft.65
+4.30. An early-entry force protection capability at the outset of an operation 
+secures operating bases and enables the deployment of air power. 
+Subsequent air operations are protected through coordinated activities and 
+measures, both on the operating base and within any assigned ground 
+defence area, established beyond the airbase perimeter. Successful force 
+protection relies on a detailed understanding of how the airbase operates, 
+its resident capabilities and the local physical, human and information 
+63 An example of such a cyberattack was the malware attack on the company computer 
+network of Maersk in 2017, which severely disrupted their global shipping operations for 
+two weeks.
+64 Thus, perfect for sub-threshold activities.
+65 Since air power can be projected directly from the UK, force protection considerations 
+apply equally to non-deployed capabilities.
+An RAF communications infrastructure 
+technician working on an antenna in Cyprus
+
+84
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+terrain that surrounds it.66  Air force protection measures fall into four broad 
+categories, underpinned by force protection, command and control, and timely 
+intelligence, which are:
+• active defence, which involves measures necessary to deter, 
+prevent, nullify or reduce the effectiveness of an adversary attack 
+(both in the air and on the ground); 
+• passive defence, which involves measures to minimise the effects 
+of adversary attack, including the hardening of key facilities; 
+camouflage, concealment and deception; dispersion of key assets; 
+and counter-chemical, biological, radiological and nuclear activity; 
+• recuperation, which covers all measures necessary for air 
+capabilities to recover from the effects of an attack, restore 
+essential services and enable air operations to continue; and
+• security, comprising the organised systems of defensive measures 
+instituted to ensure that key information, materiel, personnel and 
+installations are protected against terrorism, espionage, sabotage, 
+subversion and organised crime. Additionally, the criticality of 
+security is reinforced by the current and future requirements for 
+secure information access to enable fifth generation platform 
+operations and further development.
+4.31. Due to the likely criticality of 
+securing an airport of embarkation as part 
+of a non-combatant evacuation operation 
+(NEO), and as NEOs have proved to require 
+a short-notice rapid response, air force 
+protection elements should be kept at an 
+appropriately high level of readiness as part of 
+a joint rapid reaction force.
+66 See ATP-3.3.6, NATO Force Protection Doctrine for Air Operations  for more detail on air 
+force protection considerations and capabilities.
+An RAF Police dog handler with his military 
+working dog in the Falkland Islands
+
+85
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+Force protection in action – Operation Pitting
+On 15 August 2021 following a rapid offensive, Afghanistan’s capital, 
+Kabul, fell to the Taliban. In the days that followed a multinational NEO was 
+undertaken; the UK’s contribution to which, Operation Pitting, became 
+the largest such national effort since World War 2. Centred around the 
+international airport at Kabul and involving approximately 1,000 military 
+personnel, predominantly from 16 Air Assault Brigade, the UK military 
+enabled the evacuation of UK nationals, embassy staff and Afghans eligible 
+for relocation. Within 24 hours an airbridge was established between 
+the UK and Afghanistan with RAF Voyager, A-400M, C-17 and C-130J 
+Hercules aircraft conducting evacuation flights. Key to these operations 
+was the security provided by 16 Air Assault Brigade, with RAF Regiment 
+and RAF Police personnel providing air force protection specialist 
+capabilities who, in conjunction with US and allied forces, successfully 
+took control of the airport. Whilst access to the airport, as well as the city 
+at large, remained under Taliban control, the presence of a capable force 
+protection force enabled movement staff to rapidly turnaround and load 
+aircraft unhindered. Between the start of the operation and the final flight 
+on 28 August 2021, in excess of 15,000 people were flown out of Kabul by 
+the RAF; including 436 people on a single C-17 flight, triple the aircraft’s 
+designed capacity and the highest capacity flight in RAF history. 
+Generating air power
+4.32. Organisationally, the UK delivers deployed air power primarily through 
+the RAF’s expeditionary air wing (EAW) model, aviation task forces provided 
+by the Joint Helicopter Command (JHC) or via a Royal Navy CSG. These are 
+discussed in more detail below.
+a. Expeditionary air wings. EAWs provide the enabling functions 
+for a deployed operating base, with or without the assistance of a 
+host nation. They are scaled to meet the operational requirement, 
+from a small deployment in support of one force element (potentially 
+even a single aircraft) through to a large-scale deployment operating 
+multiple types of aircraft covering all four air power roles. EAWs may be 
+
+86
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+permanent to provide air power within a long-term theatre,67  or ad hoc 
+in response to a specific, temporally bounded operational commitment.
+b. Aviation task forces. The JHC provides rotary wing combat power 
+via scalable high readiness aviation task forces (ATFs). These are task 
+organised to meet the operational requirement with assets drawn from 
+the most appropriate aviation organisation. To support land operations, 
+the British Army’s Aviation Brigade Combat Team can generate two 
+ATFs; the Commando Helicopter Force can provide an ATF to support 
+littoral operations; and the Support Helicopter Force can provide an 
+ATF to support air assault, air mobility, humanitarian assistance and 
+disaster relief tasks. ATFs train for worldwide, contested, multi-domain 
+operations and act as the vanguard of JHC combat forces. 
+c. Carrier strike group. A CSG is the UK term given to describe the 
+capability underpinned by the Queen Elizabeth Class aircraft carriers. 
+It is an integrated and sustainable joint capability, interoperable 
+with NATO allies and other coalition partners. It draws together the 
+coordinated operation of the aircraft carriers, combat and support 
+aircraft, and enabling capabilities to conduct the four roles of air 
+power.68  The Royal Navy’s Fleet Air Arm, as well as suitably trained and 
+marinised69  RAF and British Army force elements can all operate from 
+the maritime domain as part of a CSG.70 In addition, key international 
+and coalition partners, especially other F-35B owning nations can 
+contribute to CSG operations. 
+67 Such as 905 Expeditionary Air Wing based at RAF Mount Pleasant in the Falkland 
+Islands.
+68 Within the maritime domain, the terms ‘carrier strike’ and ‘rotary strike’ are used to 
+describe attacks against land targets using embarked fixed-wing and attack helicopters 
+respectively. See The Fighting Instructions Book of Reference (digital) (BRd) 4487, 
+Volume 2.1, Strike Warfare.
+69 Marinised refers to the design, redesign or testing of products for use in a marine 
+environment. Most commonly, it refers to use and long-term survival in harsh, highly 
+corrosive salt water conditions. It is also taken to refer to the adaption of non-naval 
+personnel to the requirements of operating at sea.
+70 For attack operations the CSG operates F-35B Lightning, Apache and Wildcat aircraft 
+supported by the multi-role Merlin Mk 2 for ISR support. For littoral manoeuvre and special 
+forces operations, a mixed air group may be used comprising Chinook and Merlin for air 
+mobility and Wildcat and Apache for attack.
+
+87
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+Section 4 – Employing air power
+4.33. In an operating environment defined by complexity and uncertainty, our 
+air forces are capable of exerting air power for strategic effect across a range 
+of tasks, whether deterring adversaries, delivering aid rapidly around the globe, 
+building partnerships through multinational exercise participation or delivering 
+decisive actions in combat. Defence is required to operate on a campaign 
+basis to counter persistent sub-threshold competition, whilst retaining the 
+ability to conduct combat operations above the threshold of armed conflict.71 
+Whilst not a doctrinal framework, the Integrated Operating Concept72 functions 
+of operate (protect, engage, constrain) and warfight provide a useful structure 
+through which the employment of UK air power can be viewed.
+Protect
+4.34. One of the principal purposes of Defence is to contribute to the security 
+and resilience of the home base. A secure home base acts as the first tier of 
+71 As outlined within Global Britain in a competitive age: The Integrated Review of 
+Security, Defence, Development and Foreign Policy , March 2021.
+72 For more information see the Integrated Operating Concept , August 2021.
+A Typhoon FGR4 intercepts and escorts a Russian SU-30 over the Baltic Sea as part  
+of the NATO Baltic Air Policing Mission
+
+88
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+deterrence by denial.73  UK air power 
+plays a critical role in supporting the 
+defence of the homeland and Overseas 
+Territories by maintaining the integrity of 
+sovereign airspace and ensuring freedom 
+of manoeuvre. Typhoon aircraft are on 
+permanent standby in the UK and the 
+Falkland Islands to provide national 
+defence and security and to assure 
+control of the air through combat air patrol 
+or quick reaction alert. A robust system 
+of command and control is a critical 
+element of this, as are our allies, who help 
+provide the necessary early warning. The 
+UK’s ability to rapidly reinforce the home 
+base air policing posture in the event of 
+a specific threat or increased security risk provides operational flexibility and a 
+clear demonstration of capability to potential adversaries.74    
+4.35. The ultimate guarantee to the UK’s safety is provided by the nuclear 
+continuous at sea deterrent. Although details are classified, air power provides 
+a key enabling role to provide sustainment, protection and intelligence. Royal 
+Navy rotary wing aircraft are employed in this capacity, as are the RAF’s 
+P-8 Poseidon maritime patrol aircraft, which conduct specialist military data 
+gathering in support of maritime operations to deliver the nuclear deterrent.
+4.36. Air power can also be employed to enhance resilience within the UK 
+via support to civil authorities, usually in response to natural disasters, such as 
+flooding, or to terrorist attacks. Air mobility (both rotary wing and fixed-wing) 
+and ISR aircraft are of most utility and can be employed to provide niche 
+capabilities that civilian agencies may lack; most recently this capability was 
+used during the COVID-19 pandemic with specialist aeromedical airlift being 
+used to move patients around the UK. ISR aircraft have also been used to 
+provide imagery of disaster hit areas and help look for missing persons, both 
+on land and in coastal waters.75
+73 In this context, the home base, including its airspace, territorial waters or exclusive 
+economic zone, is the UK homeland, Overseas Territories and Crown Dependencies, 
+permanent joint operating bases, and key lines of communication.
+74 For example, deploying six Typhoon aircraft to RAF Akrotiri in 2013 to protect the base 
+from the threat of attack from Syrian aircraft. The aircraft were operational in Cyprus within 
+72 hours of being tasked in the UK.
+75 See JDP 02, UK Operations: the Defence Contribution to Resilience for more detail on 
+air power’s role in support to the UK civil authorities.
+A Chinook placing sandbags on Toddbrook Reservoir  
+in 2019 in support of local authority operations to 
+protect the town of Whaley Bridge
+
+89
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+Engage
+4.37. The purpose of engage is prevent conflict, build stability and gain 
+influence. Engage is founded on a forward deployed and persistent posture 
+that is integrated with other government departments and is engaged 
+internationally with our networks of allies. Air power is well placed to provide 
+influence and understanding through a variety of means. Forward deployment 
+of air assets, whether temporary or permanent, is not a new concept; speed 
+and reach allows the UK to deploy air power globally, either episodically in 
+response to a specific situation or permanently as part of a bilateral security 
+approach with another nation. For example, permanent EAWs within the 
+Middle East provide mutual assurance to the hosting nations as well as 
+strategic airbases from which to project UK air power.
+4.38. The reputation and professionalism earned by the RAF, Fleet Air Arm 
+and Army Air Corps through performance on operations means that UK 
+air power is held in high regard by both allies and potential partners. The 
+subsequent demand for visits, collaborative training, exercise participation, 
+both in the UK and abroad, and exchange officer programmes provides the 
+opportunity to exert influence and gain understanding. Such engagement not 
+only improves the capacity of host nations to handle their own internal security 
+challenges and establishes enduring relationships with regional military and 
+political leaders but also represents a commitment that demonstrates the 
+UK’s resolve. Air power can also be employed through engagement to fly the 
+The Red Arrows perform above Expo 2020 Dubai
+
+90
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+flag for broader UK government activities. Display teams such as the RAF 
+Aerobatic Team, the Red Arrows, through participation in international displays 
+around the world support defence export programmes and provide a visible 
+demonstration of UK air power excellence to a broad audience.
+4.39. Air power’s speed of response in support of disasters, such as 
+earthquakes, flood or famine, can also generate a spirit of goodwill or 
+alleviate previously held grievances, thereby promoting security and stability. 
+Consequently, this task contributes to gaining and preserving access and 
+freedom of action by building alliances and partnerships, which is vital for air 
+power projection. 
+Constrain
+4.40. The purpose of constrain is to compel an adversary towards a course 
+of action or to severely restrict the scope of their ambition or activity. Activities 
+in the constrain function form an important element of deterrence; they 
+demonstrate resolve and capability, as well as imposing costs on an adversary. 
+Activities with the purpose of constraining allow the UK to shape the strategic 
+environment in our national interest. Constrain can include the application of 
+hard power in a state of armed conflict, but also below the threshold of armed 
+conflict, to achieve strategic objectives when the threat demands it. 
+4.41. Air power can be used to signal clear political intent through a range 
+of measures, such as the overt deployment of combat aircraft to a particular 
+region or intensified peacetime training exercises. It can contribute to 
+stabilising a crisis situation through the airborne insertion of personnel into 
+a region where conflict threatens to spill over into neighbouring states. It 
+can provide implicit deterrence by deploying ISR aircraft to warn a potential 
+aggressor that their actions are being watched and could provoke a response. 
+Ultimately, it can also deliver strategic attack deep into an adversary’s territory 
+to deny an adversary the assurance that their homeland can be kept safe. 
+UK air power’s reach via air-to-air refuelling, airlift capacity and advanced 
+combat air capabilities provided by the F-35B Lightning II may be employed 
+to conduct, or facilitate, ‘strategic raiding’, whether as part of a joint force or 
+as a stand-alone air operation. Where constrain activities escalate to broader 
+combat operations, control of the air will need to be established or assured in 
+a threat environment where near-peer adversaries and third parties could be 
+operating air threats ranging from small uncrewed aircraft systems through to 
+advanced fighters and surface-to-air missile systems.
+
+91
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+Countering Russian aggression in Ukraine    
+On 24 February 2022, Russia invaded Ukraine in a major escalation of the 
+Russo–Ukrainian conflict that began in 2014 with the annexation of the 
+Crimea and the seizure of parts of south-eastern Ukraine by Russian-backed 
+separatists. The UK and its NATO allies responded quickly to enhance 
+Ukraine’s defence capability whilst simultaneously strengthening collective 
+defence measures in Eastern Europe. Air power was at the vanguard of 
+the response. The rapid delivery of defensive lethal aid by air, especially 
+shoulder-fired anti-armour weaponry, proved critical to halting Russian 
+armoured columns attempting to encircle and seize the Ukrainian capital 
+Kyiv, thereby denying Russia a quick strategic victory. Enhanced air policing 
+activity to secure NATO airspace and reassure member states in Eastern 
+Europe was enacted within 24 hours of the invasion commencing, providing 
+a clear deterrence message to Russia. The UK’s contribution centred around 
+fully armed Typhoon aircraft operating from the UK and Cyprus which, 
+supported by Voyager air-to-air refuelling aircraft, helped patrol the NATO 
+airspace over Poland and Romania. In addition, the UK’s intention to robustly 
+defend NATO territory and airspace against any Russian aggression was 
+further demonstrated through the temporary deployment of F-35B Lightning II 
+aircraft to Estonia and providing Wildcat helicopter air support to the UK-led 
+NATO multinational battlegroup based within the country. UK air power 
+participation in multinational exercises within the region was also increased, 
+such as on Exercise Swift Response, which brought together 40 aircraft, 
+including UK Typhoons and Apaches to overtly practise close air support 
+missions, thereby sending a clear message regarding NATO’s capability to 
+employ overwhelming force from the air if necessary. 
+Warfight
+4.42. A transition to a warfighting campaign is an escalation from constrain 
+and is a tool of last resort. The purpose of a warfighting campaign is the 
+delivery of lethal violence focused in such a manner that it compels an enemy 
+to acquiesce to the UK’s or its coalition’s will. The ability and willingness 
+to commit capability to fighting wars is the foundation of our influence and 
+deterrence. In this scenario, the key role of air power is to defeat an adversary’s 
+air forces to gain and maintain an acceptable degree of control of the air; 
+without this, warfighting at scale against a peer, or near-peer, adversary is 
+
+92
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+unwinnable. The proliferation of advanced A2AD systems mean that the UK, 
+and NATO, cannot take for granted the freedom to operate in the air domain as 
+has been the case during all operations since the first Gulf War. Air power also 
+provides the ability to mass firepower quickly in response to an adversary’s 
+attack, often while land and maritime forces marshal and deploy. 
+“
+Invincibility lies in the defence; the possibility of  
+victory in the attack.
+Sun Tzu
+
+ 
+Key points
+• Although air power is capable of independently achieving desired political 
+objectives, it works most effectively when used with the other components 
+of military power through integrated action.
+• Through air power’s flexibility, and the speed with which it can reach the 
+engagement space, it provides vital projection and sustainment, thus 
+offering significant military advantage.
+• Effective cross-domain integration depends on mutual trust and 
+understanding, built on well-established cooperation between the single 
+Services.
+• The ability to deliver each of the four air power roles is dependent on four 
+critical enablers: base, sustain, connect and protect.
+• Air power can be employed across the functions of protect, engage, 
+constrain and, in extremis, warfight.
+93
+JDP 0-30 (3rd Edition)
+4
+The employment of air power
+
+94
+JDP 0-30 (3rd Edition) 
+4
+The employment of air power
+Notes
+
+Lexicon
+Section 1 – Acronyms and abbreviations
+A2AD   anti-access and area denial
+AAR   air-to-air refuelling
+ACA   airspace control authority
+AJP   Allied joint publication
+ALI   air-land integration
+AMDC   air and missile defence commander
+AMI   air-maritime integration
+AOCC (M)  air operations coordination centre (maritime)
+AOD   air operations directive
+AP   Air Publication
+ASACS   air surveillance and control system
+ATF   aviation task force
+ATO   air tasking order
+ATP   Allied Tactical Publication
+BAI   battlefield air interdiction
+BRd   Book of Reference (digital)
+C4IS   command, control, communication, computers and 
+   information system
+CAOC   combined air operations centre
+CAS   close air support
+CBRN   chemical, biological, radiological and nuclear
+CFACC   combined force air component commander
+COED   Concise Oxford English Dictionary
+CRC   control and reporting centre
+CSG   carrier strike group
+DCA   defensive counter-air
+DCDC   Development, Concepts and Doctrine Centre
+EAW   expeditionary air wing
+EME   electromagnetic environment
+95
+JDP 0-30 (3rd Edition)
+Lexicon
+
+FLOT   forward line of own troops
+FSCL   fire support coordination line
+GAT   guidance, apportionment and targeting
+GPS   Global Positioning System
+ISR   intelligence, surveillance and reconnaissance
+JAOC   joint air operations centre
+JAOP   joint air operations plan
+JDP   joint doctrine publication
+JFACC   joint force air component commander
+JFAC HQ  joint force air component headquarters
+JFC   joint force commander
+JHC   Joint Helicopter Command
+JTAC   joint terminal attack controller
+KBI   kill box interdiction
+MAOP   master air operations plan
+MOD   Ministry of Defence
+NASOC   National Air and Space Operations Centre
+NATO   North Atlantic Treaty Organization
+NEO   non-combatant evacuation operation
+OCA   offensive counter-air
+PED   processing, exploitation and dissemination
+RAF   Royal Air Force
+SAM   surface-to-air missile
+SCA   space coordinating authority
+SCAR   strike coordination and reconnaissance
+UN   United Nations
+US   United States
+96
+JDP 0-30 (3rd Edition) 
+Lexicon
+
+Section 2 – Terms and definitions
+This section is divided into two parts. First, we list new definitions that will be 
+added to JDP 0-01.1, UK Terminology Supplement to NATOTerm followed by 
+already endorsed terms and definitions.
+New definitions
+remotely piloted aircraft  
+An uncrewed aircraft that is controlled from a remote pilot station by a pilot 
+who has been trained and certified to the same standards as a pilot of a 
+crewed aircraft. (JDP 0-30, 3rd Edition)
+uncrewed aircraft 
+An aircraft that does not carry a human operator and is operated remotely 
+using varying levels of automated functions.  
+Notes: 1. Uncrewed aircraft can be expendable or recoverable.  
+2. Uncrewed aircraft may carry a lethal or non-lethal payload.  
+3. Cruise missiles are not considered uncrewed aircraft.   
+(JDP 0-30, 3rd Edition)
+uncrewed aircraft system 
+A system whose components include the uncrewed aircraft, the supporting 
+network and all equipment and personnel necessary to control the uncrewed 
+aircraft. (JDP 0-30, 3rd Edition)
+Endorsed definitions
+aircraft 
+Any machine that can derive support in the atmosphere from the reactions 
+of the air other than the reactions of the air against the earth’s surface. 
+(NATOTerm)
+air mobility 
+A fundamental role of air power which enables movement, manoeuvre and 
+sustainment. (AP3002, 4th Edition)
+air power 
+The ability to use air capabilities in and from the air, to influence the behaviour 
+of actors and the course of events. (JDP 0-01.1)
+97
+JDP 0-30 (3rd Edition)
+Lexicon
+
+attack 
+A fundamental role of air power which can coerce and influence actors into 
+changing or maintaining behaviour. (AP3002, 4th Edition)
+automated 
+Pertaining to a system that, in response to inputs, follows a predetermined set 
+of rules to provide a predictable outcome. (NATOTerm)
+autonomous 
+Pertaining to a system that decides and acts to accomplish desired goals, 
+within defined parameters, based on acquired knowledge and an evolving 
+situational awareness, following an optimal but potentially unpredictable course 
+of action. (NATOTerm)
+command 
+The authority vested in an individual of the armed forces for the direction, 
+coordination, and control of military forces. (NATOTerm)
+control 
+The authority exercise by a commander over part of the activities of 
+subordinate organizations, or other organizations not normally under their 
+command, that encompasses the responsibility for implementing orders or 
+directives. (NATOTerm)
+control of the air 
+A fundamental role of air power which secures our freedom of action within the 
+air environment. (AP3002, 4th Edition)
+Defence engagement 
+The use of our people and assets to prevent conflict, build stability and gain 
+influence. (JDP 0-01.1)
+fire support coordination line 
+Within an assigned area of operations, a line established by a land or 
+amphibious force commander to denote coordination requirements for fires by 
+other force elements which may affect the commander’s current and planned 
+operations. The fire support coordination line applies to fires of air, ground or 
+sea weapons using any type of ammunition against surface or ground targets. 
+The establishment of the fire support coordination line must be coordinated 
+with the appropriate commanders and supporting elements. Attacks against 
+surface or ground targets short of the fire support coordination line must be 
+98
+JDP 0-30 (3rd Edition) 
+Lexicon
+
+conducted under the positive control or procedural clearance of the associated 
+land or amphibious force commander. Unless in exceptional circumstances, 
+commanders of forces attacking targets beyond the fire support coordination 
+line must coordinate with all affected commanders in order to avoid fratricide 
+and to harmonize joint objectives. 
+Notes: in the context of this definition the term “surface targets” applies to 
+those in littoral or inland waters within the designated area of operations. 
+(NATOTerm)
+forward line of own troops 
+Positions of friendly forces in any kind of military operation at a specific time. 
+(NATOTerm)
+intelligence 
+The product resulting from the directed collection and processing of 
+information regarding the environment and the capabilities and intentions of 
+actors, in order to identify threats and offer opportunities for exploitation by 
+decision-makers. (NATOTerm)
+intelligence, surveillance and reconnaissance 
+A fundamental role of air power, which informs the development of 
+understanding across all environments. (AP3002, 4th Edition)  
+Note: For coherence of terminology the next edition of AP3002 will replace 
+environments with domains.
+interoperability 
+The ability to act together coherently, effectively and efficiently to achieve Allied 
+tactical, operational and strategic objectives. (NATOTerm)
+joint 
+Adjective used to describe activities, operations and organizations in which 
+elements of at least two services participate. (NATOTerm)
+joint action 
+The use of a combination of manoeuvre, fires, information and civil-military 
+cooperation to create physical, virtual and cognitive effects. 
+Notes: Joint action is directed by command and control, informed by 
+intelligence and supported by force protection and sustainment. (NATOTerm)
+99
+JDP 0-30 (3rd Edition)
+Lexicon
+
+multinational 
+Adjective used to describe activities, operations and organisations, in which 
+forces or agencies of more than one nation participate. (NATOTerm)
+operational domain 
+A specified sphere of capabilities and activities that can be applied within an 
+engagement space. (NATOTerm)
+remotely piloted aircraft system 
+A remotely piloted aircraft, its associated remote pilot station(s), the required 
+command and control links and any other components as specified in the type 
+design. (NATOTerm)
+space power 
+Exerting influence in, from or through space. (JDP 0-01.1)
+sustainability 
+The ability of a force to maintain the necessary level of combat power for the 
+duration required to achieve its objectives. (NATOTerm)
+100
+JDP 0-30 (3rd Edition) 
+Lexicon
+
+101
+JDP 0-30 (3rd Edition)
+Lexicon
+
+
+Designed by the Development, Concepts and Doctrine CentreDesigned by the Development, Concepts and Doctrine Centre
+Crown copyright 2022Crown copyright 2022
+Published by the Ministry of DefencePublished by the Ministry of Defence
+This publication is also available at www.gov.uk/mod/dcdcThis publication is also available at www.gov.uk/mod/dcdc
+
+

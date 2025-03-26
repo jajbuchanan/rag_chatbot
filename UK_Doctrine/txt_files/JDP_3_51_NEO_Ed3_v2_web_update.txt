@@ -1,0 +1,3005 @@
+ 
+Joint Doctrine Publication 3-51Non-combatant Evacuation OperationsThird Edition Version 2
+Joint Doctrine Publication 3-51
+Non-combatant Evacuation
+Operations 
+Third Edition Version 2
+
+[Page 2: No extractable text]
+
+i
+JDP 3-51 (3rd Edition, Version 2) 
+Joint Doctrine Publication 3-51
+Non-combatant Evacuation 
+Operations
+Joint Doctrine Publication 3-51 (JDP 3-51)  
+(3rd Edition, Version 2), dated July 2023, is promulgated as 
+directed by the Chiefs of Staff
+Director Development, Concepts and Doctrine Centre
+Conditions of release
+This publication is UK Ministry of Defence (MOD) Crown copyright. Material 
+and information contained in this publication may be reproduced, stored in 
+a retrieval system and transmitted for UK government and MOD use only, 
+except where authority for use by other organisations or individuals has been 
+authorised by a Patent Officer of the Defence Intellectual Property Rights. 
+
+Authorisation
+The Development, Concepts and Doctrine Centre (DCDC) is responsible for 
+publishing strategic trends, joint concepts and doctrine. If you wish to quote 
+our publications as reference material in other work, you should confirm with 
+our editors whether the particular publication and amendment state remains 
+authoritative. We welcome your comments on factual accuracy or amendment 
+proposals. Please contact us via email at: DCDC-DocEds@mod.gov.uk 
+Copyright
+This publication is UK Ministry of Defence © Crown copyright (2023) including 
+all images (unless otherwise stated).
+If contacting Defence Intellectual Property Rights for authority to release 
+outside of the UK government and MOD, the Patent Officer should be 
+informed of any third party copyright within the publication.
+Crown copyright and Merchandise Licensing, Defence Intellectual Property 
+Rights, Central Legal Services, MOD Abbeywood South, Poplar 2 #2214, 
+Bristol, BS34 8JH. Email: DIPR-CC@mod.gov.uk
+Distribution
+All DCDC publications, including a biannual DCDC Publications Disk, can be 
+demanded from the LCSLS Headquarters and Operations Centre. 
+  
+LCSLS Help Desk: 01869 256197 Military Network: 94240 2197
+Our publications are available to view and download on defnet (RLI) at:  
+https://modgovuk.sharepoint.com/sites/IntranetUKStratCom/SitePages/
+development-concepts-and-doctrine-centre-dcdc.aspx
+This publication is also available on the Internet at: www.gov.uk/mod/dcdc
+ii
+JDP 3-51 (3rd Edition, Version 2)
+
+iii
+JDP 3-51 (3rd Edition, Version 2) 
+Preface
+ 
+Purpose
+1. Joint Doctrine Publication (JDP) 3-51, Non-combatant Evacuation 
+Operations provides insight, guidance and points to consider when planning 
+and conducting a non-combatant evacuation operation (NEO). 
+Context
+2. The Foreign, Commonwealth and Development Office (FCDO) is 
+responsible for coordinating the evacuation of British nationals from areas 
+of crises, often with support from other government departments, such 
+as the Ministry of Defence (MOD). Integration between the FCDO and 
+MOD is paramount to success, whether it is through planning support or 
+providing military assets to conduct a NEO. The necessary interaction for 
+this type of crisis is recognised in a service level agreement between the two 
+departments.
+Audience
+3. JDP 3-51 is intended for use primarily by military commanders and their 
+staff at the strategic and operational levels of command. The publication also 
+acts as a useful guide to diplomatic staff serving in the UK and overseas. It 
+should inform local FCDO contingency evacuation plans where appropriate. 
+Although the doctrine highlights some tactical-level considerations, it does not 
+attempt to cover tactics, techniques and procedures.1 
+4. A NEO is a non-discretionary operation that often requires a national 
+response. Differing interests and risk thresholds often result in countries 
+responding to crisis in different ways. Although evacuations are likely to be 
+conducted in a multinational setting, the interaction between nations will 
+probably be limited to the coordination of separate national plans rather than a 
+unified multinational endeavour. However, commanders and their staff should 
+read North Atlantic Treaty Organization (NATO) doctrine on NEOs in addition to 
+1 Permanent Joint Headquarters is responsible for providing tactical-level guidance on 
+NEOs.
+
+iv
+JDP 3-51 (3rd Edition, Version 2)
+this publication to understand the challenges of operating as part of a coalition 
+when conducting a multinational evacuation.2
+Structure
+5. JDP 3-51 is divided into five chapters and includes a lexicon. An overview 
+of the chapters is as follows.
+a. Chapter 1 – Context, characteristics and process. Chapter 1 
+describes the context in which a NEO may be authorised, the 
+characteristics of a NEO that make it different from other crisis response 
+operations and the evacuation process.
+b. Chapter 2 – Responsibilities and command and control. Chapter 2 
+describes the various roles and responsibilities of the FCDO and the MOD. 
+Moreover, it discusses how an inter-agency NEO is commanded and 
+controlled.
+c. Chapter 3 – Planning. Chapter 3 explains what planning occurs at 
+the strategic and operational levels. It describes how planning should take 
+place with partners across government and several factors particular to 
+a NEO. Annex 3A lists the key themes to be included in the operational 
+estimate. Annex 3B describes the legal basis for a NEO. 
+d. Chapter 4 – Implementing a non-combatant evacuation operation.  
+Chapter 4 describes the phases of a NEO. Annex 4A describes the key 
+characteristics of the staging posts within an evacuation chain.
+e. Chapter 5 – Service support. Chapter 5 provides guidance on both 
+logistic and medical considerations necessary for a successful NEO.
+Linkages
+6. JDP 3-51 complements Allied Joint Publication (AJP)-3, Allied Joint 
+Doctrine for the Conduct of Operations (with UK national elements), JDP 4-00, 
+Logistics for Joint Operations and AJP-5, Allied Joint Doctrine for the Planning 
+of Operations (with UK national elements) and should therefore be read in 
+conjunction with these core publications. JDP 3-51, 3rd Edition, Version 2 
+supersedes JDP 3-51, 3rd Edition.
+2 Allied Joint Publication (AJP)-3.4.2, Allied Joint Doctrine for Non-combatant Evacuation 
+Operations. AJP-3.4.2 also provides a degree of tactical-level guidance.
+
+v
+JDP 3-51 (3rd Edition, Version 2) 
+Version 2 changes
+7. Since publication of the third edition of JDP 3-51 in March 2021, the 
+MOD has supported the FCDO in three substantial NEOs: Afghanistan (2021), 
+Ukraine (2022) and Sudan (2023). The successful evacuation from Kabul in 
+2021 (Operation Pitting) was the largest such operation in over 70 years and 
+was followed by a comprehensive Defence-wide review conducted by Defence 
+Operational Capability.3 The recommendations from their assessment of 
+Operation Pitting have driven the majority of amendments in this new version, 
+together with observations from Ukraine (Operation Copperwing) and more 
+recently Sudan (Operation Polarbear), which have reinforced many of the 
+lessons from Kabul. 
+8. This revised version contains substantial additions to Chapter 3, including 
+greater detailed guidance on: operational waivers and dispensations; the 
+development of cross-government indicators and warnings; the employment of 
+an operational reserve; anticipating a surge in application interest from eligible 
+persons at the point of crisis; and additional guidance on eligibility checks and 
+processing capacity. Annex 4A contains new guidance on the selection of 
+the evacuation handling centre and temporary safe location, including reserve 
+or secondary locations, and processing capacity. Finally, Chapter 5 contains 
+revised logistic and medical guidance.  
+9. Through liaison with the principal organisations across Defence involved in 
+supporting and learning from such operations (Security Policy and Operations, 
+Permanent Joint Headquarters, Joint Force Headquarters, Defence 
+Operational Capability), and other government departments (principally the 
+FCDO and the Home Office), this revised version avoids capturing lessons 
+from specific circumstances and seeks to convey enduring themes and 
+considerations that are applicable to any subsequent NEO. This new version of 
+JDP 3-51 remains military doctrine that is principally for military commanders 
+and planners; however, partners from both the FCDO and Home Office have 
+had input to these revisions, reflecting an integrated national approach to 
+planning and execution.  
+3  Op PITTING Defence Operational Capability Assessment 06/21 . Minister for Armed 
+Forces endorsed 26 September 2022.
+
+vi
+JDP 3-51 (3rd Edition, Version 2)
+
+vii
+JDP 3-51 (3rd Edition, Version 2) 
+Contents
+Preface  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+Chapter 1 – Context, characteristics and process . . . . . . . . 1
+Chapter 2 – Responsibilities and command and control . . . . . 17
+Chapter 3 – Planning  . . . . . . . . . . . . . . . . . . . . . . 27
+Chapter 4 – Implementing a non-combatant evacuation  
+                    operation. . . . . . . . . . . . . . . . . . . . . . 57
+Chapter 5 – Service support. . . . . . . . . . . . . . . . . . . 77
+Lexicon  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+
+[Page 10: No extractable text]
+
+Chapter 1 describes the context in which a non-combatant 
+evacuation operation may be authorised, the characteristics 
+of a non-combatant evacuation operation that make it 
+different from other crisis response operations and the 
+evacuation process.
+Section 1 – Background . . . . . . . . . . . . . . . . 3
+Section 2 – The operating environment  . . . . . . . . 4
+Section 3 – Characteristics of a non-combatant  
+                   evacuation operation  . . . . . . . . . . . 5
+Section 4 – The process. . . . . . . . . . . . . . . . 8
+Key points . . . . . . . . . . . . . . . . . . . . . . . 14
+1
+JDP 3-51 (3rd Edition, Version 2) 
+Chapter 1
+
+”
+“NEOs are about people.  
+The most powerful factor in 
+delivering mission success was the 
+agile mindset of all personnel in the 
+Rapid Extraction Task Force.
+ 
+Commanding Officer,  
+40 Commando Royal Marines,  
+Op POLARBEAR – 40 Commando Royal 
+Marines Post Operation Report, 12 June 2023 
+2
+JDP 3-51 (3rd Edition, Version 2)
+1
+Context, characteristics and process
+
+Chapter 1
+Context, characteristics 
+and process
+Section 1 – Background
+1.1. The safety and security of British nationals overseas is the responsibility 
+of the country that these individuals are resident, or temporarily located within 
+(except the case of UK government staff who remain the responsibility of the 
+Foreign, Commonwealth and Development Office (FCDO)). Notwithstanding 
+this, in the event of a crisis that requires eligible persons to be evacuated, 
+it will be the FCDO who coordinates the evacuation.4 Depending on the 
+nature of the crisis, the FCDO may request support from other government 
+departments, including the Ministry of Defence (MOD). Support from the MOD 
+may vary in scale from a limited planning support function to a fully resourced 
+non-combatant evacuation operation (NEO).
+1.2. A NEO is defined as: an operation conducted to relocate designated 
+non-combatants threatened in a foreign country to a place of safety.5 A  
+NEO supports a FCDO-led evacuation. A non-combatant who is eligible  
+for evacuation by the UK is termed an eligible person. Eligible persons will 
+include British nationals and those individuals from other nations for whom 
+the UK government and His Majesty’s Representative6 have accepted 
+responsibility. An individual’s eligibility will be determined by the FCDO and  
+Border Force. 
+1.3. Multiple states are likely to be affected by a crisis in a country where 
+there is a significant multinational community. The decision to evacuate 
+respective nationals by these countries will rarely be simultaneous due to their 
+perception of the threat, domestic pressures and the nature of their interests in 
+the given country. However, a decision to respond by one country often has a 
+catalysing effect on others to do likewise. As a result of the inherent variance in 
+national political thresholds for action and the potential speed of onset, NEOs 
+4 Crises could include: countries in conflict; civil disorder; or natural disasters.
+5 NATOTerm.
+6 His Majesty’s Representative will be the ambassador or most senior diplomat in 
+country.
+3
+JDP 3-51 (3rd Edition, Version 2) 
+1
+Context, characteristics and process
+
+are unlikely to be conducted as a multinational operation acting under a single 
+headquarters.7 
+1.4. The legal basis. The provisions of national and international law limit the 
+conduct of all military operations, including NEOs. The legal justification for the 
+UK Armed Forces to enter another state to evacuate eligible persons may arise 
+in different ways, based on a variety of factors. These may include the consent 
+of the host government and its ability or willingness to protect foreign nationals 
+during crisis. See Annex 3B for more information on legal issues and the rules 
+of engagement.
+Section 2 – The operating environment
+1.5. The degree of access afforded by the host government afforded by 
+the host government, or irregular actors operating within the crisis area, will 
+determine the level of threat and risk to the eligible persons and external 
+military forces during a NEO. There are three levels of permissiveness which, 
+although not designed to be prescriptive, should be considered during the 
+planning process. 
+a. Permissive environment. No resistance to an evacuation is 
+expected in a fully permissive environment. In such circumstances there 
+will be host government consent and, most likely, host-nation support 
+for the evacuation of those wishing to leave. Therefore, scheduled or 
+chartered civil aircraft and shipping would be used if possible. Although 
+military resources are unlikely to be required to provide security,8 they 
+may be needed for logistic support, emergency medical treatment and 
+transport. Military staff should monitor the situation closely and plan for 
+a range of contingencies, including a deteriorating situation and descent 
+into a less permissive environment. 
+b. Uncertain environment. Under these circumstances, the host 
+government is likely to have effective control of most of its security forces 
+and is not expected to interfere with the conduct of a NEO. However, the 
+host government may not have effective control of the territory and/or 
+population in an area containing eligible persons. The level of host-nation 
+7 Although sharing resources and the need for deconfliction will most likely occur in a 
+multinational context (see paragraph 3.26 for more information).
+8 There may be a requirement for certain security-related tasks to be carried out by the 
+joint task force, for example, following a natural disaster where local security forces are no 
+longer effective.
+4
+JDP 3-51 (3rd Edition, Version 2)
+1
+Context, characteristics and process
+
+support may be affected by the environment. There may be irregular 
+actors, armed or unarmed, organised or disorganised, that will create a 
+climate of insecurity and a threat to eligible persons and the evacuating 
+force. Planning for a NEO conducted in an uncertain environment must 
+anticipate possible escalation to a hostile environment.
+c. Hostile environment. A NEO conducted in a hostile environment 
+would most commonly occur when either the host government: has 
+lost control (or ceased to function altogether), resulting in a general 
+breakdown in law and order; or is hostile to those countries conducting 
+the NEO. Eligible persons and the evacuating force may be directly 
+targeted, and their lives increasingly threatened. The host government’s 
+security forces cannot be expected to support, and may even obstruct,  
+a NEO.
+1.6. Each NEO is likely to be unique in character. The context within which 
+a NEO takes place will provide the information necessary for commanders 
+to decide their force generation and planning options. How these different 
+variables come together will determine the operating environment.9
+Section 3 – Characteristics of a 
+non-combatant evacuation operation
+1.7. Speed of response. The national, regional and international political 
+context and the unpredictable nature of a crisis can condense the period 
+available to military forces to plan and execute a NEO.10 The constant 
+monitoring of those countries at risk, regular reviews of diplomatic posts’11 
+crisis management plans12 and any associated military contingency planning, 
+all help to produce operational plans at short notice.13 
+9 See Allied Joint Publication (AJP)-5, Allied Joint Doctrine for the Planning of Operations 
+(with UK national elements) for information on operational analysis and planning.
+10 Typically, an evacuation will start within 2–5 days of the request for a NEO being made. 
+Defence Science and Technology Laboratory, The Historical Characteristics of NEO , 20 
+December 2011.
+11 A diplomatic post is a generic term for a His Majesty’s Government Embassy or High 
+Commission located in a foreign country.
+12 A crisis management plan is a plan (usually produced by the diplomatic post) that 
+establishes a procedure for responding to a crisis, including the evacuation of eligible 
+persons.
+13 Such issues are addressed on a regular basis by the FCDO-led cross-government NEO 
+working group.
+5
+JDP 3-51 (3rd Edition, Version 2) 
+1
+Context, characteristics and process
+
+1.8. Understanding. Paramount to any successful NEO is the level of 
+understanding of the key destabilising factors within a country, along with a 
+realistic assessment of future events.14 This level of scrutiny cannot be applied 
+to every country, so an FCDO15/MOD agreed list of high-risk countries helps 
+provide focus and direction. However, what cannot be mitigated against is 
+the possibility that a previously ‘no-risk’ or ‘low-risk’ country degrades rapidly, 
+leading to an urgent need for evacuation. The quick and efficient use of a 
+MOD operational liaison and reconnaissance team (OLRT) 16 and a FCDO rapid 
+deployment team17 will help develop an understanding of the crisis as it unfolds 
+to support operational planning.18 
+14 Further guidance on developing understanding is contained in Joint Doctrine 
+Publication (JDP) 04, Understanding and Decision-making .
+15 From the Crisis Management Department.
+16 Information on the OLRT can be found at Chapter 4.
+17 A rapid deployment team comprises FCDO personnel (typically up to eight) who remain 
+at short notice to deploy to assist/augment a diplomatic post in a time of crisis. Typically, 
+they deploy to airports and seaports to assist with processing of eligible persons. They 
+may include representatives from the Border Force. The rapid deployment team is made 
+up of FCDO staff who volunteer for this additional role. At a time of crisis they may choose 
+not to deploy to a high-risk environment.
+18 There may be other operational considerations beyond the NEO, such as a parallel 
+response to a natural disaster.
+© Reuters
+6
+JDP 3-51 (3rd Edition, Version 2)
+1
+Context, characteristics and process
+Understanding the key destabilising factors within a country is paramount
+
+1.9. Recognised eligible persons picture. Gaining clarity and information 
+on the numbers and location of eligible persons requiring evacuation will be 
+a priority for the planning community. A recognised eligible persons picture 
+should be built and maintained for every country. As a crisis becomes 
+increasingly imminent, the FCDO will endeavour to develop this picture; 
+assisting this will be a recognised task for the OLRT. It will seldom be possible 
+to provide absolute numbers and locations of eligible persons due to the:
+• FCDO’s dependence on eligible persons making themselves known;
+• constantly shifting numbers and locations of these eligible persons; 
+• confusion about the eligibility of relatives and partners of British 
+nationals; and
+• FCDO’s limited ability to communicate in real time with eligible 
+persons, many of whom may be tourists.
+1.10. The recognised eligible persons picture and planning.  Early liaison 
+between the FCDO, the MOD and high-profile eligible persons, will help 
+to establish a common recognised eligible persons picture for coherent 
+planning. This picture will be an essential planning tool and will form the 
+basis of the scaling of force elements, which are then held at readiness. 
+Much of the information that informs this picture is generated using electronic 
+communications; in a crisis this electronic information may be unavailable 
+or denied and this will impact on the speed and clarity of the recognised 
+eligible persons picture. Seldom will the picture be wholly accurate, and it will 
+likely become inaccurate very quickly as eligible persons leave the crisis area 
+without notification. Eligible persons may also choose to remain in country 
+and seek safety in their own homes, which will alter the scale of the potential 
+NEO mission. Such anomalies may continue to influence decision-makers, 
+especially when they are averse to taking risk. Decision-making could be 
+affected until every eligible person is accounted for. 
+1.11. An integrated approach. Early engagement between the FCDO and 
+the MOD should help overcome potential misunderstandings over resource 
+requirements and associated timelines. The decision to start integrating 
+planning processes may originate from the FCDO, or it may be based on an 
+independent assessment by the MOD. An FCDO/MOD service level agreement 
+forms the basis to agree liaison mechanisms that support an integrated 
+approach, including functions such as strategic communication. 
+7
+JDP 3-51 (3rd Edition, Version 2) 
+1
+Context, characteristics and process
+
+1.12. Multinational environment. Evacuating eligible persons is likely to take 
+place in a multinational setting. Given this context, nations may decide to act 
+unilaterally or as part of a multilateral response.19 Regardless, there is benefit 
+from coordinating national plans at a time when the sudden demand for 
+resources exceeds availability and to synchronise activity, for instance, flight 
+plans into, and out of, the country of crisis.20 
+1.13. Constraints. Resource constraints, both financial and the availability 
+of assets, may affect the size, method and duration of the joint task force’s 
+deployment. Political and legal constraints will shape the rules of engagement 
+and are likely to limit the joint task force commander’s ability to use force, 
+except in self-defence or in the defence of eligible persons.
+1.14. Eligible persons’ perceptions. Only those eligible persons who wish to 
+be relocated will be evacuated. Eligible persons who are non-residents of the 
+country to be evacuated, such as tourists and those visiting on business, can 
+be expected to leave early and are likely to want to be repatriated. Resident 
+expatriates may be reluctant to abandon their homes and their livelihoods and 
+may wish to be evacuated no further than is necessary, if at all. Similarly, if 
+evacuated, they may want to return as soon as possible. Such unpredictability 
+may affect the conduct of a timely and effective evacuation.
+Section 4 – The process
+Contingency planning
+1.15. Contingency planning for possible evacuations will take place routinely 
+for those countries most at risk. The MOD’s involvement in the planning process 
+will be informed by the various UK government risk-management tools and 
+the priorities agreed between the FCDO and the MOD. Contingency planning 
+will help inform the in-country diplomatic post’s crisis management plan,21 
+plus subsequent military planning. The crisis management plan details the 
+measures needed to ensure the safety of eligible persons in the event of war, civil 
+disturbance or natural disaster, including arrangements for their evacuation.
+19 The UK may choose to respond with bilateral partners in countries or regions that are 
+of interest to both parties. The Combined Joint Expeditionary Force, formed as a result of 
+a bilateral agreement between the UK and France to tackle crisis situations, is one such 
+organisation that falls into this category.
+20 A coordination cell is a useful asset to help coordinate activity between multiple actors 
+and is considered further in Chapter 3.
+21 The content and maturity of a crisis management plan will vary from post to post and 
+it will not contain the detailed planning information which would be held in a military joint 
+contingency plan or joint planning guide.
+8
+JDP 3-51 (3rd Edition, Version 2)
+1
+Context, characteristics and process
+
+The evacuation
+1.16. Request for Ministry of Defence assets. In the first instance, the FCDO 
+will prefer to evacuate all eligible persons through civil means.22 The MOD 
+is likely to be requested to support an evacuation only when alternative civil 
+options have been exhausted. This could be due to civil flights into the area of 
+crisis being suspended or the hostile nature of the environment or because of 
+the scale or urgency of the operation. The decision to deploy military assets 
+to assist an evacuation is taken by the Defence Secretary in consultation with, 
+and usually following a request from, the Foreign Secretary. Engagement 
+between the MOD and FCDO should take place as soon as it is felt 
+appropriate to support any potential transition between the use of commercial 
+to military assets.
+22 The first steps the FCDO would take would be changing country travel advice, which 
+could then lead to an assisted departure or a civilian evacuation. Military support may still 
+be provided, for example, planning support. © U.S. Marine Corps photo by Staff Sgt. Victor Mancilla
+9
+JDP 3-51 (3rd Edition, Version 2) 
+1
+Context, characteristics and process
+ The crisis management plan details the measures needed to ensure the safety of  
+eligible persons in the event of war, civil disturbance or natural disaster
+
+1.17. Requirement. The requirement of a NEO is to process eligible persons 
+and then move them, possibly through several points, to a place of safety.23 
+The requirement to screen those received for eligibility is an FCDO and Border 
+Force function. Although each NEO is unique, the generic elements that make 
+up the evacuation chain will remain largely the same.24 Figure 1.1 illustrates 
+this process. The emphasis, however, should be on function rather than 
+geography.
+Figure 1.1 – The evacuation process
+The evacuation chain
+1.18. Eligible persons will enter the evacuation chain through either a 
+reception centre, evacuation handling centre or at the point of embarkation, 
+depending on their personal circumstances.25 The fluid nature of the 
+23 For the purposes of this publication, the ‘processing’ of eligible persons is the function 
+of establishing their eligibility for evacuation; this is an FCDO-led activity supported by the 
+Border Force. The screening of eligible persons is the function of establishing that they do 
+not present a threat to other eligible persons, staff or military forces. This can be an FCDO 
+or military-led activity depending upon the threat assessment.
+24 The UK approach is similar to that of the North Atlantic Treaty Organization (NATO), 
+although the terminology used may differ slightly.
+25 Further planning considerations for setting up an evacuation chain are provided in 
+Annex 4A. 
+10
+JDP 3-51 (3rd Edition, Version 2)
+1
+Context, characteristics and process
+Eligible person 
+point of entry1
+Place(s) of safety
+Reception centre(s)
+Evacuation handling 
+centre(s)
+Point of embarkation
+Temporary safe 
+location(s)
+1.  In extremis, eligible persons may have to be collected from remote locations.
+
+evacuation process means that plans must be agile enough to respond to 
+the crisis while reflecting the needs of the eligible persons and the resources 
+available. Not all stages of the evacuation chain will necessarily be used 
+or activated. In particular, the use of reception centres and evacuation 
+handling centres will depend upon the distribution of eligible persons and 
+the accessibility of the point of embarkation. Stages in the chain may also be 
+skipped or merged. For example, eligible persons could move directly from 
+a reception centre to a point of embarkation or be processed at the point of 
+embarkation. The various components of the evacuation chain are outlined in 
+the following paragraphs.
+1.19. Forward mounting base. A forward mounting base is a secure sea 
+or land base from which an operation may be launched.26 It should have 
+the capacity to manage an insertion force and subsequently handle logistic 
+requirements and reserves. In many cases the forward mounting base will 
+be in the same location as a place of safety, or a temporary safe location. 
+The presence of eligible persons may place an additional burden on local 
+infrastructure.
+1.20. Forward operating base. A forward operating base is a base 
+established within the joint operations area to support tactical operations. It will 
+be resourced to provide minimum services, commensurate with sustaining the 
+required level of effort.
+1.21. Reception centre. Reception centres are pre-designated sites, 
+selected by His Majesty’s Representative as part of a diplomatic post’s crisis 
+management plan, where individuals can enter the evacuation chain. Although 
+not often used, the reception centre can provide an initial screening and 
+processing function when there is a need to concentrate eligible persons 
+before onward movement. It can also be used where there is a particularly 
+high threat of attack, in which case evacuees should be screened before 
+group movement. Responsibility for the control and administration of reception 
+centres lies with the FCDO, usually delegated to their in-country staff. His 
+Majesty’s Representative may request military support in uncertain or hostile 
+environments.
+1.22. Evacuation handling centre. An evacuation handling centre is a 
+temporary secure location free from the threat of destabilising influences. Here 
+eligible persons are received and processed by FCDO/Border Force officials 
+to establish their eligibility for evacuation. The location is jointly agreed by the 
+26 Examples could include a port, an airfield or on board a ship.
+11
+JDP 3-51 (3rd Edition, Version 2) 
+1
+Context, characteristics and process
+
+FCDO and MOD. Its selection is predicated on both military considerations 
+(for example, security and force protection) and the FCDO’s ability to provide 
+temporary care for eligible persons and subsequently source onward means 
+of travel to strategic transport hubs. The evacuation handling centre may be 
+collocated with a point of embarkation. Depending on the prevailing security 
+environment, military support may be required to secure an evacuation 
+handling centre and provide convoy security to the point of embarkation.
+1.23. Point of embarkation. The point of embarkation is a secure site with 
+facilities permitting safe entry and exit for military transport. It is here that 
+eligible persons arrive for military extraction to a temporary safe location or a 
+place of safety.27 Once processing is complete and eligibility confirmed by the 
+FCDO/Border Force (either at the reception centre, evacuation handling centre 
+or, in some cases, the point of embarkation), functional responsibility for eligible 
+persons is temporarily handed to the military.28 His Majesty’s Representative 
+and the military commander have a joint responsibility for selecting and 
+administering the point of embarkation. The military commander is unlikely to 
+accept responsibility for any person until their eligibility has been established 
+by the FCDO/Border Force.29 
+1.24. Temporary safe location. The MOD may not be able to transport 
+eligible persons as far as a designated place of safety because of resource or 
+time constraints. Alternatively, a temporary safe location could be identified, 
+where eligible persons are safe from threat and can await onward movement. 
+Responsibility for eligible persons should be passed back from the military to 
+the FCDO at the temporary safe location, from which the UK government will 
+be able to arrange onward movement to a recognised place of safety.
+1.25. Place of safety. A place of safety is where eligible persons exit 
+the evacuation chain and are no longer reliant on diplomatic or military 
+assistance.30 The place of safety should:
+• be safe; 
+27 Points of embarkation could include airports, harbours, beaches or alternative locations 
+from which to transport eligible persons across a border to a temporary safe location or 
+place of safety.
+28 Responsibility for eligible persons may have to be passed to the military at an earlier 
+point in the evacuation chain following agreement between the military commander and 
+His Majesty’s Representative. The permissive nature of the environment and the availability 
+of military resources will be among the factors that determine the exact location.
+29 Responsibility is likely to be accepted in extreme circumstances.
+30 If required, British nationals could still be assisted under standard consular terms for 
+overseas assistance.
+12
+JDP 3-51 (3rd Edition, Version 2)
+1
+Context, characteristics and process
+
+• have commercial accommodation; and 
+• have functional regional or international transport links.
+There may be several different places of safety depending on the situation and 
+the needs of the eligible persons. The FCDO will nominate the place of safety 
+and it is normally identified in the crisis management plan. It could exist in the 
+country itself, a neighbouring country or, in exceptional cases, the UK.
+1.26. Warden system. The warden system is a network of volunteers 
+located in the country in crisis. Wardens act as a point of contact between His 
+Majesty’s Representative and the wider community of resident eligible persons 
+(not short-term visitors or tourists). Using a cascade system, the wardens pass 
+on information and instructions to eligible persons as a crisis evolves. The 
+effectiveness of the system can vary between countries and may not exist 
+at all.
+1.27 . Extraction of eligible persons. There may be occasions where eligible 
+persons are unable to make their way to any part of the evacuation chain due 
+to the hostile nature of the environment, their location or other unforeseen 
+circumstances. In extreme circumstances, military forces may be required 
+to extract eligible persons from their locations and move them to the point of 
+embarkation or other suitable location.
+13
+JDP 3-51 (3rd Edition, Version 2) 
+1
+Context, characteristics and process
+
+ 
+Key points
+• The UK government discharges its responsibilities for the safety and security 
+of British nationals overseas through the FCDO. 
+• Eligible persons will include British nationals and those individuals from other 
+nations for whom the UK government and His Majesty’s Representative 
+have accepted responsibility. 
+• As a result of the inherent variance in national political thresholds for action 
+and the potential speed of onset, NEOs are unlikely to be conducted as a 
+multinational operation acting under a single headquarters.
+• Depending on local government control and cooperation, and the influence 
+and affinity of irregular actors, NEOs can occur in permissive, uncertain or 
+hostile environments. 
+• The national, regional and international political context and the 
+unpredictable nature of crisis can condense the period available for military 
+forces to plan and execute a NEO.
+• Gaining clarity of the number of eligible persons requiring evacuation will be 
+a priority for the planning community. This picture will often be opaque and 
+may affect decision-makers’ risk calculus.
+• The requirement of a NEO is to receive and process eligible persons and 
+then move them, possibly through a number of points, to a place of safety.
+• The location of the evacuation handling centre is jointly agreed between 
+the FCDO and MOD. Its selection is predicated on both military factors and 
+consular considerations. 
+• Establishing eligibility to be evacuated is an FCDO-led activity, supported by 
+the Border Force. 
+• Eligible persons must be screened to ensure they do not present a threat to 
+other eligible persons, staff or military forces. This is likely to be military-led 
+activity but can be undertaken by FCDO staff depending upon the threat 
+assessment.
+14
+JDP 3-51 (3rd Edition, Version 2)
+1
+Context, characteristics and process
+
+Notes
+15
+JDP 3-51 (3rd Edition, Version 2) 
+1
+Context, characteristics and process
+
+[Page 26: No extractable text]
+
+Chapter 2 describes the various roles and responsibilities 
+of the Foreign, Commonwealth and Development Office 
+and the Ministry of Defence. Moreover, it discusses how 
+an inter-agency non-combatant evacuation operation is 
+commanded and controlled.
+Section 1 – Foreign, Commonwealth and Development  
+                   Office and Ministry of Defence’s  
+                   responsibilities and obligations  . . . . . . 19
+Section 2 – Command and control  . . . . . . . . . . 21
+Key points . . . . . . . . . . . . . . . . . . . . . . . 25
+17
+JDP 3-51 (3rd Edition, Version 2) 
+Chapter 2
+
+Any evacuation in a crisis is likely to 
+be a complex operation, moving, 
+often unpredictably and at speed, 
+through a number of different 
+phases. A wide range of actions 
+and actors need to be coordinated 
+and sequenced.  
+Review of the FCO Consular Evacuation 
+Procedures, 2011 
+”
+“
+18
+JDP 3-51 (3rd Edition, Version 2)
+2
+Responsibilities and command and control
+
+Chapter 2
+Responsibilities and 
+command and control
+Section 1 – Foreign, Commonwealth 
+and Development Office and Ministry 
+of Defence’s responsibilities and 
+obligations
+2.1. The Foreign, Commonwealth and Development Office (FCDO) and 
+Ministry of Defence (MOD) recognise that close cooperation, collaborative 
+working and speed of response at all levels are essential to deliver an effective, 
+efficient and timely evacuation. The respective responsibilities of the FCDO and 
+MOD’s contribution are listed below.
+Foreign, Commonwealth and Development Office responsibilities
+Maintaining the crisis risk register to inform the non-combatant evacuation 
+operation (NEO) priority countries list and the Cabinet Office countries at risk 
+of instability matrix.31 
+Requesting MOD assistance and obtaining the required approvals for 
+planned military activity (both at Foreign Secretary and in-country levels). 
+This could include routine contingency planning, or more short-term reactive 
+assistance within compressed timescales.
+Working closely with the appropriate UK representatives overseas, 
+notably UK diplomatic posts, ensuring the timely preparation and routine 
+maintenance of crisis management plans.
+Updating travel advice32 and arranging call-handling facilities.
+31 The priority countries list is agreed by the FCDO and the MOD.
+32 Changing travel advice may provide an indicator as to the UK government’s intentions 
+regarding a crisis, including an evacuation. 
+19
+JDP 3-51 (3rd Edition, Version 2) 
+2
+Responsibilities and command and control
+
+Foreign, Commonwealth and Development Office responsibilities
+Setting the overall information strategy in consultation with the Cabinet Office 
+and other government departments. Managing the UK government’s press 
+brief and cross-government ‘lines to take’.
+Selecting reception centres and points of embarkation, taking into account 
+military advice as necessary.33 
+At the outset, determining (as far as possible and on a case-by-case 
+basis) the numbers and locations of eligible persons, including by special 
+agreement, nationals from other countries which the UK government agrees, 
+or has agreed to assist.
+Deciding on the level of consular support to be given to eligible persons and 
+providing it, in concert with other government departments.
+Selecting and running the evacuation handling centre (noting selection is a 
+joint consideration with the MOD, which accounts for military factors).
+Processing eligible persons up to and including the place of safety. This 
+should include: establishing eligibility; consular screening; requesting 
+immigration support where required; and producing and updating manifests 
+of eligible persons.
+Where practicable, and after consulting other government departments on 
+what is reasonably feasible, reassuring UK allies and partners of the UK 
+government’s wider support to their requests for assistance.
+Liaison with the European Union and other friendly international partners 
+to maintain visibility of partners’ contingency plans and agree special 
+arrangements (for example, European Union lead state for the evacuation) in 
+peacetime. At times of crisis, deconflict and, where required, coordinate, the 
+UK evacuation operation with that of allies and partners.
+Sending representatives from the FCDO and other government departments 
+to MOD planning groups, current commitments team meetings and other 
+relevant meetings as appropriate.
+Assisting with burden sharing with allies and partners, overflight clearance, 
+host-nation support, as well as visa and diplomatic bagging of specialist 
+military equipment.
+33 The FCDO may have pre-determined points of embarkation that have to be altered for a 
+NEO following military advice. 
+20
+JDP 3-51 (3rd Edition, Version 2)
+2
+Responsibilities and command and control
+
+Ministry of Defence contributions
+Contingency planning for NEOs based on FCDO/MOD priority countries.
+Extract eligible persons via an agreed military evacuation chain.
+Contribute to the diplomatic posts’ resilience to assist maintaining critical 
+core activities.34 
+Assist British diplomatic posts’ activities in developing insight into the 
+destabilising factors and influences in-country.
+Reassure UK allies and partners by the demonstrable provision of support to 
+their requests for assistance.
+Contribute to the drafting, reviewing and exercising of crisis management 
+plans at the diplomatic post.
+Where necessary, protect eligible persons and FCDO staff during the 
+evacuation process.
+Where required, and with agreement of the FCDO representative, assume 
+responsibility for running the evacuation handling centre.
+Funding
+2.2. Payment for NEOs will be in accordance with the current edition of  
+Joint Service Publication (JSP) 462, Financial Management and Charging 
+Policy Manual or a His Majesty’s Treasury instruction advising on the  
+charging/payment of NEOs.
+Section 2 – Command and control
+2.3. His Majesty’s Representative will assume the role of crisis leader, 
+responsible for the overall in-country UK government response to a crisis  
+that requires an evacuation. In the UK, command is established under 
+a gold, silver, bronze model, with an FCDO director or director general 
+assuming the gold command. Gold command, in consultation with His 
+Majesty’s Representative, is responsible for final decision-making on the UK 
+34 Examples may include security, communications, command and control, and 
+situational awareness support.
+21
+JDP 3-51 (3rd Edition , Version 2 ) 
+2
+Responsibilities and command and control
+
+government’s crisis response, subject to ministerial decisions where required. 
+Silver command, reporting to the single gold command, is split between three 
+silver managers: 
+• consular (including evacuation operations, staff deployments 
+to theatre, eligible person mapping, consular assistance and 
+administration); 
+• strategic communications (including media handling, situation 
+reports, public and ministerial interface); and 
+• political (including policy development and briefings). 
+In an evacuation, the silver consular manager would lead on the evacuation 
+operation, with significant decisions referred to the gold commander or 
+ministers as required. 
+2.4. Military in a subordinate and supporting role. FCDO primacy is a key 
+feature of a NEO. It is important for the balance of responsibilities between 
+military and diplomatic/civilian staffs to be understood fully when planning and 
+executing an evacuation. 
+2.5. Complexity. Coordination and liaison will probably be complex, 
+frequently involving several other government departments and multinational 
+actors. Depending on the host nation government’s degree of control, it may 
+be necessary for a joint task force commander to establish direct liaison in 
+separate areas of the host government, including the local security forces, 
+airspace control and port authorities, as well as with commercial agencies and 
+individual non-governmental organisations.
+2.6. Military chain of command. The military chain of command is outlined 
+below.
+a. Within the policy determined by ministers, the Chief of the Defence 
+Staff issues military strategic direction and appoints a joint commander 
+and a joint task force commander.
+b. The joint commander, usually the Chief of Joint Operations, will 
+exercise operational command from the Permanent Joint Headquarters 
+(PJHQ). The joint commander is responsible for directing, deploying, 
+sustaining and recovering the joint task force.
+22
+JDP 3-51 (3rd Edition, Version 2)
+2
+Responsibilities and command and control
+
+c. The joint task force commander will exercise operational control, 
+usually from the joint task force headquarters deployed in the joint 
+operations area. The joint task force commander is responsible for 
+producing the campaign plan and conducting the NEO when ordered. 
+In most NEOs, the joint task force headquarters will be formed from 
+the Joint Force Headquarters, augmented as necessary. The size and 
+location of this headquarters will depend on the situation. 
+2.7. His Majesty’s Representative/joint task force commander relationship.  
+Within the joint operations area the joint task force commander will be 
+subordinate to His Majesty’s Representative, who is not in the military chain 
+of command. The decision to evacuate will be made by the FCDO gold 
+commander in London. His Majesty’s Representative will then coordinate the 
+evacuation. Once evacuation has been approved, the decision to commit 
+military forces lies with the joint task force commander. Whenever possible, 
+either the joint task force commander, their deputy, or the Defence attaché 
+should collocate with His Majesty’s Representative to ensure detailed 
+coordination and development of both the diplomatic and military plans. The 
+joint task force commander assumes responsibility for the military elements of 
+the operation, in support of the gold commander’s intent, once the decision to 
+evacuate by military means has been made.
+Foreign, Commonwealth and Development Office primacy is a key feature of a  
+non-combatant evacuation operation
+23
+JDP 3-51 (3rd Edition, Version 2) 
+2
+Responsibilities and command and control
+
+2.8. Tactical command. In NEOs where the scale, threat and complexity 
+are limited, the joint task force commander may elect to exercise direct 
+command over assigned forces using their staff in an appropriately configured 
+joint task force headquarters. Where the NEO is more complex, perhaps 
+with greater physical or political risk, component commanders may be 
+employed. Component commanders should be identified early enough to 
+contribute to the joint task force commander’s operational estimate. They 
+should be intimately involved in the staffing of the plan. The designated military 
+commander will use their own organic command and control structure, 
+adapted as appropriate, to provide command and control for the evacuation 
+process.
+2.9. Advance force command and control. UK Armed Forces already 
+deployed in theatre and operating under different command arrangements, 
+such as forward deployed maritime platforms or military close protection, 
+should normally be placed under operational command of the joint 
+commander as soon as they have the means to command them. Local 
+command arrangements must be established by PJHQ for UK advance forces 
+operating in theatre prior to establishing the joint task force headquarters.
+2.10. Multinational command. Precedent suggests that national interests 
+mandate separate national operations which, where possible, have been 
+coordinated with other states’ plans, rather than conducting a single 
+multinational operation. If, however, a multinational response was the preferred 
+course of action,35 then the ability to obtain unity of effort will be a key factor in 
+a time-sensitive NEO.36 
+35 An example would be the UK/France Combined Joint Expeditionary Force.
+36 For further details read Allied Joint Publication (AJP)-3.4.2,  Allied Joint Doctrine for 
+Non-combatant Evacuation Operations . 
+24
+JDP 3-51 (3rd Edition, Version 2)
+2
+Responsibilities and command and control
+
+ 
+Key points 
+• Close cooperation, collaborative working and speed of response at all levels 
+are essential to deliver an effective, efficient and timely evacuation.
+• FCDO primacy is a key feature of a NEO. The FCDO has a number of 
+responsibilities that the MOD contributes to.
+• His Majesty’s Representative will assume the role of crisis leader, 
+responsible for the overall in-country UK government response to a crisis 
+that requires an evacuation. 
+• Within the joint operations area, the joint task force commander will be 
+subordinate to His Majesty’s Representative. 
+• The decision to evacuate will be made by the FCDO gold commander in 
+London.
+• The joint task force commander may elect to exercise direct command over 
+assigned forces. Where the NEO is more complex, perhaps with greater 
+physical or political risk, component commanders may be employed. These 
+component commanders should be identified early enough to contribute to 
+the joint task force commander’s operational estimate.
+• UK Armed Forces already deployed in theatre and operating under different 
+command arrangements should normally be placed under operational 
+command of the joint commander as soon as they have the means to 
+command them.
+25
+JDP 3-51 (3rd Edition, Version 2) 
+2
+Responsibilities and command and control
+
+[Page 36: No extractable text]
+
+Chapter 3 explains what planning occurs at the strategic 
+and operational levels. It describes how planning should 
+take place with partners across government and several 
+factors particular to a non-combatant evacuation operation. 
+Annex 3A lists the key themes to be included in the 
+operational estimate. Annex 3B describes the legal basis for 
+a non-combatant evacuation operation. 
+Section 1 – Diplomatic planning . . . . . . . . . . . . 29
+Section 2 – Military strategic planning . . . . . . . . . 31
+Section 3 – Planning considerations . . . . . . . . . . 35
+Section 4 – Forces   . . . . . . . . . . . . . . . . . . 44
+Section 5 – Other agencies  . . . . . . . . . . . . . . 48
+Key points . . . . . . . . . . . . . . . . . . . . . . . 50 
+Annex 3A – Non-combatant evacuation operation  
+                   planning guidance  . . . . . . . . . . . . 51
+Annex 3B – Legal issues and rules of engagement  . . 53
+27
+JDP 3-51 (3rd Edition, Version 2) 
+Chapter 3
+
+In matters of military contingency, 
+the expected, precisely because it 
+is expected, is not to be expected.  
+Rationale: what we expect, we 
+plan for; what we plan for we 
+provide for, we thereby deter; 
+what we deter does not happen. 
+What does happen is what we 
+do not deter, because we did not 
+plan and provide for it, because 
+we did not expect it.
+Sir Michael Quinlan, Permanent Under 
+Secretary, 1988–92”
+“
+28
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+Chapter 3
+Planning
+Section 1 – Diplomatic planning
+3.1. Normally a non-combatant evacuation operation (NEO) is initiated 
+in the final stage of the crisis management plan. Once started, the key to 
+coordinating the crisis management plan and NEO activities is to identify 
+when military action is needed on the ground to support an ongoing Foreign, 
+Commonwealth and Development Office (FCDO) evacuation.
+3.2. Crisis management planning. All diplomatic posts should maintain a 
+crisis management plan. This crisis management plan contains contingency 
+plans for a broad spectrum of eventualities, one of which is the requirement 
+to conduct a NEO. For crisis management planning purposes, diplomatic 
+posts are designated high, medium or low risk, which will determine the extent 
+of the plan and frequency of the crisis management plan review. The FCDO 
+may request assistance from the Ministry of Defence (MOD) to contribute to 
+the review process of the NEO element of the crisis management plan.37 The 
+objectives of a crisis management plan are to: 
+• ensure the safety and security of the British community in the event 
+of a crisis;
+• set out the risks posed to the British community; 
+• set out diplomatic posts’ arrangements for responding to a crisis, 
+including staff roles, eligible person estimates, warden networks and 
+key contacts; and
+• provide a basic framework for conducting an orderly evacuation of 
+eligible persons by commercial or other means.
+37 Reviews are normally supported by Joint Force Headquarters (JFHQ) based on 
+priorities agreed between the MOD and the FCDO.
+29
+JDP 3-51 (3rd Edition, Version 2) 
+3
+Planning
+
+3.3. Implementation. His Majesty’s Representative is the authority for declaring 
+the stages of the crisis management plan, in consultation with the FCDO, as the 
+situation deteriorates. Crisis management plans are tailored according to each 
+country’s situation and are largely based around four stages. The first stage 
+usually starts after British nationals have been advised to avoid non-essential 
+travel to the country concerned, but this is not a precondition for His Majesty’s 
+Representative to enact all, or elements of a crisis management plan.
+a. Stage 1. ‘Be alert and stay at home’. In this stage the community is 
+advised to be alert and stay at home.
+b. Stage 2. ‘Go unless there is an urgent need to stay’. Those 
+who have no urgent need to remain are advised to leave by normal 
+commercial transport. 
+c. Stage 3. ‘Go’. Members of the community are advised to leave under 
+their own arrangements, if commercial means still exist. 
+d. Stage 4. ‘Evacuate’. Report to reception centres or elsewhere in 
+the evacuation chain for evacuation under arrangements made by His 
+Majesty’s Representative.38 If His Majesty’s Representative believes that 
+the evacuation can be conducted without military support, evacuees will 
+be instructed to report directly to a point of embarkation (usually a port or 
+airfield) for onward movement by civil means. 
+3.4. Closure of the diplomatic post. The decision to close the post will 
+be taken by the gold commander in London having taken advice from His 
+Majesty’s Representative, who will have considered the risks to the diplomatic 
+staff. The actions required to affect an orderly closure of a diplomatic post are 
+likely to impact on the conduct of a NEO. Diplomatic staff and resources will be 
+required to prepare the diplomatic post for closure; some military assistance 
+may be required. 
+3.5. Transition to a military non-combatant evacuation operation. While 
+civilian transport would almost certainly be used to evacuate eligible persons 
+from a permissive environment and for onward movement from a point of 
+embarkation, military assets would be required when civilian carriers: 
+• become overwhelmed by the demand for spaces; 
+38 In extremis conditions, eligible persons may have to be collected from their place of 
+residence. 
+30
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+• terminate the service for security reasons;
+• cannot react quickly enough to provide the service; 
+• are denied authority to land by the host nation; or
+• are unable to support eligible persons with complex needs.
+3.6. Liaison. When a NEO becomes a likely option, a Permanent Joint 
+Headquarters (PJHQ) liaison officer or operational liaison and reconnaissance 
+team (OLRT)39 should be deployed to act as a link between PJHQ, the joint 
+task force commander and His Majesty’s Representative. The liaison function 
+will help facilitate a transition from an evacuation based on commercial 
+means to that which requires military assets. Although highly desirable, it 
+may be impossible to insert the liaison officer or OLRT in uncertain or hostile 
+conditions. Joint Force Headquarters (JFHQ) routinely nominate a duty liaison 
+officer to the FCDO’s Crisis Management Department to facilitate collaboration 
+and information flow between the MOD and the FCDO and will routinely visit 
+both MOD (Security Policy and Operations) and FCDO as part of that duty. 
+During periods of crisis, they will work alongside FCDO colleagues in King 
+Charles Street, London. Depending upon the nature of the crisis, the MOD 
+may enhance this liaison position to provide additional support to the FCDO. 
+3.7. Operational military advice. If deployed, the following would be able to 
+provide military advice to assist consular staff (in preparing or reviewing a crisis 
+management plan) and His Majesty’s Representative (in making their decision 
+to request a NEO):
+• the Defence attaché;
+• routine staff visits from PJHQ/JFHQ;
+• a military intelligence liaison officer;
+• special forces; and
+• an OLRT.
+Section 2 – Military strategic planning
+3.8. Timelines. Timelines for planning, ministerial consideration and issuing 
+directives can vary from hours to weeks. A NEO may be required to start 
+soon after the political decision to commit forces, and as quickly as militarily 
+39 The OLRT is drawn from the JFHQ.
+31
+JDP 3-51 (3rd Edition, Version 2) 
+3
+Planning
+
+practicable. On these occasions, the full planning process may have to be 
+shortened.40 
+3.9. Initiating the planning process. NEO planning can be initiated in 
+isolation or as part of a wider operation. It may be undertaken in response 
+to a crisis or as part of joint FCDO/MOD contingency planning. Regardless 
+of context, planning begins in response to a request from the FCDO to the 
+MOD; this can originate from several sources including the National Security 
+Council or a specific diplomatic post. However, at some point all requests must 
+be formalised by department-to-department correspondence, and usually 
+authorised by Defence at ministerial level. There are two categories of planning. 
+a. Crisis. Defence Crisis Management Organisation (DCMO) standard 
+operating procedures detail the MOD’s crisis response process, 
+including the level of interaction with the FCDO and other government 
+departments. 
+b. Steady state. The FCDO and MOD (Military Strategy and Plans) 
+agree, develop and maintain a prioritised list of countries to focus NEO 
+planning and monitoring. The prioritisation of planning is informed by 
+the crisis risk register; the countries at risk of instability matrix; the watch 
+list states; and trigger events identified in the FCDO’s flashpoints and 
+Defence Intelligence indicators and warnings (I&W). 
+The planning sequence
+3.10. Military planning for a NEO should commence as soon as possible; the 
+planning process will be informed by the National Security Council throughout 
+the crisis. Where time and resources permit, daily coordination meetings 
+are held in the FCDO bringing together all those departments and agencies 
+involved in the crisis. The MOD crisis management planning process applies to 
+NEOs in the same way as it does to any other operation. Although hierarchical, 
+much of the planning sequence occurs concurrently as an iterative process 
+with many steps overlapping. The planning process is outlined below.
+3.11. In response to, or in anticipation of, a request for assistance from the 
+FCDO, Military Strategy and Plans in the MOD will conduct a political/military 
+estimate, informed by a current operations group and/or a strategic planning 
+group, to confirm the viability and level of military assistance. Military Strategy 
+and Plans should develop military options based on assessing all the factors, 
+40 Strategic-level lessons identified from previous NEOs should be reviewed at the outset 
+of crisis.
+32
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+constraints and planning variables to inform and direct more detailed military 
+planning activity. It may conclude that there is no role for the military. Military 
+Strategy and Plans should include input from other government departments 
+as required.
+3.12. Concurrently, and if required, the DCMO will stand up a current 
+commitments team in the MOD. This team will strategically manage the 
+operation. Establishing the current commitments team will be preceded by a 
+formal handover of the responsibility of operational planning between Military 
+Strategy and Plans and Security Policy and Operations. The handover is 
+normally triggered by a reduction in notice to move or actual deployment of UK 
+force elements.
+3.13. The output of the political/military estimate is a Chief of the Defence 
+Staff’s (CDS’) planning directive, which is issued to PJHQ and the supporting 
+commands to legitimise staff planning effort. The directive does not authorise 
+any deployment at this stage (unless authorised separately by the MOD).
+3.14. On receiving the planning directive, a contingency planning team will 
+form up in PJHQ. In conjunction with the current commitments team, this 
+team will conduct a military strategic estimate to establish a preferred course 
+of action and develop a plan to cover directing, deploying, sustaining and 
+recovering allocated forces. To ensure continuity, the JFHQ is also represented 
+on the PJHQ contingency planning team.
+3.15. A CDS directive, will be issued to the joint commander, once the 
+course of action has been agreed by ministers. This directive will authorise the 
+deployment of UK Armed Forces and will outline the area of operations. The 
+joint commander will then issue their mission directive for the NEO, formally 
+appointing the joint task force commander and confirming the constraints for 
+the operation. The joint commander is responsible for deploying, sustaining 
+and recovering the joint task force. Once the operation moves from planning to 
+execution, the PJHQ contingency planning team will transition to an operations 
+team. The basic composition of the team stays the same, but leadership 
+changes from military plans (J5) to military operations (J3).
+3.16. The joint task force commander and their staff will develop a concept 
+of operations and the campaign plan. The supporting commands and Director 
+Special Forces are an integral part of the planning process throughout. Much 
+of the development of the campaign plan will require direct consultation and 
+liaison with the FCDO. Concurrency of FCDO and MOD planning activities 
+during a crisis is shown at Figure 3.1. 
+33
+JDP 3-51 (3rd Edition, Version 2) 
+3
+Planning
+
+Planning
+Maintain
+crisis 
+management 
+plan
+Assessment
+of crisis
+Crisis management plan
+Stage 1Stage 2Stage 3Stage 4
+His Majesty’s 
+representative
+FCDO
+agree
+MOD
+PJHQ/
+JTFC
+FCDO, CMD,
+and MOD, SPO
+horizon scan and
+determine NEO 
+planning priorities
+FCDO
+daily review 
+drawing in 
+MOD and OGDs
+FCDO
+request 
+recce from 
+MOD
+SPO, supported by 
+Defence Intelligence 
+Services, monitor 
+and direct PJHQ to 
+conduct contingency 
+planning where 
+appropriate. Plans 
+are maintained by 
+PJHQ and JFHQ
+FCDO
+warn
+MOD
+FCDO/MOD
+agree to initiate 
+planning for a 
+potential NEO
+Deploy
+rapid 
+deployment 
+team
+MOD
+assistance
+required
+Defence Crisis 
+Management 
+Organisation
+stands up
+current 
+commitments 
+team
+CDS
+planning
+directiveDeploy
+MILO,
+OLRT, 
+special 
+forces
+CDS
+directive
+NEO
+approved
+Forces
+allocated
+Form
+contingency 
+planning 
+team
+Joint
+commander
+directive
+Joint task 
+force 
+commander
+campaign
+plan
+Joint task 
+force
+deploy
+FCDO
+CDS Chief of the Defence Staff
+CMD Crisis Management Department
+FCDO Foreign, Commonwealth and Development Ofﬁce
+JFHQ Joint Force Headquarters
+MILO military intelligence liaison ofﬁcer
+MOD Ministry of Defence
+NEO  non-combatant evacuation operation
+OGD other government department
+OLRT operational liaison and 
+ reconnaissance team
+PJHQ Permanent Joint Headquarters
+SPO Security Policy and Operations  
+Figure 3.1 – UK planning and conduct of non-combatant evacuation operation
+34
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+3.17. Military contingency plans. PJHQ, as instructed by the MOD, prepare 
+and update contingency plans for NEOs. The level of detail contained in the 
+plan will vary with the assessed likelihood of its use. In increasing level of detail, 
+there are three types of plan.
+a. Joint planning guide. Joint planning guides contain general 
+planning data for a region or country, which can be used as the basis 
+for more detailed planning during an emerging crisis. 
+b. Joint contingency plan. Joint contingency plans contain detailed 
+information on force requirements, deployment options, evacuation 
+courses of action, readiness states and details of the recognised eligible 
+persons picture, but this will require further detailed work as a crisis 
+develops.
+c. Operation plan. An operation plan contains sufficient detail for 
+a specific operation to be conducted. Operation plans need to be 
+frequently updated to remain current. As a result, they are restricted to 
+operations that are likely to occur at very short notice. 
+3.18. Defence profiles and intelligence briefing memoranda. Defence 
+Intelligence produces a classified monthly I&W paper, which provides an 
+analysis of recent events and an assessment on the risks of instability in the 
+forthcoming six months. This paper must be considered in conjunction with 
+the countries at risk of instability matrix. To assist with planning, Defence 
+Intelligence will provide intelligence support on the location of a crisis and any 
+potential transit routes. This intelligence support should include geospatial 
+intelligence (including imagery) and multiple-source intelligence. Defence 
+Intelligence will continually update their initial report with more detailed current 
+intelligence as planning continues. 
+Section 3 – Planning considerations
+3.19. Non-combatant evacuation operation planning guidance. Annex 3A 
+provides guidance that could be used to provide a common framework 
+for planning and conducting NEOs. It also forms the basis of any dialogue 
+between diplomats and military forces that must precede any successful NEO. 
+35
+JDP 3-51 (3rd Edition, Version 2) 
+3
+Planning
+
+3.20. Integrated planning. Joint analysis and assessment of the crisis will 
+assist collective understanding and integrated planning. Liaison between 
+the FCDO and the MOD should take place at the earliest opportunity. Once 
+a NEO is activated, Security Policy and Operations (supported by PJHQ/
+JFHQ) assumes the lead on engagement with the FCDO’s Crisis Management 
+Department. 
+Cross-government indicators and warnings
+3.21. Operational experience has highlighted that a lack of common 
+understanding between government departments surrounding I&W, and 
+specifically the decision points and subsequent activity that should flow from 
+them, can be a point of friction during planning. 
+3.22. At the operational level, Defence continually maintains global 
+intelligence-driven I&W aligned to military contingency plans.41 I&W should 
+identify the factors that indicate the emergence of a crisis in any given country, 
+which then drives additional capacity and resource to refine contingency 
+plans. In the early stages of any overseas emergency it is unlikely the Crisis 
+Management Department within FCDO will have the resources or capacity 
+to develop detailed I&W with the same degree of maturity. Once a crisis has 
+41 JFHQ J2 staff maintain I&W aligned to an internal intelligence product (referred to as the 
+‘STARE’) that monitors the deterioration in governance across several countries of interest. 
+As countries move further toward crisis, any change to the intelligence-driven I&W moves 
+those countries closer to the centre, which drives activity to refine contingency plans.
+36
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+A NEO will likely be conducted under an intensive international media  
+and diplomatic spotlight
+
+been formally declared and the Crisis Management Department is augmented 
+with additional staff from across FCDO, experience has demonstrated there 
+is substantial benefit in sharing and refining I&W collaboratively alongside 
+colleagues from the FCDO to foster greater common understanding and 
+aligned responses. It is important to note that although common agreement on 
+the I&W is extremely beneficial, the critical point is to agree the decision points 
+and the subsequent activity that is driven by a change to the I&W which meet 
+or exceed assigned thresholds. 
+3.23. Military planners and colleagues from other government departments 
+work to different authorities and the difference in tolerance of risk must be 
+recognised as a reality. The key takeaway for military planners is to integrate 
+and share products early to foster alignment on I&W, and then agree key 
+decision points and the subsequent activity that will flow from this. 
+Communication considerations
+3.24. Strategic communication. Before any NEO operation, Military Strategic 
+Effects will articulate the desired strategic communication effects in the 
+Strategic Communication Actions and Effects Framework (SCAEF) which, in 
+conjunction with Military Strategic Effects’ full spectrum targeting directive, 
+enables the commander to understand the strategic objectives, authorities and 
+permitted use of capabilities.
+3.25. Information operations. Information operations (Info Ops) is defined 
+as: a staff function to analyse, plan, assess and integrate information 
+activities to create desired effects on the will, understanding and capability 
+of adversaries, potential adversaries and audiences in support of mission 
+objectives.42 A NEO will likely be conducted under an intensive international 
+media and diplomatic spotlight. Understanding the information environment 
+for the area of responsibility, but also more widely the area of interest, will 
+therefore be essential to communicating coherently within the broader SCAEF. 
+Commanders must consider that every action will have a cognitive effect 
+and therefore all use of capabilities must be analysed, planned, executed 
+and assessed from an Info Ops perspective. There are number of focused 
+information capabilities that are fundamental in a NEO.
+a. Media operations. Info Ops, supported by media operations, will 
+define the audiences to be targeted and the joint task force should be 
+42 NATOTerm. See Allied Joint Publication (AJP)-10.1, Allied Joint Doctrine for Information 
+Operations (with UK national elements).
+37
+JDP 3-51 (3rd Edition, Version 2) 
+3
+Planning
+
+prepared to support news media coverage as well as managing the UK 
+government’s demand for information. Within a NEO the following media 
+tasks should be considered.
+ o Develop a media plan using the guidance given from the FCDO’s 
+news department.
+ o Confirm how the FCDO will manage the social media interface 
+for news of, and communicating with, the eligible person 
+community, including during evacuation operations.
+ o Understand non-governmental organisations ‘information 
+spheres’ such as Reuters’ AlertNet, United States Global Disaster 
+Information Network and the United Nations (UN) Relief Web.
+ o Determine appropriate lines to take on high profile eligible 
+persons and any associated sensitive issues (in accordance with 
+FCDO guidance).
+ o Plan for the need to protect and evacuate the accredited press.
+ o Be prepared and equipped to collect and transmit compelling 
+media content of NEO operations.
+ o Be prepared to undertake media interviews whilst deployed with 
+media-trained talking heads.
+b. Information activities. In conjunction with Info Ops, understanding 
+the existing communications infrastructure available will enable 
+psychological operations to be planned and executed to facilitate the 
+NEO. Within a NEO, products are most likely to be disseminated and 
+acknowledged by the sponsor. Likely tasks would be:
+ o explaining the purpose of the joint task force action to counter 
+disinformation, confusion and rumour;
+ o assisting the FCDO in establishing control of eligible persons’ 
+community to minimise casualties and to prevent interference 
+with the evacuation; and
+38
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+ o deterring adversaries from initiating actions detrimental to 
+the interests of the UK, the FCDO or the conduct of military 
+operations.
+c. Electromagnetic warfare. Electromagnetic warfare assets can be 
+used to disrupt hostile communication and support friendly information 
+activities. Any disruptive activity must balance the opportunity against 
+the impact it may have on the task force’s ability to communicate with 
+eligible persons, partners across government and allies.
+Multinational force considerations  
+3.26. There are additional issues to be considered when planning and 
+conducting a NEO in a multinational context. These are listed in the 
+paragraphs below.43 
+a. Coordination between all the foreign and defence ministries and 
+military headquarters of those nations involved. 
+b. Coordination of different national evacuation plans where 
+appropriate or necessary, ranging from sharing resources (including 
+transportation and niche capabilities such as joint personnel recovery) 
+and collocating evacuation nodal points (such as an evacuation 
+handling centre or the point of embarkation) to a fully integrated 
+response. Mechanisms to coordinate resources could involve using a 
+NEO coordination cell (NEOCC).
+c. The selection of high-grade officers, with appropriate language 
+skills, for staff and liaison functions to coordinate plans with other 
+national contingents, the host nation and other civilian agencies.
+d. The selection of forward mounting bases, forward operating 
+bases, reception centres, evacuation handling centres, temporary safe 
+locations, places of safety, joint task force headquarters and NEOCC 
+sites may be influenced by a partner nation’s military and consular 
+intentions.
+43 AJP-3.4.2, Allied Joint Doctrine for Non-combatant Evacuation Operations provides 
+operational-level guidance for North Atlantic Treaty Organization (NATO)-led multinational NEOs. 
+39
+JDP 3-51 (3rd Edition, Version 2) 
+3
+Planning
+
+3.27 . Non-combatant evacuation operation coordination cell. At the point 
+of executing a NEO it is very unlikely the UK will be acting independently and 
+several other nations are likely to be extracting their own eligible personnel at 
+the same time. In such circumstances, it is highly likely a NEOCC44 or similar 
+multinational coordination centre (MNCC), as used in Kabul in 2021, will 
+be established. Operational experience indicates that having a strong core 
+coordination staff can be invaluable in reducing tactical friction in a highly 
+charged and complex environment and can also coordinate and maximise 
+the use of international resources for mutual benefit. The UK’s consideration 
+to lead (as it has previously done in NEOs from Libya and Afghanistan) or 
+participate within a NEOCC should be addressed early in planning as it will 
+likely require political endorsement.45 
+44 The NEOCC concept was initiated by the NEO Coordination Group (NCG), a group 
+comprising around 16 member nations, independent of NATO and the European Union. The 
+UK is a member of the NCG with representatives from JFHQ and British Forces Cyprus.
+45 Full details of the NCG and NEOCC can be obtained through the NCG terms of 
+reference, held by JFHQ.
+Non-combatant evacuation operation coordination 
+centre – resource deconfliction
+The competition for commercial transport assets is likely to be fierce in 
+times of crisis. Formal groupings, such as the NEO Coordination Group 
+(NCG) allow for sharing assets through its NEOCC. This cell should be 
+established upon the execution of a NEO or a military assisted evacuation 
+operation to provide a means for partnering nations to share information 
+and assets for the collective success of evacuating eligible persons. The 
+principal role of this cell is to act as a non-executive multinational liaison 
+cell, operating to each nation’s own national chain of command. It also 
+coordinates both effort and assets to where they are most needed during 
+an evacuation. The precondition for establishing a NEOCC would be a bid 
+from a NCG full member who has volunteered to establish the NEOCC and 
+assume the role of lead nation. Typically, this is the country that has the 
+largest eligible person community in the affected region. 45
+Example of a non-combatant evacuation operation  
+coordination centre – Libya 2011. A NEOCC was established in the British 
+High Commission in Malta hosting representatives from 16 different nations. 
+The cell helped coordinate the evacuation of 458 British nationals and 1170 
+of our partners’ nationals on British military assets, and 202 British nationals 
+on our partners’ military assets.
+40
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+Other considerations
+3.28. Legal issues and rules of engagement. Annex 3B covers the legal 
+issues of NEOs and how rules of engagement are developed. It reinforces that 
+states have a right to exercise individual, or collective, national self-defence 
+under international law. It also remains the commander’s responsibility to 
+make sure that only the degree of force that is necessary, reasonable and 
+proportionate in the circumstances is used. Ultimately, the commander 
+must keep in mind, in all but the most exceptional circumstances, the overall 
+objective of any force used is to enable the safe extraction of eligible persons. 
+3.29. Force protection and operations security. Planners considering force 
+protection are likely to find the issue compounded by the nature of a NEO. 
+Widely published evacuation plans will inevitably provide any hostile actors  
+with the information necessary to plan focused attacks against eligible persons 
+or the joint task force. Information freely available to the community and  
+hostile actors could include details of the locations for sites where eligible 
+persons will congregate, or where helicopters will be used to extract eligible 
+persons. Where civilian or military air transport is to be used, planners should 
+consider providing air transport security measures to protect the aircraft 
+from sabotage or hijack.46 Consequently, NEO planners will have to consider 
+active measures to mitigate the risk to personnel across large sections of the 
+evacuation process.
+3.30. Protective measures. Planners should consider eligible persons’ lack 
+of training and protective equipment as well as other factors (such as health 
+and age) that could increase their susceptibility to harm during the evacuation. 
+Further considerations should be given to the inherent risks of using military 
+assets, such as helicopters, ships or aircraft. 
+3.31. Communication and information systems. The MOD controls the 
+allocation of strategic satellite communications resources. PJHQ conducts 
+communications planning, based on direction from the MOD.
+a. Prior to deploying the joint task force headquarters, the MOD will 
+have to consider, and if necessary authorise, any FCDO requests for 
+communications assistance to His Majesty’s Representative. PJHQ J6 
+(Communication and Information Systems (CIS)) staff will be required 
+to liaise with the FCDO to agree the communications between the 
+46 More detail on force protection can be found in AJP-3.14, Allied Joint Doctrine for Force 
+Protection.
+41
+JDP 3-51 (3rd Edition, Version 2) 
+3
+Planning
+
+diplomatic post and the deployed force. Similar liaison will be required 
+for the joint task force headquarters J6 (CIS) staff, when deployed.
+b. The joint task force headquarters will require the appropriate CIS 
+to provide appropriate links to other multinational forces (if applicable) 
+and trunk connectivity to deployed UK components/unit headquarters 
+in theatre.
+3.32. Joint personnel recovery. Recent NEOs have identified the need 
+for joint personnel recovery in an uncertain or hostile NEO environment. To 
+achieve this, the joint task force commander may establish a joint rescue 
+coordination centre to plan and coordinate joint personnel recovery and 
+medical evacuation missions with other nations involved in the crisis or located 
+within the crisis region.47 Advice regarding force protection may be necessary, 
+specifically on the need for aircraft defensive aid suites.
+Anticipating surge in evacuation interest from eligible persons 
+3.33. There is an inherent tension within any NEO scenario where those 
+who are eligible for evacuation under the UK government’s criteria may be 
+resistant to evacuation while the environment remains relatively permissive. 
+Despite graduated advice from the FCDO to evacuate, eligible persons may 
+be extremely reluctant to leave due to fears over: security of personal property 
+and business premises; leaving family members who they perceive as ineligible 
+for evacuation; and professional reputation. It is only when the situation 
+has deteriorated to an extent that it presents a clear and present danger to 
+individual security that people may be willing to evacuate, at which point any 
+evacuation will invariably require military assistance due to the deterioration in 
+the security environment.
+3.34. As a result, despite persistent messaging advising UK nationals to 
+leave, FCDO, Border Force and military staff should anticipate a surge in 
+eligible persons seeking evacuation at the point of crisis and/or the point at 
+which an evacuation with military support is initiated. This tendency may be 
+particularly significant, and difficult to manage, where assistance programmes 
+are already in place, such as in Afghanistan 2021.
+3.35. It is imperative that the eligibility criteria for evacuation is clear and well 
+understood by those at the lowest tactical levels who will invariably form the 
+initial security screen. Eligibility criteria used on any previous NEO deployment 
+47 For further detail see AJP-3.7, Allied Joint Doctrine for Recovery of Personnel in a 
+Hostile Environment.
+42
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+will not be applicable. Any confusion or misinterpretation in eligibility criteria at 
+the policy or operational levels will be magnified and cause significant friction 
+at the tactical level. Furthermore, to maintain high processing rates, it may be 
+necessary for military personnel to reinforce FCDO and Border Force staff to 
+assist in conducting eligibility checks at the evacuation handling centre.
+3.36. It is important to note the military have no role in establishing the criteria 
+for eligibility to be evacuated. Criteria for eligibility is set at ministerial level and 
+implemented by Home Office (Border Force) staff on the ground along with 
+FCDO colleagues. Military personnel may be requested to assist with eligibility 
+screening at the evacuation handling centre to maintain high processing rates, 
+but they are to only apply the criteria set by the Home Office. The primary role 
+of the military is to provide initial security screening of all personnel prior to 
+their assessment by Border Force and/or FCDO colleagues.   
+3.37. Waivers and dispensations. Recent NEOs in Afghanistan (2021) and 
+Sudan (2023) have demonstrated that the tactical situation can deteriorate 
+quickly and military personnel may be required to operate beyond the limits 
+of current operational policy, which requires swift submission and approval 
+of waivers and/or dispensations through the appropriate authorities. Planners 
+should understand the limits of operational policies and the specific process 
+and authorities through which waivers and/or dispensations are submitted for 
+approval.48 In many instances, operational waivers may take significant time to 
+be approved and therefore common areas that may require the submission of 
+waivers and/or dispensations should be identified early in planning. Common 
+areas for the consideration of waivers and dispensations include: 
+• approval for troops (and dogs) to fly in fighting order;49
+• dispensation to load cargo, civilians and troops on the same flight; 
+• approval to exceed policy limits on the number of aircraft 
+passengers; and 
+• a waiver to fly without certain dangerous goods checks. 
+48 PJHQ J9 can advise on the process of submitting operational waivers and/or 
+dispensations and should be engaged as early as possible to identify specific policies that 
+may require waivers if the security environment deteriorates.
+49 Fighting order is a term used mainly by ground troops to describe the minimum 
+equipment the individual requires to operate immediately in a hostile environment. It is 
+sometimes referred to as combat equipment fighting order (CEFO) or troops in fighting trim 
+(TIFT) depending upon the Service but generally describes the individual having webbing, 
+body armour and combat helmet, weapon, ammunition and communications equipment 
+(with batteries at 100% charge) on the person.
+43
+JDP 3-51 (3rd Edition, Version 2) 
+3
+Planning
+
+Section 4 – Forces
+3.38. Force generation. NEO forces are likely to be generated from two 
+sources. First, those that can be activated at short notice with the means to 
+move to the crisis area at speed. Secondly, those already in the vicinity by 
+chance or design. Suitable forces may include those assigned to the joint 
+force50 or those deployed on operations or exercise near the affected region.51 
+3.39. Readiness. Planners must take account of the readiness preparation 
+time required for the joint task force. Readiness preparation time includes 
+the notice to move, deployment time and any training required in the joint 
+operations area prior to the joint task force being ready to conduct operations. 
+Time is usually at a premium for NEOs requiring rapidly deployable or forward 
+deployed forces held at very high readiness.
+3.40. Notice to move. The MOD’s Security Policy and Operations is 
+the authority for promulgating ‘notice to move’ for all military assets. Early 
+agreement to reduce notice, redeploying key units, advance sailing of ships 
+(and associated aircraft) and recovering Royal Air Force (RAF) air transport 
+aircraft may be essential for the timely implementation of an evacuation plan. 
+3.41. Operational reserve. An operational reserve52 should be formally 
+designated from the outset to mitigate risks presented by dependencies on 
+other nations. Depending on the scale of the NEO, the operational reserve may 
+be drawn from forces beyond those held at very high readiness and therefore 
+early planning (and warning) is imperative. Early consideration should also be 
+given to operational agility and forward basing operational reserve forces close 
+to the country in question using either Defence regional hub locations  
+and/or partner or allied nations. Both may require additional diplomatic 
+clearances that will take time and it is therefore essential that the permissions 
+required to forward base operational reserve forces are considered early in the 
+planning for a NEO.
+50 The joint force incorporates maritime, land, air, special forces and logistic forces with 
+a wide range of capabilities and are held at various levels of notice to move ranging from 
+24 hours to 30 days. 
+51 NEOs are usually conducted using light troops, special forces and helicopters. Defence 
+Science and Technology Laboratory, The Historical Characteristics of NEO , 20 December 
+2011.
+52 Additional forces under the command of the principal Joint Commander (Commander 
+Joint Operations), or their nominated Joint Task Force Commander. This force is separate 
+from any other reserve forces held at the tactical and theatre level by the tactical 
+commander and supported component commander respectively.
+44
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+Operation Pitting – Kabul, 2021 
+During the NEO conducted from Kabul in August 2021, British 
+forces drawn largely from 16 Air Assault Brigade did not deploy with 
+sufficient mass to secure the entire Hamid Karzai International Airport (HKIA), 
+and specifically the main runway, which was subject to repeated incursion, 
+thereby placing the entire multinational operation at risk. HKIA was eventually 
+secured by forces from the United States (US) 82nd Airborne Division 
+following a deliberate overnight clearance operation. This critical dependency 
+not only required close liaison with US ground forces to minimise tactical 
+friction but also meant UK Armed Forces did not control all the principal 
+elements required to continue the operation. As in Kabul, dependencies can 
+be successfully managed through close liaison and established relationships 
+with other nations, but, wherever possible, critical dependencies should be 
+mitigated through the employment of an operational reserve.   
+Capability requirements
+3.42. The composition of the joint task force will depend on the likely military 
+tasks and the situation in the joint operations area. As well as command and 
+control, the capabilities required will include some, or all, of the following and 
+need to be reflected in the task organisation.
+3.43. Strategic lift. The strategic estimate will have included a risk assessment 
+that determined the number of transport assets required to extract the eligible 
+persons. Appropriate platforms will also be required to deploy personnel, 
+vehicles, equipment and stores to and from the joint operations area.
+© The Insider Paper (via Twitter)
+45
+JDP 3-51 (3rd Edition , Version 2 ) 
+3
+Planning
+
+3.44. Intelligence, surveillance and reconnaissance. NEOs often occur 
+in areas where availability of dedicated intelligence, surveillance and 
+reconnaissance (ISR) is limited. Consequently, as well as dedicated UK and 
+foreign-partner assets, fusing and disseminating information from other 
+sources (such as open-source intelligence, diplomatic reporting or liaison 
+with host nation’s security forces) will be necessary. ISR assets are tasked 
+in accordance with the joint task force commander’s direction. Therefore, 
+close coordination is vital to ensure priorities are met with scarce resources. 
+Processing and disseminating information is often a key constraint rather 
+than the ability to collect it. Deploying intelligence personnel should be 
+considered when the NEO is likely to be for a protracted period to provide 
+current intelligence on the localised threats. During the execution of the NEO, 
+ISR supports both intelligence priorities and tactical activity, such as tracking 
+eligible persons. 
+3.45. Fire support. Though NEOs are generally defensive in nature, a strong 
+deterrent posture will often contribute to success, especially in uncertain or 
+hostile environments. Thus, a suitable level of offensive capability may be 
+required that may include using fire support for close protection tasks as 
+well as providing extended security to the evacuation chain.53 Equally, the 
+mission and rules of engagement may dictate the deployment of non-lethal 
+weapons. Whatever lethal and non-lethal effects are created by the joint force, 
+they are likely to be carefully studied by observers, both within the area of 
+operations, domestically in the UK and internationally; this level of scrutiny, and 
+its associated impact on the operation, will need to be considered early in the 
+planning process.
+3.46. Force protection. The requirement for force protection is likely to be 
+paramount once the initial insertion of the military force is complete. Force 
+elements such as infantry, combat support elements and defensive maritime and 
+air assets may be required to protect: His Majesty’s Representative; designated 
+very important persons and critical resources; consular staff assisting with the 
+evacuation; eligible persons; and transport assets, such as air transport.
+3.47. Manoeuvre. At the operational level, maritime and air manoeuvre 
+elements may be required to provide over-the-horizon deterrent activities. 
+Tactical manoeuvre elements may be required to outflank and/or coerce 
+any potential opposition to guarantee mobility and, when necessary, provide 
+counter-mobility resources.
+53 For example, the US Marine Corps’ use of AH-1W Cobra attack helicopters in the 1991 
+US Embassy evacuation in Mogadishu. 
+46
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+3.48. Control of the electromagnetic spectrum. Control of the 
+electromagnetic spectrum for offensive and defensive purposes can give  
+the NEO force considerable advantage over any potential adversary. In a 
+complex emergency there may be other military forces and civilian agencies  
+all competing with the host nation, one another (through purchasing 
+bandwidth/satellite communications channels) and warring factions for space 
+on the electromagnetic spectrum. Most of these forces and agencies will be 
+outside the control of the NEO force. This will greatly complicate managing and 
+protecting the electromagnetic spectrum for the joint task force’s use. Liaison 
+and the subsequent coordination of the electromagnetic spectrum should take 
+place where appropriate. In a non-permissive environment, electromagnetic 
+warfare resources may be required to disrupt opposition forces.
+3.49. Medical. The capability of medical support needs to be considered at 
+the earliest possible stage when planning a NEO. It should aim to support the 
+health needs of both deployed personnel and eligible persons and be capable  
+of providing appropriate treatment and care during the evacuation. See 
+Chapter 5 for more detail.
+47
+JDP 3-51 (3rd Edition, Version 2) 
+3
+Planning
+The strategic estimate will have included a risk assessment that determined the number  
+of transport assets required to extract the eligible persons
+
+3.50. Sustainability. A NEO will normally be of short duration, thus minimising 
+the sustainability requirements of the force. However, the requirements 
+of His Majesty’s Representative’s staff and other eligible persons may be 
+considerable. Certain evacuees, such as pregnant women, nursing mothers, 
+the elderly and young children, may also have specific requirements. 
+Sustainability planning for the eligible persons must be conducted for all 
+phases of the operation until they are in a temporary safe location or place of 
+safety and no longer part of the NEO. The potential requirement for sweep-up 
+operations to evacuate stragglers and other residual eligible persons should 
+also be noted.
+Section 5 – Other agencies
+3.51. The United Nations, international organisations and 
+non-governmental organisations. There may be several international 
+organisations and non-governmental organisations within the joint operations 
+area. The UN, other international organisations and larger non-governmental 
+organisations will generally have their own evacuation plans. However, there 
+may also be many small independent non-governmental organisations with no 
+contingency plans. In an uncertain or hostile environment, the UN Department 
+of Safety and Security may deploy additional security staff to develop and 
+coordinate the evacuation of UN staff and the humanitarian community at 
+large. Alternatively, they may become eligible persons for military evacuation. 
+3.52. The European Union. The European Union (EU) civil protection 
+mechanism covers the evacuation of EU citizens. EU countries are responsible 
+for the evacuation of all EU nationals. 
+3.53. The commercial sector. Major multinational companies operating in 
+country will frequently have their own security arrangements and evacuation 
+plans; these arrangements often include the use of private security companies. 
+These multinational and private security companies will have good local 
+contacts and are likely to be well-resourced with communications and 
+transport assets. There is also likely to be many eligible persons who will 
+work for medium or smaller companies that will not have their own evacuation 
+plans and be dependent upon the UK government’s assistance. Information 
+regarding UK company plans should be incorporated in the diplomatic post’s 
+crisis management plan.
+48
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+3.54. Liaison with other agencies. The FCDO will take the lead, assisted 
+by other government departments as required, in international liaison with 
+other agency headquarters located in the crisis area. Deconfliction is essential 
+to avoid numerous organisations competing for the same resources and 
+evacuation routes. Early coordination with other organisations is desirable 
+to achieve a degree of coherence between different organisations through 
+sharing information, resources and plans. As a minimum, an understanding  
+of each other’s plans is essential to avoid confusion and unnecessary 
+duplication. Military staff should be prepared to conduct liaison early in the 
+planning process. 
+49
+JDP 3-51 (3rd Edition, Version 2) 
+3
+Planning
+
+ 
+Key points
+• His Majesty’s Representative is the authority for declaring the stages of the 
+crisis management plan. His Majesty’s Representative may decide that an 
+evacuation can be conducted without military support.
+• When a NEO becomes a likely option, a PJHQ liaison officer or OLRT should 
+be deployed to act as a link between PJHQ, the joint task force commander 
+and His Majesty’s Representative.
+• Once a NEO is activated, Security Policy and Operations (supported by 
+PJHQ/JFHQ) assumes the lead on engagement with the FCDO’s Crisis 
+Management Department.
+• A NEO will likely be conducted in a congested operational area. 
+Deconfliction and coordination with multinational forces, non-governmental 
+and transnational organisations, the commercial sector and other parties will 
+require early liaison and robust communication channels.
+• Media and information operations must be aligned with the overall strategic 
+communication plan.
+• NEOs are very likely to be multinational endeavours as several nations 
+scramble to evacuate their citizens. Early consideration should be given to 
+the UK playing a prominent role within any form of NEOCC or multinational 
+coordination centre.  
+• At the point at which an evacuation with military support is initiated there is 
+likely to be a surge in those seeking evacuation, which must be managed at 
+the evacuation handling centre.
+• The military has no role in establishing eligibility criteria for evacuation – it is 
+a Home Office responsibility, exercised through FCDO and Border Force 
+staff. However, eligibility criteria must be clear and widely understood as 
+any confusion or misinterpretation at the policy and operational levels will be 
+magnified at the tactical level where it can cause significant friction.
+• An operational reserve should be formally designated from the outset to 
+mitigate risks presented by dependencies on other nations.
+50
+JDP 3-51 (3rd Edition, Version 2)
+3
+Planning
+
+Annex 3A
+Non-combatant 
+evacuation operation 
+planning guidance
+3A.1. Military Strategy and Plans’ political/military estimate will inform the 
+Chief of the Defence Staff’s planning directive. The operational estimate 
+(conducted in conjunction with other government departments where possible) 
+will seek to bring clarity in the key themes listed below.54 
+Current situation
+• The international, regional and local political context.
+• Actors involved.
+• Any influencing factors.
+• Supporting assets available (host nation, international organisations,  
+   non-governmental and commercial organisations).
+• The in-country political, security and social framework.
+• Identifying deployed UK assets in the region of crisis.
+• The worst-case scenario.
+UK interests and priorities
+• Our foreign policy.
+• Any standing arrangements, commitments or obligations to other nations.
+UK government strategy (ends)
+• Our national intent/objectives.
+• Decisive conditions for Defence’s contribution to the evacuation.
+• A risk analysis.
+• Any constraints.
+54 NEO planning guidance notes supplement AJP-5, Allied Joint Doctrine for the Planning 
+of Operations (with UK national elements).
+51
+JDP 3-51 (3rd Edition, Version 2) 
+3A
+Planning
+
+Implications for the Ministry of Defence (ways/means)
+• What military strategic effects are sought? 
+• Any multinational/agency involvement, for example, North Atlantic Treaty  
+   Organization (NATO), UN, Combined Joint Expeditionary Force.
+• The military planning options.
+• Course of action generation.
+• A risk analysis.
+• The commander’s critical information requirements.
+Presentational issues
+• The UK’s, coalition or international will.
+• The UK (domestic) and international perception of the NEO.
+• The impact of ‘do nothing’.
+• Any subsequent crisis-related issues.
+52
+JDP 3-51 (3rd Edition, Version 2)
+3A
+Planning
+
+Annex 3B
+Legal issues and rules of 
+engagement
+Legal basis for a non-combatant evacuation operation
+3B.1. The conduct of all military operations, including NEOs, is circumscribed 
+by the provisions of national and international law. National law includes both 
+the criminal law of the UK, to which our UK Armed Forces are always subject 
+wherever they are serving, and the law of the particular country to which a 
+force may be deployed, subject to any immunity granted by a status of forces 
+agreement or memorandum of understanding.
+3B.2. States have a right to exercise individual or collective national 
+self-defence under international law in respect of their own nationals at risk of 
+death or serious harm in a foreign state where the state authorities involved 
+are incapable of protecting them (Article 51 of the UN Charter). The legal 
+justification for our Armed Forces to enter another state to rescue eligible 
+persons may arise in different ways. 
+a. Explicit permission to enter for extraction purposes may be given 
+by the receiving state authorities and in certain circumstances a status 
+of forces agreement may even be concluded.
+b. Where there has been a breakdown in law and order and a 
+coherent government no longer exists (or where such government 
+exists but it is unable or unwilling to protect British nationals) 
+intervention to evacuate British nationals may be justified on the 
+grounds of national self-defence (Article 51 of the UN Charter).
+c. A UN Security Council resolution.
+3B.3. In these circumstances, the use of force will be limited to what is 
+necessary and proportionate for accomplishing the mission and the defence  
+of UK Armed Forces and evacuees. Rules of engagement (ROE) will be drafted 
+accordingly. 
+53
+JDP 3-51 (3rd Edition, Version 2) 
+3B
+Planning
+
+Rules of engagement development
+3B.4. Ministers provide political direction and guidance to commanders 
+through ROE that control all provocative actions including, but not limited to, 
+the application of force by our Armed Forces and the conduct of information 
+operations and so on. For our national operations, those ROE will be 
+developed in accordance with Joint Service Publication (JSP) 398, United 
+Kingdom Manual of National Rules of Engagement. They will reflect the 
+legal basis of the operation and the UK government’s political and military 
+objectives. They will be designed to ensure that any action or application of 
+force is carefully controlled. ROE are not intended to be used to assign specific 
+tasks or as a means of issuing tactical instructions.
+3B.5. In a multinational NEO, our Armed Forces will operate under UK 
+national ROE. Every effort should be made to ensure that the various national 
+ROE are aligned. Established procedures exist for providing ROE within NATO 
+as laid down in Military Council (MC) 362/1.
+3B.6. The ROE for an operation will be developed in accordance with the 
+procedures set out in JSP 398. These procedures should ensure that the 
+initial profile is realistic according to the circumstances at the time. Once 
+approved by ministers, the profile will be attached to the joint commander’s 
+mission directive. Upon receipt of that directive, commanders should review 
+the profile to evaluate its impact on their conduct of operations. Proposals 
+for change should be submitted to the issuing authority and copied to the 
+Ministry of Defence in the form of a ROE request (ROEREQ) message. A full 
+justification for each requested rule change must be given along with the likely 
+consequences of the requested rule being refused. The approval process will 
+be similar to the original authorisation process.
+Self-defence
+3 B.7. The rights of individual Service personnel to use force in their own 
+self-defence is inherent and may not be restricted by any ROE. UK law requires 
+that only reasonable force may be used to defend oneself or others from an 
+act carrying an actual or an imminent threat of harm. Use of lethal force in 
+self-defence is only justified where there is an actual or imminent threat to 
+human life, and there is no other way to eliminate the threat other than by the 
+use of potentially lethal force.
+54
+JDP 3-51 (3rd Edition, Version 2)
+3B
+Planning
+
+Rules of engagement implementation
+3B.8. When implementing ROE, commanders must consider the authorised 
+profile as the limit of permissions available. In their judgement of the situation 
+they may authorise a more restrictive version of any rule. It is important that 
+ROE are disseminated to the lowest appropriate level as quickly as possible 
+and in a form that is readily understood. 
+3B.9. ROE do not by themselves guarantee the lawfulness of any action. It 
+remains the commander’s responsibility in law to ensure that only the degree 
+of force that is necessary, reasonable and proportionate in the circumstances 
+is used. 
+55
+JDP 3-51 (3rd Edition, Version 2) 
+3B
+Planning
+
+[Page 66: No extractable text]
+
+Chapter 4
+Chapter 4 describes the phases of a non-combatant 
+evacuation operation. Annex 4A describes the key 
+characteristics of the staging posts within an evacuation 
+chain.
+Section 1 – Phase 0: Shape . . . . . . . . . . . . . . 59
+Section 2 – Phase 1: Deployment . . . . . . . . . . . 60
+Section 3 – Phase 2: Execution . . . . . . . . . . . . 62
+Section 4 – Phase 3: Recovery  . . . . . . . . . . . . 64
+Key points . . . . . . . . . . . . . . . . . . . . . . . 65
+Annex 4A – Considerations for setting up the  
+                   evacuation chain  . . . . . . . . . . . . . 66
+57
+JDP 3-51 (3rd Edition, Version 2) 
+
+”
+“I am truly grateful for the 
+dedication and professionalism of 
+the men and women of our armed 
+forces who have evacuated 
+more than 2,000 people from 
+Sudan from over 20 countries 
+and continue to provide medical 
+and humanitarian support from 
+Port Sudan. ... Their efforts are a 
+source of national pride.
+Ben Wallace MP , Secretary of State for 
+Defence, 4 May 2023
+58
+JDP 3-51 (3rd Edition, Version 2)
+4
+Implementing a non-combatant evacuation operation
+
+Chapter 4 
+Implementing a 
+non-combatant 
+evacuation operation
+Section 1 – Phase 0: Shape
+4.1. The nature of crises means that, in many cases, the state of Foreign, 
+Commonwealth and Development Office (FCDO) and Ministry of Defence 
+(MOD) preparations may oscillate through periods of heightened or reduced 
+alertness many times before a non-combatant evacuation operation (NEO) is 
+finally required. This could include reviewing plans, building and maintaining 
+situational awareness, and providing security and protection for those in 
+country. Throughout this period, shaping operations, coherent with the 
+prevailing circumstances, will be conducted. This may well involve activity in 
+countries where conditions of violence and austerity exist as part of a normal 
+pattern of life. So, shaping operations are as much a part of a NEO as any 
+eventual evacuation. 
+4.2. Ministry of Defence/Foreign, Commonwealth and Development 
+Office linkages. Throughout the strategic and operational planning processes, 
+the MOD will maintain regular dialogue with the FCDO Crisis Management 
+Department. As a crisis develops, the balance of military engagement with the 
+Crisis Management Department will adjust to become more focused on the 
+joint task force commander. Permanent links between the Crisis Management 
+Department and Joint Force Headquarters (JFHQ) (the preferred NEO joint 
+task force headquarters framework) should be maintained to ensure that the 
+transition of focused activity is seamless.
+4.3. Operational liaison and reconnaissance team. The principal means 
+to gather information for the joint task force commander and their staff to 
+develop and maintain individual and shared situational awareness is an 
+operational liaison and reconnaissance team (OLRT) drawn from the JFHQ. 
+The OLRT members are specialist military planners, trained for work in 
+crisis environments and with experience in working in a cross-government 
+environment. The OLRT provides a rapid, guaranteed and continuous link 
+59
+JDP 3-51 (3rd Edition, Version 2) 
+4
+Implementing a non-combatant evacuation operation
+
+between His Majesty’s Representative, the joint task force commander and 
+the joint commander. An OLRT often deploys in civilian clothes, and by civilian 
+means, to avoid local sensitivities. The composition of the team is scalable to 
+meet the task at hand. Principal tasks for the team include the following.
+a. Brief. A briefing to His Majesty’s Representative on the conduct of a 
+NEO, the likely forces involved and the military considerations.
+b. Liaise. Liaise with the diplomatic post staff, the Defence attaché, 
+host nation military, and other nations’ military deployed in theatre.
+c. Review. Review the crisis management plan and coordinate it with 
+military plans as necessary.
+d. Plan. Commence the operations planning process on behalf of the 
+joint task force commander.
+e. Inform. Compile local information not otherwise available to update 
+or inform contingency plans. His Majesty’s Representatives often find 
+that in a deteriorating situation their normal methods of maintaining 
+situational awareness become strained and the use of an OLRT is a 
+significant enhancement to their capabilities.
+f. Communicate. Provide communications equipment at the diplomatic 
+post, or elsewhere, if needed.
+4.4. Close protection. Should there be a risk to the His Majesty’s 
+Representatives, their staff and/or the diplomatic posts, close protection may 
+be requested. 
+Section 2 – Phase 1: Deployment
+4.5. In most cases, carefully applying resources during the shape phase will 
+allow the judicious and timely deployment of forces so that, at the point a NEO 
+is requested, the joint task force commander can assist. However, this may not 
+always be the case. In some circumstances, the military response may have to 
+be conducted in considerable haste and at reach. Here, the dialogue between 
+the MOD, the FCDO Crisis Management Department, the joint task force 
+commander and His Majesty’s Representative will be crucial to ensure that 
+eligible persons are given the best possible guidance for their safety and timely 
+60
+JDP 3-51 (3rd Edition, Version 2)
+4
+Implementing a non-combatant evacuation operation
+
+evacuation. The joint task force commander may find they are forced to deploy 
+with their headquarters while the preliminary moves are being made. Even 
+with only a short transit, the pace of events may be rapid. The risk of losing 
+situational awareness is significant. Also, the requirement for a robust method 
+of conducting an update before force elements are placed under command 
+is paramount. Where it has not been possible to poise an evacuation force, 
+there will undoubtedly be additional political and media pressures with which 
+the joint task force commander and His Majesty’s Representative will have to 
+contend. 
+4.6. Basing and commanding. The selection of the forward mounting base 
+and joint task force headquarters location forms a key first step in the joint task 
+force commander’s concept of operations. There may have been considerable 
+activity in the shaping phase to identify, and agree, suitable locations. It is 
+not uncommon for several forward mounting base or forward operating base 
+options to be developed to allow agility when a NEO is executed. The joint task 
+force commander will need to consider the following factors.
+a. Foreign, Commonwealth and Development Office regional 
+facilities. As the supporting commander to the FCDO, the joint task 
+force commander may need to align their location to that of the FCDO. 
+Regional consular hubs may offer more staff to help process eligible 
+persons, facilities to command from, and a nodal point from which to 
+maintain situational awareness. Agreement will need to be secured  
+with FCDO London for any forward military operations that may use 
+embassy sites.
+b. Multinational partners. So long as capacity and infrastructure 
+allows, the most efficient coordination between nations will often be 
+achieved by selecting a common location to command and base 
+operations. In some instances, where a partner has greater regional 
+influence than the UK, this may also enable smoother negotiation of 
+access, basing and overflight with the host nations. Where capacity  
+is limited, it may still be possible to select a common headquarters 
+location while forces are dispersed to several forward operating bases  
+in close proximity.
+c. Internal or external locations. A forward mounting base/joint 
+task force headquarters location outside the country from which the 
+NEO is to be conducted generally offers easier access and a reduced 
+requirement for force protection in rear areas. However, a forward 
+61
+JDP 3-51 (3rd Edition, Version 2) 
+4
+Implementing a non-combatant evacuation operation
+
+mounting base within the country may become a viable option if security 
+permits, possibly enabling better situational awareness.
+d. Infrastructure. The force elements required to conduct a NEO often 
+require considerable strategic lift to deploy, and substantial sustainment 
+once in theatre. The availability of a functional infrastructure can 
+considerably ease these burdens. In some cases, this might be available 
+from an overseas UK base such as Gibraltar or Cyprus, although the 
+joint task force commander may have to balance the benefits of such 
+locations with their proximity to the NEO and their ability to command 
+the operation.
+e. Sea basing. In some circumstances, access or infrastructure may 
+preclude the selection of a suitable land location. With enough warning 
+time, sea basing may be a suitable alternative. While it is possible to 
+both command and base from afloat, the joint task force commander 
+will need to consider their ability to maintain situational awareness  
+and/or operate within a multinational environment. This may not be so 
+easily assured afloat as from a land base. Where there is a high risk of 
+a NEO enduring for a prolonged period without execution, afloat basing 
+may offer the ability to poise without the complications of a protracted 
+military footprint ashore.
+Section 3 – Phase 2: Execution 
+4.7. The focus of this phase is the safe and swift evacuation of eligible 
+persons to a place of safety. This may be enabled by a rapid insertion and 
+withdrawal of military and FCDO personnel. 
+4.8. The point at which the NEO commences is invariably a matter of careful 
+judgement by the FCDO, in collaboration with the MOD and the joint task force 
+commander, having assessed the: 
+• risk to eligible persons; 
+• political, coalition and environmental factors; and 
+• readiness of the force. 
+Ideally, His Majesty’s Representative will order the NEO to start once they are 
+content that the evacuation handling centre is secure and ready to process 
+personnel, and that the means of evacuating eligible persons is available. 
+62
+JDP 3-51 (3rd Edition, Version 2)
+4
+Implementing a non-combatant evacuation operation
+
+4.9. Before beginning the evacuation, the joint task force commander and 
+His Majesty’s Representative must agree the point when eligible persons 
+will enter the military evacuation chain and when they will exit again. In many 
+cases, this will have been pre-planned but must still be considered against the 
+prevailing circumstances. A detailed description of the associated tactical-level 
+considerations for a generic evacuation chain is at Annex 4A, although specific 
+circumstances will require bespoke solutions.55 
+4.10. Once received into the evacuation chain, eligible persons are processed 
+by the FCDO rapid deployment team/Border Force to ensure eligibility. It may 
+be that FCDO/Border Force processing cannot be safely conducted before 
+evacuation. In these circumstances, a further agreement with the joint task 
+force commander will empower evacuating forces to make basic eligibility 
+checks before accepting evacuees. The FCDO/Border Force will conduct 
+more thorough checks at the place of safety or temporary safe location. During 
+processing, it may also be possible to debrief evacuees (either using military or 
+FCDO teams) to generate further understanding of the situation, especially the 
+recognised eligible person picture.
+55 Not all stages of the evacuation chain will necessarily be used or activated; stages in 
+the chain may also be skipped or merged depending on the situation.
+63
+JDP 3-51 (3rd Edition, Version 2) 
+4
+Implementing a non-combatant evacuation operation
+A UK government official escorts civilians feeling Khartoum in Sudan to a waiting  
+Royal Air Force A400M aircraft during Operation Polarbear in 2023
+
+4.11. In a multinational evacuation, the additional allied evacuees will place 
+considerable extra complexity to the recognised eligible person picture. The 
+joint task force commander will need to be responsive to the dynamic political 
+situation in which their obligations may grow quickly, often initially without 
+clarity of the tactical implications. The formation of a NEO coordination cell will 
+assist this process. 
+Section 4 – Phase 3: Recovery
+4.12. As with the deployment phase, the timing of recovery, either partial or 
+complete, will be a careful judgement in which the joint task force commander 
+and His Majesty’s Representative will be instrumental in advising the FCDO, 
+who will make the final decision. It is almost certain that, even with the 
+careful tracking of eligible persons, there will be some potential evacuees 
+unaccounted for at the end of the main evacuation effort. A tactical pause may 
+be appropriate to allow time for any remaining eligible persons to be identified 
+and a second wave of extraction may be required (perhaps with a reduced 
+force) before final recovery is ordered. Equally, a careful assessment of the 
+multinational effort, and residual UK obligations to it, will be required to ensure 
+that the consequences of UK departure are fully understood.
+64
+JDP 3-51 (3rd Edition, Version 2)
+4
+Implementing a non-combatant evacuation operation
+
+ 
+Key points
+• As a crisis develops, the balance of military engagement with the FCDO 
+Crisis Management Department will adjust to become more focused on the 
+joint task force commander.
+• The OLRT is the principal military capability by which early situational 
+awareness and liaison is achieved. 
+• Often time and opportunity to preposition forces will be scarce and 
+operations will be conducted at reach. The risk of losing situational 
+awareness during this phase is high. Maintaining dialogue between the joint 
+task force commander, the FCDO Crisis Management Department and His 
+Majesty’s Representative is crucial during this period of flux.
+• The point at which the NEO commences is invariably a matter of careful 
+judgement by the FCDO and is made in collaboration with partners. 
+• Before beginning the evacuation, the joint task force commander and His 
+Majesty’s Representative must agree the point when eligible persons will 
+enter the military evacuation chain and when they will exit again. 
+• In a multinational evacuation, the additional allied evacuees will place 
+considerable extra complexity to the recognised eligible person picture. The 
+formation of a NEO coordination cell will assist this process.
+• It is almost certain that, even with the careful tracking of eligible persons, 
+there will be some potential evacuees unaccounted for at the end of the 
+main evacuation effort. A tactical pause may be appropriate to allow time 
+for any remaining eligible persons to be identified and a second wave of 
+extraction may be required before final recovery is ordered. 
+65
+JDP 3-51 (3rd Edition, Version 2) 
+4
+Implementing a non-combatant evacuation operation
+
+Annex 4A
+Considerations for setting 
+up the evacuation chain
+Reception centre
+4A.1. Characteristics. Reception centres should be accessible, recognisable, 
+preferably secure and close to the eligible persons’ communities. They should 
+be familiar to eligible persons and easy for untrained civilians to find at night 
+and under difficult conditions. The location and significant aspects of each 
+reception centre should be detailed in the diplomatic post’s crisis management 
+plan. Typical reception centres will use buildings such as expatriate clubs, 
+hotels or offices. There is an inherent risk that reception centres may need 
+protection. Where this cannot be provided, it is often more appropriate to not 
+use reception centres but instead to instruct eligible persons to report directly 
+to an evacuation handling centre or the point of embarkation.
+4A.2. Responsibilities. His Majesty’s Representative is responsible for 
+selecting reception centres, considering military advice as necessary. They are 
+responsible for ensuring that each eligible person knows where the nearest 
+reception centres is, and how long it will remain open for. His Majesty’s 
+Representative will likely employ the warden system, alongside existing 
+FCDO staff to facilitate this communication. His Majesty’s Representative’s 
+responsibility for administering the reception centres is normally delegated to a 
+warden.56 
+4A.3. Activity. When called forward by His Majesty’s Representative, eligible 
+persons make their own way to their allocated reception centres where they 
+are gathered by the local warden (if available), assisted by diplomatic staff 
+and military personnel.57 The FCDO appointed staff managing the reception 
+centre should have a nominal roll of those eligible persons expected to report 
+to their reception centres and initial screening will take place if possible. At a 
+56 The extent of warden networks varies from country to country. Some countries have 
+well-established warden networks which could administer reception centres, some 
+countries have no warden networks at all.
+57 Assuming they have been requested and that the appropriate legal framework (for 
+example, status of forces agreement or memorandum of understanding) has been agreed 
+with the host nation.
+66
+JDP 3-51 (3rd Edition, Version 2)
+4A
+Implementing a non-combatant evacuation operation
+
+prearranged time, or on call, the FCDO appointed staff will close the reception 
+centres and escort eligible persons to the nearest evacuation handling 
+centre, using eligible persons’ own transport and/or transport arranged by 
+His Majesty’s Representative. Although not a military responsibility, it may be 
+necessary for the military to escort eligible persons from reception centres to 
+the point of embarkation to ensure safe passage.
+Evacuation handling centre
+4A.4. Characteristics. The primary purpose of the evacuation handling 
+centre is to organise the onward movement of the eligible persons to the 
+point of embarkation, a place of safety or temporary safe location. It will also 
+provide a screening facility to ensure that only eligible persons are moved. The 
+evacuation handling centre will have the administrative arrangements needed 
+to provide adequate medical and logistic support to eligible persons. It should 
+be of sufficient size to handle the expected number of eligible persons, offer 
+shelter and basic sanitation facilities and enable the processing of eligible 
+persons. Typical buildings used for housing an evacuation handling centre 
+are embassies, hotels, schools, airport cargo sheds, offices, expatriate clubs 
+and sports clubs, but it may be that an open space with temporary shelter is 
+acceptable.
+4A.5. Location. The location of the evacuation handling centre will be 
+dictated by the specific circumstances of the NEO. However, it is most likely 
+to be located at a secure port or airport in an area where the urgency of the 
+evacuation will not be compromised by the screening process. The selection 
+of the evacuation handling centre is a joint FCDO and MOD responsibility, 
+which must account for military factors (for example, security, force protection 
+and logistics) during early planning and may override consular considerations 
+depending on the threat assessment. The evacuation handling centre could 
+be collocated with the forward mounting base or forward operating base. It 
+could be located in the country being evacuated, situated in another country 
+or afloat. The advantages and disadvantages of each of these options are 
+described below.
+a. In the country being evacuated. The main advantage of locating 
+the evacuation handling centre in the affected country is that the 
+accidental evacuation of non-entitled personnel can be avoided. 
+This is the most attractive option in a benign environment. However, 
+security, administration and time may be factors that may make this 
+option unfeasible.
+67
+JDP 3-51 (3rd Edition, Version 2) 
+4A
+Implementing a non-combatant evacuation operation
+
+b. In another country. The two main advantages of placing the 
+evacuation handling centre in another country are those of security 
+and ease of administration, especially for the FCDO team, which 
+may not consist of many personnel. The main disadvantage is the 
+danger of accidental evacuation of non-eligible persons into a country 
+that then subsequently refuses to accept them. In the event that an 
+evacuation handling centre is to be located in another country, the 
+acceptance of risk by His Majesty’s Representative will form part of the 
+dialogue they have with the joint task force commander.
+c. Afloat. Many of the functions of the evacuation handling centre 
+could be carried out in a sea base. Sea basing may be required where 
+there is no suitable land location for an evacuation handling centre, 
+especially in a hasty NEO with small numbers of eligible persons. The 
+benefits of force protection are particularly evident when sea based. 
+It also has the advantage of simple administration for small numbers. 
+The joint task force commander must balance these advantages 
+against the risk of non-eligible persons entering the evacuation chain 
+and must be conversant with the rules regarding temporary refuge. 58 
+Should the evacuation handling centre be on board a Royal Navy or 
+Royal Fleet Auxiliary ship, responsibility for processing eligible persons 
+will rest with the ship’s commanding officer.
+4A.6. FCDO responsibilities. The FCDO is responsible for:
+• establishing and running the evacuation handling centre;59 
+• screening potential eligible persons and establishing an order of 
+priority; and
+• coordinating the use of facilities, customs requirements, security, 
+transportation and accommodation. 
+4A .7. Military tasks. The joint task force’s primary duties include:
+• controlling transport arriving from the reception centres;
+• maintaining order in the evacuation handling centre;
+• supporting the FCDO’s efforts to care for evacuees; 
+58 See Royal Navy’s Book of Reference (BRd) 3012, Handbook on the Law of Maritime 
+Operations, Chapter 3, Protection of Persons and Property at Sea.
+59 Noting the location must be mutually agreed with MOD planners to account for military 
+considerations. 
+68
+JDP 3-51 (3rd Edition, Version 2)
+4A
+Implementing a non-combatant evacuation operation
+
+• providing security, administrative and logistic support to enable 
+an evacuation, if requested by the FCDO and sufficient resources 
+exist; and
+• where required, and with agreement of the FCDO representative, 
+assume responsibility for running the evacuation handling centre.
+4A.8. Factors. When the FCDO establishes an evacuation handling centre, 
+there are several factors that must be considered. These factors include:
+• the origin and numbers of the FCDO personnel to staff the 
+evacuation handling centre;
+• the requirement for multinational coordination at the evacuation 
+handling centre;
+• when sited in another country, the willingness of the host nation to 
+host the evacuees;
+• logistic support available, including accommodation; 
+• security;
+• military advice on the location, should there be military involvement;
+• access and egress via vehicle, public transport or by foot; and
+• proximity to emergency helicopter landing site or loading point.
+4A.9. Procedures during processing. During processing, the procedures 
+to follow will depend on the location of the evacuation handling centre and 
+the FCDO’s wishes. Regardless of location, a comprehensive plan for the 
+reception and care of eligible persons should be implemented by the FCDO, 
+taking into account the ethnic and cultural diversity of the eligible persons’ 
+community. The evacuation handling centre should be staffed with security, 
+interpreters (if possible), local immigration, diplomatic post support, and liaison 
+and medical personnel. With advice from the MOD, the FCDO should consider 
+the following factors. 
+• Using military police to maintain order; this may well be a 
+prerequisite, but careful consideration should be given since action 
+by the host nation’s security services may well have contributed to 
+the degradation of security. 
+• Using easily recognisable markings on UK personnel, vehicles and 
+equipment.
+• Disarming eligible persons prior to evacuation processing.60 
+60 Consideration should be given to any UK policy that allows eligible persons to travel 
+with weapons.
+69
+JDP 3-51 (3rd Edition, Version 2) 
+4A
+Implementing a non-combatant evacuation operation
+
+• Debriefing eligible persons to generate and exploit information, that 
+may eventually lead to a greater understanding of the overall eligible 
+persons picture.
+• Establishing a policy concerning the joint task forces’ responsibility 
+to secure eligible persons’ valuables during processing.
+• Providing interpreters at control sites.
+• Following initial screening, using tags for visual identification.
+• The requirement for searching women, children and disabled  
+and/or injured; this may include providing male and female 
+searchers.
+• The presence of a chaplain, if available.
+• Organising eligible persons to establish a single point of contact 
+between the eligible persons group and the joint task force.
+• The health status of eligible persons (for example, ongoing 
+treatment, pregnancy, reliance or availability of medicines).
+4A.10. Minimum processing requirements. If there is a concern for the 
+protection and safety of eligible persons and the joint task force, a streamlined 
+process will be adopted. All eligible persons will be screened for verification of 
+identity and documentation before being prioritised for onward movement. In 
+general, persons with life threatening medical problems will be processed first.
+Eligibility checks and processing capacity 
+4A.11.  Under normal circumstances, staff from the FCDO (supported by 
+staff from the Border Force) will conduct all eligibility checks at the evacuation 
+handling centre. These checks can take considerable time to identify and 
+process eligible persons entitled to evacuation by the UK government. 
+Operational experience has demonstrated that if processing capacity becomes 
+an issue, either through a deterioration in the security environment and/or a 
+substantial increase in applicants beyond capacity then the Home Office could 
+70
+JDP 3-51 (3rd Edition, Version 2)
+4A
+Implementing a non-combatant evacuation operation
+
+conduct checks at the temporary safe location or even upon arrival in the UK.61 
+It should be acknowledged that any decision to delay or suspend eligibility 
+checks beyond the evacuation handling centre may have considerable 
+second-order consequences for both the Home Office and FCDO,62 and 
+therefore all options to improve processing capacity within the evacuation 
+handling centre should be exhausted before this decision is considered.  
+4A.12. Home Office waiving of eligibility checks will require ministerial 
+approval and it is therefore prudent to establish these parameters in the 
+early planning stages in conjunction with colleagues from other government 
+departments. The critical tactical consideration is to ensure processing 
+eligible persons does not become a choke point and that high outflow can be 
+maintained throughout.63 
+Evacuation handling centre layout
+4A.13. On arrival at the evacuation handling centre, the evacuation handling 
+centre staff assume control of the evacuees. If eligible persons arrive without 
+having earlier passed through a reception centre, processing teams should 
+verify their identity and eligibility for evacuation prior to allowing the eligible 
+61 To ensure UK border security is not compromised, the authority to suspend or 
+delay eligibility checks beyond the evacuation handling centre is held at ministerial level 
+and would be applied for through the Border Force National Command Centre or the 
+nominated Border Force gold commander. Any secondary diplomatic issues connected to 
+the decision to conduct eligibility checks at the temporary safe location will be addressed 
+through FCDO engagement. The in-place military force will continue to conduct security 
+checks for all civilian personnel selected for onward evacuation.
+62 For example, it could result in significant numbers of people arriving in the UK with 
+no right of entry creating substantial long-term legal issues, and the FCDO having to 
+renegotiate the use of a temporary safe location.
+63 The crucial importance of maintaining high processing rates at the evacuation handling 
+centre was highlighted by the tactical and operational commanders in the post -operation 
+reports from Operation Pitting (Afghanistan, 2021) and Operation Polarbear (Sudan, 2023).
+71
+JDP 3-51 (3rd Edition, Version 2) 
+4A
+Implementing a non-combatant evacuation operation
+A thorough understanding of NEO doctrine throughout the  
+Rapid Extraction Task Force along with detailed rehearsals  
+allowed for dynamic configuration of the evacuation handling  
+centre taps, in order to maintain security and tempo whilst 
+regulating flow to deal with surges.
+Op POLARBEAR – 40 Commando Royal Marines  
+Post Operation Report, 12 June 2023
+“
+
+persons to enter the evacuation handling centre. The facility is controlled by an 
+evacuation handling centre control centre. It has three main areas, a: reception 
+area; registration and medical area; and holding area. 
+4A.14. Evacuation handling centre control centre. The evacuation handling 
+centre control centre will plan, organise and supervise the running of the 
+evacuation handling centre. Under overall FCDO leadership, staffing by 
+diplomatic and military personnel will reflect the division of responsibility within 
+the evacuation handling centre. The control centre will also maintain liaison 
+with local authorities and other agencies.
+4A.15. Reception area. This is the point at which eligible persons first 
+enter the evacuation handling centre. It is important that eligible persons feel 
+safe and reassured from the outset. In some cases, they will be in a state of 
+shock and possibly have experienced bereavement. Particular consideration 
+should be given to women, girls and boys who may have been subjected to 
+gender-based violence.64 In all instances, firm but compassionate treatment 
+is essential. This is also the point at which onward destinations are resolved. 
+This can be difficult and cause considerable distress and commotion. It is, 
+therefore, desirable that the reception area is physically separated from the 
+registration and holding areas. The reception area has certain requirements.
+a. Drop-off point. Providing signs and diagrams will help evacuees to 
+understand the procedures and routines they are to follow. This should 
+be reinforced with guides or personnel whose role it is to provide 
+information and assurance. The injured and sick will be moved directly 
+to the medical area and eligibility checked there if necessary. The 
+physically able will be directed to a screening/search area. In certain 
+circumstances, for example, in the event of an evacuation following a 
+humanitarian disaster, blankets, food and drink will be required while 
+people await screening. 
+b. Screening/search area. Ideally, screening should take place as 
+early in the evacuation process as possible to identify and remove 
+non-eligible persons. The longer non-eligible persons remain within the 
+system, the more difficult it will be to remove them. Force protection 
+issues should be considered during the screening process in regions 
+where there may be threats to the eligible persons or the joint task 
+force. Diplomatic staff and male and female searchers, who will 
+64 Further details can be found in Joint Service Publication (JSP) 1325, Human Security in 
+Military Operations .
+72
+JDP 3-51 (3rd Edition, Version 2)
+4A
+Implementing a non-combatant evacuation operation
+
+probably be Service personnel, will be required to carry out personnel/
+baggage searches. This is the point when eligible persons should 
+be marked to prove eligibility. Typically, this is achieved by using tags 
+cards.
+c. Provision for special needs. The reception facility must be able to 
+cater for eligible persons who have special needs, such as bereaved 
+or disabled persons. This is personnel intensive, but it is important 
+that some form of reserve is ready to deal with any unexpected 
+circumstances. Wherever possible, eligible persons with these needs 
+should be allocated suitable guides.
+d. Movement control. Airstrips, landing sites, beach or jetty, traffic 
+circuit and vehicle parking areas should be identified, marked, 
+manned and equipped as required. If the evacuation handling centre 
+is collocated with the point of embarkation (for example, an airport or 
+seaport), detailed arrangements for controlling the arrival of military 
+transport will need to be established with local air traffic control or 
+harbour authorities.
+e. Repayment. In some circumstances, such as when using 
+commercial transport, the FCDO or diplomatic staff may require 
+eligible persons to repay the costs of evacuation to the UK 
+government. Eligible persons may resent this, particularly if they are 
+not in a stable financial position. 
+4A.16. Registration and medical area. It is important not to duplicate effort 
+between the reception and registration areas. Nonetheless, there is likely to 
+be a need for considerable clerical and information technology support to the 
+evacuation handling centre. 
+a. Registration. Eligible persons’ personal details will be recorded 
+on a registration sheet and their tag cards completed. Essential details 
+include name, nationality, sex, age, passport number and contact 
+details so that eligibility can be proven against UK records. In general, 
+personnel who have arrived at the evacuation handling centre together 
+should be kept in a group. If possible, families must not be separated.
+b. Medical. The medical facility provides assessment and essential 
+medical treatment required before onward movement. Medical 
+personnel will identify serious medical cases that must be prioritised 
+73
+JDP 3-51 (3rd Edition, Version 2) 
+4A
+Implementing a non-combatant evacuation operation
+
+for the earliest suitable evacuation and request prompt completion 
+of their processing. Medical personnel should ideally wear distinctive 
+clothing or markings to aid identification. Medical personnel can 
+advise evacuation handling centre personnel on health risks and any 
+protection measures required.
+4A .17. Holding area. After registration, eligible persons will be taken to a 
+holding area. Sanitation suitable for the number of expected eligible persons 
+will be required. The intention should be to move eligible persons from the 
+holding area to the point of embarkation for onward movement as quickly and 
+efficiently as possible. 
+Secondary/reserve locations
+4A.18. Secondary or reserve evacuation handling centres should be identified 
+early in planning so they can be quickly used if the primary evacuation 
+handling centre becomes unfeasible (either due to capacity issues and/or  
+insecurity), or if specific groups of evacuees require segregation prior to 
+evacuation. The selection of a secondary or reserve evacuation handling 
+centre remains a joint task between the FCDO and MOD but, again, one that 
+must account for military factors during early planning, which may override 
+consular considerations (for example, security, force protection and logistics) 
+depending on the prevailing security situation. 
+4A.19. Operating a secondary evacuation handling centre will require 
+substantial additional resources (time, security, personnel and materiel) and 
+therefore must be considered early and resourced appropriately.
+4A.20. Air transit. Prior to embarkation onto aircraft there will be a 
+requirement to conduct searches for threats, dangerous air cargo and 
+contraband in accordance with International Civil Aviation Organization 
+standards. Moreover, it is likely that there will be a requirement to provide air 
+transport security escorts on any military transport aircraft.
+Temporary safe location or place of safety 
+4A.21. The number and types of places of safety will vary according to the 
+circumstances of each NEO and the eligible persons. For eligible persons 
+who are just visiting, such as tourists, it is probable that they will evacuate by 
+commercial means before a military evacuation is initiated. For eligible persons 
+who were residents of the evacuated country, an internal place of safety 
+74
+JDP 3-51 (3rd Edition, Version 2)
+4A
+Implementing a non-combatant evacuation operation
+
+may be most appropriate, such as a hotel in an unaffected area. For eligible 
+persons who are resident elsewhere, a place of safety may be repatriation to 
+their country of origin. 
+4A.22. Overall planning responsibility for a temporary safe location (including 
+selection and designation) rests with the FCDO as they retain greater regional 
+influence and the diplomatic relations necessary to secure the required access 
+and permissions (such as basing and overflight). However, military planners 
+must be central to this decision (which should occur during the shaping 
+phase) due to the range of interconnected military considerations that must be 
+addressed (for example, threat assessment, force protection and logistic plans) 
+– indeed, tactical considerations may override consular issues out of necessity. 
+4A.23. Potential locations that may have been preselected in a permissive 
+environment may no longer be viable if the security situation has deteriorated 
+significantly and therefore all options should be assessed against the prevailing 
+security environment. 
+4A.24. Operational experience has highlighted that the evacuation handling 
+centre and the temporary safe location may well, respectively, represent the 
+tactical and operational centres of gravity throughout the operation 65 and 
+should be resourced appropriately.
+4A.25. It will be rare that the military will be asked, or will be able to resource, 
+the movement of eligible persons to a place of safety beyond the affected 
+country or the immediate region. In these circumstances, it may be necessary 
+to identify a temporary safe location where responsibility for the eligible 
+persons can be passed back from the joint task force commander to the 
+FCDO to coordinate their onward movement. 
+65 Op PITTING Defence Operational Capability Assessment 06/21 , published September 
+2022.
+75
+JDP 3-51 (3rd Edition, Version 2) 
+4A
+Implementing a non-combatant evacuation operation
+The evacuation handling centre and the temporary safe  
+location may well, respectively, represent the tactical and operational 
+centres of gravity.
+“
+
+[Page 86: No extractable text]
+
+Chapter 5 provides guidance on both logistic and medical 
+considerations necessary for a successful non-combatant 
+evacuation operation.
+Section 1 – Logistics  . . . . . . . . . . . . . . . . . 79
+Section 2 – Medical  . . . . . . . . . . . . . . . . . . 82
+Key points . . . . . . . . . . . . . . . . . . . . . . . 84
+77
+JDP 3-51 (3rd Edition, Version 2) 
+Chapter 5
+
+An agile and fast-moving reverse 
+logistics chain, built  
+against a collapsing timeline, was 
+critical to the success of  
+both aspects of the mission.
+ 
+Operation PITTING – 16 Air Assault Brigade 
+Post Operation Report, 26 August 2021 
+”
+“
+78
+JDP 3-51 (3rd Edition, Version 2)
+5
+Service support
+
+Chapter 5
+Service support
+Section 1 – Logistics
+5.1. Each non-combatant evacuation operation (NEO) is likely to be different 
+and therefore the service support requirements will vary accordingly. Joint 
+Doctrine Publication (JDP) 4-00, Logistics for Joint Operations provides the 
+overarching concepts for service support, set within the context-specific 
+requirements of any evacuation. Logistic considerations are likely to be critical 
+in the operations planning process. They will influence and shape the potential 
+courses of action for the NEO. Because every operation will be different, 
+planners will also have to consider:
+• eligible persons’ support requirements;
+• coalition partnerships and interaction with non-partner nations;
+• availability of strategic and tactical sea/airlift;66 and
+• constraints brought by access, basing and overflight permissions.
+5.2. Logistic command and control. The joint task force headquarters will 
+centrally control the relatively small force typically deployed for a NEO. It is 
+unlikely that a NEO will be required to deploy a separate logistics command 
+and control node.67 The joint task force headquarters J4 (Logistics) may need 
+to be augmented to provide: 
+• a logistic focus for the enablers within single-Service force packages; 
+• operational-level logistic direction; and 
+• governance across the joint support area.
+5.3. Project. NEOs are characterised by the requirement to project a force 
+rapidly. Refining the force element table is critical to achieve the correct 
+balance of assigned forces, including enablers. It is unlikely that maritime 
+support will have the ability to react within the required timescales if projected 
+66 Strategic and tactical airlift, helicopters or maritime lift may already be allocated to 
+enduring operations. Therefore, once a NEO occurs, planners must prioritise and redeploy 
+assets and enablers if required.
+67 The decision to deploy a discrete joint forces logistic component remains with the joint 
+task force commander.
+79
+JDP 3-51 (3rd Edition, Version 2) 
+5
+Service support
+
+from the UK.68 Therefore, if Defence are going to project forces from the UK 
+home base, planners will have to consider the optimal use of strategic air 
+assets (including commercial charter).69 This may require re-prioritisation of 
+strategic airlift resources from other commitments by the Ministry of Defence 
+(MOD) and strictly controlled through Permanent Joint Headquarters (PJHQ) 
+J4 Mounting and Movements. Access, basing and overflight, including 
+host-nation technical arrangements and memoranda of understanding, must 
+be considered early in the planning process as approval may take longer than 
+the desired deployment timelines.
+5.4. Sustain. The duration and light footprint of a NEO dictates that 
+sustainment requirements should be limited and planned on a basis of  
+demand. The context of the crisis will shape the sustainment requirements, but, 
+wherever possible, planners should reduce these by using host-nation support 
+and/or support from multinational partners. Being aware of the potential lack 
+of available maritime assets in the vicinity of a NEO, sea basing options should 
+still be explored as they offer the advantage of being self-contained. This option 
+would also reduce the reliance on host-nation support.
+5.5. Materiel recovery. As stated in JDP 4-00, Logistics for Joint 
+Operations,70 the operational planning headquarters should determine a joint 
+desired order of departure (JDOD) item list. This should account for continuing 
+operational responsibilities, force protection requirements and sensitive 
+equipment to establish the sequence and timescale in which materiel is 
+recorded, extracted and tracked from the joint operations area back to the UK.
+5.6. Denial of materiel. The in-country embassy staff may hold a destruction 
+plan for any materiel (especially sensitive equipment) that may need to be 
+destroyed in situ if it cannot be recovered within the designated evacuation 
+time frame. Such materiel may, in extremis, be destroyed with the appropriate 
+permissions. All disposals (including destruction) should be planned and 
+coordinated with both PJHQ J9 and the Joint Force Headquarters J4 staff. 
+Further detailed information can be found in both JDP 4-00, Logistics for 
+Joint Operations and Allied Joint Publication-3.13, Allied Joint Doctrine for the 
+Deployment and Redeployment of Forces.
+68 Maritime support is most likely to be achieved by re-tasking assets in relative proximity 
+to the area of crisis.
+69 The nature of the threat will determine whether the use of commercial aircraft is 
+appropriate. All contracts will be set, operated and monitored by Defence Supply Chain 
+Operations and Movements.
+70 JDP 4-00, Logistics for Joint Operations , Annex 9C, page 191.
+80
+JDP 3-51 (3rd Edition, Version 2)
+5
+Service support
+
+5.7. Logistic support. Foreign, Commonwealth and Development Office 
+(FCDO) representatives in the countries where the forward mounting base 
+and evacuation handling centre are located will assist in arranging host-nation 
+support. Where the forward mounting base/evacuation handling centre is 
+a permanent joint operating base, it will provide sustainment support. The 
+single-Service force packages will generally be responsible for logistics to the 
+second line. The joint task force headquarters will be responsible for: 
+• managing the theatre end of the coupling bridge and joint support 
+chain with PJHQ J4;
+• monitoring the administrative and logistic support of deployed forces;
+• securing host-nation support and making sure conflicts of interest do 
+not arise between other nations over potentially scarce local resources; 
+• sustaining stock levels in theatre (in conjunction with PJHQ J4);
+• providing limited medical assistance, food, shelter and transport to 
+eligible persons while under the duty of care of the military;
+• casualty reporting and managing the in-theatre casualty evacuation 
+chain; and 
+• liaising with other forces, agencies and organisations to 
+establish procedural deconfliction to achieve economies of scale 
+through sharing other nations’, international organisations’ and 
+non-government organisations’ capabilities.
+5.8. Deceased evacuees. Even in a permissive NEO environment, the 
+death of vulnerable eligible persons (such as the elderly, infirm or infants) may 
+be encountered. The decision to evacuate the deceased is dependent on, 
+but not limited to, the specifics of the situation. This may include the tactical 
+environment, religions, host-nation laws, local customs, the wishes of any 
+relatives, weather, health-related risk, the capacity of receiving ships/aircraft 
+and availability of mortuary affairs qualified personnel. 
+81
+JDP 3-51 (3rd Edition, Version 2) 
+5
+Service support
+
+Section 2 – Medical
+5.9. Within the Defence contingency capability, there are medical elements 
+held at high or very high readiness that can provide a scalable medical 
+response based on NEO planning. Medical support will be in place for 
+deployed personnel from the point of injury or illness through to Role 4 in 
+accordance with Allied Joint Publication (AJP)-4.10, Allied Joint Doctrine for 
+Medical Support (with UK national elements). Medical support to eligible 
+persons will typically be agreed from the evacuation handling centre or 
+point of embarkation to the place of safety or temporary safe location. If the 
+operational situation requires it, there may be agreement to provide medical 
+support earlier or later in the evacuation process. Planners must consider 
+that Defence medical capability does not routinely care for children, pregnant 
+women, nursing mothers, the elderly or those with serious chronic ill health. 
+Non-standard equipment, pharmaceuticals, specialists and training for treating 
+a civilian population must be considered from the outset.
+5.10. Medical rules of eligibility. Medical rules of eligibility (MROE) define 
+who is eligible for medical care in deployed medical treatment facilities. 
+MROE must be established by the MOD and FCDO in close cooperation 
+with the joint task force headquarters and Competent Medical Authority from 
+the outset of a NEO. The agreed MROE is fundamental to the operations 
+82
+JDP 3-51 (3rd Edition, Version 2)
+5
+Service support
+When planning a non-combatant evacuation operation, medical capability for treating  
+ a civilian population needs to be considered at the earliest possible stage
+
+planning process and should be coherent with the recognised eligible persons 
+picture for evacuation. MROE will be guided by the mission mandate, political 
+agreements and operational requirements; however, they must also meet the 
+legal and ethical baseline of the law of armed conflict.71 Legal guidance should 
+be sought where necessary regarding liability for, and scope of, medical 
+treatment. MROE might need to change throughout the course of a NEO. 
+Changes to MROE must be directed to MOD/FCDO level and, once agreed, 
+be clearly communicated to all.
+5.11. Environmental health. The events leading up to or during a NEO 
+may have exacerbated endemic diseases, damaged civil infrastructure or 
+created environmental and/or industrial hazards. This could pose health risks, 
+particularly if there is a shortage of potable water and poor sanitation. Force 
+Health Protection must be involved early in the planning process to assess 
+and mitigate risks to eligible personnel and deployed forces throughout the 
+evacuation chain. The nature of NEOs means there is rarely time for deploying 
+personnel to receive immunisations or to acclimatise. Specific health protection 
+measures may need to be taken or advised, depending on the force health 
+protection instruction and assessment by the deployed Environmental Health 
+Practitioner.
+71 The law of armed conflict is also referred to as international humanitarian law.
+83
+JDP 3-51 (3rd Edition, Version 2) 
+5
+Service support
+
+ 
+Key points
+• Each NEO is likely to be different and therefore the service support 
+requirements will vary accordingly. Logistic considerations are likely to 
+be critical in the operations planning process and will shape the potential 
+courses of action for the NEO.
+• The joint task force headquarters will centrally control the relatively small 
+force typically deployed for a NEO (although it may need to be augmented 
+to provide single-Service enablers and wider logistic governance depending 
+on the scale of the NEO). 
+• Access, basing and overflight, including host nation technical arrangements 
+and memoranda of understanding must be considered early in planning as 
+approval may take longer than desired deployment timelines.
+• The operational planning headquarters should establish a JDOD item list to 
+assist with materiel recovery.  
+• Medical support to eligible persons will typically be agreed from the 
+evacuation handling centre to the temporary safe location. 
+• MROE define who is eligible for medical care in deployed medical treatment 
+facilities. MROE must be established by the MOD and FCDO with close 
+cooperation with the joint task force headquarters and Competent Medical 
+Authority from the outset of a NEO.
+• Civil disorder preceding a NEO may lead to damaged civil infrastructure 
+and can exacerbate endemic diseases. Force Health Protection must be 
+involved early in the planning process to assess and mitigate risks to eligible 
+personnel and deployed forces throughout the evacuation chain.
+84
+JDP 3-51 (3rd Edition, Version 2)
+5
+Service support
+
+Lexicon
+Section 1 – Acronyms and abbreviations
+AJP  Allied joint publication
+CDS  Chief of the Defence Staff
+CEFO  combat equipment fighting order
+CIS  communication and information systems
+DCDC  Development, Concepts and Doctrine Centre 
+DCMO  Defence Crisis Management Organisation
+EU  European Union
+FCDO  Foreign, Commonwealth and Development Office
+HKIA  Hamid Karzai International Airport
+Info Ops information operations
+ISR  intelligence, surveillance and reconnaissance
+I&W  indicators and warnings
+JDOD  joint desired order of departure
+JDP  joint doctrine publication
+JFHQ  Joint Force Headquarters
+JSP  joint Service publication
+MC  Military Committee
+MNCC  multinational coordination centre
+MOD  Ministry of Defence
+MROE  medical rules of eligibility
+NATO  North Atlantic Treaty Organization
+NCG  NEO Coordination Group
+NEO  non-combatant evacuation operation
+NEOCC NEO coordination cell
+85
+JDP 3-51 (3rd Edition, Version 2) 
+Lexicon
+
+OLRT  operational liaison and reconnaissance team
+PJHQ  Permanent Joint Headquarters
+RAF  Royal Air Force
+ROE  rules of engagement
+ROEREQ rules of engagement request
+SCAEF  strategic communication actions and effects framework
+TIFT  troops in fighting trim
+UK  United Kingdom
+UN  United Nations
+US  United States
+ 
+ 
+86
+JDP 3-51 (3rd Edition, Version 2)
+Lexicon
+
+Section 2 – Terms and definitions
+This section is divided into three parts. First, we list definitions modified by this 
+publication which will be updated in JDP 0-01.1, UK Terminology Supplement 
+to NATOTerm. Second, we list endorsed terms and definitions and finally, we 
+list unendorsed definitions that may be useful for the reader.
+Modified definitions
+evacuation handling centre 
+A temporary secure location free from the threat of destabilising influences, 
+where eligible persons can be received and processed by Foreign, 
+Commonwealth and Development Office/Border Force officials to establish 
+their eligibility for evacuation. (JDP 3-51, 3rd Edition, Version 2)
+joint contingency plan 
+Deliberate contingency plans prepared for a situation where it is assessed 
+that there is a particular likelihood of an operation being mounted, or the 
+anticipated warning time is reduced.  
+Note: In addition to the planning data contained in joint planning guides, joint 
+contingency plans contain specific information on military capabilities required 
+and deployment options, including readiness states where applicable.  
+(JDP 3-51, 3rd Edition)
+reception centre 
+Pre-designated sites, selected by His Majesty’s Representative as part of 
+a diplomatic post’s civil management plan, where individuals can enter the 
+evacuation chain. (JDP 3-51, 3rd Edition, Version 2)
+Endorsed definitions
+area of operations 
+An area within a joint operations area defined by the joint force commander for 
+conducting tactical level operations. (NATOTerm)
+end state 
+The political-strategic statement of conditions that defines an acceptable 
+concluding situation to be attained at the end of a strategic engagement. 
+(NATOTerm) 
+87
+JDP 3-51 (3rd Edition, Version 2) 
+Lexicon
+
+force protection 
+All measures and means to minimize the vulnerability of personnel, facilities, 
+equipment and operations to any threat and in all situations, to preserve 
+freedom of action and the operational effectiveness of the force. (NATOTerm)
+forward mounting base 
+A base (also deployed operating base) established within the operational area, 
+to support operations at a forward operating bases.  
+Note: A forward mounting base will be resourced to a greater level than 
+a forward operating base, including command and control, logistics and 
+administration support elements. (JDP 0-01.1)
+forward operating base 
+A base established forward of a main operating base from which tactical 
+operations are mounted and supported. (NATOTerm)
+host nation 
+A nation which, by agreement: 
+a. receives forces and materiel of NATO or other nations operating on/from 
+or transiting through its territory; 
+b. allows materiel and/or NATO organizations to be located on its territory; 
+and/or 
+c. provides support for these purposes. (NATOTerm)
+joint commander 
+The commander who exercises the highest level of operational command of 
+forces assigned with specific responsibility for deployment, sustainment, and 
+recovery. (NATOTerm – not NATO Agreed)
+joint operations area 
+A temporary area within a theatre of operations defined by the Supreme Allied 
+Commander Europe, in which a designated joint force commander plans and 
+executes a specific mission at the operational level. (NATOTerm)
+joint task force commander 
+The operational commander of a nominated joint force.  
+(NATOTerm – not NATO Agreed)
+non-combatant evacuation operation 
+An operation conducted to relocate designated non-combatants threatened in 
+a foreign country to a place of safety. (NATOTerm) 
+88
+JDP 3-51 (3rd Edition, Version 2)
+Lexicon
+
+place of safety 
+The point where eligible persons exit the evacuation chain and are no longer 
+reliant on diplomatic or military assistance. (JDP 0-01.1)
+task force 
+1. A temporary grouping of units, under one commander, formed for the 
+purpose of carrying out a specific operation or mission.  
+2. A component of a fleet organised by the commander of a task fleet 
+or higher authority for the accomplishment of a specific task or tasks. 
+(NATOTerm)
+Useful definitions for this publication
+crisis management plan 
+A plan (usually produced by the diplomatic post) which establishes a 
+procedure for responding to crisis, including the evacuation of eligible persons. 
+(JDP 3-51)
+diplomatic post  
+A generic term for His Majesty’s Government’s embassies or high 
+commissions located in foreign countries. (JDP 3-51 3rd Edition, Version 2)
+eligible person 
+A non-combatant that is eligible for evacuation by the UK. Eligible persons 
+will include British nationals and those individuals from other nations for 
+whom the UK government and His Majesty’s Representative have accepted 
+responsibility. (JDP 3-51, 3rd Edition, Version 2)
+point of embarkation 
+Secure sites with facilities permitting the safe ingress and egress for military 
+transport; it is here that eligible persons arrive for military extraction to a 
+temporary safe location or a place of safety. (JDP 3-51)
+temporary safe location 
+A location where eligible persons are safe from threat awaiting onward 
+movement to a place of safety. (JDP 3-51)
+warden system 
+A network of volunteers located in the country in crisis, who act as a point of 
+contact between His Majesty’s Representative and the wider community.  
+(JDP 3-51, 3rd Edition, Version 2)
+89
+JDP 3-51 (3rd Edition, Version 2) 
+Lexicon
+
+ 
+Designed by the Development, Concepts and Doctrine CentreDesigned by the Development, Concepts and Doctrine Centre
+Crown copyright 2023Crown copyright 2023
+Published by the Ministry of DefencePublished by the Ministry of Defence
+This publication is also available at www.gov.uk/mod/dcdcThis publication is also available at www.gov.uk/mod/dcdc
+The material in this publication is certified as an FSC mixed resourced product, fully recyclable and biodegradable.The material in this publication is certified as an FSC mixed resourced product, fully recyclable and biodegradable.
+
+

@@ -1,0 +1,3169 @@
+ 
+ Joint Doctrine Publication 0-40 
+UK Space Power 
+
+
+[Page 2: No extractable text]
+
+i
+JDP 0-40
+Conditions of release
+This publication is UK Ministry of Defence (MOD) Crown copyright. Material 
+and information contained in this publication may be reproduced, stored in 
+a retrieval system and transmitted for UK government and MOD use only, 
+except where authority for use by other organisations or individuals has been 
+authorised by a Patent Officer of the Defence Intellectual Property Rights. 
+Joint Doctrine Publication 0-40
+UK Space Power
+Joint Doctrine Publication 0-40 (JDP 0-40),  
+dated September 2022, is promulgated as directed 
+by the Chiefs of Staff
+Director Development, Concepts and Doctrine Centre
+
+
+Authorisation
+The Development, Concepts and Doctrine Centre (DCDC) is responsible for 
+publishing strategic trends, joint concepts and doctrine. If you wish to quote 
+our publications as reference material in other work, you should confirm with 
+our editors whether the particular publication and amendment state remains 
+authoritative. We welcome your comments on factual accuracy or amendment 
+proposals. Please contact us via:
+ 
+E-mail: DCDC-DocEds@mod.gov.uk Telephone: 01793 31 4216/4220
+Copyright
+This publication is UK Ministry of Defence © Crown copyright (2022) including 
+all images (unless otherwise stated). Front cover © ixpert / Shutterstock
+If contacting Defence Intellectual Property Rights for authority to release 
+outside of the UK government and MOD, the Patent Officer should be 
+informed of any third party copyright within the publication.
+Crown copyright and Merchandise Licensing, Defence Intellectual Property 
+Rights, Central Legal Services, MOD Abbeywood South, Poplar 2 #2214, 
+Bristol, BS34 8JH. Email: DIPR-CC@mod.gov.uk
+Distribution
+All DCDC publications, including a biannual DCDC Publications Disk, can be 
+demanded from the LCSLS Headquarters and Operations Centre. 
+  
+LCSLS Help Desk: 01869 256197 Military Network: 94240 2197
+Our publications are available to view and download on defnet (RLI) at:  
+https://modgovuk.sharepoint.com/sites/defnet/JFC/Pages/dcdc.aspx
+This publication is also available on the Internet at: www.gov.uk/mod/dcdc
+ii
+JDP 0-40
+
+iii
+JDP 0-40
+Foreword
+Space is critical to society, underpinning almost every aspect of life in the Information Age 
+and is a vital component of national security, enabling our military operational advantage. 
+It provides distinctive utility for Defence through the enduring principles of perspective, 
+access, and persistence across a truly global arena. Potential adversaries understand our 
+reliance on space and are increasingly able to exploit vulnerabilities, threatening our access 
+to space and, with that, our strategic stability and security. In parallel, the exponential 
+commercialisation of space means the domain is rapidly becoming more congested, with 
+large corporations driving technological change, where in the past, only nation states had 
+the ability to do. 
+Space power is rarely used in isolation but forms part of an integrated approach comprising 
+operations across multiple operational domains set alongside cross-government 
+activities. Moreover, due to the nature of the space domain, collaboration with our allies 
+and commercial partners on all space matters is fundamental to our collective success 
+in the employment of space power. It is critical that as we grow our space capabilities, 
+those charged with the employment and direction of space power do so with a common 
+knowledge and understanding. Doctrine provides us with an agreed upon and operationally 
+relevant body of best practices, principles and beliefs that articulates how we fight today. 
+It is our collective wisdom drawn from operational lessons, training, and experimentation. 
+However, it is not, and must not be allowed to become dogma, especially as space power 
+continues to evolve.
+Developing independent space power doctrine is fundamental to the UK’s operationalisation 
+of the space domain. This first edition of JDP 0-40, UK Space Power provides a balanced 
+and comprehensive unclassified understanding of space power which should be considered 
+essential reading for a wide audience across Defence and desirable reading for our partners 
+across government. 
+This is a pivotal moment for UK Defence as we seek to operationalise the space domain at 
+pace, so please share this widely and provide feedback. Space power doctrine must not be 
+developed in isolation; all operational domains should understand and engage to maximise 
+the opportunity we have ahead of us. 
+Air Chief Marshal Sir Mike Wigston KCB CBE ADC 
+Chief of the Air Staff
+
+
+iv
+JDP 0-40
+
+v
+JDP 0-40
+Preface
+ 
+Purpose
+1.   Joint Doctrine Publication (JDP) 0-40, UK Space Power is the UK’s 
+keystone space domain doctrine. Whilst JDP 0-01, UK Defence Doctrine 
+provides the broad principles and philosophy underpinning the use of UK 
+Armed Forces, JDP 0-40 is focused specifically on UK space power. UK space 
+power doctrine was previously encapsulated in JDP 0-30, UK Air and Space 
+Power, 2nd Edition, but given the recognition by the North Atlantic Treaty 
+Organization (NATO) and the UK that space is an independent operational 
+domain, it is now appropriate for emerging UK space power doctrine to be 
+articulated in its own publication.
+Context
+2. While space capabilities have underpinned military operations for many 
+years, the 2021 Global Britain in a competitive age: The Integrated Review 
+of Security, Defence, Development and Foreign Policy accorded a priority to 
+UK space operations that has been reflected in the creation of the Ministry 
+of Defence (MOD) Space Directorate and the establishment of UK Space 
+Command. This first edition of JDP 0-40 therefore brings together UK 
+government policy, strategy, higher-level doctrine and enduring space power 
+knowledge and experience to provide a basis for understanding the utility of 
+the space domain in the military context.
+3. In line with UK doctrine policy, JDP 0-40 pursues a NATO-first approach. 
+However, given the close ties with United States Space Forces, it is also 
+coherent with current United States space doctrine.
+Audience
+4. This edition of JDP 0-40 is designed to be a simple and concise 
+explanation of the utility of space power, written at the lowest classification to 
+access the widest possible audience.1 It sits at what JDP 0-01, UK Defence 
+Doctrine describes as the operational level and therefore avoids tactical-level 
+detail. JDP 0-40 should be of value to joint commanders and staffs, the single 
+1 It should be noted that this precludes detailed reference to some capabilities, practices 
+and procedures.
+
+vi
+JDP 0-40
+Services, the broader defence community and other government departments, 
+as well as UK partners and allies. It is designed to appeal to non -specialists 
+and specialists alike. For the former, it introduces the subject and provides 
+signposts to more detailed study. For the latter, it provides a structure for 
+understanding and describing UK military space power that is coherent with 
+our allies and partners alongside a vocabulary of agreed, standardised terms 
+that are a benchmark for wider use.
+Structure
+5. JDP 0-40 is divided into four chapters with a supporting lexicon. An outline 
+of what is covered in these chapters is detailed below.
+a. Chapter 1 – An introduction to space power. Chapter 1 sets 
+out the fundamentals of space power. It introduces space and space 
+power before discussing the space domain as a system. It outlines the 
+characteristics and limitations of space power before placing it into a 
+national and global context.
+b. Chapter 2 – The roles of space power. Chapter 2 introduces and 
+describes UK space power roles alongside the key missions that sit below 
+them.
+c. Chapter 3 – Space command and control, coordination and 
+planning. Chapter 3 discusses how UK space command and control is 
+conducted. It begins by discussing general principles, before moving on to 
+cover specifics relating to the space domain.
+d. Chapter 4 – The employment of space power. Chapter 4 sets out 
+how space power is applied within an integrated approach. It discusses 
+the three tenets of JDP 0-01, UK Defence Doctrine, sets out how space is 
+integrated with the other operational domains and then considers the role 
+of space power in deterrence.
+Linkages
+6. JDP 0-40, UK Space Power is the UK keystone space domain doctrine 
+within the joint doctrine architecture, sitting below JDP 0-01, UK Defence 
+Doctrine and alongside other operational-level domain doctrine, namely: 
+JDP 0-10, UK Maritime Power; JDP 0-20, UK Land Power; JDP 0-30, UK Air 
+Power and JDP 0-50, UK Cyber and Electromagnetic Doctrine. JDP 0-40 is 
+
+vii
+JDP 0-40
+also founded upon current policy, in particular, the 2021 Global Britain in a 
+competitive age: The Integrated Review of Security, Defence, Development 
+and Foreign Policy (referred to as the Integrated Review throughout this 
+publication) and the 2021 National Space Strategy. JDP 0-40 is coherent 
+with NATO’s Allied Joint Publication (AJP)-3.3, Allied Joint Doctrine for Air 
+and Space Operations. It is also coherent with the Royal Air Force’s capstone 
+doctrine, Air Publication (AP) 3002, Air and Space Warfare, 4th Edition.
+
+viii
+JDP 0-40
+
+ix
+JDP 0-40
+Contents
+Foreword  . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+Preface  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v
+Chapter 1 – An introduction to space power. . . . . . . . . . . 1
+Chapter 2 – The roles of space power. . . . . . . . . . . . . . 29
+Chapter 3 – Space command and control, coordination  
+                   and planning  . . . . . . . . . . . . . . . . . . . . 55
+Chapter 4 – The employment of space power . . . . . . . . . . 73
+Lexicon  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+
+[Page 12: No extractable text]
+
+Chapter 1 sets out the fundamentals of space power. It 
+introduces space and space power before discussing the 
+space domain as a system. It outlines the characteristics 
+and limitations of space power before placing it into a 
+national and global context.
+Section 1 – Definitions . . . . . . . . . . . . . . . . . 3
+Section 2 – The space domain  . . . . . . . . . . . . 5
+Section 3 – Characteristics and limitations of space  
+                   power. . . . . . . . . . . . . . . . . . . 18
+Section 4 – Space power in context . . . . . . . . . . 21
+© Mirexon / Shutterstock.com
+1
+JDP 0-40
+Chapter 1
+
+”
+“Space plays a critical role in our 
+daily lives. Satellites orbiting the 
+Earth only 160 kilometres above our 
+heads keep us connected with our 
+friends, families, and colleagues. 
+They support our present and future 
+security and prosperity, enabling us 
+to navigate the oceans, keep our 
+troops safe, monitor the climate and 
+forecast the weather. 
+ 
+ 
+National Space Strategy, 2021 
+ 
+2
+JDP 0-40
+1
+An introduction to space power
+
+Chapter 1
+An introduction to space 
+power
+1.1. With space-based capabilities now a vital part of both everyday life and 
+military operations, space has never been so important. It does, however, 
+remain somewhat of an enigma, acknowledged by all but understood by only 
+a very few. Misconceptions, fuelled by popular culture and science fiction, are 
+rife, leading to misunderstanding and exaggeration of what can be realistically 
+expected from space assets. This chapter seeks to establish common ground, 
+setting out relevant definitions as well as establishing the various factors that 
+affect the space domain, alongside the advantages and limitations faced when 
+operating in, from or through it.
+Section 1 – Definitions
+1.2. Space. While most could attempt to describe ‘space’, there is no 
+agreement under international law as to the altitude at which airspace ends 
+and outer space begins. From a practical perspective, outer space begins 
+‘above the highest altitude at which an aircraft can fly and below the lowest 
+possible perigee1 of a satellite in orbit’.2 This point is commonly known as the 
+Kármán Line: a height approximately 100 kilometres above mean sea level, 
+above which the atmosphere becomes too thin for an aircraft to generate 
+conventional lift without needing to exceed the speed required to achieve 
+orbit. Thus, for practical purposes, anything in orbit or beyond can safely 
+be regarded as being in space.3 For the purposes of this document, ‘space’ 
+physically begins at the Kármán Line but its capabilities are enabled by assets 
+on Earth and, therefore, the space domain includes the satellites in orbit and 
+beyond, supporting ground infrastructure and the information layer connecting 
+ground and space.
+1 The point of an orbit closest to the Earth.
+2 Joint Service Publication 383, The Joint Service Manual of the Law of Armed Conflict , 
+2004 Edition.
+3 Ibid.
+3
+JDP 0-40
+1
+An introduction to space power
+
+1.3. Space power. Space power is defined as: exerting influence in, from, 
+or through, space.4 The ability to influence is critical to achieve wider UK 
+government aims. The UK government pursues its goals by leveraging four 
+instruments of national power: diplomatic, information, military and economic.5 
+Under the military instrument, Defence considers space to be one of five 
+interconnected operational domains,6 which together or separately provide 
+options for the employment of the military instrument. Credibility, underpinned 
+by a coherent strategy, plays a large part in the ability to successfully exert 
+influence. This influence is pivotal to the UK’s ability to conduct integrated 
+action, seeking to shape narratives as part of an audience-centric, integrated 
+approach. UK space power is inherently integrated, containing military, civil 
+and commercial elements. It can support all of the instruments of national 
+power and, furthermore, while it can be used to influence activities in space 
+itself, it is also used to enable effects and exert influence elsewhere.
+1.4. Space and smart power. States are engaged in systemic competition7 
+both with rivals, who operate within the rules-based international order, and 
+with adversaries, who may not. States use a blend of hard and soft power, the 
+sum of which is known as smart power, to advance their goals and interests. 
+Hard power seeks to coerce opponents to adopt a course of action, which 
+they would not otherwise choose themselves. Soft power, on the other 
+hand, is the ability to persuade or encourage others to adopt an alternative 
+approach. Space power can contribute to both aspects: it can support hard 
+power either directly or by enabling other military action, but it can also take 
+the form of soft power through building alliances and industrial collaborations. 
+Space power can contribute to humanitarian assistance through environmental 
+monitoring, through helping to provide assured positioning, navigation and 
+timing signals or through research to better understand the impacts of space 
+weather on terrestrial systems. Such activity benefits from collaboration, even 
+with competitors or potential adversaries.
+4 Joint Doctrine Publication (JDP) 0-01.1, UK Terminology Supplement to NATOTerm.
+5 See JDP 0-01, UK Defence Doctrine for more details.
+6 Maritime, land, air, space and cyber and electromagnetic. See JDP 0-01,  UK Defence 
+Doctrine and the JDP 0-X0 series of operational domain doctrine publications for more 
+details.
+7 Referred to by the North Atlantic Treaty Organization (NATO) and the United States as 
+‘strategic competition’.
+4
+JDP 0-40
+1
+An introduction to space power
+
+Space as an operational domain
+Space is contested by both state and non-state actors. It is subject 
+to expanding commercial competition and is congested by a growing 
+volume of satellites and debris.8 Increasing reliance on space, identified 
+vulnerabilities and the perception of challenge in space necessitated a 
+change of approach. The United States (US) formally established its Space 
+Force as a new military Service in 2019. The same year, the North Atlantic 
+Treaty Organization (NATO) formally announced it considered space to 
+be an operational domain.9 This approach has been endorsed by the UK 
+and is reflected in the Integrated Review. The UK has formed the Ministry 
+of Defence (MOD) Space Directorate and UK Space Command, which 
+support the National Space Strategy, not least by protecting and defending 
+the UK’s space interests.
+Section 2 – The space domain
+1.5. An exponential increase in space activities has meant that space is 
+becoming increasingly congested and complex. It is, however, critical for both 
+UK military operations and UK society as a whole. In an era of competition, it 
+can therefore be expected to be contested by adversaries.
+a. Congested. Traditionally, the use and exploration of space was 
+only undertaken by the major powers, who exploited space in support 
+of their national interests. Competition over national prestige drove 
+space exploration and the military was able to exploit the understanding 
+and ideas it delivered, but space was viewed as a niche activity that 
+supported activities in other operational domains. In recent times, 
+technological advances have seen an increase in the available uses 
+of space alongside the traditional barriers and costs associated with 
+establishing space capabilities being lowered, triggering commercial 
+expansion into space on an unparalleled scale. Commercial activity 
+now covers almost all aspects of space operations, including activities 
+such as space launch, that were previously only achievable by the 
+major powers. Developing countries and other organisations no longer 
+8 UK National Submission on Space Threats in response to United Nations (UN) General 
+Assembly Resolution A/RES/75/36, 30 April 2021.
+9 Announced following the meeting of NATO Ministers of Foreign Affairs, Brussels, 
+November 2019.
+5
+JDP 0-40
+1
+An introduction to space power
+
+need their own space programmes; capabilities and products can be 
+procured on the open market. Such activities, especially the growth of 
+mega-constellations, have drastically increased the number of satellites 
+which, given they are typically concentrated on the most advantageous 
+orbits, has dramatically increased congestion.
+b. Complex. The blurring of the lines between civilian and military, 
+government and commercial has drastically increased complexity 
+in space. International collaboration, licensing and commercial 
+considerations make ownership, responsibility and liability (and thus 
+attribution) far less clear. These are compounded by challenges of not 
+just tracking space objects but ascertaining their true purpose and intent, 
+especially when only basic information must be disclosed under the 
+international registration regime for space objects.
+c. Critical. With provision has come reliance. Technological advances, 
+underpinned by increasingly widespread commercial or dual-use 
+space capabilities,10 have imperceptibly permeated society and popular 
+culture to such an extent that they are now almost indispensable, but 
+they are nonetheless taken almost completely for granted. Such is the 
+UK’s societal reliance on assured access to space, the UK government 
+considers space infrastructure and assets to be linked to critical national 
+infrastructure, ‘the loss or compromise of which would result in major 
+detrimental impact on the availability, delivery or integrity of essential 
+services, leading to severe economic or social consequences or to loss 
+of life’.11
+d. Contested. In addition to the changes in the space domain, recent 
+times have seen global geopolitical changes that the 2021 Integrated 
+Review describes as a return to ‘systemic competition’ between states. 
+Furthermore, while the UK competes with rivals who act in accordance 
+with the rules-based international order, adversaries seek to exploit the 
+seams of UK, allied and partner institutions and undermine their cohesion 
+and credibility. Increasingly, such competition exists on a spectrum 
+where adversaries seek to achieve their own goals both overtly and 
+through clandestine methods designed to remain unattributable or to blur 
+their origins and intent so as not to elicit a military response. Many such 
+adversaries have space programmes themselves, can source capabilities 
+commercially or have at least identified space to be a critical vulnerability 
+10 Such as assured precise timing signals and readily available global navigational data.
+11 UK Cabinet Office, Public Summary of Sector Security and Resilience Plans , 2018.
+6
+JDP 0-40
+1
+An introduction to space power
+
+of their own adversaries and have taken measures accordingly. Space 
+is now accessible to a larger group of both state and non-state actors 
+whose intentions are not always honourable or benign.12 Given the 
+identified reliance on space, and the potential threat, a fundamental goal 
+of the UK’s National Space Strategy13 is to seek to protect and defend 
+our national interests in and through space. Such defence must cover 
+all three segments (space, ground and link) and not just assets in space. 
+The link segment can be equally contested due to the proliferation of 
+electromagnetic warfare counter-space weapons.
+Examples of international threats: Russia and China
+Russia has conducted a number of on-orbit activities that have drawn 
+attention and condemnation from both the UK, US and other partner nations. 
+These include contesting the electromagnetic spectrum, targeting the vital 
+link between satellites and ground segments, as well as placing satellites 
+in orbit that can release smaller secondary and even tertiary devices with 
+the possibility that some may have a destructive capability. In November 
+2021, Russia conducted a test of a direct ascent anti-satellite (DA-ASAT) 
+missile against one of its own redundant satellites. The resulting debris cloud 
+created in the region of 1,500 trackable objects, greatly increasing the risk to 
+satellites in low Earth orbit (LEO) and the International Space Station, which 
+at the time was crewed by a team that included Russian cosmonauts. Russia 
+has also exerted pressure by denying launch facilities to OneWeb satellites, 
+which are part owned by the UK government, in response to wider sanctions 
+imposed following the 2022 Russian invasion of Ukraine.
+China has a robust DA-ASAT programme. On 11 January 2007 , China 
+launched a direct ascent attack on one of its own defunct weather satellites, 
+the Fengyun 1C, demonstrating that China had the ability to target a satellite 
+and could therefore contest control of space. China also possesses multi-use 
+capabilities on orbit that are necessary for co-orbital anti-satellite weapons 
+as well as a wide range of electromagnetic and cyber counter-space 
+capabilities. China continues to conduct tests of its operational DA-ASAT 
+system. However, China may no longer need to use kinetic tests to prove that 
+its DA-ASAT capabilities can threaten any satellite in LEO, and likely medium 
+Earth orbit and geosynchronous Earth orbits (GEOs) as well.14
+12 Air Publication (AP) 3002, Air and Space Warfare, 4th Edition, 2020.
+13 HM Government, National Space Strategy, September 2021.
+14 Center for Strategic & International Studies, Space Threat Assessment 2021, April 2021.
+7
+JDP 0-40
+1
+An introduction to space power
+
+1.6. When seeking to understand space as a complex operational domain, it 
+is best to break out the interconnected system into logical component parts. 
+It should be stressed that the following aspects cannot be taken in isolation: 
+each affects and relies on the others.
+Political aspects
+1.7. Diplomatic. The UK government’s National Space Strategy15 recognises 
+that space is of strategic importance to the UK, and it supports the growth of 
+a competitive commercial space sector, which requires a stable and secure 
+operating environment to thrive and to deliver the economic benefits sought. 
+It commits the UK to preserving and promoting the safety and security of 
+the space environment, as well as to cooperate internationally and advance 
+discussion surrounding the responsible use of space. In accordance with 
+the rights and obligations set out in the Outer Space Treaty, space is ‘free 
+for exploration and use by all States’.16 Most international legal and normative 
+frameworks recognise the importance of international cooperation in respect to 
+space activities. 
+1.8. International negotiations. The UK supports international negotiations 
+as a further measure to prevent an arms race in outer space. The UK 
+recognises two broad categories of challenges to operating in space. First, 
+hazards that could harm a space system: these are generally naturally 
+occurring in the space environment or are the result of space activities (such 
+as space debris). Secondly, ‘threats’, namely those actions or activities using 
+capabilities that threaten the space systems of another state.17 The progress 
+made by the international community in mitigating many of the hazards has 
+not been matched by international action to deal with threats. The UK tabled 
+a United Nations (UN) General Assembly resolution in October 2020 entitled 
+‘Reducing space threats through norms, rules and principles of responsible 
+behaviours’ seeking to take a constructive step in international negotiations. 
+This led to the adoption of UN General Assembly Resolution 75/36 by the First 
+Committee that encourages states to broaden the international discussion on 
+space threats, build states’ understanding of threats, seek to reduce the risk of 
+conflict escalation in space, and share ideas on the further development and 
+implementation of responsible behaviours. A further UN General Assembly 
+15 HM Government, National Space Strategy, September 2021.
+16 UN Office for Outer Space Affairs, Treaty on Principles Governing the Activities of 
+States in the Exploration and Use of Outer Space, including the Moon and Other Celestial 
+Bodies.
+17 UK National Submission on Space Threats in response to UN General Assembly 
+Resolution A/RES/75/36, 30 April 2021.
+8
+JDP 0-40
+1
+An introduction to space power
+
+Resolution 76/231 was adopted in December 2021 under this initiative. The 
+decision was taken to convene an open-ended working group to take stock of 
+existing international legal and other normative frameworks, consider current 
+and future threats by states to space systems and make recommendations 
+on possible norms, rules and principles of responsible behaviours.18 The 
+UK government views international cooperation and its network of partners 
+and allies to be essential to a collaborative space enterprise. This global and 
+national context is discussed later in this chapter.
+1.9. Legal. As in all of the other operational domains, military applications of 
+space must be in accordance with domestic and international law. These are 
+explained further below.
+a. International law. The cornerstone of the international legal 
+framework for space is the Outer Space Treaty, although it is not an 
+exclusive statement of the framework applicable to space. The Outer 
+Space Treaty reaffirms that space activities must be carried out in 
+accordance with international law, including the UN Charter. This is 
+important as it affirms that international law governs when a state has 
+a right to use force. The Outer Space Treaty does provide that nuclear 
+weapons and weapons of mass destruction may not be placed in 
+orbit around the Earth, stationed in space or installed on the moon 
+or other celestial bodies. This prohibition does not affect the use of 
+intercontinental ballistic missiles carrying nuclear payloads that merely 
+transit through space and do not necessarily achieve orbit or orbital 
+velocity. At a fundamental level, the Outer Space Treaty establishes 
+that space shall be free for exploration and use by all states, but that 
+space is not subject to national appropriation by claim of sovereignty, 
+by means of use or occupation or by any other means. These broad 
+principles have practical significance and are in contrast to the 
+jurisdictional arrangements that exist in airspace. To illustrate, consent 
+is required for aircraft to enter the airspace of another state. However, 
+consent is not required for satellites in orbit passing over the territory 
+of a state. There is also overlap and interplay between the concepts 
+of responsibility, registration and liability under international space law 
+that have implications for military space operations. The International 
+Telecommunications Union (ITU), through a collection of instruments, 
+governs the allocation and use of both radio-frequency spectrum and 
+satellites in geostationary orbit.
+18 UN General Assembly Resolution A/RES/76/231, Reducing space threats through 
+norms, rules and principles of responsible behaviour , December 2021.
+9
+JDP 0-40
+1
+An introduction to space power
+
+b. UK domestic law. UK domestic law seeks to fulfil a number of 
+functions in the context of space operations. This includes regulating 
+the space activities of individuals and organisations falling under 
+UK jurisdiction and ensuring that the UK complies with its various 
+obligations under international space law. These aims are, in part, 
+pursued by virtue of the Outer Space Act 1986 and Space Industry 
+Act 2018 and associated regulations. Effective regulation is essential 
+to ensure that standards are set to improve safety, efficiency and to 
+mitigate the negative environmental impacts of a rapidly expanding 
+space enterprise. The UK’s National Space Strategy set the goal of the 
+UK leading the world in modern space regulation. In July 2021, the Civil 
+Aviation Authority was appointed to exercise every regulatory function 
+set out in UK domestic space law. Regulation also exists to control the 
+export of sensitive military and dual-use space technology, a measure 
+that in part seeks to prevent proliferation of capabilities.
+Military aspects
+1.10. While space has been fundamental to military operations for decades, 
+such is the current dependence that the vast majority of military operations 
+could not be sustained without space capabilities. Operations depend on 
+space, principally for communications; meteorological; positioning, navigation 
+and timing functions; intelligence, surveillance and reconnaissance; and the 
+ability to operate remotely piloted aircraft at range. In essence, space is a vital 
+part of the Defence Digital Backbone and should be seen as a vital enabling 
+part of the global information network. This dependence has been identified 
+as a vulnerability by adversaries19 and this has led to some nations building 
+arsenals of counter-space weapons capable of degrading, denying, disrupting 
+or destroying space systems. Such capabilities are discussed in later chapters 
+but can have effects ranging from temporary denial to physical destruction. 
+They may be surface, sub-surface, air or space based, kinetic (such as a 
+DA-ASAT missile) or non-kinetic (dazzling or jamming) and may be targeted 
+against any of the three segments of a space system (see paragraph 1.16).
+1.11. As well as dedicated space capabilities, conventional military or 
+espionage activities can have direct effects on space systems. An airstrike on a 
+ground control station or a cyber payload uploaded to a satellite by a saboteur 
+could have a more devastating effect on an overall space system than a 
+19 For further information, see United States government, Defense Intelligence Agency, 
+2022 Challenges to Security in Space: Space Reliance in an Era of Competition and 
+Expansion, January 2022.
+10
+JDP 0-40
+1
+An introduction to space power
+
+DA-ASAT targeting one specific satellite. Furthermore, direct and indirect 
+attacks on objects on orbit may cause debris, which could compromise the 
+attacking state’s own space capabilities. Such an overt attack may also be far 
+easier to detect and attribute to a specific actor than an indirect non-kinetic 
+attack. With adversaries adopting strategies designed to remain below the 
+threshold that would permit a forcible response, it is increasingly likely that 
+threats will be obscured. Traditional defensive procedures such as force 
+protection and vetting key personnel to mitigate insider threats are therefore 
+increasingly important in the space domain.20
+Economic aspects
+1.12. As part of an integrated approach, the UK sees a strong commercial 
+space sector, allied space capabilities and civil and scientific expertise to be 
+vital contributors to UK space power. To put this in context, in 2019–20, the UK 
+space industry produced £16.5 billion in income and directly employed 46,995 
+people with space employment growing by 6.7% from the previous year.21 
+Such ambition is reflected in the 2021 Defence and Security Industrial Strategy  
+20 A detailed open source discussion of current space threats can be found in the Center 
+for Strategic & International Studies’ Space Threat Assessment 2021, April 2021.
+21 BryceTech summary report for the UK Space Agency, Size & Health of the UK Space 
+Industry 2021, 13 April 2022.
+© Dima Zel / Shutterstock.com
+11
+JDP 0-40
+1
+An introduction to space power
+Direct and indirect attacks on objects on orbit may increase space debris
+
+and the 2021 National Space Strategy. UK Defence expects to support the UK 
+space sector to realise the economic benefits from this dynamic and rapidly 
+expanding market, extending the UK’s influence in the space domain.
+1.13. A thriving commercial space sector is valuable to Defence both for 
+developing innovative projects that offer the potential of delivering decisive 
+military advantage but also to reduce the costs and increase the capacity 
+and availability of existing systems. The growth of commercial and dual-use 
+capabilities provide options to military planners; increasingly, choices can be 
+made as to which capabilities need to be owned on a sovereign basis, which 
+can be obtained by collaboration with allies, and which can be accessed from 
+commercial sources. The UK government has invested US $500 million in 
+OneWeb, a low-Earth satellite communications company that seeks to operate 
+600 satellites providing global broadband capability. Within the new Defence 
+Space Portfolio, funded concept programmes exist to provide improvements 
+in satellite communications, intelligence, surveillance and reconnaissance 
+and space domain awareness. The UK has also developed a civil sovereign 
+launch capability. LaunchUK, the UK Space Agency’s spaceflight programme, 
+aims to establish commercial small satellite launch from the UK.22 Once this 
+is established, the UK will possess an end-to-end capability able to design, 
+build, launch and operate small satellites. Alongside these opportunities, it is 
+important to be aware that increased space proliferation equates to increased 
+challenges and potential threat vectors. While Defence is tasked to protect 
+and defend space capabilities, this will come with a resource cost and detailed 
+consideration must be given to how this affects commercial and dual-use 
+capabilities. Furthermore, without suitable prioritisation, the pace of change will 
+challenge the military in terms of maintaining relevance in a rapidly changing 
+commercial space sector. 
+Social aspects 
+1.14. The UK, like all modern states, depends on space services for 
+day-to-day societal functions such as enabling banking transactions, the 
+effective operation of the national power grid and the use of smartphones. 
+However, the public are often unaware of this, or take assured access for 
+granted, making it difficult to acknowledge our reliance on freedom of access 
+to the space environment. Culturally, space remains a unique fascination 
+and the UK Space Agency is charged with inspiring the next generation, but 
+space remains a subject understood by only a few, with false assumptions and 
+22 UK government House of Commons Briefing Paper 2021-9202, The UK Space 
+Industry, April 2021.
+12
+JDP 0-40
+1
+An introduction to space power
+
+myths commonplace. These are increasingly perpetuated by popular culture 
+and science fiction, which can distort perceptions of what can realistically be 
+achieved in space while drastically underplaying the unique challenges posed 
+when operating in the space environment.
+Information aspects
+1.15. Technological developments, including the proliferation of dual-use 
+systems, have led to increasingly interconnected nodes and systems, in 
+particular, in cyberspace and the information environment.23 The free flow of 
+data and seamless functioning of networks are critical for space functions, 
+both for control signals and the operation of payloads. Most satellites depend 
+on cyber technology and this in turn opens up vulnerabilities that can be 
+exploited by potential adversaries. Previously, attacking space assets was 
+only an option for major powers, however, technological advances have 
+lowered this cost barrier so that other actors can now procure technology 
+that can affect or interfere with space operations. In addition, space 
+capabilities, especially timing signals, enable the carriage and synchronisation 
+of information essential for all aspects of modern society. Global navigation 
+satellite systems (GNSS) especially have become ‘so prevalent today that 
+they have contributed to a system-of-systems issue, such that even the 
+most vigilant operators of infrastructure and other applications may not 
+be completely aware of the magnitude of their reliance. Even in systems 
+presumed to be independent of GNSS, master clocks and other seemingly 
+independent sources of time … are in fact based on GNSS receivers and 
+therefore hold an unseen dependence.’24
+Infrastructure aspects
+1.16. Unlike the maritime, land and air domains, space power is rarely enabled 
+by human activity within the environment itself but is conducted through human 
+activity on Earth. Consequently, space operations are separated into three 
+segments to aid understanding of the space system as a whole.25
+23 The information environment is defined as: an environment comprised of the 
+information itself, the individuals, organizations and systems that receive, process and 
+convey the information, and the cognitive, virtual and physical space in which this occurs.  
+NATOTerm.
+24 Government Office for Science, Satellite-derived Time and Position: A Study of Critical 
+Dependencies , January 2018.
+25 Segments are intended as a framework to aid understanding. Some capabilities or 
+features of systems may overlap, for example, inter-satellite links could be considered link 
+or space elements. 
+13
+JDP 0-40
+1
+An introduction to space power
+
+a. Space segment. The space segment comprises elements of the 
+space system in outer space itself, which are typically satellites on orbit 
+but also other objects transiting through the space domain above the 
+Kármán Line. Satellites comprise two basic systems: the spacecraft 
+itself and the payloads it carries. This differentiation is important as the 
+two can have different software, systems, ground segment elements 
+and tasking chains.
+b. Ground segment. The ground segment comprises terrestrial 
+facilities that are used to launch, direct and control satellites as 
+well as operate their payloads. The ground segment also includes 
+infrastructure for tracking and monitoring space objects and interfaces 
+to process and use satellite information. The ground segment consists 
+of three distinct sub-segments: the launch and re-entry segment 
+covers all aspects of launch and re-entry operations below the Kármán 
+Line (above which is classified as the space segment); the control 
+sub-segment consists of ground control stations and similar supporting 
+infrastructure; and the user sub-segment which comprises interfaces 
+such as Global Positioning System (GPS) receivers, very small aperture 
+terminals and satellite telephones.
+c. Link segment. The link segment connects the space and ground 
+segments and comprises both the data itself and the medium used 
+to carry it. Typically, this involves the use of electromagnetic signals, 
+including laser communications.
+Physical environment aspects
+1.17. Operating in space is intrinsically dependent on the physical 
+environment space provides.26 Forces that act on a satellite differ significantly 
+from those which affect an aircraft in flight. Furthermore, the environment 
+encountered by a spacecraft on orbit can be extremely harsh, given it lacks 
+the protection afforded terrestrial domains by the Earth’s atmosphere. Such 
+factors are summarised as follows.
+a. Orbits and orbital mechanics. Satellites move predictably 
+according to the laws of orbital mechanics. These determine the 
+parameters of an orbit, including the period (the time taken for one 
+complete orbit), the satellite’s speed around the orbit and its track over 
+26 Further information on the physical aspects of space, including orbital mechanics, 
+space debris and weather can be found in the MOD’s The UK Military Space Primer.
+14
+JDP 0-40
+1
+An introduction to space power
+
+the Earth. The choice of orbit is a compromise between the: power 
+required for data transmission against total area coverage on Earth; level 
+of detail and sensitivity available; and amount of time an area is visible. A 
+satellite in orbit may freely pass over any point on Earth.
+b. The space environment. The space environment is extremely 
+harsh and this impacts on the design of spacecraft, mission systems 
+and the limitations placed on them. Typically, the environment has 
+weak aerodynamic forces. While drag still occurs, the laws of orbital 
+motion dominate, making changes to the orbit largely propulsion based. 
+Manoeuvring takes considerable planning and incurs fuel penalties 
+which, unlike aircraft, currently cannot be commonly replenished in 
+flight. Space also exhibits extremely high temperature fluctuations as a 
+satellite passes in and out of the view of the sun. These variations, even 
+those between the sun facing and shaded surfaces of a satellite itself, 
+can be extremely damaging to the satellite and its sensors. Significant 
+amounts of a satellite’s structure need to be dedicated to thermal control 
+subsystems, rather than forming part of the payload. Operating in a high 
+vacuum also causes significant challenges for satellite design as the 
+vacuum can cause lubricants to evaporate, metals to weld themselves 
+together and plastics to be completely eroded. Furthermore, high levels 
+of radiation, highly energetic particles and fluctuating magnetic fields can 
+severely impact space capabilities.
+c. Space debris. There are tens of thousands of objects in orbit larger 
+than 10 centimetres, most of which are items of space debris. The total 
+amount of debris, most of which is too small to be detected, is estimated 
+to be greater than one hundred million objects. Given the speed 
+that these objects travel, they pose a significant hazard to operating 
+in the space domain and their numbers are constantly increasing. 
+Removing debris is technically possible but it is complicated by cost, 
+legal issues and political challenges. An effort by one state to remove 
+a non-functioning object owned by another could be interpreted as a 
+hostile act, raise wider security concerns and complicate international 
+liability considerations. Likewise, an object designed to remove debris 
+could equally be used to damage or destroy a functioning satellite. 
+Space debris continues to be a significant issue, hence the requirement 
+for capabilities to track and monitor such hazards and risks.
+15
+JDP 0-40
+1
+An introduction to space power
+
+d. Space weather. The sun’s activity causes space weather through 
+events such as solar flares, coronal mass ejections and radiation 
+storms.27 Space weather can adversely affect space segment 
+capabilities by disrupting satellite sensors, degrading electronic circuits, 
+corrupting computer memory and by causing damage to solar panels. 
+Enhanced radiation levels also heat the atmosphere, subjecting satellites 
+in LEO to enhanced drag, which shortens their lifetime. Space weather 
+can affect the link segment, since solar storms have the capacity to 
+disrupt communication and navigation system frequencies.28 It can also 
+create effects on Earth, causing damage to electrical systems such 
+as power grids, pipelines and signalling equipment. Space weather 
+can therefore have a significant impact on a host of military and civilian 
+applications, especially satellite communications and precise navigation. 
+Users of systems that have a dependency on space need to be 
+cognisant of the dynamic space environment and satellites need to be 
+resilient enough to operate effectively in such an environment.
+27 See the MOD’s The UK Military Space Primer  for more details.
+28 Including secure satellite communications and positioning, navigation and timing data, 
+derived from GPS.
+© Color4260 / Shutterstock.com
+16
+JDP 0-40
+1
+An introduction to space power
+Space weather can have a significant impact on a host of military and civilian applications
+
+The Carrington Event
+The Carrington Event, named after the astronomer who observed and 
+recorded it, was a severe space weather event that occurred between 2nd 
+and 3rd September 1859. It remains the largest solar storm on record. One, 
+possibly two, coronal mass ejections erupted from the surface of the sun, 
+causing the Earth to be hit by a vast eruption of magnetised plasma moving 
+at around 1900 kilometres/second. The orientation of the wave was opposite 
+to that of the Earth’s interplanetary magnetic field, causing the Earth’s 
+magnetosphere to be effectively opened up, allowing the solar plasma in. 
+Upon impact, the event generated ground induced electric currents that 
+caused telegraph systems to fail and, in some cases, cause electric shocks 
+and sparks that went on to cause fires. Such an event may be rare but is 
+almost inevitable in the future: a Carrington-class storm narrowly missed 
+the Earth in 2012. Studies have shown that an event today would have 
+more significant consequences given modern reliance on technology. A 
+reasonable worst case scenario could see severe damage to the electricity 
+grid, satellites, electrical systems, navigation systems and communications 
+systems on Earth.29 The total economic cost of a similar event to the US  
+alone was estimated by the insurers Lloyds to be between US $0.6–2.6 trillion 
+at 2013 prices.30
+Time
+1.18. While satellites are capable of accessing any area on the planet, for any 
+other than GEO, limitations traditionally existed in terms of persistence, given 
+the revisit times required for an individual satellite to sense a given area of 
+interest. More recently, the proliferation and exponential growth, especially of 
+satellites in LEO, has potentially removed this limitation, albeit universal satellite 
+coverage does not currently equate to universal coverage of all missions and 
+sensors. Time does still have direct relevance to the space domain: solar 
+weather activity varies according to an 11-year cycle. The last solar minimum 
+was in late 2019 with the next solar maximum forecast to arrive between 
+2025 and 2026. The current growth in numbers of satellites being launched 
+will be paralleled by an increase in solar activity that is likely to affect them. 
+Finally, unlike aircraft, there is currently no commonly fielded ability to refuel 
+29 Royal Academy of Engineering, Extreme space weather: impacts on engineered 
+systems and infrastructure, February 2013.
+30 Lloyd’s, Solar Storm Risk to the North American Electric Grid , 2013.
+17
+JDP 0-40
+1
+An introduction to space power
+
+satellites on orbit,31 thus every satellite launched has a finite operational lifetime 
+based on the fuel it carries and which it needs to operate its systems and 
+manoeuvre to maintain the orbit parameters it is launched on. Increasingly 
+smaller, cheaper satellites are designed to only have short lifetimes, re-entering 
+the Earth’s atmosphere at the end of their lifetime so as to burn up and 
+minimise space debris. These ‘disposable satellites’ can then be replaced by 
+modernised versions equipped with more modern technology. Larger exquisite 
+satellites are designed to be operated for much longer periods of time, but 
+their fuel resources are still finite: any manoeuvres to reorientate, stabilise or 
+mitigate threats reduces their potential operating lifetime.
+Section 3 – Characteristics and 
+limitations of space power
+1.19. Space power has distinctive attributes brought about by the 
+characteristics of the environment. These are perspective, access, persistence 
+and versatility, and they are explained below.
+a. Perspective. As with the air domain, space capabilities exploit the 
+vertical dimension, albeit to a completely different order of magnitude. 
+Such an unparalleled vantage point means that space represents the 
+ultimate high ground. Even satellites stationed in the lowest orbits offer 
+a footprint that can cover thousands of square miles of the Earth’s 
+surface. Those positioned in the higher orbits can have a perspective 
+covering approximately one third of the Earth.
+b. Access. The international rules and norms governing overflight 
+of sovereign states by aircraft do not apply to satellites; space offers 
+unrivalled access to any point on Earth, with no requirement to adhere 
+to national boundaries. This provides significant military utility, as 
+satellites can overcome the difficulties of gaining access to an area of 
+operations, be it due to overflight permission or adversarial anti-access 
+and area denial strategies.32
+31 Although considerable research activity is focusing on this area.
+32 Satellites are not impervious to anti-access and area denial threats, as demonstrated 
+by successful anti-satellite missile tests by China and India. However, the perceived 
+constraints on satellite operations are very much reduced compared to air operations.
+18
+JDP 0-40
+1
+An introduction to space power
+
+c. Persistence. Typically, the orbital life expectancy of satellites is 
+measured in years or even decades, so they can overcome the air 
+power limitation of impermanence. A GEO allows a satellite to remain 
+over the same area of the Earth 24 hours a day, providing continuous 
+access to a given terrestrial area of interest. Satellites in LEO can also 
+provide significant persistence if sufficient coverage is provided by a 
+constellation of satellites. However, the higher GEO does not currently 
+afford high-resolution images of Earth and individual satellites in LEO 
+can only provide intermittent coverage.
+d. Versatility. Space assets are versatile because a single platform 
+can carry a multitude of sensors and capabilities to provide services 
+simultaneously to multiple users. While the MOD has a capability 
+programme to deliver sovereign capability, many UK space 
+programmes are still combined civil-military enterprises, with broad 
+applicability across a range of government policy functions.
+1.20. Limitations of space power. While providing tangible benefits to 
+Defence, using space power is not without its challenges. The following 
+limitations should also be considered when discussing the space domain.
+a. Cost. While the traditional cost barriers for space systems have 
+dramatically reduced, they are still expensive. Furthermore, while 
+it is increasingly cheap to launch small satellites into LEO, these 
+are not always suited to all military tasks and capabilities. Larger 
+multi-payload satellites capable of being launched into GEO and which 
+are designed to remain in orbit for greater periods of time can still be 
+vastly expensive undertakings, especially as these systems need to 
+be hardened to cope with both the hazards posed by harsh operating 
+environments and threats from adversaries. Such increased resilience 
+comes at a cost, both in terms of the satellites themselves but also 
+their larger launch platforms. A balance must be struck between these 
+large, exquisite capabilities and smaller, cheaper systems that may be 
+able to mitigate some of their disadvantages through sheer numbers 
+and which can be rapidly replaced with newer more modern systems 
+as technology advances. Regardless, a distinction must also be made 
+between what may be termed financial cost against conceptual cost. 
+The financial cost of a sovereign space system might be vast but the 
+conceptual cost of not having it, or relying on others for it, might mean 
+we are unable to operate across all other operational domains or at 
+least are subject to leverage from a competitor.
+19
+JDP 0-40
+1
+An introduction to space power
+
+b. Vulnerability. Space systems possess vulnerabilities across all 
+three segments. Objects such as satellites in the space segment are 
+subject to the harsh conditions found in the space environment as well 
+as from direct threats. The link segment is particularly vulnerable given 
+that weak signals from space will often be vulnerable to more powerful 
+and closer surface-based electromagnetic warfare weapons such as 
+jammers. Ground segment infrastructure may also not be as heavily 
+protected as other military sites, thereby making them vulnerable 
+to a raft of full spectrum attacks. Force protection of critical ground 
+segment sites will be increasingly important in an era of constant 
+competition with adversaries trying to mask their activities given how 
+obvious, and therefore attributable, direct attacks on space-based or 
+link systems can be.
+c. Predictability. Objects in space do not fly like aircraft, rather they 
+fall in accordance with the laws of orbital mechanics. Satellite orbits 
+are therefore mostly predictable.33 From an adversary’s point of view, 
+it is possible to accurately predict where a satellite will be at a given 
+time. That said, just because it is possible to know where something is 
+does not mean one knows exactly what it is doing and, thus, not only 
+the tracking, but also the identification and characterisation of space 
+objects is crucial.
+d. Limited responsiveness. While limited responsiveness is still 
+valid when considering larger exquisite capabilities (which are few in 
+number and take years and sometimes decades to build and replace), 
+increasingly, the ease with which small, almost disposable satellites 
+can be built and launched may mitigate this limitation to some degree. 
+A state with an end-to-end space capability could possess a stock 
+of ‘plug and play’ small satellites, at suitable readiness levels, to be 
+launched using sovereign capabilities very rapidly indeed. Using these 
+procedures, space could certainly be responsive enough for most 
+operational scenarios.
+e. Orbit congestion. While space itself is vast, the laws of orbital 
+mechanics mean that certain orbits, especially GEO, are extremely 
+valuable. Orbit slots in GEO are regulated by the ITU. Any actor wanting 
+to launch a satellite into GEO must apply to the ITU for a slot and 
+popular regions have become so congested that few or no orbital slots 
+33 Exceptions such as the Russian LUCH, Chinese SJ17 and US X37B can manoeuvre in 
+space.
+20
+JDP 0-40
+1
+An introduction to space power
+
+remain. Issues surrounding the filing of orbital slots and the allocations 
+themselves are being examined, not least due to commercial pressures 
+and allegations of ‘paper satellites’ where an actor submits an 
+application for a satellite that does not exist or may not be built for a 
+considerable time. This in effect captures the slot for the actor’s future 
+use but denies it to others. Capturing such prime space ‘real estate’ 
+may present risks or limitations to an individual actor’s future strategic 
+ambitions in space. 
+Section 4 – Space power in context
+The national context
+1.21. National Space Strategy. Echoing the 2021 Integrated Review and 
+Defence in a competitive age (Defence Command Paper),34 the first National 
+Space Strategy set the goal for the UK to become a meaningful actor in the 
+space domain by 2030. The National Space Strategy brings together civil 
+and defence activity in an integrated approach to deliver and maintain an 
+end-to-end sovereign capability that can develop, build, launch and operate 
+space systems. As well as providing military advantage, space is seen as a 
+critical area that can promote growth in the UK economy, provide opportunities 
+to expand the UK’s technical and research sectors, and create and maintain 
+a skilled workforce. Underpinning this is the need for the UK, and UK Defence 
+in particular, to be able to protect and defend the UK’s national interests in 
+space. The National Space Strategy is supported by a coherent MOD-specific 
+Defence Space Strategy.35
+1.22. Defence Space Strategy. The 2022 Defence Space Strategy sets 
+out how Defence will support national efforts to become a meaningful actor 
+in space as well as securing UK interests and ensuring freedom of action 
+throughout all five operational domains. It sets out how Defence will deliver 
+the protect and defend functions of the National Space Strategy as well as 
+supporting the objectives of the Integrated Review. It also outlines the Defence 
+Space Portfolio of investment into military and dual-use space capabilities as 
+well as clarifying the space organisational hierarchy shown in Figure 1.1.
+34 MOD, Defence in a competitive age , March 2021.
+35 MOD, Defence Space Strategy: Operationalising the Space Domain , February 2022.
+21
+JDP 0-40
+1
+An introduction to space power
+
+Figure 1.1 – UK strategic space hierarchy and core outputs36
+1.23. National Space Council. To integrate space policy across government 
+departments, a new Cabinet committee, the National Space Council, 
+was established in 2020 with the aim of setting the strategic direction for 
+and overseeing the UK government’s space activities in line with the UK 
+government’s ambition. Particularly close ties are required between the 
+Space Directorates within the Department for Business, Energy and Industrial 
+Strategy (BEIS) and the MOD to deliver on the 2021 National Space Strategy.
+1.24. Department for Business, Energy and Industrial Strategy. BEIS is 
+the central department coordinating responsibility for civil space policy. It is 
+also the sponsoring department of the UK Space Agency and UK Research 
+and Innovation, which are key agencies for the delivery of the National Space 
+Strategy. Through its arms-length bodies, it uses satellite-enabled capabilities 
+to monitor land use, deliver accurate weather forecasting and coordinate 
+resilience to space weather.
+1.25. UK Space Agency. The UK Space Agency develops and delivers UK 
+civil space programmes, based on its deep competence in space science 
+and technology and its partnerships within government, across the UK sector 
+and with international space institutions. It enables delivery of national space 
+36 MOD, Defence Space Strategy: Operationalising the Space Domain , February 2022.
+Space policy, Defence 
+space strategy and
+cross-domain integration
+National
+Space
+Strategy
+Capability management,
+force generation, force
+training and space operations
+Strategic
+Command
+Other
+government
+departments
+National
+Space
+Council
+Air
+Command
+UK Space
+Command
+MOD Space
+Directorate
+UK Space
+Agency
+BEIS Space
+Directorate
+BEIS Department for Business, Energy and Industrial Strategy
+MOD Ministry of Defence
+22
+JDP 0-40
+1
+An introduction to space power
+
+capabilities, invests in early-stage research and development and helps to 
+represent the UK in international civil space cooperation. 
+1.26. MOD Space Directorate. UK military space policy and strategy is 
+the responsibility of the Space Directorate in the MOD. Further information is 
+provided in Chapter 3.
+1.27 . UK Space Command. Established in 2021 at Royal Air Force (RAF) 
+High Wycombe, UK Space Command brings together the three key areas 
+of military space activity37 under a single 2* military commander. Further 
+information is provided in Chapter 3. 
+The global context
+1.28. Since all states share access to and use of the space domain, and face 
+common hazards and challenges, space is uniquely positioned to encourage 
+cooperation. A broad multinational and multi-agency collaboration, including 
+allies, international organisations and non-governmental organisations, 
+can provide a range of services that most nations could not generate 
+independently. Working together with international partners in the space 
+domain also helps solidify collaboration in wider security matters.
+The UK is leading the global discussion on what responsible 
+behaviour in space looks like. We believe a new approach is 
+urgently needed to increase trust and confidence between 
+countries operating in space to prevent an arms race or a 
+conflict that could have catastrophic consequences.
+The Rt Hon Dominic Raab MP, then Foreign Secretary38
+1.29. The United Nations. The UK is attempting to broker an international 
+consensus on responsible behaviour in space through the UN. The UK 
+introduced a UN resolution which was adopted by the UN General Assembly 
+in December 2020.39 The resolution called on member states to consider how 
+a behaviour-based approach could help reduce threats to space systems 
+37 Space operations; space workforce training and growth; and space capability.
+38 UK government press release, ‘ UK push for landmark UN resolution to agree 
+responsible behaviour in space ’, 26 August 2020.
+39 UN General Assembly Resolution A/RES/75/36, Reducing space threats through 
+norms, rules and principles of responsible behaviours , 16 December 2020.
+23
+JDP 0-40
+1
+An introduction to space power
+“
+
+and prevent an arms race in outer space. It emphasises the importance of 
+maintaining outer space as a peaceful, safe, stable, secure and sustainable 
+environment for the benefit of all and urges states ‘to refrain from conducting 
+activities contrary to their obligations under international law, including those 
+that could threaten the ability of all States to freely use and explore outer 
+space, now and in the future’.40
+1.30. European Space Agency. While the UK left the European Union in 
+2020, its membership of ESA was not affected as ESA is not a European 
+Union organisation. The UK did lose access to the Galileo GNSS programme, 
+but the UK remains part of ESA and is committed to a number of ESA 
+programmes, most notably the Copernicus Earth observation programme, 
+the solar orbiter programme and other programmes designed to increase 
+understanding of space weather.
+1.31. North Atlantic Treaty Organization. The Integrated Review stated that 
+the UK has an unwavering commitment to NATO and remains bound to the 
+requirement for collective self-defence under Article 5 of the North Atlantic 
+Treaty.41 Accordingly, NATO remains the UK’s foremost defensive alliance and 
+is pivotal to the UK’s deterrence strategy. At the 2021 Brussels Summit, NATO 
+recognised that attacks to, from or within space present a clear challenge 
+to the security of the Alliance and could lead to the invocation of Article 5 of 
+the North Atlantic Treaty. NATO formally declared space to be an operational 
+domain in December 2019 and the Military Committee approved a Space 
+Domain Action Plan in April 2021. A NATO Space Centre was established at 
+Ramstein in 2020 and plans are at an advanced stage to establish a NATO 
+Space Centre of Excellence in Toulouse, France by 2025. The establishment of 
+space as an official operational domain will require revision of NATO doctrine 
+and standards but plans to put this into practice are still being developed in 
+line with the action plan and will be supported by the new NATO Space Centre 
+of Excellence. UK doctrine policy is to adopt NATO doctrine where possible 
+and therefore the UK will proactively seek to influence the emerging NATO 
+space doctrine.
+40 UN General Assembly Resolution A/RES/75/36, Reducing space threats through 
+norms, rules and principles of responsible behaviours , 16 December 2020.
+41 That an attack on one NATO Ally shall be considered an attack on all.
+24
+JDP 0-40
+1
+An introduction to space power
+
+1.32. United States. As our pre-eminent national security partner, 
+cooperation with the US is exceptionally close and the relationship is critical to 
+assure access to a host of space services. The UK was the first nation to join 
+the US-led Operation Olympic Defender. Conversely, the UK operates a limited 
+number of space capabilities which bring mutual benefit to this relationship, 
+not least by providing highly trained UK military space experts both integrated 
+in and directly supporting US space capabilities.
+Operation Olympic Defender
+The UK was the first nation to join the US-led multinational Operation 
+Olympic Defender. Participating countries are maximising the benefit 
+provided from space and space systems through cooperation across all 
+space missions, preserving the safety of operating in space while enhancing 
+mutual national security. These operations involve partners sharing 
+information and resources as well as coordinating their capabilities. The UK’s 
+role is to analyse and share information about space to ensure troops on the 
+ground are aware of threats and their options to maintain access to space 
+services.42
+1.33. The Combined Space Operations initiative. The Combined Space 
+Operations initiative is a partnership of seven nations43 working together 
+to address threats and shared interests in space. By building on existing 
+alliances, the Combined Space Operations initiative is viewed as a potential 
+route to developing systems that meet the needs of several countries who face 
+similar threats and challenges.44
+42 As articulated in the National Space Strategy.
+43 The US, UK, Australia, New Zealand, Canada, France and Germany.
+44 House of Commons Library Research Briefing, The militarisation of space, 14 June 2021.
+25
+JDP 0-40
+1
+An introduction to space power
+
+Key points
+• Space is strategically and economically important to the UK.
+• For the purposes of this document, space is viewed as being above the 
+Kármán Line (around 100 kilometres above sea level).
+• The space domain is congested by the exponential increase of objects 
+in orbit and made complex by blurred ownership and challenges 
+ascertaining the true function of satellites.
+• Space is critical for both military and civilian purposes and is increasingly 
+contested given the return to systemic competition between states.
+• Space power provides a commander with distinctive advantages, namely: 
+perspective, access, persistence and versatility.
+• These advantages may be offset by limitations such as cost, vulnerability, 
+predictability, a relative lack of responsiveness and congestion on key 
+orbits.
+• Space operations can be split into three overlapping segments: ground 
+(launchers, control stations and interfaces), space (objects in or transiting 
+through space) and link (the data and mediums used to connect them).
+• Space operations face both threats (human-derived) and hazards 
+(environmental factors) across all three segments.
+26
+JDP 0-40
+1
+An introduction to space power
+
+Notes
+27
+JDP 0-40
+1
+An introduction to space power
+
+[Page 40: No extractable text]
+
+The UK considers there to be four key space power roles: 
+space domain awareness, space control, space support to 
+operations and space service support. These are introduced 
+in Chapter 2 along with the key missions that sit under them.
+Section 1 – Space domain awareness. . . . . . . . . 31
+Section 2 – Space control . . . . . . . . . . . . . . . 34
+Section 3 – Space support to operations  . . . . . . . 40
+Section 4 – Space service support  . . . . . . . . . . 49
+© Lawrence Cruciana / Shutterstock.com
+29
+JDP 0-40
+Chapter 2
+
+A comprehensive understanding 
+of activity in the space domain and 
+an ability to protect, defend and 
+integrate, as we have for the other 
+domains, will be crucial in enabling 
+our Armed Forces to respond to 
+future global challenges. 
+ 
+UK Defence Space Strategy,  
+February 2022 
+”
+“
+30
+JDP 0-40
+2
+The roles of space power
+
+Chapter 2
+The roles of space power
+Section 1 – Space domain awareness
+2.1. Understanding of the congested, complex, critical and contested space 
+domain is achieved through space surveillance and tracking (SST) and space 
+situational awareness (SSA). Together these feed into the overarching military 
+space power role of space domain awareness (SDA).45
+2.2. Space surveillance and tracking. Space surveillance and tracking 
+is defined as: the detection, tracking and identification of objects in or 
+entering the space domain, using data from sensor observations and satellite 
+operators, sufficient to deliver effective space situational awareness, space 
+domain awareness and missile warning. Note: space surveillance and 
+tracking is delivered for both civil and military purposes.  SST includes sensor 
+tasking and management, orbit determination and propagation, catalogue 
+maintenance, launch and manoeuvre detection amongst other tasks.
+2.3. Space situational awareness. Space situational awareness is defined 
+as: the provision of sufficient understanding of the risks and hazards 
+associated with domain congestion and complexity to enable safe and 
+effective space operations. Note: space situational awareness supports 
+both civil and military purposes. SSA includes SST-dependent tasks such 
+as conjunction analysis, fragmentation analysis and re-entry warning for civil 
+contingency purposes. It also includes launch collision avoidance, laser range 
+clearance, space weather warnings, frequency deconfliction and orbital slot 
+station-keeping monitoring for regulatory purposes and treaty compliance, 
+amongst many other tasks. SSA therefore forms the foundational knowledge 
+upon which successful space operations relies.
+2.4. Space domain awareness. Space domain awareness is defined as: 
+the provision of security-focused, decision-quality information that can be 
+used to successfully mitigate adversary space effects while supporting the 
+integration of allied space effects into multi-domain operations. Note: space 
+domain awareness is derived from the fusion and aggregation of broader 
+45 Definitions of SDA, SST and SSA outlined in this section are new UK definitions and will 
+be included in the next edition of Joint Doctrine Publication (JDP) 0-01.1, UK Terminology 
+Supplement to NATOTerm.
+31
+JDP 0-40
+2
+The roles of space power
+
+intelligence and knowledge of the terrestrial domains with space situational 
+awareness and space surveillance and tracking data. SDA includes tasks 
+such as attack attribution, characterisation, jamming analysis, capability and 
+behavioural analysis, and threat modelling. Missile warning also has a critical 
+dependency on sound SDA. SDA builds on SSA to address the threat to 
+UK and allied interests in an increasingly contested domain. It relies on the 
+detection, tracking and identification provided by SST, delivering an increased 
+understanding of the space domain and threats to our critical space systems 
+and services. Knowledge is required of space system ground, link and space 
+segments and the threats to each, both terrestrial and space-based. 
+2.5. Military and civil connotations. It should be noted that the term SDA, 
+being specifically threat focused, has more military connotations than SSA and, 
+accordingly, SSA may still be used by allies, partners across government and 
+industry. An awareness of the differences between SDA and SSA is therefore 
+essential under the integrated approach. In simple terms, SDA provides the 
+‘so what’ for military commanders and may form part of critical commanders 
+intelligence requirements,46 while SSA provides the underpinning understanding 
+necessary to conduct operations in space. Figure 2.1 illustrates the relationships 
+between the different roles required to understand the space domain.
+Figure 2.1 – The relationships between space surveillance and tracking, 
+space situational awareness and space domain awareness 
+46 Allied Joint Publication (AJP)-2, Allied Joint Doctrine for Intelligence, 
+Counter-intelligence and Security , Edition B Version 1, July 2020.
+Space surveillance
+and tracking
+Space domain
+awareness
+Civilian space
+situational awareness
+Information ﬂow (most of the time)
+Classiﬁcation
+Military space
+situational awareness
+32
+JDP 0-40
+2
+The roles of space power
+
+Challenges to space domain awareness
+2.6. Detection. Detection of space objects can be challenging. In low 
+Earth orbits (LEOs), this is typically done by active radar, such as that at 
+Royal Air Force (RAF) Fylingdales. For higher orbits, the power needed to 
+generate a radar beam to the range and fidelity required is often unfeasible, 
+therefore satellites on these orbits are currently identified and tracked by 
+optical telescopes or other sensors using other areas of the electromagnetic 
+spectrum.47 Depending on the orbits concerned, sensors may only have 
+fleeting windows in which to detect and track a space object before it passes 
+out of sensor coverage. For this reason, multiple sensors placed in different 
+geographical locations can increase the area of coverage and the UK’s 
+network of overseas bases and dependencies make it potentially well placed. 
+Furthermore, effective coverage can be increased by sharing information with 
+like-minded allies. Regardless, once the orbit of an object is ascertained, the 
+laws of orbital mechanics can be used to predict the track of an object without 
+necessarily needing to maintain continuity of tracking. However, this can be 
+challenging if an object changes its orbit profile, requiring it to be reacquired 
+and correlated with the existing catalogue of space objects.
+2.7. Warning and assessment. The ability to predict and differentiate 
+between potential or actual hazards and threats can be challenging but in 
+doing so we seek to protect ourselves while also seeking to identify actors 
+and their activities. For instance, to mitigate the risk of collision, data from 
+terrestrial sensors is used to predict potential impacts and subsequently 
+provide warnings to satellite operators about the hazards posed by other 
+satellites and/or space debris.48 Such activities are increasingly challenged 
+by the exponential rise in numbers of satellites in orbit combined with the 
+presence of more and more space debris, particularly in LEO. The UK Space 
+Operations Centre (UK SpOC) at RAF High Wycombe49 provides the UK 
+warning and assessment capability, in coordination with RAF Fylingdales and 
+other government agencies and industry partners, such as the Met Office 
+Space Weather Operations Centre for space weather hazards.50
+47 Although the planned United States (US) Deep Space Advanced Radar Capability may 
+address some of these issues.
+48 The prediction of potential collisions is referred to as conjunction analysis. For more 
+details, see the Ministry of Defence’s (MOD’s) The UK Military Space Primer.
+49 In consultation with the US Combined Space Operations Centre.
+50 Operational since October 2014, the Met Office operates a fully staffed Space Weather 
+Operations Centre, which issues space weather forecasts, alerts, warnings and advice 
+24 hours a day.
+33
+JDP 0-40
+2
+The roles of space power
+
+2.8. Characterisation. While space objects can be detected, tracked and 
+identified, in the current complex and congested space environment where 
+adversaries attempt to hide the true nature of their activities, an equally 
+important challenge is to characterise space objects to understand their true 
+purpose. This deeper analysis is pivotal for SDA over and above SSA. Once an 
+object is characterised as a satellite, it is important to determine its capabilities 
+and intent, including detailed characteristics and operating parameters. This 
+process is made more challenging by the exponential increase of numbers 
+of objects in orbit with multiple payloads often being launched from a 
+single launcher. Furthermore, dual-use technology is now commonplace; 
+seemingly innocent satellites may also have military roles, which can provide 
+opportunities but may also present legal challenges for commanders who 
+may wish to apply effects against such a platform operated by an adversary. 
+As well as threats, it is also important to characterise hazards such as 
+space weather events and predict their anticipated effects. This provides 
+decision-makers with the knowledge and confidence to make assessments on 
+how their operations may be affected and any mitigation they may attempt.
+Section 2 – Space control
+2.9. Space control is defined as: the use of defensive and offensive 
+capabilities to assure access and freedom of action in space.51 As well as 
+assuring our own access to the domain, this can, when directed, also involve 
+countering an adversary’s efforts to defeat, interfere with or attack UK or allied 
+space systems and even target an adversary’s own space systems to gain 
+military advantage. While traditionally viewed as a purely military undertaking, 
+in an era of persistent competition, the integrated approach means that 
+achieving a desired degree of space control can also be pursued through 
+diplomatic, regulatory or legal channels. For example, the UK-sponsored 
+United Nations (UN) resolution on reducing space threats notes the ‘need 
+for all States to work together to reduce threats to space systems through 
+the further development and implementation of norms, rules and principles 
+of responsible behaviours’.52 Such diplomatic and potentially legal efforts 
+to reduce space threats contribute to our freedom of action and therefore 
+can be considered an element of an integrated space control strategy. 
+Notwithstanding these efforts, the Defence Space Strategy recognises that 
+51 This is a new definition that will be included in the next edition of JDP 0-01.1, UK 
+Terminology Supplement to NATOTerm.
+52 UN General Assembly Resolution A/RES/75/36, Reducing space threats through 
+norms, rules and principles of responsible behaviours , 16 December 2020.
+34
+JDP 0-40
+2
+The roles of space power
+
+‘in response to our adversaries’ increasing offensive capabilities in space, 
+we require credible deterrence and response options to protect and defend 
+our national interests in and through space. This includes a coherent and 
+responsive intelligence-focussed strategy, effective operational space control 
+capability and resilient on-orbit, terrestrial and cyber infrastructure’.53 In addition 
+to sovereign capability, pledged to be developed under the Defence Space 
+Strategy via the Defence Space Portfolio, it also recognises the need for 
+credibility to be enhanced by our behaviour along with our relations with our 
+allies, partners across government and industry under the integrated approach.
+2.10. The nature of the space environment is such that total control (as the 
+term is understood in the other operational domains) may not be feasible for 
+any single actor or even alliance. Total space dominance may also be outside 
+a given international mandate, however, given the scale and scope of the 
+environment it may not be necessary, rather it would be sufficient to achieve 
+a degree of control necessary to assure freedom of action in space. Space 
+control is split into two key components: offensive space control (OSC) and 
+defensive space control (DSC), as illustrated in Figure 2.2. It should be noted 
+that the differentiation between OSC and DSC can be blurred. Activity directed 
+against a weapon system targeting a friendly satellite could be considered 
+DSC, but the same activity directed against an adversary high value asset for 
+broader military outcomes could be considered OSC. 
+Figure 2.2 – The components of space control
+53 MOD, Defence Space Strategy: Operationalising the Space Domain , February 2022.
+Offensive
+space control
+Ground
+segment
+attack
+Link
+segment
+attack
+Passive
+measures
+Active
+measures
+Space
+segment
+attack
+Defensive
+space control
+Space control
+35
+JDP 0-40
+2
+The roles of space power
+
+Offensive space control
+2.11. OSC operations seek to disrupt, degrade, deny or destroy the 
+space-related capabilities and forces of an adversary. Such operations can 
+be targeted against any of the segments of space activities using kinetic or 
+non-kinetic techniques but need to be carefully considered given the unique 
+legal and ethical complications of deliberately targeting interconnected space 
+systems, especially where dual-use capabilities may be involved.54 OSC can be 
+subdivided as follows.
+2.12. Space segment attack. A space segment attack consists of systems 
+and activities used to disrupt, degrade, deny or destroy a satellite in orbit. It can 
+be further divided as follows.
+a. Direct ascent anti-satellite (DA-ASAT) weapons can be launched 
+from the maritime, land or air domains to hit a satellite either directly 
+or with shrapnel. A number of allies and potential adversaries have 
+demonstrated this capability, but it should be noted that such an activity 
+can be readily attributable and will also create a debris cloud that may 
+affect their own space systems as well as draw condemnation and 
+potentially responses from other actors reliant on the space domain.55
+Other direct ascent anti-satellite tests
+In September 1985, the United States (US) Air Force successfully test-fired an 
+anti-satellite missile from an F-15 Eagle aircraft, from Edwards Air Force Base, 
+California. The missile successfully destroyed a US satellite orbiting 340 miles 
+overhead. In addition, in February 2008, under Operation Burnt Frost, the US 
+intercepted and destroyed a non-functioning US satellite deemed a hazard on 
+re-entry using a heavily modified Standard Missile 3 fired from USS Lake Erie.
+On 27 March 2019, India conducted ‘Mission Shakti’. A modified anti-ballistic 
+missile interceptor known as the Prithvi Defence Vehicle Mark-II was launched 
+against a test satellite in LEO, destroying it. In this instance, the test was 
+conducted at a relatively low altitude intended to reduce the resulting debris 
+field but ably demonstrated that India now possessed a functional DA-ASAT 
+capability.
+54 See Joint Service Publication 900, UK Full Spectrum Targeting Policy, Edition 5, Part 2, 
+Annex G, ‘Space Control Operations’ for specific guidance at the OFFICIAL -SENSITIVE 
+classification.
+55 The US, Russia, India and China have all demonstrated that they have the ability to 
+conduct direct ascent attacks on satellites.
+36
+JDP 0-40
+2
+The roles of space power
+
+b. Non-kinetic means of space segment activity can include 
+laser-dazzle attack, cyber effects and electromagnetic warfare 
+techniques. Lasers can be used to temporarily dazzle or permanently 
+blind the sensors on a satellite. They can also cause components 
+to overheat. Other techniques, such as the use of high powered 
+microwave transmitters, can cause permanent damage to a satellite’s 
+electronics without necessarily causing the debris field of a DA-ASAT 
+engagement.56
+c. Co-orbital systems may be grouped into rendezvous operations 
+and proximity operations. While these are often grouped together, they 
+are distinct activities. A rendezvous operation involves attaching one 
+satellite to another. This could pose a threat as the intercepting satellite 
+could potentially be used to manipulate, damage or even destroy its 
+target.57 Proximity operations involve stationing one satellite close to 
+another for a time. While this could be a direct threat, for example, if 
+the intercepting satellite possessed a warhead or powerful jamming 
+device, proximity operations can also be used to conduct a detailed 
+assessment of the capabilities of a satellite to characterise it or to seek 
+to intercept or manipulate signals as part of a link segment attack. 
+More simply, such a satellite may just be positioned to block line of 
+sight to a target area or control signal source.
+d. Nuclear attack. While prohibited,58 the detonation of a high 
+altitude or exo-atmospheric nuclear device can create a high radiation 
+environment and an electromagnetic pulse (EMP) that would have 
+large-scale indiscriminate effects on satellites in affected orbits. Such 
+an event would immediately affect satellites within range of its EMP and 
+would also create a high radiation environment that would accelerate 
+the longer term degradation of satellite components on unshielded 
+satellites in affected orbital regimes.59
+56 While less likely, it should be noted that any attack on a satellite which does not remove 
+the satellite from the space domain could directly or indirectly lead to the break-up or 
+collision of that satellite, leading to an equivalent debris field.
+57 Challenges from space debris have led to the development of debris removal 
+technologies, however, these could be considered dual-use technologies given an 
+adversary could develop an OSC capability able to ‘capture’ target satellites under the 
+cover of a debris mitigation programme.
+58 The detonation of nuclear weapons in space is banned under the Partial Test Ban 
+Treaty of 1963. Notably, the UK, US and Russia are signatories but China and North Korea 
+are not.
+59 Center for Strategic & International Studies, Space Threat Assessment 2021, April 2021.
+37
+JDP 0-40
+2
+The roles of space power
+
+Co-orbital anti-satellite tests
+The US accused Russia of conducting a co-orbital anti-satellite test in 
+July 2020. This test involved a Russian satellite (Cosmos 2542) that contained 
+a smaller satellite inside of it, labelled Cosmos 2543. Cosmos 2542 ejected 
+Cosmos 2543 in 2019. On 15 July 2020, Cosmos 2543 fired a small 
+projectile near an unrelated Russian satellite. US Space Command released 
+a statement that condemned this test and asserted that the small projectile 
+fired from Cosmos 2543 could be used to target satellites. In response, the 
+Russian Ministry of Defence said these ‘matryoshka’, or nesting, satellites 
+are deployed for routine inspections and surveillance of Russia’s own space 
+assets. Since being ejected from its mother satellite, Cosmos 2543 has 
+been very active, conducting proximity operations with several other Russian 
+satellites.60
+2.13. Ground segment attack. A ground segment attack is a practical option 
+for OSC operations because it can be delivered through a kinetic attack on a 
+terrestrial space node, for example, using a combat air platform, cruise missile 
+or special forces. Alternatively, non-kinetic means, such as electromagnetic 
+warfare or cyberattacks, could be used. Ground segments are also vulnerable 
+to insider threats if force protection and vetting activities are not rigorous. Such 
+methods avoid the advanced technological requirements and costs associated 
+with a kinetic attack on the space segment, as well as potentially reducing the 
+risk of generating unwanted space debris.
+2.14. Link segment attacks. Link segment attacks target a satellite’s control 
+systems, mission systems or data transmissions by targeting the link itself 
+or its terrestrial control or receive nodes via non-kinetic means such as 
+electromagnetic warfare or cyber capabilities. Electronic attack can use either 
+space- or land-based jamming or spoofing techniques to target a satellite 
+through signal interference. Cyber capabilities can use the link segment to 
+target satellite control systems, potentially allowing an adversary to take control 
+and either disable or manipulate the satellite to their advantage, such as 
+shifting the focus of the sensors to another area. Conversely, the link segment 
+can also be used as a vector to target ground segment infrastructure, for 
+example, using space-enabled cyber operations. More passive means may 
+involve attempting to capture and either exploit the link data as part of an 
+intelligence, surveillance and reconnaissance (ISR) collect or manipulate and 
+retransmit it to attempt to deceive an adversary.
+60 Center for Strategic & International Studies, Space Threat Assessment 2021, April 2021.
+38
+JDP 0-40
+2
+The roles of space power
+
+Defensive space control
+2.15. DSC requires a proactive approach but can be both proactive 
+and reactive in nature. It is conducted to protect space capabilities from 
+attack, interference or unintentional hazards. Various methods can be 
+used to maximise the resilience of space capabilities to disruption from 
+malicious activity or hazards such as space weather. Foreign counter-space 
+programmes are becoming increasingly capable, so defensive capabilities 
+must continue to be developed to assure freedom of action. DSC consists of 
+both passive and active measures.
+a. Passive measures provide a significant level of protection by 
+physically hardening satellites to enable resistance to radiation or 
+electronic attack. Anti-jamming and cryptographic techniques can be 
+used to protect command, telemetry and data transmission links. The 
+protection of terrestrial infrastructure is another important aspect and can 
+be achieved by ensuring that adequate force protection is in place or by 
+using camouflage, concealment and deception techniques. Additionally, 
+strong operations security measures are critical to mitigate the current 
+inability to upgrade or retrofit capabilities within the space segment.
+b. Active measures include using techniques to counter any kinetic or 
+non-kinetic attacks against a satellite or its mission systems. Examples 
+include manoeuvring a satellite to avoid a co-orbital threat or hazard, 
+reorientating a sensor to avoid a jammer/laser or reducing sensitivity/
+shutting down a receiver to protect against jamming. All of these 
+activities could result in a temporary mission kill and even a reduction 
+in life of the satellite or mission but may maximise longer-term survival. 
+Additionally, active measures may be used to target adversary threats 
+and prevent them from deploying attacks against space systems.
+Challenges to space control
+2.16. Satellites typically follow predictable orbits, are difficult to conceal and 
+have a limited ability to manoeuvre away from threats and hazards. This makes 
+them vulnerable to adversaries who have the ability to track and subsequently 
+target them using OSC techniques such as laser dazzling or, in extremis, a 
+kinetic attack.61 Using alternative surface properties, which reduce a satellite’s 
+signature, can complicate efforts to observe and track satellites, noting such 
+61 Conversely, the orbit of adversary satellites can also be predicted, enabling the conduct 
+of OSC activities or the concealment of sensitive operations or capabilities on Earth.
+39
+JDP 0-40
+2
+The roles of space power
+
+materials must still be able to function in the space environment. Satellites are 
+also highly dependent on the link segment for control and data transmission, 
+so adequate frequency selection, encryption and anti-jamming capabilities 
+must be used to reduce the chance of them being exploited. However, these 
+measures do come at a cost and some commercial or dual-use capabilities 
+may not have been designed to possess robust security features. Commercial 
+and dual-use satellites may also use agreed international communication and 
+software standards, and often open architecture, which are not designed with 
+security as a requirement and are known and understood by adversaries, 
+increasing the potential for targeting or exploitation.
+Section 3 – Space support to 
+operations
+2.17. Space support to operations enables and enhances the UK’s military 
+capabilities, providing critical support to the combat effectiveness of the joint 
+force. It is divided into five core functions, as shown in Figure 2.3.
+Figure 2.3 – The components of space support to operations
+Intelligence, surveillance and reconnaissance
+2.18. The ISR role develops situational awareness and enhances 
+understanding, helping shape the conduct of operations.62 The synchronisation 
+of information collected from space and the subsequent processing, 
+exploitation and dissemination of it identifies trends, linkages and threats. It 
+62 See AJP-2.7, Allied Joint Doctrine for Joint Intelligence, Surveillance and 
+Reconnaissance  (with UK national elements) for more details.
+Positioning,
+navigation
+and timing
+Satellite
+communications
+Missile warning
+and tracking
+Intelligence,
+surveillance and
+reconnaissance
+Space support to operations
+Environmental
+monitoring
+40
+JDP 0-40
+2
+The roles of space power
+
+supports decision-making by contributing to the identification of an adversary’s 
+dependencies, vulnerabilities and strengths alongside understanding the 
+human environment. ISR consists of three linked ‘inform’ functions.
+a. Intelligence. Satellites do not directly deliver intelligence but 
+provide timely, accurate and relevant information that is processed 
+and potentially fused with other sources of information before being 
+disseminated to users as intelligence. Intelligence informs political and 
+military decision-making processes and makes a major contribution to 
+assessing the intent of adversaries alongside assessments of when and 
+how specific objectives, or even an end state, might be achieved.
+b. Surveillance. Surveillance is the continuing and systematic 
+observation of a wide area of interest. The area of interest can be 
+in any one of the air, space, surface, sub-surface, electromagnetic 
+or cyberspace environments, observed by visual, aural, electronic, 
+photographic or other means. It is not orientated towards a specific 
+target but is designed to provide warning of broad adversarial initiatives 
+and to detect potential threats.
+c. Reconnaissance. Reconnaissance complements surveillance by 
+observing a specific area of interest to gain specific information about 
+specific activities. Intelligence that is critical to the prosecution of current 
+operations is often derived from reconnaissance operations so it should 
+be evaluated and transmitted with minimum delay to those elements 
+that need the information.
+2.19. Benefits of space-based intelligence, surveillance and 
+reconnaissance. Using space-based ISR, either sovereign, alliance or 
+commercial, as a component of a multi-domain ISR system can have a 
+number of advantages. Some of these advantages are outlined below.
+a. The perspective offered by space enables ISR satellites to cover 
+an unmatched area of interest. They can be focused over a wide area 
+or on a specific point of interest and conduct a number of ISR tasks, 
+including passive imagery and electronic intelligence gathering.
+b. Advanced sensor technologies have resulted in satellites being 
+able to produce images of a resolution that can match or even eclipse 
+those provided by some air platforms.
+41
+JDP 0-40
+2
+The roles of space power
+
+c. Despite the potential threat of OSC capabilities, ISR satellites 
+may still be able to overfly hostile areas, which are impenetrable to 
+ISR aircraft. This creates opportunities for fusing complementary 
+capabilities, whereby satellites can plug gaps in other operational 
+domain ISR capabilities and vice versa.
+d. High resolution electro-optical and synthetic aperture radar 
+imagery is now commercially available, with civilian assets capable of 
+producing images of a quality that was previously only available at a 
+classified military level. The rise of commercial ISR means that required 
+data can be obtained from commercial sources, not just sovereign or 
+allied capabilities. Commercial products therefore have the potential 
+to plug gaps in capability, coverage or supplement over-tasked allied 
+military capabilities. Conversely, commercial ISR may also be available 
+to potential adversaries.
+2.20. Challenges to intelligence, surveillance and reconnaissance. There 
+are a number of challenges facing the ISR process. The following should be 
+considered when assessing the value of space-based ISR.
+a. The global presence offered by ISR satellites means they can 
+offer an immediate response to a crisis to help build understanding. 
+At the very least, they are likely to be first on the scene. However, their 
+responsiveness, as well as being a strength, can also be limited. Large 
+constellations of ISR satellites can offer significant resilience but there 
+could still be gaps in coverage. There can be a misconception that 
+space can provide persistent, continual monitoring. Space assets can 
+provide persistence, but this is achieved through multiple revisits. It 
+is therefore important to consider whether an area of interest can be 
+covered, for how long and for how often, over a given period of time. This 
+depends on the orbit of each satellite, which may limit responsiveness 
+and coverage time during each orbit over a specific point.63
+b. Large and exquisite sensors are built to specific requirements and 
+timelines for construction are considerable, so reconstitution of assets 
+can take time, especially for satellites in higher orbits that require larger 
+and more complex launch platforms and procedures. This means 
+that resilient architectures and collaborative arrangements are key for 
+63 Any orbit represents a compromise between imagery resolution and the dwell time 
+of the satellite. However, depending on the specific task, a low resolution image from a 
+satellite in a higher orbit might suffice.
+42
+JDP 0-40
+2
+The roles of space power
+
+the current and likely future contested environment. Reconstituting 
+a lost capability can be a long-term project, however, operationally 
+responsive emerging technologies may offer options to meet shortfalls 
+in coverage through the relatively rapid deployment of small satellites, 
+albeit in lower orbits.64 Equally, responsive technologies could help 
+maintain capability in a degraded environment where spacecraft life is 
+reduced due to adverse space weather or high quantities of debris.
+c. As well as space weather effects, it is important to remember 
+that some space-based ISR systems are as susceptible to terrestrial 
+weather as their air counterparts. An electro-optic/infrared satellite 
+system may struggle to penetrate cloud or blown dust in the same way 
+as an aircraft’s sensors. Ocean surveillance satellites may struggle in 
+high sea states and high winds have the capability to move satellite 
+dishes out of alignment, potentially compromising data links. 
+Positioning, navigation and timing 
+2.21. Positioning, navigation and timing (PNT) is the ability to determine 
+location, time and velocity accurately and precisely. It is vital for civil and 
+military applications, supporting fourth generation (4G) and fifth generation (5G) 
+communications networks and a host of other civil uses as well as supporting 
+defence capabilities.65
+2.22. Space-derived PNT capabilities, delivered using global navigation 
+satellite systems (GNSS), provide mission-essential data and information, 
+which enable the effective execution of military operations. They provide 
+precision navigation for military platforms and personnel; precision 
+guidance for smart weapons; and precision timing for data links and secure 
+communications. They give an integrated force the ability to effectively 
+synchronise operations, whilst ensuring communications security. The Ministry 
+of Defence (MOD) currently makes use of the US’ Global Positioning System 
+(GPS), which provides position, velocity and time information to an unlimited 
+number of users through civilian and encrypted military modes. The timing 
+signal is particularly essential for secure communications and data transfer 
+capabilities, such as data links.
+2.23. Given the importance of PNT to military space operations, the US use 
+the term ‘navigation warfare’ (NAVWAR) to describe ‘deliberate defensive and 
+64 The UK is a world leader in small-satellite technology.
+65 HM Government, National Space Strategy, September 2021.
+43
+JDP 0-40
+2
+The roles of space power
+
+offensive action to assure and prevent PNT information through coordinated 
+employment of space, cyberspace and electronic warfare operations’.66 The 
+mission of the Joint Navigation Warfare Center at Kirtland Air Force Base is to 
+enable PNT superiority for the US Department of Defense, inter-agency and 
+coalition partners; so, while the UK do not doctrinally recognise NAVWAR as 
+part of PNT, the term is broadly used and is therefore included here given how 
+closely UK military space operations are integrated with those of the US.
+2.24. Challenges to positioning, navigation and timing. Although a GPS 
+signal can be encrypted for military use, the technique used to transmit GPS 
+data means that the power of the received signal is very low. Consequently, 
+the GPS signal is susceptible to jamming or deceptive spoofing and even a 
+low power jammer can prevent the receipt of GPS signals across an area of 
+several square kilometres. Effective mitigation against GPS jamming is available, 
+however, it comes with size, weight, power and cost implications that do not 
+suit all users. The potential loss of GPS signal can also be mitigated by reducing 
+the dependency on the system by developing capabilities and procedures 
+that do not rely on space-derived PNT services or by seeking alternative 
+PNT sources from other operational domains as part of a system of systems 
+approach. Although the majority of UK military capabilities will continue to rely 
+on GPS in the near term, alternative GNSS capabilities are being pursued to 
+improve resilience. Following the decision to leave the European Union, the UK 
+is no longer involved in developing the European Galileo GNSS, but the 2021 
+National Space Strategy states that the UK government is ‘evaluating the case 
+for investing in resilient PNT capabilities through a mixture of innovative new 
+terrestrial and space-based technologies’.67
+Satellite communications 
+2.25. The ability to communicate and pass increasingly large amounts of 
+data beyond line of sight is an essential military requirement, since terrain or 
+horizon-masking can restrict radio communications. Satellite communications 
+(SATCOM) relay data and voice transmissions through space, providing the 
+ability to establish communications at any point on the globe. They enable 
+communications at a range of classifications, between home bases and 
+deployed forces, even in austere locations with poor infrastructure. They 
+enable the dissemination of operationally critical ISR data and the control of 
+remotely piloted aircraft systems at range. The global reach and effectiveness 
+of the UK Armed Forces is therefore dependent on resilient SATCOM.
+66 US Department of Defense (DOD), DOD Dictionary of Military and Associated Terms .
+67 HM Government, National Space Strategy, September 2021, page 34.
+44
+JDP 0-40
+2
+The roles of space power
+
+2.26. The UK’s secure SATCOM capability is currently provided through 
+a private finance initiative (PFI) with Airbus, managed through Strategic 
+Command.68 It provides a secure and resilient communications capability 
+through the Skynet programme and other SATCOM resources from other 
+providers. UK partners and allies also use Skynet bandwidth, which bolsters 
+collaborative ties and, similarly, lost or degraded capabilities can be replaced 
+by negotiating access to allies’ space services. Commercial bandwidth can 
+provide redundancy for military systems as well as considerable advantages 
+in terms of availability and coverage, but there are potential security risks if 
+military communications are enabled by commercial satellites, which could 
+be more vulnerable to jamming or have data-paths that are routed through 
+unknown ground stations. Commercial satellites may also host foreign 
+payloads. There are also risks in using commercial bandwidth because 
+the terms of service provision could be significantly less than that provided 
+through a dedicated military system. When choosing to use commercial 
+providers, commanders must thoroughly understand the risks and benefits 
+they face. In some cases, for example, using commercial satellite telephones 
+in emergencies, tangible benefits may outweigh some security concerns in a 
+commander’s calculus.
+68 The PFI is scheduled to end in summer 2022 with the likely replacement being a 
+government owned/civil operated model. This model is not discussed here as at the 
+time of publishing, the exact nature of the new construct is still being refined by ongoing 
+negotiations.
+45
+JDP 0-40
+2
+The roles of space power
+Satellite communications relay data and voice transmissions through space, providing  
+the ability to establish communications at any point on the globe
+
+2.27 . As well as traditional voice and data transfer, a key element of modern 
+communications is broadband Internet provision, which is increasingly vital 
+for both military and civilian applications. To increase global broadband cover 
+and connectivity, the UK government invested a US $500 million equity share 
+in OneWeb in 2020, a LEO satellite company. It is envisaged that OneWeb 
+will eventually have over 600 satellites in orbit, providing global reach and 
+broadband connectivity while supporting the UK government’s aspirations for 
+UK leadership in space-enabled capabilities and services. The availability of 
+such systems may provide further options for military planners.
+2.28. Challenges to satellite communications. Like all communications, 
+SATCOM capability is often a trade-off between the range and bandwidth 
+desired and the size of antennas, power systems and processors needed 
+to generate it. Compromises also need to be made between frequencies 
+used, which are constrained by the laws of physics, and which are affected 
+differently during their transmission through the atmosphere. Orbits themselves 
+also need careful consideration. Stable geosynchronous Earth orbits (GEO) 
+provide constant coverage and reduce the need for complex satellite tracking 
+procedures but the cost of launching satellites into this regime can greatly 
+exceed that for those in lower orbits. In addition, coverage from GEO is 
+reduced towards the poles and their higher altitude can increase the time delay 
+or latency of the information passed. While this may be acceptable as a delay 
+on a telephone call, it could be catastrophic when trying to land a remotely 
+piloted air vehicle.69
+69 Detailed information on SATCOM challenges and the compromises needed to mitigate 
+them can be found in the MOD’s The UK Military Space Primer.
+Enhanced Skynet
+Skynet is a family of military communications satellites, operated on 
+behalf of the MOD. Skynet 4 and Skynet 5 satellites are currently operational. 
+In July 2020, the MOD signed a £500 million contract with Airbus to 
+extend and enhance the Skynet fleet. This will involve the development, 
+manufacture, cyber protection, assembly, integration, test and launch of a 
+military communications satellite, Skynet 6A, planned for launch in 2025. 
+The contract also covers technology development programmes, new secure 
+telemetry, tracking and command systems, launch, in-orbit testing and 
+ground segment updates to the current Skynet 5 system.
+46
+JDP 0-40
+2
+The roles of space power
+
+Missile warning and tracking
+2.29. Missile warning and tracking, specifically of ballistic missiles, forms 
+part of the overall concept of integrated air and missile defence (IAMD), 
+which the North Atlantic Treaty Organization (NATO) defines as: all measures 
+to contribute to deter any air and missile threat or to nullify or reduce the 
+effectiveness of hostile air action in order to protect populations, territory and 
+forces against the full spectrum of air and missile threats.70 Space-based 
+missile warning systems are designed to detect, track, identify and assess 
+ballistic missiles and their flight paths as well as predicting their likely time and 
+point of impact. They form one component of an overall IAMD capability that 
+must also integrate layers of surface-based sensors and interceptors.
+2.30. The ground-based ballistic missiles early warning and tracking system 
+at RAF Fylingdales is such a sensor, feeding into a US global system and 
+making a significant contribution to the overall missile warning function. The 
+UK SpOC works closely with RAF Fylingdales to ensure that missile warning 
+details are disseminated. The US space-based infrared system provides a 
+space-based ballistic missiles warning and tracking capability, the output from 
+which is shared with allies, including the UK.
+2.31. Challenges to missile warning and tracking. Once the sole property 
+of the major powers, recent times have seen a proliferation of ballistic missiles 
+passing into the hands of militias and other organisations willing to use 
+them, making the assessment of the threat they pose more challenging.71 
+Combined with this are difficulties in physically locating ballistic missile systems 
+themselves prior to launch, complicating any targeting process. Ground-based 
+and naval systems are highly mobile and certain adversaries now possess 
+the capability to launch ballistic missiles from air platforms. Once airborne, 
+detection, identification and tracking are made more difficult by modern 
+ballistic missiles having reduced radar cross sections and possessing multiple, 
+in some cases manoeuvrable, re-entry vehicles containing a mixture of 
+warheads and decoys.
+70 NATOTerm.
+71 The Yemeni Houthi militia have repeatedly used ballistic missiles to attack Saudi Arabia.
+47
+JDP 0-40
+2
+The roles of space power
+
+Environmental monitoring 
+2.32. The challenges presented by a changing world climate, with an increased 
+likelihood of population migration and disaster relief operations, have made 
+terrestrial environmental monitoring of pivotal importance.72 Furthermore, 
+predicted increases in solar activity prior to the forecast solar maximum in 
+2025–26, alongside the exponential growth in the numbers of satellites on 
+orbit, has meant that the monitoring of space weather is equally crucial. Space 
+assets potentially have advantages in environmental monitoring. The attributes of 
+access and persistence mean that satellites can potentially have enduring global 
+coverage. They can also be used to monitor austere or even toxic environments 
+without endangering personnel. The National Space Strategy states that 
+space will be used to tackle global challenges, including climate change and 
+biodiversity loss. As well as these universal challenges, environmental monitoring 
+can provide data that is essential for military operations.
+2.33. Data derived from space assets can provide information on 
+meteorological, oceanographic and environmental factors that may affect the 
+planning and execution of military operations, be it from space weather or 
+terrestrial weather. Synthetic aperture radar capabilities can track weather fronts 
+and provide data on ocean waves and a variety of multispectral capabilities 
+can measure humidity, cloud cover and the composition of terrain materials. 
+Increasingly, new technologies such as hyperspectral imaging and LIDAR73 are 
+also increasing the quantity and quality of information available for scientific 
+analysis. Space-derived terrestrial weather monitoring also contributes to 
+a significant proportion of long-range weather forecasting. This function is 
+therefore a key enabler because it provides operationally significant information 
+on sub-surface, surface and air conditions, which has utility for multi-domain 
+operations. As well as purely defence functions, under an integrated approach, 
+Defence space systems can contribute surveillance data and information to 
+our partners across government for vital tasks such as terrestrial environmental 
+monitoring, disaster relief and infrastructure development.
+2.34. Challenges to environmental monitoring. While a large number of 
+environmental monitoring satellites have been launched, global coverage in 
+some regions can still be a challenge. For example, changing polar conditions 
+may require constant monitoring but that is not always possible using low orbit 
+72 MOD, Global Strategic Trends – The Future Starts Today, 6th Edition, 2018.
+73 A portmanteau of light and RADAR, LIDAR is primarily a technique for measuring 
+distance by laser ranging, the technology can also create a three-dimensional 
+representation of the surveyed environment.
+48
+JDP 0-40
+2
+The roles of space power
+
+polar-orbiting satellites given their revisit times. While this can be addressed 
+using other orbital regimes, there can be a trade-off between the desired 
+area of coverage and fidelity of imagery. In addition, once a satellite has been 
+launched, constantly recalibrating it to ensure comparable data over time is 
+difficult, potentially compromising the overall information it provides. Finally, 
+environmental monitoring requires simultaneous monitoring of a number of 
+interrelated factors, which can be a challenge for an individual space system 
+with a limited payload. Space-derived data therefore needs to be combined 
+with additional other data from other satellites alongside sensors in other 
+operational domains to provide a more complete picture of the environmental 
+system as a whole.
+Section 4 – Space service support
+2.35. Space service support consists of operations that launch space 
+assets and maintain and sustain them. It comprises launch operations and 
+satellite operations.
+2.36. Launch operations. These 
+operations are fundamental to the ability 
+to participate in space-based activities 
+as they deliver satellites, payloads and 
+material into space. Due to the associated 
+cost of this activity, the UK has historically 
+relied on allies and third-party launch 
+capabilities such as those of the US, 
+India and the European Space Agency to 
+deliver UK satellites into orbit. However, 
+the National Space Strategy considers 
+space launch to be a prerequisite to acting 
+in space and has committed the UK to 
+possessing a sovereign space launch 
+capability by 2022, capable of launching 
+small satellites through LaunchUK, the UK 
+Space Agency’s spaceflight programme. 
+This offers the potential for a responsive 
+launch capability, where satellites with 
+bespoke payloads can be held ready 
+for rapid launch if and when required. 
+Such satellites could also be designed 
+49
+JDP 0-40
+2
+The roles of space power
+A UK Skynet 5D satellite is launched on board  
+an Ariane rocket from French Guiana
+
+to be easily replaceable should they be lost, become unserviceable or if their 
+payloads required updating. Replaceable LEO satellites could also be designed 
+to degrade their orbits and burn up by re-entering the Earth’s atmosphere at 
+the end of their operational life, thus avoiding creating more space debris.
+2.37. Satellite operations. These operations involve the manoeuvring, 
+sustainment and maintenance of satellites. The MOD currently depends on 
+commercial providers for this function, although this may not be the case in the 
+future. 
+2.38. Challenges to space service support. While LaunchUK will provide 
+elements of sovereign capability, this will be for small satellites on very specific 
+orbits.74 For larger satellites, or those which need to be placed in higher or less 
+inclined orbits, the UK will still need to rely on allies, partners or commercial 
+entities, raising issues of assurance, security and responsiveness. Such a 
+reliance can be exploited: for example, a number of the UK part-owned OneWeb 
+satellites were intended to be launched by Russia but sanctions over the invasion 
+of Ukraine have led to the launch being cancelled and the satellites impounded 
+in Russia with the resulting potential for their technology to be exploited.
+Overlap between roles
+2.39. The space power roles, illustrated in Figure 2.4, are a good framework 
+within which to view activity in space; however, they are not absolute and 
+overlap between the roles will inevitably occur. Space control overlaps in a 
+number of areas with SDA and space support to operations. For example, 
+SATCOM electromagnetic interference detection and mitigation could be 
+considered as part of DSC or space support to operations (a combination of 
+ISR and SATCOM). The satellite warning service could be viewed as DSC, SDA 
+or ISR. Given the UK currently splits responsibility (including for development 
+and funding) for the elements of space power between a number of different 
+military commands and civil agencies, some delineation is important. When 
+considering capabilities and activities that overlap doctrinal or domain 
+boundaries, the following delineations may prove useful: SDA provides the 
+information on which operational decisions can be made. Activities and 
+capabilities designed to mitigate threats identified using SDA information are 
+generally classified as space control, which includes the protect and defend 
+mission, while space support to operations may only include the delivery of 
+space services to terrestrial operations and not necessarily address the threats 
+to those services.
+74 For more information concerning the impact of launch latitude on orbit parameters, see 
+the MOD’s The UK Military Space Primer, June 2010.
+50
+JDP 0-40
+2
+The roles of space power
+
+Figure 2.4 – UK space power roles
+2.40. Overlap will also happen with other operational domains. For example, 
+targeting an adversary’s ground segment infrastructure with carrier-based 
+aircraft could correctly be considered a maritime strike mission, an air attack 
+mission or OSC. No definition can cover all eventualities and therefore if there 
+is a need to differentiate, the mission should be labelled in accordance with the 
+desired effect, rather than purely the means.
+Space
+control
+Space support 
+to operations
+Space domain
+awareness
+Space service
+support
+Offensive
+space control
+Intelligence,
+surveillance and
+reconnaissance
+Launch operations
+Defensive
+space control
+Positioning, navigation
+and timing Satellite operations
+Satellite
+communications
+Missile warning
+and tracking
+Environmental
+monitoring
+UK space power
+Space situational 
+awareness
+Space surveillance 
+and tracking
+51
+JDP 0-40
+2
+The roles of space power
+
+Key points
+• The UK consider there to be four key space power roles: space domain 
+awareness, space control, space support to operations and space 
+service support.
+• Space domain awareness combines situational awareness with 
+surveillance and the tracking of space objects to provide information 
+to assist allied space effects while successfully mitigating those of 
+adversaries.
+• Space control is the use of defensive and offensive capabilities to 
+assure access and freedom of action in space.
+• Space support to operations enables and enhances the UK’s military 
+capabilities, providing critical support to combat effectiveness.
+• Space service support consists of operations that launch space assets 
+and maintain and sustain them.
+52
+JDP 0-40
+2
+The roles of space power
+
+Notes
+53
+JDP 0-40
+2
+The roles of space power
+
+[Page 66: No extractable text]
+
+Chapter 3 discusses how UK space command and control 
+is conducted. It begins by discussing general principles, 
+before moving on to cover specifics relating to the space 
+domain.
+Section 1 – Principles of command and control  . . . . 57
+Section 2 – UK space command and control  . . . . . 60
+55
+JDP 0-40
+Chapter 3
+
+This [space] strategy is about 
+more than capabilities. It is 
+about partnerships. Government 
+working as one with industry and 
+international allies.
+ 
+ 
+Jeremy Quinn MP , Minister for Defence 
+Procurement, February 2022 
+”
+“
+56
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+Chapter 3
+Space command and 
+control, coordination and 
+planning
+Section 1 – Principles of command and 
+control
+3.1. Space power is rarely used in isolation but forms part of an integrated 
+approach comprising operations across multiple operational domains set 
+alongside cross-government activities. These actions must be directed and 
+timed appropriately to maximise the effects they can create. Space is a global 
+domain which can overlay multiple theatres and joint operations areas, creating 
+competing demands to prioritise often scarce resources. These resources 
+may be highly classified or owned by allies, commercial entities or partners 
+across government. Effective command and control is therefore the key 
+enabler, without which the fundamental space power roles cannot be delivered 
+effectively, irrespective of the size or nature of an operation.
+3.2. Command and control definitions. The following North Atlantic Treaty 
+Organization (NATO) definitions of command and control are used in this 
+publication.
+a. Command. The authority vested in a member of the armed forces 
+for the direction, coordination, and control of military forces. (NATOTerm)
+b. Control. The authority exercised by a commander over part of 
+the activities of subordinate organizations, or other organizations not 
+normally under their command, encompassing the responsibility for 
+implementing orders or directives. (NATOTerm)
+57
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+Methods of command and control
+3.3. Unity of command or unity of purpose. Traditionally, military command 
+and control has been underpinned by the principle of unity of command. 
+In this, responsibility for the conduct of a campaign is vested in a single 
+responsible commander, the joint force commander (JFC), who could 
+reasonably expect to have command and control of all of the military assets 
+allocated to them for completion of the task. Under the integrated approach, 
+however, many space assets and space capabilities will not be under a JFC’s 
+direct command but will in fact be owned by other actors who will often have 
+their own separate aims. Instead, therefore, the JFC may need to create the 
+effects and obtain desired capabilities by seeking to align multiple actors 
+through a common unity of purpose. Regardless, several enduring critical 
+elements of command and control endure. A commander must understand 
+and determine the operational context, create their intent to determine the 
+campaign design, provide timely direction and guidance to facilitate effective 
+planning and then set the freedoms and constraints within which subordinates 
+can operate. This may, however, need to be communicated to and negotiated 
+with other stakeholders rather than being simply directed.
+3.4. Centralised control and decentralised execution. The UK’s preferred 
+method of command and control for joint operations is ‘centralised control and 
+decentralised execution’ where overall control is held centrally by the JFC but 
+responsibility for executing plans is delegated to subordinate commanders 
+at the lowest practical level. In an era of persistent competition, there are 
+benefits of centralised control as many previously tactical decisions may need 
+to be made at the strategic level due to their potential to influence audiences. 
+Maintaining centralised control allows competing demands to be prioritised 
+and apportioned, mitigating the risk of assets being inappropriately tasked by 
+uncoordinated users against impractical objectives or being diluted into smaller 
+packages that lessen their overall effect. In terms of executing tasks, however, 
+no single commander is likely to have the level of situational awareness 
+required to centrally manage all concurrent activities. Decentralised execution 
+delegates execution authority to subordinate or on-scene commanders who 
+have a greater awareness of their immediate situation. It is an efficient method 
+when dealing with complex campaigns, especially where communications 
+may be degraded or denied. It is underpinned by the doctrinal tenet of mission 
+command (see Chapter 4), but it may not always be easily achievable for UK 
+space capabilities given the dispersed nature of space power role ownership, 
+although this situation is improving as UK Space Command matures and 
+adopts responsibility for more of the space power roles.
+58
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+3.5. Other command and control approaches. If centralised control and 
+decentralised execution are not appropriate or even possible in the space 
+domain, two other options exist that can be adopted to suit a specific 
+operation or task. These options are centralised control, centralised execution 
+and decentralised control, decentralised execution.
+a. Centralised control, centralised execution. Centralised execution 
+authority may be necessary for space command and control where the 
+highest-value space assets are being employed or where there is a risk 
+that the use of a classified space asset may divulge or infer its existence 
+or capability. It might also be appropriate when there is a requirement 
+to closely manage tactical activities that might have strategic effects, 
+accepting this may adversely affect tactical efficiency or responsiveness.
+b. Decentralised control, decentralised execution. The decentralised 
+control and execution of space power is not routinely envisaged. It exists 
+as an option, should it be required, to improve responsiveness in the 
+event of fallback or if resilience operations are required.
+59
+JDP 0-40
+3
+Space command and control, coordination and planning
+As UK Space Command matures it will adopt responsibility for more of the space power roles
+
+Componency
+3.6. The organisational command and control framework employed for 
+UK operations depends primarily on the scale, size and complexity of the 
+operating area. For small-scale, low intensity operations in a non-contested 
+operating environment, command and control provided ‘at range’ from the UK 
+may be appropriate, often enabled using space-based communications. More 
+complex operations are usually best served by a deployable, or permanent, 
+in-theatre command and control capability, especially when an operation is 
+NATO-led, UK-led within a NATO framework or conducted by a multinational 
+coalition.
+3.7. At the operational level, the UK uses the concept of component 
+organisation to cohere multi-domain activity under a JFC, particularly for a 
+deployed joint force. The 2* Standing Joint Force Headquarters (SJFHQ) 
+provides this capability for the UK for small and medium sized operations. 
+A JFC may exercise command and control of integrated operations within a 
+joint operations area from their own headquarters, augmented by component 
+liaison officers and other subject matter experts. It is more usual, however, 
+for the JFC to appoint component commanders for the components of 
+maritime, land, air and special forces. At the current time, the joint force 
+space component commander (JFSCC) function is provided by the UK Space 
+Command Headquarters (see paragraph 3.10).
+Section 2 – UK space command and 
+control
+Command and control by space power role
+3.8. The command and control of UK space elements varies, depending on 
+which space power role is being considered. Military operational command is 
+delegated by the Chief of the Defence Staff as follows.
+a. Operational command for space control and space domain 
+awareness (SDA) are delegated to Commander UK Space Command. 
+The UK Space Operations Centre (UK SpOC) is the operational 
+command and control unit for Defence in these areas.
+60
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+b. Operational command for space support to operations is currently 
+delegated to Commander Strategic Command (UKStratCom) with 
+Defence Digital Operations and the Global Operations and Security 
+Control Centre at Ministry of Defence (MOD) Corsham managing 
+satellite communications (SATCOM) and intelligence, surveillance and 
+reconnaissance (ISR) being managed through Defence Intelligence 
+via the Joint Intelligence Operations Centre at Royal Air Force (RAF) 
+Wyton. While the UK currently does not possess positioning, navigation 
+and timing assets in space, UKStratCom coordinates positioning, 
+navigation and timing considerations while delegating responsibility 
+for operational integration to the front line commands. Environmental 
+monitoring, specifically the use of space to inform terrestrial weather 
+forecasting, is the responsibility of the Joint Operations Meteorology 
+and Oceanographic Centre75 and Defence Intelligence. The UK SpOC 
+is the Defence customer for space weather with the Met Office under 
+UKStratCom’s authority. Missile warning is conducted in the UK by the 
+RAF and at sea by the Royal Navy with the UK SpOC coordinating it at 
+national or global scale.
+c. The MOD does not currently conduct command and control of 
+space service support assets. They are conducted by commercial 
+entities and partners across government.
+Prioritising space capabilities
+3.9. The attributes of space power mean that space assets can often have 
+global effects. As such, a satellite on orbit may physically be able to support 
+several JFCs operating simultaneously in different joint operations areas. 
+Space assets are, however, finite, both in terms of numbers and payload 
+capacity, for example, the bandwidth a communications satellite can carry. In 
+addition, certain capabilities may have additional resource demands that place 
+limitations on supporting multiple customers.76 To mitigate potential frictions, 
+the responsibility for the strategic prioritisation of UK military space capabilities 
+is retained centrally within the MOD. This allows space support to be efficiently 
+prioritised between potentially competing customers.
+75 The Joint Operations Meteorology and Oceanographic Centre is a military joint enabling 
+centre staffed by Met Office and military personnel.
+76 For example, the processing, exploitation and dissemination of space-derived ISR may 
+be subject to finite limits in terms of the time and resource needed to provide a product. 
+Analysts and automated systems engaged in one task may not be able to simultaneously 
+support others.
+61
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+Command and liaison elements
+3.10. Joint force space component commander. At the current time, the 
+JFSCC function is provided by the UK Space Command Headquarters (see 
+paragraph 3.13), who can provide a JFSCC from OF-5 to 2* rank depending on 
+the scale of the operation and the JFC’s requirements.77 Space effects required 
+by the JFC’s headquarters and those of the component commanders are 
+created and coordinated by a network of space liaison officers, overseen by a 
+senior space liaison officer located within UK Space Command Headquarters. 
+These officers are specialist space operations officers who assist their 
+components by increasing the effectiveness and efficiency of forces with 
+regards to ISR, missile warning, space and terrestrial weather impacts, 
+communications, positioning, navigation and timing and maximising the utility 
+of space-enabled technologies. How these mission areas support their host 
+components will vary with each operation and will depend on the space 
+resources available. Liaison officers can be augmented with additional staff 
+if required. They collaborate with other divisions within the component, key 
+allies, commercial mission partners and space operations centres to provide 
+support and products for strategy development, targeting, mission planning 
+and current operations as follows.
+a. Component planning. The space liaison officer and, if appropriate, 
+their team, assist the component planning process by providing advice 
+on available space capabilities and intelligence on the adversary’s 
+space order of battle, including enemy space capabilities, vulnerabilities 
+and centres of gravity, limitations and threats to allied forces. During 
+estimates, the liaison officer determines the requirements for space 
+support, develops a space support plan and writes any relevant 
+operations plan annexes. Additionally, they provide subject matter 
+expertise and advise on the targeting of adversarial space capabilities.
+b. Provide capability. After determining requirements for space in the 
+campaign, the space liaison officer establishes all available capabilities 
+and processes necessary to execute the space support plan. The 
+plan’s execution involves generating and submitting space support 
+requests to the appropriate coordination centre. For UK operations, this 
+will be the UK SpOC but for deployed operations, liaison may be with 
+host nation or coalition equivalents, if appropriate.
+77 This is achieved by dual-tasking officers from within the UK Space Command space 
+operations pillar.
+62
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+c. Provide awareness. The space liaison officer provides SDA to 
+the host component in coordination with the SDA team in the UK 
+SpOC. Such awareness typically concerns any significant operational 
+impacts due to events in space, including the degradation or loss of 
+any space capabilities. It should be remembered that due to orbital 
+mechanics, space assets may not be present in, or remain within, a 
+commander’s joint operations area; therefore, awareness of any matters 
+that may affect the asset through the whole of its orbital path should be 
+considered.
+d. Execution. During the execution of operations, the space liaison 
+officer actively participates from the component operations room. They 
+provide missile warning, threat indications and warnings, support to 
+joint personnel recovery efforts and assistance with dynamic targeting 
+processes.
+3.11. Inter-component variations. While the overall tasks of the space liaison 
+officers are similar, their location, command and control responsibilities and 
+some tasks vary between organisations. Details of the different organisations 
+are as follows.
+a. Permanent Joint Headquarters. Space support to Permanent 
+Joint Headquarters (PJHQ) is facilitated by a space liaison officer who 
+sits within the J3 Joint Effects Cell. With PJHQ being the MOD’s hub for 
+operational-level full spectrum targeting, the space liaison officer also 
+provides space representation on targeting boards and effects reviews.
+b. Standing Joint Force Headquarters. The UK maintains an SJFHQ 
+to provide a 2* operational-level headquarters at very high readiness 
+that can liaise across government departments, allies and partners 
+as required. It can provide command and control for sovereign, 
+multinational and inter-agency operations. The SJFHQ space liaison 
+officer again sits within the J3 Joint Effects Cell but supports both 
+the SJFHQ and its two subordinate 1* headquarters (Joint Force 
+Headquarters and the Standing Joint Force Logistics Commander) in 
+creating the required effects for Defence. The liaison officer provides 
+support to all elements of the headquarters over a wide range of 
+operations ranging from non-combatant evacuation operations and 
+deployed logistics operations to high tempo sub-threshold multinational 
+operations. SJFHQ also supports two multinational frameworks: the 
+63
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+Joint Expeditionary Force78 and the Combined Joint Expeditionary 
+Force,79 as well as integrating across government.
+c. Maritime. The Royal Navy possess a standing 2* maritime 
+component commander, Commander UK Strike Force, alongside three 
+subordinate deployable 1* staffs (the carrier strike group, the littoral 
+strike group and 3 Commando Brigade). Space support to the maritime 
+domain is provided by the space liaison officer, who currently sits within 
+the carrier strike force joint effects cell. The carrier strike force space 
+liaison officer is used primarily within carrier strike force headquarters, 
+but also provides support to the 2* maritime component commander 
+and the other 1* subordinate units and can be deployed with them if 
+necessary.
+d. Air. Space support to the joint force air component commander 
+is provided by a dedicated Space Operations Section within its 
+Combat Operations Division. The Combat Operations Division’s Space 
+Operations Section is staffed by specialist space operations officers who 
+can be augmented should the operational tempo necessitate it.
+Organisations and units
+3.12. MOD Space Directorate. The MOD Space Directorate was established 
+in September 2019 and is part of the MOD Head Office. It has linkages 
+to the UK Space Agency, Department for Business, Energy and Industrial 
+Strategy, Foreign, Commonwealth and Development Office, Home Office, 
+wider government departments and key allies. It sets the MOD’s overarching 
+space policy, strategy and objectives and provides space capability coherence 
+across the single Services to ensure Defence efforts are aligned with the 
+national ambition in space as well as providing value for money. Direction 
+from the government’s National Space Council flows through the MOD Space 
+Directorate to UK Space Command and other relevant elements of Defence.80
+78 The Joint Expeditionary Force comprises: the UK, Denmark, Estonia, Finland, Iceland, 
+Latvia, Lithuania, the Netherlands, Norway and Sweden.
+79 The Combined Joint Expeditionary Force comprises the UK and France.
+80 While correct at the time of publishing, under the MOD Head Office Review, 
+some functions currently performed by the MOD Space Directorate are likely to be 
+disaggregated: with elements concerning space policy to MOD Security, Policy and 
+Operations; space capability strategic plans to MOD Finance and Military Capability; and 
+other functions being transferred to UK Space Command. The Defence Operating Model 
+‘direct’ function is are likely to still be delivered by a Space Directorate in some form, but 
+this structure is currently under review.
+64
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+3.13. UK Space Command. Formed at RAF High Wycombe on 1 April 2021, 
+UK Space Command is a joint command staffed from across the single 
+Services, the Civil Service and key members of the commercial sector. When 
+fully operational, it will provide command and control of all of Defence’s space 
+capabilities, including the UK SpOC, Skynet satellite communications, RAF 
+Fylingdales and other enabling capabilities. UK Space Command also has 
+extremely close links to UKStratCom and the Defence Science and Technology 
+Laboratory, specifically to examine options for developing new capabilities 
+to enable multi-domain integration and capitalise on the research and 
+development expertise that exists within Defence. UK Space Command also 
+interacts with the UK Space Agency to deliver joint national space capability.
+3.14. UK Space Operations Centre. The UK SpOC is the primary point 
+of contact for UK Defence space-related matters at the operational level. It 
+delivers the RAF’s space control and SDA capabilities and has tactical control 
+65
+JDP 0-40
+3
+Space command and control, coordination and planning
+UK Space Command is a joint command staffed from across the single Services, the Civil  
+Service and key members of the commercial sector
+
+authority over RAF Fylingdales.81 The UK SpOC has an enduring working 
+relationship with the United States (US) Combined Space Operations Centre, 
+allowing significant access to US space-derived information in support of 
+operations. It can also provide expertise to assist component commanders in 
+integrating space capabilities and effects into their own operational planning 
+processes. The UK SpOC areas of responsibility primarily include the following.
+a. Threat warning and attack assessment. The UK SpOC provides 
+continuous, timely, accurate and unambiguous strategic warning. 
+It also provides ballistic missile attack assessment for the UK and 
+deployed forces.
+b. Space launches. The UK SpOC routinely monitors and reports 
+all space launches around the world. It is increasingly common for 
+multiple satellites to be placed in orbit using a single launch vehicle, 
+either for efficiency or in an attempt to covertly insert objects into orbit. 
+RAF Fylingdales has the capability to track certain low Earth orbit 
+satellites, providing regular updates on any subsequent manoeuvres 
+that are carried out, which may provide indications as to the nature of 
+the satellite.
+c. Detection, characterisation and tracking. The UK SpOC is 
+required to contribute to SDA by seeking to understand events 
+occurring in space such as the detection, tracking and potential 
+attribution of any direct ascent or co-orbital anti-satellite weapon.  
+The UK SpOC also seeks to detect any non-kinetic threats, either  
+via its own sensors or by using information derived from those of  
+allies and partners.
+81 RAF Fylingdales provides a ballistic missile warning and space surveillance service for 
+both the United States (US) and UK. Whilst ballistic missile warning will remain the priority 
+for the foreseeable future, the phased array radar is able to carry out space surveillance 
+tasks when not being used in this primary role, providing the UK with a significant SDA 
+capability. Forming part of the US Space Surveillance Network, the unit provides data to 
+a catalogue of space objects maintained by the US and shared with the UK SpOC and 
+provides information to both the UK and US on the orbital decay and re-entry of objects.
+66
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+d. Rendezvous and proximity operations. Increasingly, consideration 
+must be given to the behaviour of satellites known or suspected to be 
+controlled by potential adversaries. Accordingly, the UK SpOC is rapidly 
+developing the means by which to detect and monitor on-orbit threats 
+which approach friendly assets, providing warning and attribution when 
+necessary.
+e. Satellite warning. As the number of countries with access to 
+satellite-based ISR capabilities continues to increase, there can be a 
+requirement to protect Defence-related activities from being observed 
+by these platforms. In conjunction with Defence Intelligence, the 
+satellite warning service aims to provide an awareness of the overhead 
+ISR threat to aid users in their decision-making processes.
+67
+JDP 0-40
+3
+Space command and control, coordination and planning
+RAF Fylingdales solid state phased array radar
+The solid state phased array radar at RAF Fylingdales can search 
+for, identify and track missiles and other objects over 10 centimetres in size 
+to a range of around 3,000 nautical miles. The radar has a 360° field of view 
+with each of the three faces providing 120° coverage. The radar typically 
+collects data on 3,000 objects a day. There are approximately 22,000 objects 
+visible out to low Earth orbit of which Fylingdales can track around 65%.
+
+
+f. Conjunctions. Conjunctions82 can create large debris fields which 
+have the capability in turn to cause additional conjunctions with other 
+satellites in a ‘domino effect’. To militate against this risk, the US 
+operates a global network of ground-based and orbital sensors (the 
+US Space Surveillance Network) to track space objects and provide 
+warning of potential collisions. RAF Fylingdales is an integral part of 
+this network. This is especially important when crewed space vehicles 
+such as the International Space Station are involved. With enough 
+warning, some operational satellites, and even the International Space 
+Station, can be manoeuvred to avoid or reduce the risk of collisions. 
+The UK SpOC also has access to the conjunction warnings provided 
+by the US.
+g. Atmospheric re-entry. All objects in orbit gradually lose altitude 
+and eventually fall back to Earth over time. Although most objects burn 
+up as they pass through the atmosphere, some larger objects can 
+survive the atmospheric re-entry, and impact the Earth’s surface. When 
+the UK falls within a predicted impact area, the UK SpOC and Defence 
+Intelligence will issue advisory notifications to government response 
+agencies.
+h. Space weather. The UK SpOC acts as the UK Defence point of 
+contact into the Met Office Space Weather Operations Centre. They 
+will notify any relevant parties who may be affected by space weather 
+events.
+Planning
+3.15. Space component planning is conducted by the UK Space Command 
+Headquarters Plans Pillar and the UK SpOC. Given the close relationship 
+between the UK and the US in terms of space operations, the UK SpOC is 
+closely aligned with the US Combined Space Operations Centre planning 
+process. The UK is represented during allied Combined Space Operations 
+Centre planning with the UK contribution set out within an applicable space 
+operations directive and space instructions.
+3.16. For national operations, space effects are integrated into the planning 
+processes of their host commands using that command’s own planning 
+process, facilitated by their component space liaison officers. Space liaison 
+officers, commanders and headquarters can request space effects via either a 
+82 Collisions between objects on orbit.
+68
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+request for information/intelligence to the Joint Intelligence Operations Centre 
+or via space support requests to the UK SpOC. Allied space capabilities 
+can also be requested via the UK SpOC.83 Support for SATCOM and ISR is 
+requested through UKStratCom and should typically remain domain agnostic: 
+requesters should bid for the effect they desire not a specific capability or 
+platform. For example, a beyond line of sight communications solution might 
+not necessarily be delivered by SATCOM and the type of platform collecting 
+ISR should be immaterial to the requester, as long as the product provided 
+answers the specific request made.
+83 A plain-English product catalogue is available from the UK SpOC that explains the 
+capabilities and services available and how to request them.
+69
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+Key points
+• Space power is rarely used in isolation but forms part of an integrated 
+approach.
+• Space assets and space capabilities will often not be under the direct 
+command of a military JFC.
+• Commanders may need to create effects and obtain capabilities by 
+seeking to align multiple actors through a common unity of purpose.
+• UK Space Command Headquarters can provide a JFSCC function from 
+OF-5 to 2* rank as necessary.
+• Within individual components, space effects are created and coordinated 
+by a network of space liaison officers.
+• The UK SpOC is the primary point of contact for UK Defence 
+space-related matters at the operational level.
+70
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+Notes
+71
+JDP 0-40
+3
+Space command and control, coordination and planning
+
+72
+JDP 0-40
+
+
+© Tomas Marek / Shutterstock.com
+73
+JDP 0-40
+Chapter 4 sets out how space power is applied within the 
+integrated approach. It discusses the three tenets of UK 
+Defence doctrine, sets out how space is integrated with the 
+other operational domains and then goes on to consider the 
+role of space power in deterrence.
+Chapter 4
+Section 1 – Space and the integrated approach . . . . 75
+Section 2 – Integration between operational domains  . 77
+Section 3 – Space and deterrence. . . . . . . . . . . 81
+
+We will make the UK a meaningful 
+actor in space, with an integrated 
+space strategy which brings 
+together military and civil space 
+policy for the first time.
+ 
+ 
+Integrated Review,  
+16 March 2021”
+“
+74
+JDP 0-40
+4
+The employment of space power
+
+Chapter 4
+The employment of space 
+power
+Section 1 – Space and the integrated 
+approach
+4.1. As set out in Chapter 1, the UK government pursues its objectives by 
+leveraging four instruments of national power: diplomatic, information, military 
+and economic. Military forces are therefore rarely used in isolation but are 
+often integrated and synchronised with partners across government. This 
+provides more options for decision-makers to use all of the instruments of 
+national power towards common national goals. This is referred to by the UK 
+government as the integrated approach and it is similar to the comprehensive 
+approach used by the North Atlantic Treaty Organization (NATO).
+4.2. Under the military instrument, Defence considers space to be one 
+of five interconnected operational domains,84 which together or separately 
+provide options for employing the military instrument. While space is now 
+considered an operational domain in its own right, it remains a key enabler for 
+the other domains. As technology advances, it could be argued to be more 
+important than ever given the reliance other operational domains have on 
+positioning, navigation and timing (PNT), satellite communications (SATCOM) 
+and other space-enabled capabilities. As such, space power is most effective 
+when integrated with other components of military power, benefiting from 
+complementary capabilities and exploiting synergies between the operational 
+domains. Such activity has previously been termed ‘joint action’; however, 
+this is now considered to be too narrow and too focused on the role of the 
+military instrument rather than considering wider audiences. In addition, joint 
+action focused on integrating the traditional three operational domains of 
+maritime, land and air at the expense of space and cyber and electromagnetic. 
+Accordingly, the new Integrated Operating Concept and Joint Doctrine 
+Publication (JDP) 0-01, UK Defence Doctrine advocate moving towards three 
+doctrinal tenets.
+84 Maritime, land, air, space and cyber and electromagnetic.
+75
+JDP 0-40
+4
+The employment of space power
+
+a. Integrated action. Integrated action is the orchestrated use of 
+a full range of capabilities to change or maintain the attitude and 
+behaviour of audiences necessary to achieve a successful outcome. 
+As such it is audience instead of adversary focused and places 
+understanding the audience as its major consideration. Audiences are 
+increasingly interconnected by technological capabilities in the cyber 
+and electromagnetic domain, which are in turn enabled by and carried 
+through the space domain. Space power therefore enables integrated 
+action.
+b. Manoeuvrist approach. The manoeuvrist approach is more 
+adversary focused and seeks to operate indirectly, pitting strength 
+against an adversary’s identified vulnerabilities to undermine an 
+adversary’s will and cohesion. Some aspects of space power, such as 
+space-based intelligence, surveillance and reconnaissance (ISR) may 
+be vital for providing the knowledge necessary to enable manoeuvre by 
+identifying such key vulnerabilities that can then be targeted by platforms 
+operating in other operational domains. The principle of economy of 
+effort can also apply to the space domain – a correctly targeted action 
+can have a disproportionate effect.
+c. Mission command. Mission command can enable the previous 
+two tenets by enabling operational flexibility. Rather than directing all 
+aspects of an operation, a commander instead clearly sets out their 
+intent but permits subordinates freedom to take the initiative and achieve 
+that intent within set boundaries. It is a form of decentralised execution 
+that can work well in some operational domains but may not always 
+be suited to the space domain. Space assets are typically held at the 
+strategic level given their scarcity and, on occasion, their classification; 
+therefore, delegating their use may risk the capability being divulged or 
+inappropriately used. Many space assets may also not be in the direct 
+command of the military commander but may belong to partners across 
+government or other allies. Effective liaison with these partners and allies 
+is therefore critical to integrating space capabilities.
+76
+JDP 0-40
+4
+The employment of space power
+
+Section 2 – Integration between 
+operational domains
+4.3. Military manoeuvre in one operational domain is increasingly enabled 
+by effects from all of the other four domains. To optimise capability and 
+succeed on operations, stovepipes between operational domains and the 
+levels of operations must be broken down, a concept termed multi-domain 
+integration.85 Before this can happen, however, current integration between 
+space and the other operational domains must be fully understood.
+Integration with the maritime domain
+4.4. The maritime use of high-end technology and their pursuit of networked 
+warfare systems, while providing considerable advantages, has also placed 
+a great reliance on space-derived systems and products. PNT signals, often 
+derived from space, are vital for the efficient operation of many systems and 
+subsystems, including secure tactical data links that are often also enabled 
+by space-based timing signals. Maritime platforms are also particularly reliant 
+on beyond the horizon communications systems such as SATCOM, both for 
+command and control purposes and for passing situational awareness data 
+between elements of a dispersed force.
+4.5. Of particular relevance to maritime operations is the threat posed by 
+space-based ISR. Traditionally, maritime operations relied on the ability to 
+manoeuvre to avoid detection and therefore achieve an element of surprise 
+or at least pose elements of uncertainly to the opposing commander. The 
+prevalence of increasingly persistent space-based ISR, including commercial 
+ISR, across all aspects of the electromagnetic spectrum (EMS) threatens to 
+limit this advantage. When combined with improvements in the lethality of 
+anti-ship missile systems and over the horizon targeting, space-based ISR 
+becomes a more serious threat to maritime systems. Space-based ISR can 
+also collect technical data on the performance of active maritime sensors, 
+allowing their performance to be deduced. For all these reasons, accurate 
+assessment of adversarial satellite collection windows and capabilities are 
+essential. Therefore, integration with space capabilities such as the satellite 
+warning service provided by the UK Space Operations Centre (UK SpOC) 
+at Royal Air Force (RAF) High Wycombe is vital to provide an awareness of 
+85 See Joint Concept Note 1/20, Multi-Domain Integration  for further details. A second 
+edition of this concept is in development.
+77
+JDP 0-40
+4
+The employment of space power
+
+the overhead ISR threat to aid the maritime decision-making and planning 
+process.86
+Integration with the land domain
+4.6. As land forces increasingly digitise they become even more heavily 
+dependent on space support to operations. Land forces are almost completely 
+dependent on space for their PNT needs, with very limited recourse to 
+non-space-based systems given Global Positioning System (GPS) services are 
+integrated into most land systems, from tactical radios to missile systems. For 
+example, a number of extended range rocket munitions, either currently fielded 
+or in development, rely on GPS to complement inertial guidance while tactical 
+radios rely on GPS for timing to synchronise links. Even at an individual level, 
+many of a soldier’s handheld devices such as navigational aids, weapon sights 
+or personal radios all include integrated space-based global navigation satellite 
+system receivers.
+4.7. SATCOM provides the bulk of beyond line of sight communication 
+capabilities, often serving to extend the range of tactical communications 
+systems, such as Falcon or Bowman, while providing connectivity to UK fixed 
+telecommunications systems, thereby allowing command and control of land 
+forces throughout the levels of operations. These include capabilities from the 
+Skynet system, such as the Reacher series of deployable ground terminals 
+accessing Skynet X-Band services, or commercial systems, such as Slingshot 
+using Inmarsat L -Tac services. While hardened military SATCOM systems are 
+widely used in any situation, commercial SATCOM systems are particularly 
+prevalent where their benefits outweigh security concerns.
+4.8. The land domain’s first recourse for ISR or environmental monitoring 
+is invariably from space-based assets, albeit invariably from freely available 
+commercial sources. These systems usually provide sufficient information to 
+conduct an initial analysis and, if required, determine requests for information 
+from higher specification military systems.
+4.9. Space power is also critically dependent on land power for protection. 
+Spacecraft are usually controlled from fixed ground infrastructure, which often 
+requires land power to provide elements of its force protection.
+86 For more information see Book of Reference (digital) (BRd) 4487 , The Fighting 
+Instructions, Volume 2.6, ‘Information Warfare’, February 2016.
+78
+JDP 0-40
+4
+The employment of space power
+
+Integration with the air domain
+4.10. Air-space integration is considered critical to successfully employing 
+air power. The effectiveness and potency of aircraft operations is closely 
+linked to the effectiveness of enabling space capabilities, such as PNT for 
+aircraft and weapons, or voice and data communications. Satellite-enabled 
+communications are essential for controlling and operating remotely piloted 
+aircraft systems, such as Protector, beyond line of sight of their ground control 
+stations. Equally, air power can be critical to space power, for example, by 
+providing force protection through the air defence of space ground segment 
+infrastructure. Effective air-space integration at the operational planning level 
+can also provide opportunities to make use of complementary capabilities. 
+For example, both the air and space domains offer significant ISR capabilities, 
+which, if coordinated during an operation, can complement one another by 
+ensuring there are no gaps in coverage or by enabling multi-source collection 
+on a target. This allows fused intelligence to be generated, providing a better 
+product to customers.
+79
+JDP 0-40
+4
+The employment of space power
+Satellite launch operations can also be enabled by air assets
+
+4.11. Satellite launch operations can also be enabled by air assets, such as 
+the horizontal launch capabilities planned by the UK through LaunchUK, the 
+UK Space Agency’s spaceflight programme. For some small satellites aimed 
+into low Earth orbits, launching from an aircraft provides advantages over 
+fixed sites. Horizontal launch facilities can be integrated with existing airport 
+infrastructure, as long as range clearance procedures for launch are articulated 
+and specialist infrastructure for fire and fuel is provided. This may be preferable 
+to the construction of a dedicated vertical launch site. In addition, launching 
+from an aircraft can allow greater flexibility with the launch trajectory of the 
+satellite, an advantage for the UK considering its latitude. Terrestrial weather 
+issues at a launch site can also be mitigated, providing conditions are suitable 
+for the aircraft to take-off.
+Integration with the cyber and electromagnetic domain
+4.12. Space operations rely on the interaction of the ground, space and 
+link segments, the latter residing almost completely within the cyber and 
+electromagnetic domain. Command and control systems, data and information 
+flows are all conducted through cyberspace via the electromagnetic 
+environment (EME).
+4.13. Access to the EME is fundamental to data exchange. The selection of 
+frequency used for data transmission affects beamwidth and transmission 
+range, thereby governing the accuracy and security of transmission of data to 
+and from space vehicles. Frequency selection is further impacted by physical 
+factors such as atmospheric interference (absorption and refraction), as well as 
+the power to transmit data between space vehicles and the relevant segments. 
+Careful consideration of the EME is therefore vital to successful space 
+operations.
+4.14. Space systems also rely on software and other elements of cyber 
+hardware to generate and transmit the key PNT data and SATCOM systems 
+relied on in the other operational domains. Secure communication systems 
+enabled by encryption software also rely on these accurate timing sources. 
+4.15. Space capabilities can also be used to assist other EMS operations, 
+particularly though space ISR assets collecting signals intelligence. The access 
+permitted to space ISR satellites allows overhead sensors to be positioned to 
+detect even small changes in the frequencies produced by adversary ground 
+activity.
+80
+JDP 0-40
+4
+The employment of space power
+
+4.16. As well as being a vital enabler, cyber and the EMS also provide vectors 
+to target all three space power segments, both as part of an offensive space 
+control strategy and, critically, as a threat to be guarded against. Control 
+and data frequencies are vulnerable to being denied or degraded through 
+interference or manipulation. For example, the low power signals transmitted 
+from satellites can easily be jammed by local electromagnetic transmitters or 
+manipulated through spoofing and rebroadcast systems. In addition, both the 
+ground and space segments rely completely on cyber hardware and software to 
+run, making them especially vulnerable to cyberattack. Integration between the 
+space and cyber and electromagnetic domains is therefore vital to understand 
+and mitigate threats, as well as to seek opportunities to influence an adversary.
+Integration and the space domain
+4.17. While it has been articulated how space can enable the other 
+operational domains, it is also important to state that the other domains can 
+enable or facilitate operations in space. This may be as simple as remote 
+space-ground infrastructure being supplied and maintained through air or 
+maritime supply routes, but this can be expanded to include offensive action 
+where necessary. To enable theatre entry of a maritime force, for example, 
+air power could be tasked to locate, identify and prosecute adversary space 
+control capabilities or ground infrastructure processing space-based ISR data. 
+This may also extend to the other operational domains should land or maritime 
+strike be in range of the identified targets.87
+Section 3 – Space and deterrence
+4.18. Given space-enabled capabilities are essential for everyday life, not 
+just for military operations, space has become an increasingly important 
+operational domain, contested by state and non-state actors alike. Reliance 
+on space can be thought of as a critical vulnerability and therefore control of 
+space is sought by actors in the same way that they previously sought control 
+of sea, land and air. Combined with this, threats to space assets, both direct 
+and indirect are increasing, making it increasingly necessary to deter potential 
+adversaries from taking action against them. 
+87 Specific guidance with regards to space control and the targeting process can be 
+found in Joint Service Publication 900, UK Full Spectrum Targeting Policy, Edition 5, Part 2, 
+Annex G.
+81
+JDP 0-40
+4
+The employment of space power
+
+4.19. NATO defines deterrence as: the convincing of a potential aggressor 
+that the consequences of coercion or armed conflict would outweigh the 
+potential gains. This requires the maintenance of a credible military capability 
+and strategy with the clear political will to act.88 There is no universal approach 
+to deterrence: a viable deterrence strategy should be tailored to a particular 
+actor or adversary. Accordingly, deterrence in, through or using space 
+capabilities is not an independent activity but must form part of the wider 
+strategy. It is a whole-of-government activity to which Defence contributes. 
+The cornerstone of the UK’s deterrence posture remains enshrined in NATO 
+through Article 5 of the North Atlantic Treaty. NATO resilience is predicated on 
+three pillars of activity: 
+• layered resilience allowing aggression to be withstood;
+• a mutually supporting integrated force to provide options to political 
+leaders; and
+• the ability to project stability through activities such as military 
+dialogue, capacity building and operations.
+88 NATOTerm.
+The cornerstone of the UK’s deterrence posture remains enshrined in NATO through  
+Article 5 of the North Atlantic Treaty
+© Pavlo Lys / Shutterstock.com
+82
+JDP 0-40
+4
+The employment of space power
+
+4.20. The overall objective of deterrence applies to the space domain in the 
+same way that it applies in the other operational domains. Space capabilities 
+also enable other activities that contribute to deterrence. They provide 
+data, in the form of products and services, that is crucial to maintaining 
+activity within all the other operational domains. Space offers political choice 
+through its ubiquity and pervasiveness but is not solely a military, or even 
+state, endeavour, with non-state actors increasingly having a stake in the 
+development and operation of capabilities. Partnerships with civil, industry, 
+commercial and academic entities are therefore essential to increase 
+resilience, understand the progress of technology in this area and develop 
+further opportunities for deterrence.
+83
+JDP 0-40
+4
+The employment of space power
+
+Key points
+• While space is an operational domain in its own right, it is most effective 
+when integrated with other components of military power.
+• The previous term ‘joint action’ is too narrow and too focused on the role 
+of the military instrument rather than considering the wider audience.
+• Space power supports the new UK integrated approach and the doctrinal 
+tenets of integrated action, the manoeuvrist approach and mission 
+command.
+• Integrated action involves the orchestrated use of a full range of 
+capabilities to change or maintain the attitude and behaviour of 
+audiences.
+• The manoeuvrist approach operates indirectly, pitting strength against 
+identified vulnerabilities to undermine an adversary’s will and cohesion.
+• Mission command allows a commander to articulate their intent but 
+permits subordinates the initiative to achieve it within set boundaries.
+• Demonstrating proven space power capabilities, or enabling capabilities 
+in other operational domains, can contribute to overall deterrence.
+• Deterrence must form part of a wider, whole-of-government, strategy.
+• In the space domain, partnerships with civil, industry, commercial and 
+academic entities are essential to increase resilience, exploit emerging 
+technology and develop further opportunities for deterrence.
+84
+JDP 0-40
+4
+The employment of space power
+
+Lexicon
+Section 1 – Acronyms and abbreviations
+AJP  Allied joint publication
+AP  Air publication
+BEIS  Department for Business, Energy and Industrial Strategy
+BRd  book of reference (digital)
+DA-ASAT direct ascent anti-satellite 
+DCDC  Development, Concepts and Doctrine Centre
+DOD  Department of Defense (US)
+DSC  defensive space control
+EME  electromagnetic environment
+EMP  electromagnetic pulse
+EMS  electromagnetic spectrum
+ESA  European Space Agency
+GEO  geosynchronous Earth orbit
+GNSS  global navigation satellite system
+GPS  Global Positioning System
+HM   Her Majesty’s
+IAMD  integrated air and missile defence
+ISR  intelligence, surveillance and reconnaissance
+ITU  International Telecommunication Union
+JDP  joint doctrine publication
+JFC  joint force commander
+JFSCC  joint force space component commander
+LEO  low Earth orbit
+85
+JDP 0-40
+Lexicon
+
+MOD  Ministry of Defence
+MP  Member of Parliament
+NATO  North Atlantic Treaty Organization
+NAVWAR navigation warfare 
+OSC  offensive space control
+PFI  private finance initiative
+PJHQ  Permanent Joint Headquarters
+PNT  positioning, navigation and timing
+RAF  Royal Air Force
+SATCOM satellite communications
+SDA  space domain awareness
+SJFHQ  Standing Joint Force Headquarters
+SSA  space situational awareness
+SST  space surveillance and tracking
+UK   United Kingdom
+UK SpOC UK Space Operations Centre
+UKStratCom Strategic Command
+UN  United Nations
+US  United States
+USS  United States Ship
+86
+JDP 0-40
+Lexicon
+
+Section 2 – Terms and definitions
+This section is divided into three parts. First, we list new definitions that will 
+be added to JDP 0-01.1, UK Terminology Supplement to NATOTerm, followed 
+by already endorsed terms and definitions. Finally, we list unendorsed 
+terms and definitions that may be useful to the reader as reference for this 
+publication only.
+New definitions
+space control  
+The use of defensive and offensive capabilities to assure access and freedom 
+of action in space. (JDP 0-40)
+space domain awareness 
+The provision of security-focused, decision-quality information that can be 
+used to successfully mitigate adversary space effects while supporting the 
+integration of allied space effects into multi-domain operations.  
+Note: space domain awareness is derived from the fusion and aggregation 
+of broader intelligence and knowledge of the terrestrial domains with space 
+situational awareness and space surveillance and tracking data. (JDP 0-40)
+space situational awareness  
+The provision of sufficient understanding of the risks and hazards associated 
+with domain congestion and complexity to enable safe and effective space 
+operations. 
+Note: space situational awareness supports both civil and military purposes. 
+(JDP 0-40)
+space surveillance and tracking 
+The detection, tracking and identification of objects in or entering the space 
+domain, using data from sensor observations and satellite operators, 
+sufficient to deliver effective space situational awareness, space domain 
+awareness and missile warning. 
+Note: space surveillance and tracking is delivered for both civil and military 
+purposes. (JDP 0-40)
+87
+JDP 0-40
+Lexicon
+
+Endorsed definitions
+actor  
+An individual, group or entity whose actions are affecting the attainment of the 
+end state. (NATOTerm)
+adversary  
+An individual, group or entity whose intentions or interests are opposed to 
+those of friendly parties and against which legal coercive political, military or 
+civilian actions may be envisaged and conducted. (NATOTerm) 
+audience  
+An individual, group or entity whose interpretation of events and subsequent 
+behaviour may affect the attainment of the end state.  
+Note: The audience may consist of public, stakeholders and actors. 
+(NATOTerm)
+command 
+The authority vested in a member of the armed forces for the direction, 
+coordination, and control of military forces. (NATOTerm)
+control 
+The authority exercised by a commander over part of the activities of 
+subordinate organizations, or other organizations not normally under their 
+command, encompassing the responsibility for implementing orders or 
+directives. (NATOTerm)
+deterrence 
+The convincing of a potential aggressor that the consequences of coercion 
+or armed conflict would outweigh the potential gains. This requires the 
+maintenance of a credible military capability and strategy with the clear political 
+will to act. (NATOTerm)
+information environment 
+An environment comprised of the information itself,  the individuals, 
+organizations and systems that receive, process and convey the information, 
+and the cognitive, virtual and physical space in which this occurs. (NATOTerm)
+88
+JDP 0-40
+Lexicon
+
+intelligence 
+The product resulting from the directed collection and processing of 
+information regarding the environment and the capabilities and intentions of 
+actors, in order to identify threats and offer opportunities for exploitation by 
+decision-makers. (NATOTerm)
+integrated air and missile defence 
+All measures to contribute to deter any air and missile threat or to nullify or 
+reduce the effectiveness of hostile air action in order to protect populations, 
+territory and forces against the full spectrum of air and missile threats. 
+(NATOTerm)
+interoperability 
+The ability to act together coherently, effectively and efficiently to achieve Allied 
+tactical, operational and strategic objectives. (NATOTerm)
+joint 
+Adjective used to describe activities, operations and organizations in which 
+elements of at least two services participate. (NATOTerm)
+joint force 
+A force composed of significant elements of two or more Services operating 
+under a single commander authorised to exercise operational command or 
+control. (JDP 0-01.1)
+multinational 
+Adjective used to describe activities, operations and organisations, in which 
+forces or agencies of more than one nation participate. (NATOTerm)
+reconnaissance 
+A mission undertaken to obtain, by visual observation or other detection 
+methods, information about the activities and resources of an adversary or 
+to obtain data concerning the meteorological, hydrographical or geographic 
+characteristics of a particular area. (NATOTerm)
+space power 
+Exerting influence in, from, or through space. (JDP 0-01.1)
+surveillance 
+The systematic observation across all domains, places, persons or objects by 
+visual, electronic, photographic or other means. (NATOTerm)
+89
+JDP 0-40
+Lexicon
+
+Unendorsed definitions for use in this publication only
+defensive space control  
+Proactive measures conducted to protect space capabilities from attack, 
+interference or unintentional hazards, using both active and passive measures.
+geosynchronous Earth orbit  
+An orbit synchronized to the Earth’s rotation, orbiting at the same rate at 
+which the Earth rotates upon its axis. Satellites in this orbit have an altitude 
+of approximately 23,000 miles above the Earth’s surface. Within this, a 
+geostationary orbit is an orbit placed directly over the equator at zero 
+inclination, so a satellite appears at a fixed point in the sky to observers on the 
+ground and allows for constant line-of-sight observations within a very large 
+footprint.
+global navigation satellite system 
+A constellation of satellites providing signals from space that transmit 
+positioning and timing to receivers that then use this information to determine 
+location.
+Global Positioning System  
+A satellite-based global navigation satellite system operated by the United 
+States Department of Defense which provides military, civil and commercial 
+users with precise positioning, navigation and timing.
+Kármán Line 
+A height approximately 100 kilometres above mean sea level above which 
+the atmosphere becomes too thin for an aircraft to generate conventional lift 
+without needing to exceed the speed required to achieve orbit.
+low Earth orbit 
+Orbits that are at a height of approximately 1,000 miles or less above the 
+surface of the earth. The average time to orbit the Earth is approximately  
+90–100 minutes resulting in a satellite in low Earth orbit being in view of a 
+ground user or station for the short period when overhead.
+medium Earth orbit 
+An orbit with no formal altitude (roughly 1,000–2,000 miles above Earth’s 
+surface) but is considered to include those orbits between low Earth orbit and 
+geosynchronous orbit.
+90
+JDP 0-40
+Lexicon
+
+navigation warfare  
+Deliberate defensive and offensive action to assure and prevent positioning, 
+navigation, and timing information through coordinated employment of space, 
+cyberspace, and electromagnetic warfare operations.  
+(US Joint Publication 3-14)
+offensive space control  
+Operations that seek to disrupt, degrade, deny or destroy the space related 
+capabilities and forces of an adversary.  
+Note: such operations can be targeted against any of the segments of space 
+activities using kinetic, non-kinetic or electromagnetic warfare techniques.
+orbit 
+Any path through space an object follows based on the pull of gravity.
+positioning, navigation and timing 
+The ability to determine location, time and relative direction accurately and 
+precisely. 
+space service support 
+Operations that launch space assets and maintain and sustain them.
+space support to operations 
+Space operations which enable and enhance UK military capabilities, providing 
+critical support to the combat effectiveness of the joint force.  
+Note: it is divided into five core functions: intelligence, surveillance and 
+reconnaissance; positioning, navigation and timing; satellite communications; 
+missile warning and tracking; and environmental monitoring.
+91
+JDP 0-40
+Lexicon
+
+Designed by the Development, Concepts and Doctrine CentreDesigned by the Development, Concepts and Doctrine Centre
+Crown copyright 2022Crown copyright 2022
+Published by the Ministry of DefencePublished by the Ministry of Defence
+This publication is also available at www.gov.uk/mod/dcdcThis publication is also available at www.gov.uk/mod/dcdc
+
+
